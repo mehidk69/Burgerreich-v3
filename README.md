@@ -9,42 +9,77 @@ All data sourced from **publicly available OSINT** and **official DoD releases**
 ## Architecture
 
 ```
-site/              GitHub Pages dashboard (single-file SPA)
+site/              Dashboard (single-file SPA)
   data/            JSON feeds consumed by the dashboard
 collectors/        Python scripts that pull RSS + scrape COCOM sites
-.github/workflows/ Automated collection (every 6h) + Pages deploy
+deploy/            Self-hosting configs (nginx, systemd, setup script)
+.github/workflows/ GitHub Actions (collect every 6h + Pages deploy)
 ```
 
 ## Data Sources
 
-| Collector | Source | Feed |
-|-----------|--------|------|
-| CENTCOM | centcom.mil | RSS press releases |
-| EUCOM | eucom.mil | RSS news |
-| INDOPACOM | pacom.mil | RSS news |
-| AFRICOM | africom.mil | RSS press releases |
-| STRATCOM | stratcom.mil | RSS news |
-| OSINT | USNI, ADS-B, CSIS | RSS/scrape |
+| Collector | Source | Output |
+|-----------|--------|--------|
+| CENTCOM | centcom.mil | centcom.json |
+| EUCOM | eucom.mil | eucom.json |
+| INDOPACOM | pacom.mil | indopacom.json |
+| AFRICOM | africom.mil | africom.json |
+| STRATCOM | stratcom.mil | stratcom.json |
+| OSINT | USNI, DoD News, CSIS, Janes | osint.json |
+| Fleet | USNI Fleet Tracker | fleet.json |
+| Casualties | CENTCOM / DoD releases | casualties.json |
+| Losses | Multi-source news scrape | losses.json |
+| Posture | CENTCOM / DoD releases | posture.json |
+| Commanders | COCOM leadership pages | commanders.json |
+| Doomsday | Bulletin of Atomic Scientists | doomsday.json |
 
-## How It Works
+## Self-Hosting on Raspberry Pi 4
 
-1. **Collectors** run every 6 hours via GitHub Actions
-2. Each collector pulls RSS feeds from combatant command websites
-3. Items are classified by type (naval, air, ground, exercise, alert, posture)
-4. `merge_feeds.py` consolidates all feeds into `site/data/feed.json`
-5. Dashboard reads the merged feed and renders it
+### Option A: Bare metal (recommended for Pi4)
+
+```bash
+git clone https://github.com/mehidk69/Burgerreich-v3.git
+cd Burgerreich-v3
+sudo bash deploy/setup-pi.sh
+```
+
+This installs nginx, creates a Python venv, sets up a systemd timer (runs every 30min), and starts serving the dashboard. Done.
+
+```
+Dashboard:  http://<pi-ip>
+Logs:       tail -f /var/log/burgerreich.log
+Timer:      systemctl status burgerreich-collect.timer
+Manual run: cd /opt/burgerreich && ./venv/bin/python run_all.py
+```
+
+### Option B: Docker
+
+```bash
+git clone https://github.com/mehidk69/Burgerreich-v3.git
+cd Burgerreich-v3
+docker compose up -d
+```
+
+Dashboard at `http://<pi-ip>:8080`. Data persists in Docker volumes.
+
+### Option C: GitHub Pages (no self-hosting)
+
+Collectors run every 6h via GitHub Actions and commit JSON to the repo. Enable GitHub Pages on the repo to serve the dashboard.
 
 ## Run Manually
 
 ```bash
+# All collectors + merge in one command
+python run_all.py
+
+# Quick mode (skip slow scrapers)
+python run_all.py --quick
+
+# Individual collectors
 cd collectors
 pip install -r requirements.txt
 python collect_centcom.py
-python collect_eucom.py
-python collect_indopacom.py
-python collect_africom.py
-python collect_stratcom.py
-python collect_osint.py
+python collect_fleet.py
 python merge_feeds.py
 ```
 

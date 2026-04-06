@@ -1,0 +1,21 @@
+version: "3.8"
+
+services:
+  burgerreich:
+    build: .
+    container_name: burgerreich-watch
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    volumes:
+      # Persist collected data across container restarts
+      - burgerreich-data:/app/site/data
+      - burgerreich-logs:/var/log
+    environment:
+      - TZ=UTC
+    # Pi4 has 1-4GB RAM — limit to be safe
+    mem_limit: 512m
+
+volumes:
+  burgerreich-data:
+  burgerreich-logs:

@@ -1,0 +1,13 @@
+[Unit]
+Description=Burgerreich-watch OSINT collector run
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=pi
+WorkingDirectory=/opt/burgerreich
+ExecStart=/opt/burgerreich/venv/bin/python run_all.py
+StandardOutput=append:/var/log/burgerreich.log
+StandardError=append:/var/log/burgerreich.log
+TimeoutStartSec=300
