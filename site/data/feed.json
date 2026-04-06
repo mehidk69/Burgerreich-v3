@@ -1,0 +1,10 @@
+[
+  {"id":"seed01","title":"USS Dwight D. Eisenhower CSG transits Suez Canal","url":"","date":"2026-04-05T12:00:00Z","source":"CENTCOM","cocom":"centcom","tag":"naval","summary":"CVN-69 and escorts transit into Red Sea for scheduled deployment."},
+  {"id":"seed02","title":"B-52H Stratofortress conducts Bomber Task Force mission over Baltic","url":"","date":"2026-04-05T08:00:00Z","source":"EUCOM","cocom":"eucom","tag":"air","summary":"USAF bomber integrates with NATO allies during Baltic overwatch."},
+  {"id":"seed03","title":"US-Philippines Balikatan 2026 exercise commences","url":"","date":"2026-04-04T06:00:00Z","source":"INDOPACOM","cocom":"indopacom","tag":"exercise","summary":"Annual bilateral exercise involving 12,000 personnel begins."},
+  {"id":"seed04","title":"AFRICOM airstrike targets ISIS-Somalia compound","url":"","date":"2026-04-04T14:00:00Z","source":"AFRICOM","cocom":"africom","tag":"alert","summary":"Precision strike conducted near Jilib, southern Somalia."},
+  {"id":"seed05","title":"STRATCOM announces nuclear deterrence posture review","url":"","date":"2026-04-03T10:00:00Z","source":"STRATCOM","cocom":"stratcom","tag":"posture","summary":"Annual review of US nuclear deterrent forces and strategy."},
+  {"id":"seed06","title":"82nd Airborne deploys rapid-response element to CENTCOM AOR","url":"","date":"2026-04-03T16:00:00Z","source":"DoD News","cocom":"osint","tag":"ground","summary":"Infantry brigade combat team elements forward-deployed."},
+  {"id":"seed07","title":"MQ-9 Reaper lost over Yemen during surveillance mission","url":"","date":"2026-04-02T18:00:00Z","source":"USNI News","cocom":"osint","tag":"alert","summary":"Unmanned aircraft lost; cause under investigation."},
+  {"id":"seed08","title":"NATO DEFENDER Europe 2026 exercise kicks off","url":"","date":"2026-04-01T09:00:00Z","source":"EUCOM","cocom":"eucom","tag":"exercise","summary":"Multinational exercise with 30+ allied nations participating."}
+]

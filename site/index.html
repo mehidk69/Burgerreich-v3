@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BURGERREICH_watch v3 — das DEMARC</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<style>
+/* ===== RESET & BASE ===== */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0a0e14;--bg2:#111820;--bg3:#1a2030;
+  --fg:#c8d0dc;--fg2:#8090a8;--accent:#00e5ff;--alert:#ff3d3d;
+  --naval:#2196f3;--air:#9c27b0;--ground:#4caf50;--exercise:#ff9800;
+  --posture:#ffeb3b;--general:#607d8b;
+  --font:'Consolas','Fira Code','SF Mono',monospace;
+  --radius:4px;
+}
+html,body{height:100%;font-family:var(--font);background:var(--bg);color:var(--fg);font-size:13px;overflow:hidden}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+button{font-family:var(--font);cursor:pointer;border:1px solid var(--fg2);background:var(--bg3);color:var(--fg);padding:4px 10px;border-radius:var(--radius);font-size:12px;transition:all .15s}
+button:hover{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+button.active{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+input,select{font-family:var(--font);background:var(--bg2);color:var(--fg);border:1px solid var(--fg2);padding:4px 8px;border-radius:var(--radius);font-size:12px}
+
+/* ===== LAYOUT ===== */
+#app{display:grid;grid-template-rows:auto 1fr auto;height:100vh}
+
+/* --- TOP BAR --- */
+#topbar{display:flex;align-items:center;justify-content:space-between;padding:6px 14px;background:var(--bg2);border-bottom:1px solid #222d3a}
+#topbar h1{font-size:14px;color:var(--accent);letter-spacing:2px;text-transform:uppercase}
+#topbar .meta{font-size:11px;color:var(--fg2)}
+#threat-badge{display:inline-block;padding:2px 8px;border-radius:10px;font-size:11px;font-weight:700;margin-left:12px}
+#threat-badge.high{background:var(--alert);color:#fff}
+#threat-badge.med{background:#ff9800;color:#000}
+#threat-badge.low{background:#4caf50;color:#000}
+
+/* --- MAIN BODY --- */
+#main{display:grid;grid-template-columns:340px 1fr;overflow:hidden}
+
+/* --- SIDEBAR --- */
+#sidebar{background:var(--bg2);border-right:1px solid #222d3a;display:flex;flex-direction:column;overflow:hidden}
+#sidebar-tabs{display:flex;border-bottom:1px solid #222d3a;flex-shrink:0}
+#sidebar-tabs button{flex:1;border:none;border-bottom:2px solid transparent;border-radius:0;padding:8px 4px;font-size:11px;background:transparent;color:var(--fg2)}
+#sidebar-tabs button.active{color:var(--accent);border-bottom-color:var(--accent);background:transparent}
+#sidebar-content{flex:1;overflow-y:auto;padding:10px}
+#sidebar-content::-webkit-scrollbar{width:5px}
+#sidebar-content::-webkit-scrollbar-thumb{background:var(--fg2);border-radius:3px}
+
+/* Filter bar */
+.filter-bar{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:10px}
+.filter-bar button{font-size:10px;padding:2px 7px}
+
+/* Feed items */
+.feed-item{padding:8px;margin-bottom:6px;background:var(--bg3);border-radius:var(--radius);border-left:3px solid var(--general);transition:border-color .15s}
+.feed-item:hover{border-left-color:var(--accent)}
+.feed-item[data-tag="alert"]{border-left-color:var(--alert)}
+.feed-item[data-tag="naval"]{border-left-color:var(--naval)}
+.feed-item[data-tag="air"]{border-left-color:var(--air)}
+.feed-item[data-tag="ground"]{border-left-color:var(--ground)}
+.feed-item[data-tag="exercise"]{border-left-color:var(--exercise)}
+.feed-item[data-tag="posture"]{border-left-color:var(--posture)}
+.feed-item .fi-head{display:flex;justify-content:space-between;align-items:flex-start;gap:6px}
+.feed-item .fi-title{font-size:12px;font-weight:600;line-height:1.3}
+.feed-item .fi-tag{font-size:9px;padding:1px 5px;border-radius:8px;white-space:nowrap;text-transform:uppercase;font-weight:700;flex-shrink:0}
+.fi-tag[data-tag="alert"]{background:var(--alert);color:#fff}
+.fi-tag[data-tag="naval"]{background:var(--naval);color:#fff}
+.fi-tag[data-tag="air"]{background:var(--air);color:#fff}
+.fi-tag[data-tag="ground"]{background:var(--ground);color:#fff}
+.fi-tag[data-tag="exercise"]{background:var(--exercise);color:#000}
+.fi-tag[data-tag="posture"]{background:var(--posture);color:#000}
+.fi-tag[data-tag="general"]{background:var(--general);color:#fff}
+.feed-item .fi-meta{font-size:10px;color:var(--fg2);margin-top:3px}
+.feed-item .fi-summary{font-size:11px;color:var(--fg2);margin-top:4px;line-height:1.4}
+
+/* Stats section */
+.stats-grid{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-bottom:12px}
+.stat-card{background:var(--bg3);padding:8px;border-radius:var(--radius);text-align:center}
+.stat-card .val{font-size:20px;font-weight:700;color:var(--accent)}
+.stat-card .lbl{font-size:10px;color:var(--fg2);text-transform:uppercase;margin-top:2px}
+
+/* COCOM list */
+.cocom-row{display:flex;justify-content:space-between;padding:6px 8px;border-bottom:1px solid #1a2030;font-size:12px}
+.cocom-row:hover{background:var(--bg3)}
+.cocom-row .cnt{color:var(--accent);font-weight:700}
+
+/* --- MAP PANEL --- */
+#map-wrap{position:relative;overflow:hidden}
+#map{width:100%;height:100%}
+.leaflet-control-attribution{font-size:9px!important}
+
+/* Map legend */
+#map-legend{position:absolute;bottom:30px;right:10px;background:rgba(10,14,20,.9);padding:8px 12px;border-radius:var(--radius);z-index:1000;font-size:10px;border:1px solid #222d3a}
+#map-legend .leg-row{display:flex;align-items:center;gap:6px;margin:2px 0}
+#map-legend .leg-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+
+/* --- TICKER BAR --- */
+#ticker{background:var(--bg2);border-top:1px solid #222d3a;padding:4px 14px;overflow:hidden;white-space:nowrap;font-size:11px;color:var(--fg2)}
+#ticker-inner{display:inline-block;animation:scroll-left 60s linear infinite}
+@keyframes scroll-left{0%{transform:translateX(100%)}100%{transform:translateX(-100%)}}
+#ticker .t-item{margin-right:40px}
+#ticker .t-item .t-src{color:var(--accent);font-weight:700}
+
+/* --- RESPONSIVE --- */
+@media(max-width:800px){
+  #main{grid-template-columns:1fr}
+  #sidebar{max-height:50vh}
+}
+</style>
+</head>
+<body>
+<div id="app">
+
+  <!-- TOP BAR -->
+  <header id="topbar">
+    <div style="display:flex;align-items:center;gap:12px">
+      <h1>BURGERREICH_watch</h1>
+      <span class="meta">v3 — OSINT Dashboard</span>
+      <span id="threat-badge" class="high">ELEVATED</span>
+    </div>
+    <div class="meta">
+      <span id="clock"></span> UTC &nbsp;|&nbsp;
+      <span id="item-count">0</span> items &nbsp;|&nbsp;
+      Auto-refresh: <span id="refresh-status">ON</span>
+    </div>
+  </header>
+
+  <!-- MAIN -->
+  <div id="main">
+
+    <!-- SIDEBAR -->
+    <aside id="sidebar">
+      <div id="sidebar-tabs">
+        <button class="active" data-tab="feed">Feed</button>
+        <button data-tab="cocom">COCOM</button>
+        <button data-tab="stats">Stats</button>
+        <button data-tab="sources">Sources</button>
+      </div>
+      <div id="sidebar-content">
+        <!-- Feed tab (default) -->
+        <div id="tab-feed">
+          <div class="filter-bar" id="tag-filters">
+            <button class="active" data-filter="all">ALL</button>
+            <button data-filter="alert">ALERT</button>
+            <button data-filter="naval">NAVAL</button>
+            <button data-filter="air">AIR</button>
+            <button data-filter="ground">GROUND</button>
+            <button data-filter="exercise">EXERCISE</button>
+            <button data-filter="posture">POSTURE</button>
+          </div>
+          <div class="filter-bar">
+            <input type="text" id="search-box" placeholder="Search..." style="flex:1">
+            <select id="cocom-filter">
+              <option value="all">All COCOMs</option>
+              <option value="centcom">CENTCOM</option>
+              <option value="eucom">EUCOM</option>
+              <option value="indopacom">INDOPACOM</option>
+              <option value="africom">AFRICOM</option>
+              <option value="stratcom">STRATCOM</option>
+              <option value="osint">OSINT</option>
+            </select>
+          </div>
+          <div id="feed-list"></div>
+        </div>
+
+        <!-- COCOM tab -->
+        <div id="tab-cocom" style="display:none">
+          <h3 style="font-size:12px;color:var(--accent);margin-bottom:8px">COMBATANT COMMANDS</h3>
+          <div id="cocom-list"></div>
+        </div>
+
+        <!-- Stats tab -->
+        <div id="tab-stats" style="display:none">
+          <div class="stats-grid" id="stats-grid"></div>
+          <h3 style="font-size:12px;color:var(--accent);margin:12px 0 6px">ACTIVITY BY TAG</h3>
+          <div id="tag-stats"></div>
+        </div>
+
+        <!-- Sources tab -->
+        <div id="tab-sources" style="display:none">
+          <h3 style="font-size:12px;color:var(--accent);margin-bottom:8px">DATA SOURCES</h3>
+          <div style="font-size:11px;line-height:1.8;color:var(--fg2)">
+            <div><strong style="color:var(--fg)">CENTCOM</strong> — centcom.mil (RSS press releases)</div>
+            <div><strong style="color:var(--fg)">EUCOM</strong> — eucom.mil (RSS news)</div>
+            <div><strong style="color:var(--fg)">INDOPACOM</strong> — pacom.mil (RSS news)</div>
+            <div><strong style="color:var(--fg)">AFRICOM</strong> — africom.mil (RSS press releases)</div>
+            <div><strong style="color:var(--fg)">STRATCOM</strong> — stratcom.mil (RSS news)</div>
+            <hr style="border-color:#222d3a;margin:8px 0">
+            <div><strong style="color:var(--fg)">USNI News</strong> — news.usni.org</div>
+            <div><strong style="color:var(--fg)">DoD News</strong> — defense.gov</div>
+            <div><strong style="color:var(--fg)">CSIS</strong> — csis.org/analysis</div>
+            <div><strong style="color:var(--fg)">Janes</strong> — janes.com</div>
+            <hr style="border-color:#222d3a;margin:8px 0">
+            <div style="font-size:10px;color:var(--alert);margin-top:8px">
+              NOT AFFILIATED WITH DoD OR ANY GOVERNMENT ENTITY.<br>
+              All data from publicly available OSINT and official DoD releases.
+            </div>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- MAP -->
+    <div id="map-wrap">
+      <div id="map"></div>
+      <div id="map-legend">
+        <div style="font-weight:700;margin-bottom:4px;color:var(--accent)">LEGEND</div>
+        <div class="leg-row"><div class="leg-dot" style="background:var(--alert)"></div> Alert / Strike</div>
+        <div class="leg-row"><div class="leg-dot" style="background:var(--naval)"></div> Naval</div>
+        <div class="leg-row"><div class="leg-dot" style="background:var(--air)"></div> Air</div>
+        <div class="leg-row"><div class="leg-dot" style="background:var(--ground)"></div> Ground</div>
+        <div class="leg-row"><div class="leg-dot" style="background:var(--exercise)"></div> Exercise</div>
+        <div class="leg-row"><div class="leg-dot" style="background:var(--posture)"></div> Posture</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TICKER -->
+  <div id="ticker">
+    <div id="ticker-inner"></div>
+  </div>
+
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+/* =====================================================================
+   BURGERREICH_watch v3 — Dashboard Logic
+   ===================================================================== */
+(function(){
+"use strict";
+
+// ---------------------------------------------------------------------------
+// Config
+// ---------------------------------------------------------------------------
+const FEED_URL  = "data/feed.json";
+const REFRESH   = 5 * 60 * 1000; // 5 minutes
+const TAG_COLORS = {
+  alert:"#ff3d3d", naval:"#2196f3", air:"#9c27b0",
+  ground:"#4caf50", exercise:"#ff9800", posture:"#ffeb3b", general:"#607d8b"
+};
+
+// Seed data — used when feed.json isn't available (e.g., first deploy)
+const SEED_DATA = [
+  {id:"seed01",title:"USS Dwight D. Eisenhower CSG transits Suez Canal",url:"",date:"2026-04-05T12:00:00Z",source:"CENTCOM",cocom:"centcom",tag:"naval",summary:"CVN-69 and escorts transit into Red Sea for scheduled deployment."},
+  {id:"seed02",title:"B-52H Stratofortress conducts Bomber Task Force mission over Baltic",url:"",date:"2026-04-05T08:00:00Z",source:"EUCOM",cocom:"eucom",tag:"air",summary:"USAF bomber integrates with NATO allies during Baltic overwatch."},
+  {id:"seed03",title:"US-Philippines Balikatan 2026 exercise commences",url:"",date:"2026-04-04T06:00:00Z",source:"INDOPACOM",cocom:"indopacom",tag:"exercise",summary:"Annual bilateral exercise involving 12,000 personnel begins."},
+  {id:"seed04",title:"AFRICOM airstrike targets ISIS-Somalia compound",url:"",date:"2026-04-04T14:00:00Z",source:"AFRICOM",cocom:"africom",tag:"alert",summary:"Precision strike conducted near Jilib, southern Somalia."},
+  {id:"seed05",title:"STRATCOM announces nuclear deterrence posture review",url:"",date:"2026-04-03T10:00:00Z",source:"STRATCOM",cocom:"stratcom",tag:"posture",summary:"Annual review of US nuclear deterrent forces and strategy."},
+  {id:"seed06",title:"82nd Airborne deploys rapid-response element to CENTCOM AOR",url:"",date:"2026-04-03T16:00:00Z",source:"DoD News",cocom:"osint",tag:"ground",summary:"Infantry brigade combat team elements forward-deployed."},
+  {id:"seed07",title:"MQ-9 Reaper lost over Yemen during surveillance mission",url:"",date:"2026-04-02T18:00:00Z",source:"USNI News",cocom:"osint",tag:"alert",summary:"Unmanned aircraft lost; cause under investigation."},
+  {id:"seed08",title:"NATO DEFENDER Europe 2026 exercise kicks off",url:"",date:"2026-04-01T09:00:00Z",source:"EUCOM",cocom:"eucom",tag:"exercise",summary:"Multinational exercise with 30+ allied nations participating."}
+];
+
+// COCOM AOR center coordinates for map
+const COCOM_COORDS = {
+  centcom:   {lat:28,lng:50,zoom:4,label:"CENTCOM",color:"#ff3d3d"},
+  eucom:     {lat:50,lng:15,zoom:4,label:"EUCOM",color:"#2196f3"},
+  indopacom: {lat:5,lng:130,zoom:4,label:"INDOPACOM",color:"#9c27b0"},
+  africom:   {lat:5,lng:20,zoom:4,label:"AFRICOM",color:"#4caf50"},
+  stratcom:  {lat:41,lng:-100,zoom:4,label:"STRATCOM",color:"#ff9800"},
+};
+
+// ---------------------------------------------------------------------------
+// State
+// ---------------------------------------------------------------------------
+let allItems = [];
+let activeTag = "all";
+let activeCocom = "all";
+let searchQuery = "";
+let map, markerLayer;
+
+// ---------------------------------------------------------------------------
+// Init
+// ---------------------------------------------------------------------------
+document.addEventListener("DOMContentLoaded", () => {
+  initMap();
+  initTabs();
+  initFilters();
+  initClock();
+  loadFeed();
+  setInterval(loadFeed, REFRESH);
+});
+
+// ---------------------------------------------------------------------------
+// Map
+// ---------------------------------------------------------------------------
+function initMap(){
+  map = L.map("map",{
+    center:[20,30],zoom:3,
+    zoomControl:true,
+    attributionControl:true,
+    maxBounds:[[-85,-200],[85,200]],
+  });
+  L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",{
+    attribution:'&copy; <a href="https://carto.com/">CARTO</a>',
+    maxZoom:18,subdomains:"abcd"
+  }).addTo(map);
+  markerLayer = L.layerGroup().addTo(map);
+
+  // COCOM AOR markers
+  Object.values(COCOM_COORDS).forEach(c=>{
+    L.circleMarker([c.lat,c.lng],{
+      radius:30,color:c.color,fillColor:c.color,fillOpacity:0.08,weight:1,opacity:0.4
+    }).addTo(map).bindTooltip(c.label,{permanent:true,direction:"center",className:"cocom-label"});
+  });
+}
+
+function plotItems(items){
+  markerLayer.clearLayers();
+  // Plot items near their COCOM AOR with slight randomisation
+  items.forEach((item,i)=>{
+    const cc = COCOM_COORDS[item.cocom];
+    if(!cc) return;
+    const jitter = ()=>(Math.random()-0.5)*12;
+    const lat = cc.lat + jitter();
+    const lng = cc.lng + jitter();
+    const color = TAG_COLORS[item.tag]||TAG_COLORS.general;
+
+    L.circleMarker([lat,lng],{
+      radius:5,color:color,fillColor:color,fillOpacity:0.7,weight:1
+    }).addTo(markerLayer)
+      .bindPopup(`<b>${esc(item.title)}</b><br><small>${item.source} — ${fmtDate(item.date)}</small>`);
+  });
+}
+
+// ---------------------------------------------------------------------------
+// Feed loading
+// ---------------------------------------------------------------------------
+async function loadFeed(){
+  try{
+    const resp = await fetch(FEED_URL);
+    if(!resp.ok) throw new Error(resp.status);
+    const data = await resp.json();
+    if(Array.isArray(data)&&data.length>0){
+      allItems = data;
+    }else{
+      allItems = SEED_DATA;
+    }
+  }catch{
+    if(allItems.length===0) allItems = SEED_DATA;
+  }
+  document.getElementById("item-count").textContent = allItems.length;
+  render();
+}
+
+// ---------------------------------------------------------------------------
+// Rendering
+// ---------------------------------------------------------------------------
+function render(){
+  const filtered = filterItems();
+  renderFeed(filtered);
+  renderTicker(allItems.slice(0,20));
+  renderStats();
+  renderCocomList();
+  plotItems(filtered);
+}
+
+function filterItems(){
+  return allItems.filter(item=>{
+    if(activeTag!=="all" && item.tag!==activeTag) return false;
+    if(activeCocom!=="all" && item.cocom!==activeCocom) return false;
+    if(searchQuery){
+      const q = searchQuery.toLowerCase();
+      if(!item.title.toLowerCase().includes(q) &&
+         !(item.summary||"").toLowerCase().includes(q) &&
+         !item.source.toLowerCase().includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function renderFeed(items){
+  const el = document.getElementById("feed-list");
+  if(!items.length){
+    el.innerHTML = '<div style="text-align:center;padding:20px;color:var(--fg2)">No items match filters</div>';
+    return;
+  }
+  el.innerHTML = items.map(item=>`
+    <div class="feed-item" data-tag="${item.tag}">
+      <div class="fi-head">
+        <div class="fi-title">${item.url?`<a href="${esc(item.url)}" target="_blank">${esc(item.title)}</a>`:esc(item.title)}</div>
+        <span class="fi-tag" data-tag="${item.tag}">${item.tag}</span>
+      </div>
+      <div class="fi-meta">${esc(item.source)} &nbsp;|&nbsp; ${esc(item.cocom.toUpperCase())} &nbsp;|&nbsp; ${fmtDate(item.date)}</div>
+      ${item.summary?`<div class="fi-summary">${esc(item.summary)}</div>`:""}
+    </div>
+  `).join("");
+}
+
+function renderTicker(items){
+  const el = document.getElementById("ticker-inner");
+  el.innerHTML = items.map(item=>
+    `<span class="t-item"><span class="t-src">[${esc(item.source)}]</span> ${esc(item.title)}</span>`
+  ).join("");
+}
+
+function renderStats(){
+  const grid = document.getElementById("stats-grid");
+  const tagEl = document.getElementById("tag-stats");
+
+  // Count by tag
+  const tagCounts = {};
+  const cocomCounts = {};
+  allItems.forEach(item=>{
+    tagCounts[item.tag] = (tagCounts[item.tag]||0)+1;
+    cocomCounts[item.cocom] = (cocomCounts[item.cocom]||0)+1;
+  });
+
+  // Unique sources
+  const sources = new Set(allItems.map(i=>i.source));
+
+  grid.innerHTML = `
+    <div class="stat-card"><div class="val">${allItems.length}</div><div class="lbl">Total Items</div></div>
+    <div class="stat-card"><div class="val">${sources.size}</div><div class="lbl">Sources</div></div>
+    <div class="stat-card"><div class="val">${Object.keys(cocomCounts).length}</div><div class="lbl">COCOMs Active</div></div>
+    <div class="stat-card"><div class="val">${tagCounts.alert||0}</div><div class="lbl">Alerts</div></div>
+  `;
+
+  tagEl.innerHTML = Object.entries(tagCounts)
+    .sort((a,b)=>b[1]-a[1])
+    .map(([tag,cnt])=>`
+      <div class="cocom-row">
+        <span><span class="fi-tag" data-tag="${tag}" style="font-size:9px">${tag}</span></span>
+        <span class="cnt">${cnt}</span>
+      </div>
+    `).join("");
+}
+
+function renderCocomList(){
+  const el = document.getElementById("cocom-list");
+  const counts = {};
+  allItems.forEach(item=>{
+    const key = item.cocom.toUpperCase();
+    counts[key] = (counts[key]||0)+1;
+  });
+  el.innerHTML = Object.entries(counts)
+    .sort((a,b)=>b[1]-a[1])
+    .map(([name,cnt])=>`<div class="cocom-row"><span>${name}</span><span class="cnt">${cnt}</span></div>`)
+    .join("");
+}
+
+// ---------------------------------------------------------------------------
+// Tabs & Filters
+// ---------------------------------------------------------------------------
+function initTabs(){
+  document.querySelectorAll("#sidebar-tabs button").forEach(btn=>{
+    btn.addEventListener("click",()=>{
+      document.querySelectorAll("#sidebar-tabs button").forEach(b=>b.classList.remove("active"));
+      btn.classList.add("active");
+      const tab = btn.dataset.tab;
+      ["feed","cocom","stats","sources"].forEach(t=>{
+        document.getElementById("tab-"+t).style.display = t===tab?"block":"none";
+      });
+    });
+  });
+}
+
+function initFilters(){
+  // Tag filters
+  document.querySelectorAll("#tag-filters button").forEach(btn=>{
+    btn.addEventListener("click",()=>{
+      document.querySelectorAll("#tag-filters button").forEach(b=>b.classList.remove("active"));
+      btn.classList.add("active");
+      activeTag = btn.dataset.filter;
+      render();
+    });
+  });
+
+  // COCOM dropdown
+  document.getElementById("cocom-filter").addEventListener("change",e=>{
+    activeCocom = e.target.value;
+    render();
+  });
+
+  // Search
+  let debounce;
+  document.getElementById("search-box").addEventListener("input",e=>{
+    clearTimeout(debounce);
+    debounce = setTimeout(()=>{
+      searchQuery = e.target.value.trim();
+      render();
+    },250);
+  });
+}
+
+// ---------------------------------------------------------------------------
+// Clock
+// ---------------------------------------------------------------------------
+function initClock(){
+  const el = document.getElementById("clock");
+  const tick = ()=>{
+    const now = new Date();
+    el.textContent = now.toISOString().slice(11,19);
+  };
+  tick();
+  setInterval(tick,1000);
+}
+
+// ---------------------------------------------------------------------------
+// Helpers
+// ---------------------------------------------------------------------------
+function esc(s){
+  if(!s) return "";
+  const d = document.createElement("div");
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+function fmtDate(iso){
+  if(!iso) return "—";
+  try{
+    const d = new Date(iso);
+    return d.toLocaleDateString("en-US",{month:"short",day:"numeric"})+" "+d.toLocaleTimeString("en-US",{hour:"2-digit",minute:"2-digit",hour12:false});
+  }catch{return iso.slice(0,10)}
+}
+
+})();
+</script>
+</body>
+</html>
