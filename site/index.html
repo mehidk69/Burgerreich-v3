@@ -1644,19 +1644,46 @@ renderTollDetails();
     if (resp.ok) {
       const losses = await resp.json();
       if (losses.items && losses.items.length > 0) {
-        // Update confirmed loss quantities from live scrape
+        const newItems = [];
         losses.items.forEach(live => {
+          let matched = false;
+          // Try to update existing seed entries
           EQUIPMENT_LOSSES.forEach(cat => {
             if (cat.unconfirmed) return;
             cat.items.forEach(seed => {
-              if (seed.type.includes(live.type.split(' ')[0]) || live.type.includes(seed.type.split(' ')[0])) {
+              const liveKey = (live.type || '').split(' ')[0].toLowerCase();
+              const seedKey = (seed.type || '').split(' ')[0].toLowerCase();
+              if (liveKey && seedKey && (seed.type.toLowerCase().includes(liveKey) || live.type.toLowerCase().includes(seedKey))) {
                 if (live.qty > seed.qty) seed.qty = live.qty;
+                if (live.date) seed.date = live.date;
+                matched = true;
               }
             });
           });
+          // Collect unmatched items as new entries
+          if (!matched && live.type) {
+            newItems.push({
+              type: live.type,
+              qty: live.qty || 1,
+              date: live.date || '',
+              cause: live.headline || 'Reported via OSINT',
+              cost: 'TBD',
+              note: `Source: ${live.source || 'OSINT'}. ${live.headline || ''}`,
+              lat: null, lng: null, loc: ''
+            });
+          }
         });
+        // Append new loss items to a "LIVE REPORTS" category
+        if (newItems.length > 0) {
+          let liveCat = EQUIPMENT_LOSSES.find(c => c.category === 'LIVE REPORTS — COLLECTOR');
+          if (!liveCat) {
+            liveCat = { category: 'LIVE REPORTS — COLLECTOR', items: [] };
+            EQUIPMENT_LOSSES.push(liveCat);
+          }
+          liveCat.items = newItems;
+        }
         renderLosses();
-        console.log('[HYDRATE] Losses updated:', losses.items.length, 'entries');
+        console.log('[HYDRATE] Losses updated:', losses.items.length, 'entries (' + newItems.length + ' new)');
       }
     }
   } catch(e) { console.log('[HYDRATE] Losses: using seed'); }
