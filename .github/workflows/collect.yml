@@ -56,6 +56,30 @@ jobs:
         run: python collectors/collect_osint.py
         continue-on-error: true
 
+      - name: Collect fleet positions
+        run: python collectors/collect_fleet.py
+        continue-on-error: true
+
+      - name: Collect casualty data
+        run: python collectors/collect_casualties.py
+        continue-on-error: true
+
+      - name: Collect equipment losses
+        run: python collectors/collect_losses.py
+        continue-on-error: true
+
+      - name: Collect force posture
+        run: python collectors/collect_posture.py
+        continue-on-error: true
+
+      - name: Collect COCOM commanders
+        run: python collectors/collect_commanders.py
+        continue-on-error: true
+
+      - name: Collect Doomsday Clock
+        run: python collectors/collect_doomsday.py
+        continue-on-error: true
+
       - name: Merge all feeds
         run: python collectors/merge_feeds.py
 
