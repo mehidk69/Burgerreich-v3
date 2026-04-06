@@ -1,10 +1,14 @@
 [Unit]
-Description=Run Burgerreich collectors every 30 minutes
+Description=Run Burgerreich collectors on schedule
 
 [Timer]
-OnBootSec=2min
-OnUnitActiveSec=30min
-RandomizedDelaySec=60
+OnBootSec=1min
+# Default: 15min. Override via drop-in:
+#   systemctl edit burgerreich-collect.timer
+#   [Timer]
+#   OnUnitActiveSec=5min
+OnUnitActiveSec=15min
+RandomizedDelaySec=30
 Persistent=true
 
 [Install]
