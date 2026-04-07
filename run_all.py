@@ -8,47 +8,63 @@ Usage:
     python run_all.py --quick  # skip slow scrapers (commanders, doomsday)
 """
 
-import importlib
-import os
+import subprocess
 import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-# Add collectors/ to Python path so intra-package imports (utils, collector_base) work
-_collectors_dir = str(Path(__file__).resolve().parent / "collectors")
-if _collectors_dir not in sys.path:
-    sys.path.insert(0, _collectors_dir)
+PROJECT_ROOT = Path(__file__).resolve().parent
+COLLECTORS_DIR = PROJECT_ROOT / "collectors"
+PYTHON = sys.executable
 
 COLLECTORS = [
-    ("collect_centcom",    "collect",  "CENTCOM"),
-    ("collect_eucom",      "collect",  "EUCOM"),
-    ("collect_indopacom",  "collect",  "INDOPACOM"),
-    ("collect_africom",    "collect",  "AFRICOM"),
-    ("collect_stratcom",   "collect",  "STRATCOM"),
-    ("collect_osint",      "collect",  "OSINT"),
-    ("collect_fleet",      "collect",  "Fleet"),
-    ("collect_casualties", "collect",  "Casualties"),
-    ("collect_losses",     "collect",  "Losses"),
-    ("collect_posture",    "collect",  "Posture"),
+    ("collect_centcom.py",    "CENTCOM"),
+    ("collect_eucom.py",      "EUCOM"),
+    ("collect_indopacom.py",  "INDOPACOM"),
+    ("collect_africom.py",    "AFRICOM"),
+    ("collect_stratcom.py",   "STRATCOM"),
+    ("collect_osint.py",      "OSINT"),
+    ("collect_fleet.py",      "Fleet"),
+    ("collect_casualties.py", "Casualties"),
+    ("collect_losses.py",     "Losses"),
+    ("collect_posture.py",    "Posture"),
 ]
 
 SLOW_COLLECTORS = [
-    ("collect_commanders", "collect",  "Commanders"),
-    ("collect_doomsday",   "collect",  "Doomsday"),
+    ("collect_commanders.py", "Commanders"),
+    ("collect_doomsday.py",   "Doomsday"),
 ]
 
-MERGER = ("merge_feeds", "merge", "Merge")
+MERGER = ("merge_feeds.py", "Merge")
 
 
-def run_collector(module_path: str, func_name: str, label: str) -> bool:
+def run_collector(script: str, label: str) -> bool:
+    """Run a collector script as a subprocess from the collectors/ directory."""
+    script_path = COLLECTORS_DIR / script
     try:
-        mod = importlib.import_module(module_path)
-        func = getattr(mod, func_name)
-        func()
+        result = subprocess.run(
+            [PYTHON, str(script_path)],
+            cwd=str(COLLECTORS_DIR),
+            capture_output=True,
+            text=True,
+            timeout=120,
+        )
+        if result.stderr:
+            # Print collector's log output (they log to stderr)
+            for line in result.stderr.strip().splitlines():
+                print(f"  {line}")
+        if result.returncode != 0:
+            print(f"  [{label}] FAILED (exit {result.returncode})")
+            if result.stdout:
+                print(f"  {result.stdout.strip()}")
+            return False
         return True
+    except subprocess.TimeoutExpired:
+        print(f"  [{label}] TIMEOUT (120s)")
+        return False
     except Exception as e:
-        print(f"  [{label}] FAILED: {e}", file=sys.stderr)
+        print(f"  [{label}] FAILED: {e}")
         return False
 
 
@@ -67,13 +83,13 @@ def main():
 
     all_collectors = COLLECTORS if quick else COLLECTORS + SLOW_COLLECTORS
 
-    for module_path, func_name, label in all_collectors:
+    for script, label in all_collectors:
         print(f"[>] {label}...")
-        ok = run_collector(module_path, func_name, label)
+        ok = run_collector(script, label)
         results[label] = ok
 
     # Always run merger
-    print(f"[>] {MERGER[2]}...")
+    print(f"[>] {MERGER[1]}...")
     run_collector(*MERGER)
 
     elapsed = time.time() - start
