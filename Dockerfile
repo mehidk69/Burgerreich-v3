@@ -16,7 +16,7 @@ RUN pip install --no-cache-dir -r collectors/requirements.txt
 COPY . /app/
 
 # Nginx config
-COPY deploy/nginx.conf /etc/nginx/sites-available/default
+COPY deploy/nginx-docker.conf /etc/nginx/sites-available/default
 
 # Cron schedule — every 30 minutes
 RUN echo "*/30 * * * * cd /app && /usr/local/bin/python run_all.py >> /var/log/burgerreich.log 2>&1" > /etc/cron.d/burgerreich \
