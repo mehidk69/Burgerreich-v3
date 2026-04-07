@@ -32,56 +32,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r collectors/requirements.txt
 
-      - name: Collect CENTCOM
-        run: python collectors/collect_centcom.py
-        continue-on-error: true
-
-      - name: Collect EUCOM
-        run: python collectors/collect_eucom.py
-        continue-on-error: true
-
-      - name: Collect INDOPACOM
-        run: python collectors/collect_indopacom.py
-        continue-on-error: true
-
-      - name: Collect AFRICOM
-        run: python collectors/collect_africom.py
-        continue-on-error: true
-
-      - name: Collect STRATCOM
-        run: python collectors/collect_stratcom.py
-        continue-on-error: true
-
-      - name: Collect OSINT feeds
-        run: python collectors/collect_osint.py
-        continue-on-error: true
-
-      - name: Collect fleet positions
-        run: python collectors/collect_fleet.py
-        continue-on-error: true
-
-      - name: Collect casualty data
-        run: python collectors/collect_casualties.py
-        continue-on-error: true
-
-      - name: Collect equipment losses
-        run: python collectors/collect_losses.py
-        continue-on-error: true
-
-      - name: Collect force posture
-        run: python collectors/collect_posture.py
-        continue-on-error: true
-
-      - name: Collect COCOM commanders
-        run: python collectors/collect_commanders.py
-        continue-on-error: true
-
-      - name: Collect Doomsday Clock
-        run: python collectors/collect_doomsday.py
-        continue-on-error: true
-
-      - name: Merge all feeds
-        run: python collectors/merge_feeds.py
+      - name: Run all collectors
+        run: python run_all.py
 
       - name: Commit and push data
         run: |
