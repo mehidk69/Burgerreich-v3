@@ -1,0 +1,49 @@
+{
+  "commanders": {
+    "centcom": {
+      "name": "check manually",
+      "url": "https://www.centcom.mil/ABOUT-US/LEADERSHIP/"
+    },
+    "eucom": {
+      "name": "check manually",
+      "url": "https://www.eucom.mil/about-us/leadership/combatant-commander"
+    },
+    "indopacom": {
+      "name": "check manually",
+      "url": "https://www.pacom.mil/Leadership/Commander/"
+    },
+    "northcom": {
+      "name": "check manually",
+      "url": "https://www.northcom.mil/Leadership/Commander/"
+    },
+    "southcom": {
+      "name": "check manually",
+      "url": "https://www.southcom.mil/Leadership/Commander/"
+    },
+    "africom": {
+      "name": "Gen. Dagvin R.M. Anderson , U.S. Air Force",
+      "url": "https://www.africom.mil/about-the-command/leadership/commander"
+    },
+    "stratcom": {
+      "name": "check manually",
+      "url": "https://www.stratcom.mil/Leadership/Commander/"
+    },
+    "cybercom": {
+      "name": "check manually",
+      "url": "https://www.cybercom.mil/About/Leadership/"
+    },
+    "spacecom": {
+      "name": "check manually",
+      "url": "https://www.spacecom.mil/About/Leadership/Commander/"
+    },
+    "transcom": {
+      "name": "check manually",
+      "url": "https://www.ustranscom.mil/cmd/commander.cfm"
+    },
+    "socom": {
+      "name": "check manually",
+      "url": "https://www.socom.mil/about/leadership"
+    }
+  },
+  "updated": "2026-04-07T01:23:10Z"
+}
