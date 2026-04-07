@@ -1,5 +1,35 @@
 [
   {
+    "id": "b1845069663b",
+    "title": "Corps of Engineers Outlines Glacier Flood Mitigation Efforts",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4453307/corps-of-engineers-outlines-glacier-flood-mitigation-efforts/",
+    "date": "2026-04-07T17:19:02Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Adam Telle, Army assistant secretary for civil works, visited Juneau, Alaska, to observe the Army Corps of Engineers' efforts to address flooding ahead of the annual Mendenhall Glacier outburst."
+  },
+  {
+    "id": "13bcd4c2a542",
+    "title": "Coast Guard Cutter Midgett Rescues Family Missing in Western Pacific",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4453234/coast-guard-cutter-midgett-rescues-family-missing-in-western-pacific/",
+    "date": "2026-04-07T16:06:48Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The Coast Guard cutter Midgett crew rescued a family of three in the waters off the coast of Chuuk, part of the Federated States of Micronesia, following search and rescue operations."
+  },
+  {
+    "id": "9e917b54c138",
+    "title": "Pentagon’s Fiscal Year 2027 Budget Request for Procurement Programs",
+    "url": "https://news.usni.org/2026/04/07/pentagons-fiscal-year-2027-budget-request-for-procurement-programs",
+    "date": "2026-04-07T14:58:07Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is the Pentagon’s Fiscal Year 2027 budget request for procurement programs, released April 3, 2026. Summary This document outlines the Fiscal Year 2027 budget request for the Defense Department&#8217;s procurement programs. The document includes total obligational authority across Army"
+  },
+  {
     "id": "6a0b5b5e0ef0",
     "title": "New Navy Budget Wants $3B for New Tomahawks, $4.3B for SM-6s",
     "url": "https://news.usni.org/2026/04/06/new-navy-budget-wants-3b-for-new-tomahawks-4-3b-for-sm-6s",
