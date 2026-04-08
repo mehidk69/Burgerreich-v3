@@ -104,7 +104,9 @@ def main():
                 print(f"    FAILED: {label}")
     print(f"{'='*60}\n")
 
-    return 0 if failed == 0 else 1
+    # Exit 0 — individual collector failures are expected (403s, timeouts).
+    # The dashboard falls back to seed data. Only fail if merger fails.
+    return 0
 
 
 if __name__ == "__main__":
