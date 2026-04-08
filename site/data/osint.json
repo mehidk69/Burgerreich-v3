@@ -1,5 +1,55 @@
 [
   {
+    "id": "43d56bc880a4",
+    "title": "Naval Postgraduate School Alumni Lead Artemis II Homebound",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4454241/naval-postgraduate-school-alumni-lead-artemis-ii-homebound/",
+    "date": "2026-04-08T16:50:48Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Retired Navy Capt. Reid Wiseman and Navy Capt. Victor Glover — Naval Postgraduate School alumni — are using their years of experience as test pilots, advanced education and astronaut training to guide the Artemis II crew safely back to Earth."
+  },
+  {
+    "id": "393a43c6b2c7",
+    "title": "Epic Fury Quelled for Now, Objectives Accomplished, U.S. Forces Remain Ready",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4454276/epic-fury-quelled-for-now-objectives-accomplished-us-forces-remain-ready/",
+    "date": "2026-04-08T16:25:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "In fewer than 40 days, unrelenting military action by America's joint force has helped accomplish all the goals President Donald J. Trump set for Operation Epic Fury."
+  },
+  {
+    "id": "3478d087a6c5",
+    "title": "Leaders Praise Troops Who Rescued Downed Airmen in Iran",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4454212/leaders-praise-troops-who-rescued-downed-airmen-in-iran/",
+    "date": "2026-04-08T15:22:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "In a Pentagon press briefing, Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, said that he and Secretary of War Pete Hegseth visited many of the warfighters involved in the missions to rescue two airmen downed by enemy forces in Iran, from the crew to the search and rescue forces."
+  },
+  {
+    "id": "005d0db420a2",
+    "title": "French Navy Submarine Launches, Recovers U.S. Navy Drone in Test Run",
+    "url": "https://news.usni.org/2026/04/08/french-navy-submarine-launches-recovers-u-s-navy-drone-in-test-run",
+    "date": "2026-04-08T15:19:34Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The French Navy tested launching and recovering a U.S. Navy Razorback Unmanned Undersea Vehicle (UUV) from a submerged French Suffren-class nuclear-powered attack submarine last month, validating the French submarine’s removable dry deck shelter can be used for underwater drone operations. A Suffren"
+  },
+  {
+    "id": "ec99adfe5b3e",
+    "title": "Report to Congress on Iran’s Nuclear Program and UN Sanctions Reimposition",
+    "url": "https://news.usni.org/2026/04/08/report-to-congress-on-irans-nuclear-program-and-un-sanctions-reimposition",
+    "date": "2026-04-08T13:03:36Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the April 6, 2026, Congressional Research Service report, Iran’s Nuclear Program and UN Sanctions Reimposition. From the Report UN Security Council Resolution 2231 (2015), which the council adopted on July 20, 2015, implements the Joint Comprehensive Plan of Action (JCPOA) and conta"
+  },
+  {
     "id": "46c505c0c45e",
     "title": "Pentagon Adds to Pacific Refueling Capacity With New Philippine Depot",
     "url": "https://news.usni.org/2026/04/07/pentagon-adds-to-pacific-refueling-capacity-with-new-philippine-depot",
