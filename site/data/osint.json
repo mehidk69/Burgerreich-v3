@@ -1,5 +1,35 @@
 [
   {
+    "id": "27174d4614fe",
+    "title": "Navy Researchers Seek Volunteers for NASA Study",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4455366/navy-researchers-seek-volunteers-for-nasa-study/",
+    "date": "2026-04-09T17:42:04Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Navy researchers at Wright-Patterson Air Force Base, Ohio, are seeking volunteers to assist in a study that directly supports one of the United States' biggest space exploration goals: returning American astronauts to the moon."
+  },
+  {
+    "id": "7ac9f3a8e8d2",
+    "title": "Airmen Launch Remotely Operated Weapon Station Course in Turkey",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4455350/airmen-launch-remotely-operated-weapon-station-course-in-turkey/",
+    "date": "2026-04-09T16:10:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The 39th Security Forces Squadron certified airmen on the Common Remotely Operated Weapon Station for the first time at Incirlik Air Base, Turkey, supporting the 39th Air Base Wing's goal for airmen to be trained, equipped and ready."
+  },
+  {
+    "id": "bce66569cc10",
+    "title": "Report to Congress on U.S. Army’s Dark Eagle Hypersonic Weapon",
+    "url": "https://news.usni.org/2026/04/09/report-to-congress-on-u-s-armys-dark-eagle-hypersonic-weapon",
+    "date": "2026-04-09T14:12:03Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the April 7, 2026, Congressional Research Service In Focus report, U.S. Army’s Long-Range Hypersonic Weapon (LRHW): Dark Eagle. From the report What Is the Army’s Long-Range Hypersonic Weapon? The Army’s Long-Range Hypersonic Weapon (LRHW)—also known as Dark Eagle —with a reported r"
+  },
+  {
     "id": "948df08b2b65",
     "title": "South Korean Submarine Completes First Leg of Indo-Pacific Voyage to Canada",
     "url": "https://news.usni.org/2026/04/08/south-korean-submarine-completes-first-leg-of-indo-pacific-voyage-to-canada",
@@ -13,7 +43,7 @@
     "id": "43d56bc880a4",
     "title": "Naval Postgraduate School Alumni Lead Artemis II Homebound",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4454241/naval-postgraduate-school-alumni-lead-artemis-ii-homebound/",
-    "date": "2026-04-08T16:50:48Z",
+    "date": "2026-04-08T16:50:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Philippine and Chinese warships almost collided this week near the Spratly Islands in the South China Sea in what Manila claims was a “hazardous” incident involving Beijing’s forces. The Philippine Navy&#8217;s BRP Benguet (LS507) – a World War II-era landing ship tank – was harassed Wednesday by Pe"
-  },
-  {
-    "id": "ec1541230faa",
-    "title": "Inspector General Audit of Naval Supply Systems Command Management of Inventory Items with No Demand for 5 Years",
-    "url": "https://news.usni.org/2026/03/27/inspector-general-audit-of-naval-supply-systems-command-management-of-inventory-items-with-no-demand-for-5-years",
-    "date": "2026-03-27T14:16:19Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the Defense Department’s Inspector General audit of Naval Supply Systems Command Management of Inventory Items with No Demand for 5 Years or More. The report was published March 25, 2026.  From the Report Objective The objective of this audit was to assess the effectiveness of Naval"
-  },
-  {
-    "id": "bbfa51d95e65",
-    "title": "‘Fragility’ of Military Sealift Command Could Hold Navy Back from World Class Status, CNO Caudle Says",
-    "url": "https://news.usni.org/2026/03/26/fragility-of-military-sealift-command-could-hold-navy-back-from-world-class-status-cno-caudle-says",
-    "date": "2026-03-26T19:40:21Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.S. Military Sealift Command’s “fragility” could hold the Navy back from maintaining its world class status, according to Chief of Naval Operations Adm. Daryl Caudle. “I talked about [how] the fleet is the most decisive instrument of naval power. What fuels that thing? It is all MSC, and it is such"
-  },
-  {
-    "id": "40c6e4f6ec0e",
-    "title": "Navy Creates New ‘Marketplace’ for Medium Unmanned Surface Vessels After Cancelling MASC Program",
-    "url": "https://news.usni.org/2026/03/26/navy-creates-new-marketplace-for-medium-unmanned-surface-vessels-after-cancelling-masc-program",
-    "date": "2026-03-26T17:50:44Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Navy cancelled the Modular Attack Surface Craft program launched last year and is creating a new acquisition strategy for unmanned vessels, a service official told reporters Thursday. With the new Golden Fleet concept, the Navy wants a medium unmanned surface vessel that can perform multiple mis"
   }
 ]
