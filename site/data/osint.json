@@ -1,5 +1,15 @@
 [
   {
+    "id": "948df08b2b65",
+    "title": "South Korean Submarine Completes First Leg of Indo-Pacific Voyage to Canada",
+    "url": "https://news.usni.org/2026/04/08/south-korean-submarine-completes-first-leg-of-indo-pacific-voyage-to-canada",
+    "date": "2026-04-08T21:46:04Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A Republic of Korea Navy attack boat docked in Guam on Tuesday, completed the first leg of what will be the longest voyage of a South Korean submarine to date. ROKS Dosan Ahn Chang-ho (SS-083), the first of Seoul’s KSS-III-class of diesel electric submarines, departed South Korea last month for Cana"
+  },
+  {
     "id": "43d56bc880a4",
     "title": "Naval Postgraduate School Alumni Lead Artemis II Homebound",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4454241/naval-postgraduate-school-alumni-lead-artemis-ii-homebound/",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The Navy cancelled the Modular Attack Surface Craft program launched last year and is creating a new acquisition strategy for unmanned vessels, a service official told reporters Thursday. With the new Golden Fleet concept, the Navy wants a medium unmanned surface vessel that can perform multiple mis"
-  },
-  {
-    "id": "f5f742e3a5e3",
-    "title": "Sailor Flown Ashore After Flight Operations Injury on Carrier USS Abraham Lincoln",
-    "url": "https://news.usni.org/2026/03/26/sailor-flown-ashore-after-flight-operations-injury-on-carrier-uss-abraham-lincoln",
-    "date": "2026-03-26T16:52:55Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A sailor assigned to USS Abraham Lincoln (CVN-72) was injured during flight operations Wednesday, the Navy announced. Lincoln was in the Arabian Sea at the time of the injury. The sailor was flown ashore to treat the injury, which was not considered life-threatening, and was in stable condition, acc"
   }
 ]
