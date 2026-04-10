@@ -1,5 +1,35 @@
 [
   {
+    "id": "5b6c4ea1cf21",
+    "title": "Navy to Inactivate Attack Boat USS Boise After $1.6B Repair Effort",
+    "url": "https://news.usni.org/2026/04/10/navy-to-inactivate-attack-boat-uss-boise-after-1-6b-repair-effort",
+    "date": "2026-04-10T17:36:45Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "One of the youngest Los Angeles-class nuclear attack submarines will be inactivated after waiting more than a decade for an overhaul, the Navy announced on Friday. USS Boise (SSN-764), currently in a drydock at HII Newport News Shipbuilding, Va., has been scheduled for a regular overhaul since Fisca"
+  },
+  {
+    "id": "6c2c6b07a0e5",
+    "title": "Army Launches Data Operations Center, Giving Warfighters Decisive Edge",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4456289/army-launches-data-operations-center-giving-warfighters-decisive-edge/",
+    "date": "2026-04-10T15:48:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The Army launched the Army Data Operations Center — a key initiative designed to transform how it manages and uses its vast data resources to ensure decision dominance on the modern battlefield."
+  },
+  {
+    "id": "9505091a90f2",
+    "title": "White House Honors National Guard-Supported Counterdrug Operations",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4456127/white-house-honors-national-guard-supported-counterdrug-operations/",
+    "date": "2026-04-10T14:02:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The White House Office of National Drug Control Policy recognized personnel assigned to National Guard counterdrug programs for their support to 10 award-winning law enforcement investigations."
+  },
+  {
     "id": "5f83d8356536",
     "title": "Vessels Trickle Past Iran as Questions Remain Over Strait of Hormuz Status",
     "url": "https://news.usni.org/2026/04/09/vessels-trickle-past-iran-as-questions-remain-over-strait-of-hormuz-status",
@@ -33,7 +63,7 @@
     "id": "27174d4614fe",
     "title": "Navy Researchers Seek Volunteers for NASA Study",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4455366/navy-researchers-seek-volunteers-for-nasa-study/",
-    "date": "2026-04-09T17:42:04Z",
+    "date": "2026-04-09T17:42:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -1140,26 +1170,6 @@
     "summary": "DAVIS-MONTHAN AIR FORCE BASE, Ariz. -- Leaders from across Davis-Monthan Air Force Base’s 355th Wing gathered for an offsite focused on strengthening relationships, building morale and preparing for future challenges in Gardner Canyon, Arizona, March 23-24, 2026.<br />\n<img alt=\"U.S. Air Force Senio"
   },
   {
-    "id": "c8ef01ee40a4",
-    "title": "Navy Commissions Submarine USS Massachusetts",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4446949/navy-commissions-submarine-uss-massachusetts/",
-    "date": "2026-03-30T14:48:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Navy commissioned the Virginia-class submarine USS Massachusetts in a ceremony at Boston Harbor, marking the 12th vessel of its class to join the fleet."
-  },
-  {
-    "id": "361cb3dfc58b",
-    "title": "USS Tripoli Operating in CENTCOM, USS Gerald R. Ford in Croatia",
-    "url": "https://news.usni.org/2026/03/28/uss-tripoli-operating-in-centcom-uss-gerald-r-ford-in-croatia",
-    "date": "2026-03-28T16:43:44Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Big deck amphibious warship USS Tripoli (LHA-7) and its embarked Marines are now operating in U.S. Central Command, the Pentagon announced Saturday. Tripoli reached the theater Friday after transiting the Strait of Malacca and making a stop in Diego Garcia, according to the USNI News Fleet &#38; Mar"
-  },
-  {
     "id": "09dd712dcb93",
     "title": "DM hosts a Senior Selects Professional Enhancement Seminar",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4446528/dm-hosts-a-senior-selects-professional-enhancement-seminar/",
@@ -1168,16 +1178,6 @@
     "cocom": "centcom",
     "tag": "naval",
     "summary": "The 355th Wing hosted a Professional Enhancement Seminar to prepare newly selected senior master sergeants for the transition into one of the Air Force’s most demanding leadership roles March 25–27, 2026.<br />\n<img alt=\"DM hosts a Senior Selects Professional Enhancement Seminar\" src=\"https://media."
-  },
-  {
-    "id": "6513f1f62526",
-    "title": "IRGC Opens Tolled Passage for Merchant Ships in Strait of Hormuz, Transit Continues to Trickle Through",
-    "url": "https://news.usni.org/2026/03/27/irgc-opens-tolled-passage-for-merchant-ships-in-strait-of-hormuz-transit-continues-to-trickle-through",
-    "date": "2026-03-27T20:28:39Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "After publication of this story, the Iran-backed Houthis announced they were prepared to attack American commercial and warships if the conflict between the U.S., Israel and Iran continued to escalate. Merchant ships continue to trickle through the Strait of Hormuz as the Islamic Revolutionary Guard"
   },
   {
     "id": "94a6f9f38ea8",
