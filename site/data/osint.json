@@ -1,5 +1,25 @@
 [
   {
+    "id": "5f83d8356536",
+    "title": "Vessels Trickle Past Iran as Questions Remain Over Strait of Hormuz Status",
+    "url": "https://news.usni.org/2026/04/09/vessels-trickle-past-iran-as-questions-remain-over-strait-of-hormuz-status",
+    "date": "2026-04-09T21:35:40Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Traffic flow in the Strait of Hormuz will likely continue at a slow trickle despite a two-week ceasefire between Iran and the United States, maritime experts agree. The majority of transits continue to use the so-called Tehran Tollbooth, which requires permission from the Islamic Revolutionary Guard"
+  },
+  {
+    "id": "66b8010189d6",
+    "title": "North Korea Holds 3 Days of Major Weapon Tests, Missile Launches",
+    "url": "https://news.usni.org/2026/04/09/north-korea-holds-3-days-of-major-weapon-tests-missile-launches",
+    "date": "2026-04-09T19:47:39Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "North Korea carried out three days of weapons, including a cluster munitions warhead on a ballistic missile, state media Korean Central News Agency said on Thursday. Earlier this week, North Korea’s Academy of Defence Science and the Missile Administration fired electromagnetic weapon systems, carbo"
+  },
+  {
     "id": "27174d4614fe",
     "title": "Navy Researchers Seek Volunteers for NASA Study",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4455366/navy-researchers-seek-volunteers-for-nasa-study/",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "After publication of this story, the Iran-backed Houthis announced they were prepared to attack American commercial and warships if the conflict between the U.S., Israel and Iran continued to escalate. Merchant ships continue to trickle through the Strait of Hormuz as the Islamic Revolutionary Guard"
-  },
-  {
-    "id": "dea2c996e255",
-    "title": "Japanese Aegis Destroyer Completes Modifications to Operate U.S.-made Tomahawk Missiles",
-    "url": "https://news.usni.org/2026/03/27/japanese-aegis-destroyer-completes-modifications-to-operate-u-s-made-tomahawk-missiles",
-    "date": "2026-03-27T19:37:42Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Japan Maritime Self-Defense Force destroyer JS Chokai (DDG-176) has completed modifications to make the ship Tomahawk cruise missile-capable, Japanese and U.S. officials announced this week. Chokai, currently deployed to the U.S., began modifications and crew training in October 2025 to operate Toma"
-  },
-  {
-    "id": "d91b4cfe3120",
-    "title": "Philippine Navy Ship Avoids Collision During Chinese Frigate Harassment in South China Sea",
-    "url": "https://news.usni.org/2026/03/27/philippine-navy-ship-avoids-collision-during-chinese-frigate-harassment-in-south-china-sea",
-    "date": "2026-03-27T16:14:25Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Philippine and Chinese warships almost collided this week near the Spratly Islands in the South China Sea in what Manila claims was a “hazardous” incident involving Beijing’s forces. The Philippine Navy&#8217;s BRP Benguet (LS507) – a World War II-era landing ship tank – was harassed Wednesday by Pe"
   }
 ]
