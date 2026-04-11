@@ -1,5 +1,15 @@
 [
   {
+    "id": "49745cb16d62",
+    "title": "Two U.S. Warships Sail Through Strait of Hormuz to Establish New Route for Merchant Ships",
+    "url": "https://news.usni.org/2026/04/11/two-u-s-warships-sail-through-strait-of-hormuz-to-establish-new-route-for-merchant-ships",
+    "date": "2026-04-11T18:05:24Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Two Navy guided-missile destroyers entered the Strait of Hormuz on Saturday, the first American warships to transit the strait since the U.S.-Israel offensive in Iran began on Feb. 28. USS Frank E. Peterson (DDG-121) and USS Michael Murphy (DDG-112) are now in the Persian Gulf after transiting the s"
+  },
+  {
     "id": "7f671acf9b9c",
     "title": "This Week in DOW: Iran Ceasefire, Daring Rescue, Honoring Gold Star Spouses",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4456466/this-week-in-dow-iran-ceasefire-daring-rescue-honoring-gold-star-spouses/",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "The following is the NATO Secretary General’s 2025 annual report, released in March 2026. From the Report Foreward In 2025, NATO started a new chapter. We took big decisions and decisive action to defend the Alliance, protect our way of life, and keep one billion people safe on both sides of the Atl"
-  },
-  {
-    "id": "c3818b4bfd9f",
-    "title": "USNI News Fleet and Marine Tracker: March 30, 2026",
-    "url": "https://news.usni.org/2026/03/30/usni-news-fleet-and-marine-tracker-march-30-2026",
-    "date": "2026-03-30T21:39:02Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of March 30, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the ca"
   }
 ]
