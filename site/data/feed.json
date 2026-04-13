@@ -1,5 +1,45 @@
 [
   {
+    "id": "d516030b1159",
+    "title": "Navy Commissions USS Harvey C. Barnum Jr. into the Fleet",
+    "url": "https://news.usni.org/2026/04/13/navy-commissions-uss-harvey-c-barnum-jr-into-the-fleet",
+    "date": "2026-04-13T18:56:26Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy welcomed its newest destroyer USS Harvey C. Barnum Jr. (DDG-124) into the fleet Saturday during a ceremony in Norfolk, Va., which is among the last Flight IIA configurations of the Arleigh Burke-class. The destroyer was commissioned at Naval Station Norfolk before approximately 1,800 guests"
+  },
+  {
+    "id": "86f79943fd9a",
+    "title": "Navy Dive Medical Recovery Team Provides Initial Care to Artemis II Crew",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4457852/navy-dive-medical-recovery-team-provides-initial-care-to-artemis-ii-crew/",
+    "date": "2026-04-13T18:25:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A Navy dive medical team served as the first responders for the Artemis II crew, providing critical assessments and assistance during their safe splashdown and recovery off the coast of San Diego."
+  },
+  {
+    "id": "a8451adacd24",
+    "title": "Hegseth, Indonesian Counterpart Announce Defense Partnership",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4457873/hegseth-indonesian-counterpart-announce-defense-partnership/",
+    "date": "2026-04-13T17:47:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Secretary of War Pete Hegseth welcomed his Indonesian counterpart — Minister of Defense Sjafrie Sjamsoeddin — to the Pentagon, where the two men announced the establishment of the Major Defense Cooperation Partnership between the two countries."
+  },
+  {
+    "id": "b9a7604e218a",
+    "title": "5 Killed in U.S. Strikes on Suspected Narco Boats in Eastern Pacific",
+    "url": "https://news.usni.org/2026/04/13/5-killed-in-u-s-strikes-on-suspected-narco-boats-in-eastern-pacific",
+    "date": "2026-04-13T15:00:27Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Forces with Joint Task Force Southern Spear struck two vessels in the Eastern Pacific on Saturday, the first such strikes in April. Two men were killed in the first strike while the second strike killed three men. One person survived the first strike, according to a late Sunday U.S. Southern Command"
+  },
+  {
     "id": "92ac45e52aed",
     "title": "U.S. Forces Start Mine Clearance Mission in Strait of Hormuz",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4457440/us-forces-start-mine-clearance-mission-in-strait-of-hormuz/",
@@ -57,7 +97,7 @@
     "source": "USNI News",
     "cocom": "osint",
     "tag": "naval",
-    "summary": "The Navy and the Marine Corps saw the lowest suicide rate in four years, according to the Pentagon’s recently released suicide report covering calendar year 2024. In 2024, the Navy had 60 suicides, while the Marine Corps had 46, according to the annual suicide report, which the Pentagon quietly rele"
+    "summary": "&#160; This story has been updated to correct who provided gunlocks. The Navy and the Marine Corps saw the lowest suicide rate in four years, according to the Pentagon’s recently released suicide report covering calendar year 2024. In 2024, the Navy had 60 suicides, while the Marine Corps had 46, ac"
   },
   {
     "id": "f2f7b22d2234",
@@ -1118,46 +1158,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "NAVAL STATION NORFOLK, Va. — The sun peeked over the horizon tinting the haze gray hull of carrier USS George H.W. Bush (CVN-77) orange while sailors on Pier 14 busied themselves preparing for the carrier to shove off across the Atlantic. The mood of families at the pier Tuesday was subdued without"
-  },
-  {
-    "id": "ca04cfdc796a",
-    "title": "Hegseth Downplays Risk of Sailing Through Strait of Hormuz as Merchant Traffic Sees Small Increase",
-    "url": "https://news.usni.org/2026/03/31/hegseth-downplays-risk-of-sailing-through-strait-of-hormuz-as-merchant-traffic-sees-small-increase",
-    "date": "2026-03-31T21:31:15Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Cargo vessels and tanker transits through the Strait of Hormuz saw a minimal rise last week, despite Defense Secretary Pete Hegseth’s denial the waterway is facing a blockage. Shipping analysis Lloyd’s List reported Monday that recent transits still represent less than 10 percent of the average traf"
-  },
-  {
-    "id": "94988d5badcd",
-    "title": "Last Surviving World War II Triple Ace Laid to Rest",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4448686/last-surviving-world-war-ii-triple-ace-laid-to-rest/",
-    "date": "2026-03-31T20:47:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "More than 100 people gathered at Arlington National Cemetery, Va., to honor and remember retired Air Force Col. Clarence E. \"Bud\" Anderson, the last surviving World War II triple ace."
-  },
-  {
-    "id": "fe0a503c7c32",
-    "title": "Snipers Test Signature Management Tech to Enhance Health, Safety",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4448537/snipers-test-signature-management-tech-to-enhance-health-safety/",
-    "date": "2026-03-31T19:01:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The Army Sniper Course at Fort Benning, Ga., is working to improve sniper survivability and lethality in large-scale combat operations by evaluating and integrating advanced signature management technology into training."
-  },
-  {
-    "id": "d500925a13d1",
-    "title": "Taiwan President Inspects Anti-ship, Air Defense Missile Production",
-    "url": "https://news.usni.org/2026/03/31/taiwan-president-inspects-anti-ship-air-defense-missile-production",
-    "date": "2026-03-31T17:52:24Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Taiwanese leadership inspected missile production lines last week, reviewing the progress on a precision munition stockpiling effort and plans behind an anticipated island-wide air defense effort. Taiwan President Lai Ching-te was briefed Friday on the industrial capabilities of the National Chung-S"
   },
   {
     "id": "7f38cc660f1a",
