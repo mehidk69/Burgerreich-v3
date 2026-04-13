@@ -1,5 +1,15 @@
 [
   {
+    "id": "b2e09102450b",
+    "title": "‘Integrity, Arriving’",
+    "url": "https://news.usni.org/2026/04/12/integrity-arriving",
+    "date": "2026-04-12T20:45:34Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "NAVAL BASE SAN DIEGO, Calif. &#8212; A boom across the Pacific near San Diego late Friday afternoon signaled the Orion capsule’s return to Earth&#8217;s atmosphere. The shock wave also summoned sailors tasked with safely returning the four astronauts following their 10-day lunar flight. It was time"
+  },
+  {
     "id": "1a24866b02ae",
     "title": "UPDATED: Two U.S. Warships Sail Through Strait of Hormuz to Establish New Route for Merchant Ships",
     "url": "https://news.usni.org/2026/04/11/two-u-s-warships-sail-through-strait-of-hormuz-to-establish-new-route-for-merchant-ships",
@@ -7,7 +17,7 @@
     "source": "USNI News",
     "cocom": "osint",
     "tag": "naval",
-    "summary": "This post has been updated with additional information on the transit. Two Navy guided-missile destroyers entered the Strait of Hormuz on Saturday, the first American warships to transit the strait since the U.S.-Israel offensive in Iran began on Feb. 28. USS Frank E. Petersen (DDG-121) and USS Mich"
+    "summary": "This post has been updated with additional information on the transit and the announcement of a U.S. blockade of Iranian merchant ships. Two Navy guided-missile destroyers entered the Strait of Hormuz on Saturday, the first American warships to transit the strait since the U.S.-Israel offensive in I"
   },
   {
     "id": "49745cb16d62",
@@ -1148,16 +1158,6 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "The military industrial base workers produce the weapons, platforms and systems that allow the warfighters to succeed on the battlefield, said Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, during a Pentagon press briefing."
-  },
-  {
-    "id": "9643e3af82b3",
-    "title": "Hegseth Impressed With Centcom Troops, 'Wartime Speed' During Epic Fury",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4448202/hegseth-impressed-with-centcom-troops-wartime-speed-during-epic-fury/",
-    "date": "2026-03-31T17:10:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Secretary of War Pete Hegseth visited with troops engaged in Operation Epic Fury during a visit to the U.S. Central Command area of responsibility, and he said he was beyond impressed with their performance, their dedication, their pride and the speed with which they carry out their mission."
   },
   {
     "id": "7f38cc660f1a",
