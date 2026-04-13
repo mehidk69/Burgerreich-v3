@@ -1,5 +1,15 @@
 [
   {
+    "id": "92ac45e52aed",
+    "title": "U.S. Forces Start Mine Clearance Mission in Strait of Hormuz",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4457440/us-forces-start-mine-clearance-mission-in-strait-of-hormuz/",
+    "date": "2026-04-13T14:16:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.S. Central Command forces prepared to start clearing mines in the Strait of Hormuz as two Navy destroyers conducted operations."
+  },
+  {
     "id": "b2e09102450b",
     "title": "‘Integrity, Arriving’",
     "url": "https://news.usni.org/2026/04/12/integrity-arriving",
@@ -1148,16 +1158,6 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "Taiwanese leadership inspected missile production lines last week, reviewing the progress on a precision munition stockpiling effort and plans behind an anticipated island-wide air defense effort. Taiwan President Lai Ching-te was briefed Friday on the industrial capabilities of the National Chung-S"
-  },
-  {
-    "id": "5719602633c2",
-    "title": "Chairman Commends Military Industrial Base Workers",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4448450/chairman-commends-military-industrial-base-workers/",
-    "date": "2026-03-31T17:32:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "The military industrial base workers produce the weapons, platforms and systems that allow the warfighters to succeed on the battlefield, said Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, during a Pentagon press briefing."
   },
   {
     "id": "7f38cc660f1a",
