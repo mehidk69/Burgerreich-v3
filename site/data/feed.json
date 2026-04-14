@@ -1,5 +1,55 @@
 [
   {
+    "id": "2265cdf8dafb",
+    "title": "Joint Task Forces Train on Counter-UASs, Strengthen Homeland Defense",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4459196/joint-task-forces-train-on-counter-uass-strengthen-homeland-defense/",
+    "date": "2026-04-14T17:00:11Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Joint Interagency Task Force 401 and Joint Task Force National Capital Region recently coordinated a training exercise at Fort Belvoir, Va., as part of a synchronized effort to advance counter-drone capabilities."
+  },
+  {
+    "id": "981bb85b74c3",
+    "title": "Arkansas National Guard Honors America's 250th Birthday by Enlisting 250 Recruits",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4459105/arkansas-national-guard-honors-americas-250th-birthday-by-enlisting-250-recruits/",
+    "date": "2026-04-14T16:07:07Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "To celebrate America's 250th birthday this year, the Arkansas National Guard enlisted 250 recruits during a ceremony at the MacArthur Museum of Arkansas Military History in Little Rock, Ark."
+  },
+  {
+    "id": "0fafe85004b9",
+    "title": "U.S. Military Kills 2 in 50th Strike on Suspected Narco Boat",
+    "url": "https://news.usni.org/2026/04/14/u-s-military-kills-2-in-50th-strike-on-suspected-narco-boat",
+    "date": "2026-04-14T15:45:46Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "U.S. forces struck a suspected narco boat Monday, the 50th such strike since the Trump administration launched its campaign against drug cartels in September, according to USNI News data. The boat was operating in the Eastern Pacific when it was struck, killing two men, U.S. Southern Command announc"
+  },
+  {
+    "id": "426817d4f156",
+    "title": "U.K. Forces Counter Covert Russian Submarine Activities, Officials Say",
+    "url": "https://news.usni.org/2026/04/14/u-k-forces-counter-covert-russian-submarine-activities-officials-say",
+    "date": "2026-04-14T14:31:08Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.K. forces thwarted what they believe was a covert operation by Russian submarines in the country’s Exclusive Economic Zone, U.K. officials announced Thursday. In a month-long operation, the U.K. Armed Forces monitored a Russian Akula-class attack submarine and multiple vessels, including two speci"
+  },
+  {
+    "id": "1e6ce1b4440d",
+    "title": "Report to Congress on the U.S.-South Korea Alliance",
+    "url": "https://news.usni.org/2026/04/14/report-to-congress-on-u-s-south-korea-alliance",
+    "date": "2026-04-14T13:36:23Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the March 16, 2026, Congressional Research Service report, U.S.-South Korea Alliance: Background and Issues for Congress. From the report In the wake of the Korean War (1950-53), the United States and South Korea (officially the Republic of Korea, or ROK) forged an alliance that rem"
+  },
+  {
     "id": "106f6f94031e",
     "title": "DM50 Picnic and Car Show",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4458353/dm50-picnic-and-car-show/",
@@ -1118,56 +1168,6 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "During an address from the White House, President Donald J. Trump told Americans that the U.S. military, as part of Operation Epic Fury, was nearing completion of operational objectives in Iran."
-  },
-  {
-    "id": "5fcdda4ae118",
-    "title": "Two Former Navy Fighter Pilots Lead NASA’s Artemis II Mission",
-    "url": "https://news.usni.org/2026/04/01/two-former-navy-fighter-pilots-lead-nasas-artemis-ii-mission",
-    "date": "2026-04-01T23:38:06Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Two former U.S. Navy fighter pilots are aboard the first crewed orbit around the moon in more than 50 years after launching on Wednesday from NASA’s Kennedy Space Center on the Artemis II mission. Retired Capt. Reid Wiseman is the commander of the Artemis II mission, while Capt. Victor Glover Jr. is"
-  },
-  {
-    "id": "89f6faf24326",
-    "title": "Japan Deploys New Hypersonic, Anti-ship Missiles",
-    "url": "https://news.usni.org/2026/04/01/japan-deploys-new-hypersonic-anti-ship-missiles",
-    "date": "2026-04-01T20:37:24Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Tokyo’s first batch of long-range strike missiles capable of reaching ground and maritime targets at extended ranges have been operationally fielded, according to Japan’s defense ministry. The Japan Ground Self-Defense Force (JGSDF) announced Monday the deployment of the Type 25 series of missiles."
-  },
-  {
-    "id": "671a07448b0f",
-    "title": "Amphibious Warship USS Rushmore Sailing Through Strait of Malacca",
-    "url": "https://news.usni.org/2026/04/01/amphibious-warship-uss-rushmore-sailing-through-strait-of-malacca",
-    "date": "2026-04-01T20:08:52Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Dock landing ship USS Rushmore (LSD-47) sailed through the Singapore Strait this week and is headed west through the Strait of Malacca, according to ship spotters. Rushmore, a Whidbey Island-class amphibious warship, is expected to meet up with the Tripoli Amphibious Ready Group in U.S. Central Comm"
-  },
-  {
-    "id": "0bc06f354edc",
-    "title": "From Workshop to Waterway: Marine Innovation Redefines Naval Strike Capabilities",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4449528/from-workshop-to-waterway-marine-innovation-redefines-naval-strike-capabilities/",
-    "date": "2026-04-01T16:55:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Marines assigned to the III Expeditionary Operations Training Group at Okinawa, Japan, and U.S. Naval Special Warfare Command operators executed the Marine Corps' first live-fire drone strike against a maritime surface vessel from a naval surface craft."
-  },
-  {
-    "id": "89110ecffdaa",
-    "title": "3rd Special Forces Group Pioneers Transformation for Multidomain Operations",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4449348/3rd-special-forces-group-pioneers-transformation-for-multidomain-operations/",
-    "date": "2026-04-01T16:30:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "In an era defined by rapid technological advancement and evolving warfare, the 3rd Special Forces Group is spearheading significant transformation as the Army adapts to the pressing demands of changing battlefield threats."
   },
   {
     "id": "7f38cc660f1a",
