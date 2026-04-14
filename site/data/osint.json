@@ -1,5 +1,25 @@
 [
   {
+    "id": "70be519e1cc4",
+    "title": "Carrier USS George H.W. Bush Operating off Southern Africa as Iranian Blockade Begins",
+    "url": "https://news.usni.org/2026/04/13/carrier-uss-george-h-w-bush-operating-off-southern-africa-as-iranian-blockade-begins",
+    "date": "2026-04-13T19:18:15Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Aircraft carrier USS George H.W. Bush (CVN-77) is operating off the coast of Namibia, as it sails around the African continent and is set to join a growing naval force in the Arabian Sea amid a U.S. blockade of the Strait of Hormuz, USNI News has learned. Bush, which deployed at the end of March, di"
+  },
+  {
+    "id": "0c073973deeb",
+    "title": "USNI News Fleet and Marine Tracker: April 13, 2026",
+    "url": "https://news.usni.org/2026/04/13/usni-news-fleet-and-marine-tracker-april-13-2026",
+    "date": "2026-04-13T19:12:43Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of April 13, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the ca"
+  },
+  {
     "id": "d516030b1159",
     "title": "Navy Commissions USS Harvey C. Barnum Jr. into the Fleet",
     "url": "https://news.usni.org/2026/04/13/navy-commissions-uss-harvey-c-barnum-jr-into-the-fleet",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "In an era defined by rapid technological advancement and evolving warfare, the 3rd Special Forces Group is spearheading significant transformation as the Army adapts to the pressing demands of changing battlefield threats."
-  },
-  {
-    "id": "7b255d23d509",
-    "title": "Testimony on Low-cost Munitions",
-    "url": "https://news.usni.org/2026/04/01/testimony-on-low-cost-munitions",
-    "date": "2026-04-01T15:10:35Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is testimony provided March 24, 2026, on low-cost munitions presented to the U.S. Senate Armed Services Committee. From the Report The March 24, 2026, hearing saw testimony from Air Force Brig. Gen. Robert Lyons III, Navy Vice Adm. Elizabeth Okano, Army Lt. Gen. Frank Lozano and Space"
-  },
-  {
-    "id": "99eeb12f3773",
-    "title": "USS George H.W. Bush Departs for Deployment, USS Gerald Ford Could Be Extended to 11 Months",
-    "url": "https://news.usni.org/2026/03/31/uss-george-h-w-bush-departs-for-deployment-uss-gerald-ford-could-be-extended-to-11-months",
-    "date": "2026-03-31T22:38:39Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "NAVAL STATION NORFOLK, Va. — The sun peeked over the horizon tinting the haze gray hull of carrier USS George H.W. Bush (CVN-77) orange while sailors on Pier 14 busied themselves preparing for the carrier to shove off across the Atlantic. The mood of families at the pier Tuesday was subdued without"
   }
 ]
