@@ -1,5 +1,25 @@
 [
   {
+    "id": "b88675e6d9ae",
+    "title": "Strait of Hormuz Traffic Down As U.S. Blockade Appears to Deter Some Ships",
+    "url": "https://news.usni.org/2026/04/14/strait-of-hormuz-traffic-down-as-u-s-blockade-appears-to-deter-some-ships",
+    "date": "2026-04-14T21:38:03Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "There are at least seven ships that initially reversed course in the Persian and Oman gulfs after the U.S. announced a blockade of Iran’s coast, according to maritime analysts monitoring merchant traffic in the Middle East. Four of the seven ships ultimately embarked back on their planned routes, ac"
+  },
+  {
+    "id": "52deac748293",
+    "title": "Army Engineers Conduct Bridge-Building Exercise in Texas",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4459292/army-engineers-conduct-bridge-building-exercise-in-texas/",
+    "date": "2026-04-14T18:53:14Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Army Reserve soldiers assigned to the 401st Engineer Company conducted a multiday bridge-building exercise designed to train new troops and refresh skills at Bardwell Lake, Texas."
+  },
+  {
     "id": "2265cdf8dafb",
     "title": "Joint Task Forces Train on Counter-UASs, Strengthen Homeland Defense",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4459196/joint-task-forces-train-on-counter-uass-strengthen-homeland-defense/",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "posture",
     "summary": "NASA's Artemis II mission successfully launched at Cape Canaveral Space Force Station, Fla., with four astronauts bound for lunar orbit. The historic moment would not have been possible without the dedication of Space Launch Delta 45 personnel."
-  },
-  {
-    "id": "3a82811fd7ad",
-    "title": "Defense Primer: Strategic Nuclear Forces",
-    "url": "https://news.usni.org/2026/04/02/defense-primer-strategic-nuclear-forces",
-    "date": "2026-04-02T14:31:57Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the April 1, 2026, Congressional Research Service report, Defense Primer: Strategic Nuclear Forces. From the Report The Department of Defense (DOD)—which is &#8220;using a secondary Department of War designation&#8221; under Executive Order 14347 dated September 5, 2025—is in the pr"
-  },
-  {
-    "id": "5177c76347b0",
-    "title": "Trump: Objectives in Iran Near Completion, Terrorist Nation 'Bully No Longer'",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4450132/trump-objectives-in-iran-near-completion-terrorist-nation-bully-no-longer/",
-    "date": "2026-04-02T03:27:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "During an address from the White House, President Donald J. Trump told Americans that the U.S. military, as part of Operation Epic Fury, was nearing completion of operational objectives in Iran."
   }
 ]
