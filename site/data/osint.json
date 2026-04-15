@@ -1,5 +1,55 @@
 [
   {
+    "id": "c260fd3e0175",
+    "title": "Africom Commences Exercise Flintlock 2026 in Africa",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4460643/africom-commences-exercise-flintlock-2026-in-africa/",
+    "date": "2026-04-15T18:06:16Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "U.S. Africa Command hosted dual opening ceremonies in Libya and Côte d'Ivoire, officially beginning Exercise Flintlock 2026, its annual combined special operations exercise."
+  },
+  {
+    "id": "27c63360b4b1",
+    "title": "Navy Must Do More to Protect SWCC Crews from Shock Trauma, IG Finds",
+    "url": "https://news.usni.org/2026/04/15/navy-must-do-more-to-protect-swcc-crews-from-shock-trauma-ig-finds",
+    "date": "2026-04-15T17:56:29Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Naval Special Warfare Command is not doing enough to protect special warfare combat crew members from traumatic brain injuries and musculoskeletal damage on small Combatant Craft Assault boats, the Defense Department&#8217;s top watchdog agency found. A 16-page report, published March 30 by the Defe"
+  },
+  {
+    "id": "a4d6ae56ba13",
+    "title": "North Korea Test Launches Anti-ship, Cruise Missiles from First-in-class Destroyer",
+    "url": "https://news.usni.org/2026/04/15/north-korea-test-launches-anti-ship-cruise-missiles-from-first-in-class-destroyer",
+    "date": "2026-04-15T16:25:14Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "North Korea launched anti-ship and cruise missiles over the weekend from first-in-class destroyer Choe Hyon (51) with North Korea leader Kim Jong Un overseeing the trials, state media reported Tuesday. Two strategic cruise missiles and three anti-ship missiles were fired Sunday as part of Choe Hyon’"
+  },
+  {
+    "id": "9626785f1c1f",
+    "title": "Marines Conduct Cargo UAS Shipboard Testing",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4460417/marines-conduct-cargo-uas-shipboard-testing/",
+    "date": "2026-04-15T15:59:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Marine Corps recently conducted shipboard testing with the TRV-150C tactical resupply unmanned aircraft system aboard an amphibious transport dock ship, marking a significant milestone in advancing ship-to-shore and ship-to-ship resupply solutions for combat logistics battalions."
+  },
+  {
+    "id": "aa4987237aa2",
+    "title": "USS Gerald R. Ford Breaks Post-Cold War Deployment Record",
+    "url": "https://news.usni.org/2026/04/15/uss-gerald-r-ford-breaks-post-cold-war-deployment-record",
+    "date": "2026-04-15T14:25:05Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The crew of USS Gerald R. Ford (CVN-78) are now the record holders for the longest carrier deployment since the collapse of the Soviet Union. On Wednesday, Ford’s deployment hit the 295-day record previously set by USS Abraham Lincoln (CVN-72) in the early days of the COVID-19 pandemic during its Mi"
+  },
+  {
     "id": "b88675e6d9ae",
     "title": "Strait of Hormuz Traffic Down As U.S. Blockade Appears to Deter Some Ships",
     "url": "https://news.usni.org/2026/04/14/strait-of-hormuz-traffic-down-as-u-s-blockade-appears-to-deter-some-ships",
@@ -13,7 +63,7 @@
     "id": "52deac748293",
     "title": "Army Engineers Conduct Bridge-Building Exercise in Texas",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4459292/army-engineers-conduct-bridge-building-exercise-in-texas/",
-    "date": "2026-04-14T18:53:14Z",
+    "date": "2026-04-14T18:53:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "ground",
@@ -33,7 +83,7 @@
     "id": "981bb85b74c3",
     "title": "Arkansas National Guard Honors America's 250th Birthday by Enlisting 250 Recruits",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4459105/arkansas-national-guard-honors-americas-250th-birthday-by-enlisting-250-recruits/",
-    "date": "2026-04-14T16:07:07Z",
+    "date": "2026-04-14T16:07:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
@@ -548,55 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The South Korean Navy stood up its first American-made MH-60R Seahawk helicopters Wednesday in the service’s latest move to bolster Seoul’s submarine hunting forces. Ordered in a $878 million deal from 2020, 12 anti-submarine helicopters were procured under the Republic of Korea Navy’s (ROKN) Mariti"
-  },
-  {
-    "id": "febedf8d6e1c",
-    "title": "Hegseth Authorizes Off-Duty Service Members to Carry Private Firearms on Installations",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4450527/hegseth-authorizes-off-duty-service-members-to-carry-private-firearms-on-instal/",
-    "date": "2026-04-02T20:54:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Secretary of War Pete Hegseth signed a memorandum directing military installation commanders to allow War Department personnel to request to carry privately owned firearms while in their nonofficial duty capacity on DOW property within the United States."
-  },
-  {
-    "id": "9fd9baf4e34a",
-    "title": "Carrier USS Gerald R. Ford Departs Croatia After Liberty, Additional Repairs",
-    "url": "https://news.usni.org/2026/04/02/carrier-uss-gerald-r-ford-departs-croatia-after-liberty-additional-repairs",
-    "date": "2026-04-02T20:10:31Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "USS Gerald R. Ford (CVN-78) departed Split, Croatia, following a five-day port visit, the Navy announced Thursday. It is unclear where the aircraft carrier is headed. Ford has been out for 282 days and is set to have a record-breaking deployment. “Gerald R. Ford remains poised for full mission taski"
-  },
-  {
-    "id": "ccdba6f67de5",
-    "title": "Florida National Guard Battalion Performs First Minuteman Rotation",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4450510/florida-national-guard-battalion-performs-first-minuteman-rotation/",
-    "date": "2026-04-02T18:06:03Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Florida National Guardsmen trained alongside the 82nd Airborne Division during a Joint Readiness Training Center rotation, marking the first time a guard unit has integrated into such a rotation under the new minuteman rotation concept."
-  },
-  {
-    "id": "eb3dd780c0dc",
-    "title": "French, Italian Carrier Strike Groups Wrap NATO’s Neptune Strike Drills",
-    "url": "https://news.usni.org/2026/04/02/french-italian-carrier-strike-groups-wrap-natos-neptune-strike-drills",
-    "date": "2026-04-02T17:28:31Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The French and Italian Navy carrier strike groups spent the past week carrying out maritime strikes and air patrols in the Mediterranean and Black seas as part of NATO’s Neptune Strike 26-1.  “From the flight deck of Charles De Gaulle, we have conducted several maritime strikes and air patrols above"
-  },
-  {
-    "id": "dc632d5a9fa2",
-    "title": "Space Launch Delta 45 Supports Artemis II Historic Mission",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4450457/space-launch-delta-45-supports-artemis-ii-historic-mission/",
-    "date": "2026-04-02T16:37:57Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "NASA's Artemis II mission successfully launched at Cape Canaveral Space Force Station, Fla., with four astronauts bound for lunar orbit. The historic moment would not have been possible without the dedication of Space Launch Delta 45 personnel."
   }
 ]
