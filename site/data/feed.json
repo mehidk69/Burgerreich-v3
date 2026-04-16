@@ -1,5 +1,25 @@
 [
   {
+    "id": "7368ad87fc29",
+    "title": "U.S. Military Strikes 4th Suspected Drug Boat in Eastern Pacific in 5 Days",
+    "url": "https://news.usni.org/2026/04/15/u-s-military-strikes-4th-suspected-drug-boat-in-eastern-pacific-in-5-days",
+    "date": "2026-04-15T20:46:04Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "U.S. forces with Joint Task Force Southern Spear conducted a fourth strike against an alleged drug boat in five days, U.S. Southern Command announced Wednesday. Four men were killed in the strike – the 51st overall – bringing the total number of deaths in the strikes to at least 173. One of the stri"
+  },
+  {
+    "id": "6caabd2ff54a",
+    "title": "Counter-UAS Marketplace Streamlines Acquisition, First Purchases Total $13 Million",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4460957/counter-uas-marketplace-streamlines-acquisition-first-purchases-total-13-million/",
+    "date": "2026-04-15T20:07:02Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Joint Interagency Task Force 401 announced the first set of purchases completed through its new counter-unmanned aircraft systems marketplace, four acquisitions  collectively valued at $13 million."
+  },
+  {
     "id": "c260fd3e0175",
     "title": "Africom Commences Exercise Flintlock 2026 in Africa",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4460643/africom-commences-exercise-flintlock-2026-in-africa/",
@@ -1140,16 +1160,6 @@
     "summary": "During Exercise Condor Rebirth, soldiers assigned to the 1st Cavalry Division tested AI-supported sensor integration to provide commanders with a unified, real-time view of air and ground threats."
   },
   {
-    "id": "e47d0e303ac2",
-    "title": "Joint Interagency Task Force 401 Enhances Counter-UAS Capability to Protect the Southern Border",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4451071/joint-interagency-task-force-401-enhances-counter-uas-capability-to-protect-the/",
-    "date": "2026-04-02T22:05:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Joint Interagency Task Force 401 is rapidly delivering counter-unmanned aircraft systems to protect the southern border with advanced technology, an integrated system architecture and expanded authorities."
-  },
-  {
     "id": "312541045c28",
     "title": "68th Rescue Squadron Combat Leader Course Titan Missile Museum",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4451080/68th-rescue-squadron-combat-leader-course-titan-missile-museum/",
@@ -1168,16 +1178,6 @@
     "cocom": "centcom",
     "tag": "exercise",
     "summary": "DAVIS-MONTHAN AIR FORCE BASE, Ariz. — U.S. Airmen at Davis-Monthan Air Force Base are expanding their deployment readiness through the Mission Ready Airmen program, an initiative designed to prepare service members for the challenges they may face in deployed environments.<br />\n<img alt=\"U.S. Air F"
-  },
-  {
-    "id": "3fc685ac059d",
-    "title": "Seoul Expands Sub Warfare Force with U.S. Helos, Patrol Aircraft",
-    "url": "https://news.usni.org/2026/04/02/seoul-expands-sub-warfare-force-with-u-s-helos-patrol-aircraft",
-    "date": "2026-04-02T21:01:33Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The South Korean Navy stood up its first American-made MH-60R Seahawk helicopters Wednesday in the service’s latest move to bolster Seoul’s submarine hunting forces. Ordered in a $878 million deal from 2020, 12 anti-submarine helicopters were procured under the Republic of Korea Navy’s (ROKN) Mariti"
   },
   {
     "id": "7f38cc660f1a",
