@@ -1,5 +1,35 @@
 [
   {
+    "id": "13e44a786b8f",
+    "title": "Golden Dome Will Protect Homeland, Provide Layered Defense, Leaders Say",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4461784/golden-dome-will-protect-homeland-provide-layered-defense-leaders-say/",
+    "date": "2026-04-16T16:21:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "During a hearing before the House Armed Services Committee's strategic forces subcommittee, the assistant secretary of war for space policy reiterated the need for the Golden Dome for America as he described the intensifying strategic competition facing the nation."
+  },
+  {
+    "id": "2e0554df6e63",
+    "title": "Carrier USS Dwight D. Eisenhower Suffers Fire at Norfolk Naval Shipyard",
+    "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard",
+    "date": "2026-04-16T14:41:43Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Aircraft carrier USS Dwight D. Eisenhower (CVN-69) suffered a fire this week while undergoing a maintenance availability at Norfolk Naval Shipyard in Portsmouth, Va., USNI News has learned. There was a small fire onboard the carrier Tuesday, a Navy spokesperson confirmed to USNI News. The ship’s for"
+  },
+  {
+    "id": "28dad94e74d7",
+    "title": "U.S. Strikes Third Suspected Narco Boat in Three Days, Three Killed",
+    "url": "https://news.usni.org/2026/04/16/u-s-strikes-third-suspected-narco-boat-in-three-days-three-killed",
+    "date": "2026-04-16T13:26:35Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Joint Task Force Southern Spear struck the third suspected narco boat in three days, U.S. Southern Command announced late Wednesday. Forces with the joint task force struck a boat allegedly carrying illicit narcotics in the Eastern Pacific on Wednesday, according to SOUTHCOM post on social media sit"
+  },
+  {
     "id": "7368ad87fc29",
     "title": "U.S. Military Strikes 4th Suspected Drug Boat in Eastern Pacific in 5 Days",
     "url": "https://news.usni.org/2026/04/15/u-s-military-strikes-4th-suspected-drug-boat-in-eastern-pacific-in-5-days",
@@ -23,7 +53,7 @@
     "id": "c260fd3e0175",
     "title": "Africom Commences Exercise Flintlock 2026 in Africa",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4460643/africom-commences-exercise-flintlock-2026-in-africa/",
-    "date": "2026-04-15T18:06:16Z",
+    "date": "2026-04-15T18:06:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "exercise",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "posture",
     "summary": "The War Department Personal Property Activity marked a significant milestone: moving from a Permanent Change of Station Joint Task Force to becoming a permanent organization dedicated to supporting military personnel, DOW civilians and their families through PCS moves."
-  },
-  {
-    "id": "e433aec14c29",
-    "title": "U.S., Partner Nations Complete Antisubmarine Warfare Exercise",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4451381/us-partner-nations-complete-antisubmarine-warfare-exercise/",
-    "date": "2026-04-03T17:45:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Exercise Sea Dragon 2026 improved on participating nations' ability to conduct multinational antisubmarine warfare operations and demonstrated the Navy's commitment to security in the Indo-Pacific."
-  },
-  {
-    "id": "aa0044ddda8c",
-    "title": "U.S. Marine Force Southeast Asia Lingers Longer in the Philippines",
-    "url": "https://news.usni.org/2026/04/03/u-s-marine-force-southeast-asia-lingers-longer-in-the-philippines",
-    "date": "2026-04-03T15:47:25Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The U.S. Marine Corps is extending the deployment of Marine Rotational Force-Southeast Asia (MRF-SEA) to the Philippines to focus on cooperation with the country’s military, according to a Tuesday announcement. The extension departs from the unit’s standard rotational deployment which takes MRF-SEA"
-  },
-  {
-    "id": "5131eaa13704",
-    "title": "Condor Rebirth Protects Armored Units on the Modern Battlefield",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4451329/condor-rebirth-protects-armored-units-on-the-modern-battlefield/",
-    "date": "2026-04-03T15:01:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "During Exercise Condor Rebirth, soldiers assigned to the 1st Cavalry Division tested AI-supported sensor integration to provide commanders with a unified, real-time view of air and ground threats."
   }
 ]

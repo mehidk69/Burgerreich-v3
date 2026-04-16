@@ -1,4 +1,15 @@
 {
-  "items": [],
-  "updated": "2026-04-16T13:05:22Z"
+  "items": [
+    {
+      "id": "7de1022f6d68",
+      "type": "Aircraft Carrier",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-04-16T14:41:43Z",
+      "headline": "Carrier USS Dwight D. Eisenhower Suffers Fire at Norfolk Naval Shipyard",
+      "context": "ght D. Eisenhower Suffers Fire at Norfolk Naval Shipyard Aircraft carrier USS Dwight D. Eisenhower (CVN-69) suffered a fire this week while undergoing a maintenance availability at Norfolk Naval Shipy",
+      "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
+    }
+  ],
+  "updated": "2026-04-16T18:59:30Z"
 }
