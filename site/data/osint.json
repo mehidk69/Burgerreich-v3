@@ -1,9 +1,39 @@
 [
   {
+    "id": "d234b0cef733",
+    "title": "Marine Corps Awards Contracts for Advanced Reconnaissance Vehicle Prototypes",
+    "url": "https://news.usni.org/2026/04/17/marine-corps-awards-contracts-for-advanced-reconnaissance-vehicle-prototypes",
+    "date": "2026-04-17T17:59:25Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The U.S. Marine Corps awarded contracts to General Dynamics Land Systems and Textron Systems Corporation earlier this month, moving forward with the second phase of rapid prototyping for the service’s Advanced Reconnaissance Vehicle.  Both GD Land Systems and Textron will build and deliver their res"
+  },
+  {
+    "id": "6f54fb708981",
+    "title": "Guard Unit 'Turns Blue,' Symbolizing Mobile Infantry Transition",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4463357/guard-unit-turns-blue-symbolizing-mobile-infantry-transition/",
+    "date": "2026-04-17T16:40:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The Nevada Army National Guard's 1st Battalion, 221st Cavalry Regiment transitioned from a mounted cavalry formation to a mobile infantry battalion during a \"turning blue\" ceremony at the Clark County Armory in Las Vegas."
+  },
+  {
+    "id": "743446260457",
+    "title": "2026 Australian National Defence Strategy",
+    "url": "https://news.usni.org/2026/04/17/2026-australian-national-defence-strategy",
+    "date": "2026-04-17T13:02:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the 2026 Australian Government National Defence Strategy, released on April 16, 2026. From the report Australia’s strategic environment The deteriorating trends in our strategic environment that were identified in the 2024 National Defence Strategy have broadened and intensified. Ne"
+  },
+  {
     "id": "051592900097",
     "title": "Air Force, Army, Marines Unite for Joint Air Traffic Control Training",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4461712/air-force-army-marines-unite-for-joint-air-traffic-control-training/",
-    "date": "2026-04-17T11:30:44Z",
+    "date": "2026-04-17T11:30:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "ground",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "During a White House press conference, President Donald J. Trump, Secretary of War Pete Hegseth and Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, lauded the military's success in a harrowing Easter weekend rescue of two airmen."
-  },
-  {
-    "id": "f1e5c05d5d3b",
-    "title": "Joint Task Force Commits Over $600 Million to Procure New Counter-UAS Capability",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4452647/joint-task-force-commits-over-600-million-to-procure-new-counter-uas-capability/",
-    "date": "2026-04-06T20:28:47Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Joint Interagency Task Force 401 has committed over $600 million at a record pace to strengthen counter-unmanned aircraft systems capabilities in support of Operation Epic Fury, the FIFA World Cup and homeland defense."
-  },
-  {
-    "id": "ca097d42bf21",
-    "title": "USNI News Fleet and Marine Tracker: April 6, 2026",
-    "url": "https://news.usni.org/2026/04/06/usni-news-fleet-and-marine-tracker-april-6-2026",
-    "date": "2026-04-06T20:00:02Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of April 6, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
-  },
-  {
-    "id": "17bec6fb237b",
-    "title": "Marines Test Custom-built Drone in Live Fire Test, Strike Unmanned Surface Vessel",
-    "url": "https://news.usni.org/2026/04/06/marines-test-custom-built-drone-in-live-fire-test-strike-unmanned-surface-vessel",
-    "date": "2026-04-06T17:43:46Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The Marine Corps carried out its first live-fire drone strike against a maritime surface vessel last month during a trial in Japan as part of the service’s effort to advance its autonomous capabilities. Marines from the III Expeditionary Operations Training Group (III EOTG) and operators from Naval"
   }
 ]
