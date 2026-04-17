@@ -1,5 +1,15 @@
 [
   {
+    "id": "051592900097",
+    "title": "Air Force, Army, Marines Unite for Joint Air Traffic Control Training",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4461712/air-force-army-marines-unite-for-joint-air-traffic-control-training/",
+    "date": "2026-04-17T11:30:44Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Airmen, soldiers and Marines completed two weeks of airfield training at Robins Air Force Base, Ga., learning valuable skills while highlighting the power of military interoperability."
+  },
+  {
     "id": "4ffc268790f4",
     "title": "U.S. Expands Search for Contraband as Iranian Blockade Continues",
     "url": "https://news.usni.org/2026/04/16/u-s-expands-search-for-contraband-as-iranian-blockade-continues",
@@ -1158,16 +1168,6 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "The Marine Corps carried out its first live-fire drone strike against a maritime surface vessel last month during a trial in Japan as part of the service’s effort to advance its autonomous capabilities. Marines from the III Expeditionary Operations Training Group (III EOTG) and operators from Naval"
-  },
-  {
-    "id": "993c17a72fc5",
-    "title": "Four USAMU Soldiers Qualify for Upcoming Rifle World Cup Competitions",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4452266/four-usamu-soldiers-qualify-for-upcoming-rifle-world-cup-competitions/",
-    "date": "2026-04-06T17:22:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Four soldiers assigned to the U.S. Army Marksmanship Unit qualified to represent the United States at upcoming rifle world cups after competing in USA Shooting's Rifle Spring Selection Match in Colorado Springs, Colo."
   },
   {
     "id": "312541045c28",
