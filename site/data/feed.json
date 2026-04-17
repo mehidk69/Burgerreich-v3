@@ -1,5 +1,55 @@
 [
   {
+    "id": "4ffc268790f4",
+    "title": "U.S. Expands Search for Contraband as Iranian Blockade Continues",
+    "url": "https://news.usni.org/2026/04/16/u-s-expands-search-for-contraband-as-iranian-blockade-continues",
+    "date": "2026-04-16T21:12:43Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. reserves the right to search any Iranian vessels, sanctioned vessels and ships suspected of carrying a list of contraband items, according to a Thursday notice to mariners from U.S. Central Command. Contraband items include weapons, ammunition, explosives and military equipment, the notice"
+  },
+  {
+    "id": "8eb5784bf8d3",
+    "title": "Hegseth Urges Iran to 'Choose Wisely' During Epic Fury Ceasefire, Blockade",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4461708/hegseth-urges-iran-to-choose-wisely-during-epic-fury-ceasefire-blockade/",
+    "date": "2026-04-16T20:04:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "During a Pentagon press briefing, Secretary of War Pete Hegseth urged the new Iranian regime to make wise choices amid a ceasefire in combat operations, and to work in good faith toward a deal with the United States."
+  },
+  {
+    "id": "80cfa9f34e3d",
+    "title": "Caine Praises Sailors, Marines Enforcing Iran Blockade",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4462499/caine-praises-sailors-marines-enforcing-iran-blockade/",
+    "date": "2026-04-16T20:04:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "During a press conference at the Pentagon, Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, thanked the sailors and Marines on board vessels in the Persian Gulf enforcing the blockade of ships that sail from Iranian ports."
+  },
+  {
+    "id": "cdb3a920c0cf",
+    "title": "Marinette Marine Awarded $30M for Landing Ship Medium Ahead of Vessel Construction Manager Selection",
+    "url": "https://news.usni.org/2026/04/16/marinette-marine-awarded-30m-for-landing-ship-medium-ahead-of-vessel-construction-manager-selection",
+    "date": "2026-04-16T19:59:49Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Wisconsin shipbuilder Fincantieri Marinette Marine was awarded a $30 million contract for long lead material and planning for four planned McClung-class medium landing ships, according to a Pentagon contract announcement. The Naval Sea Systems Command award sets up the yard on the Menominee River ne"
+  },
+  {
+    "id": "fd196ea54e63",
+    "title": "Military Leaders Update Congress on Force Readiness, Quality of Life Programs",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4462107/military-leaders-update-congress-on-force-readiness-quality-of-life-programs/",
+    "date": "2026-04-16T18:38:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Senior leaders from the Army, Navy and Marine Corps provided an update on steps their respective branches are taking to improve the quality of life for service members during a hearing in Washington before the House Armed Services Committee's readiness subcommittee."
+  },
+  {
     "id": "e4fe08d1ac03",
     "title": "DM Command Team Takes the PT Test",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4462016/dm-command-team-takes-the-pt-test/",
@@ -1118,56 +1168,6 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "Four soldiers assigned to the U.S. Army Marksmanship Unit qualified to represent the United States at upcoming rifle world cups after competing in USA Shooting's Rifle Spring Selection Match in Colorado Springs, Colo."
-  },
-  {
-    "id": "4663e69b291b",
-    "title": "SOUTHCOM Doesn’t Need a Carrier for Maritime Interdiction, CNO Says",
-    "url": "https://news.usni.org/2026/04/06/southcom-doesnt-need-a-carrier-for-maritime-interdiction-cno-says",
-    "date": "2026-04-06T15:48:01Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "For more than 100 days, the Gerald R. Ford Carrier Strike Group – the U.S. Navy’s premier platform – operated in the Caribbean after it was pulled from the Middle East late last year. USS Gerald R. Ford (CVN-78), Carrier Air Wing 8 and escorts USS Winston S. Churchill (DDG-81), USS Bainbridge (DDG-9"
-  },
-  {
-    "id": "0ff5bfedb4dc",
-    "title": "DLA Energy's Supply Chain Fuels Artemis II Mission",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4452141/dla-energys-supply-chain-fuels-artemis-ii-mission/",
-    "date": "2026-04-06T15:02:41Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "When NASA's Artemis II mission launched, its success relied on a complex and critical supply chain managed by the Defense Logistics Agency Energy."
-  },
-  {
-    "id": "78f2aa703258",
-    "title": "Pentagon’s New $65.8B Shipbuilding Request is Highest Since 1962",
-    "url": "https://news.usni.org/2026/04/03/pentagons-new-65-8b-shipbuilding-request-is-highest-since-1962",
-    "date": "2026-04-03T22:09:38Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Pentagon’s request for new shipbuilding funds is among the highest-ever since the Korean War, rivaling the Reagan-era 600-ship spending plan and the nuclear submarine buildup in the 1960s, according to budget documents. In a $1.5 trillion Fiscal Year 2027 national security submission split betwe"
-  },
-  {
-    "id": "e2123347b3fb",
-    "title": "Shipping Industry Uncertain As Hormuz Crisis Carries On",
-    "url": "https://news.usni.org/2026/04/03/shipping-industry-uncertain-as-hormuz-crisis-carries-on",
-    "date": "2026-04-03T21:33:53Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "President Donald Trump announced Friday that the U.S. could open the Strait of Hormuz with “a little more time” as the president continues to adjust his messaging on the passageway between the Persian Gulf and the Arabian Sea. Since the U.S.-Israel offensive in Iran began on Feb. 28, the Trump admin"
-  },
-  {
-    "id": "5267fb7cabcf",
-    "title": "PCS Joint Task Force Becomes Personal Property Activity",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4451739/pcs-joint-task-force-becomes-personal-property-activity/",
-    "date": "2026-04-03T20:46:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The War Department Personal Property Activity marked a significant milestone: moving from a Permanent Change of Station Joint Task Force to becoming a permanent organization dedicated to supporting military personnel, DOW civilians and their families through PCS moves."
   },
   {
     "id": "312541045c28",
