@@ -1,5 +1,25 @@
 [
   {
+    "id": "cb790598eec0",
+    "title": "USNI News Fleet and Marine Tracker: April, 20 2026",
+    "url": "https://news.usni.org/2026/04/20/usni-news-fleet-and-marine-tracker-april-20-2026",
+    "date": "2026-04-20T17:26:50Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of April 20, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the ca"
+  },
+  {
+    "id": "9d27d0d196e6",
+    "title": "PLAN Carrier Fujian Expected to Achieve Full Readiness This Year, Chinese State Media Says",
+    "url": "https://news.usni.org/2026/04/20/plan-carrier-fujian-expected-to-achieve-full-readiness-this-year-chinese-state-media-says",
+    "date": "2026-04-20T15:25:32Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Beijing’s newest and largest aircraft carrier is expected to achieve full operational readiness this year, Chinese state media reported when highlighting the rapid progress of the country’s carrier program and naval aviation developments. Chinese military commentators expressed optimism that the Typ"
+  },
+  {
     "id": "3908c3846a7c",
     "title": "U.S. Forces Disable Vessel Attempting to Enter Iranian Port, Violate Blockade",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4464208/us-forces-disable-vessel-attempting-to-enter-iranian-port-violate-blockade/",
@@ -27,7 +47,7 @@
     "source": "USNI News",
     "cocom": "osint",
     "tag": "alert",
-    "summary": "Joint Task Force Southern Spear forces struck a boat allegedly ferrying illicit narcotics in the Caribbean, U.S. Southern Command announced Sunday night. Three men were killed in the strike, which makes the 53rd one since President Donald Trump announced the first one on Sept. 1. The SOUTHCOM strike"
+    "summary": "This story has been updated to include the Navy ships operating in the Caribbean under U.S. Southern Command. Joint Task Force Southern Spear forces struck a boat allegedly ferrying illicit narcotics in the Caribbean, U.S. Southern Command announced Sunday night. Three men were killed in the strike,"
   },
   {
     "id": "b183e366c099",
@@ -1148,26 +1168,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The French Navy tested launching and recovering a U.S. Navy Razorback Unmanned Undersea Vehicle (UUV) from a submerged French Suffren-class nuclear-powered attack submarine last month, validating the French submarine’s removable dry deck shelter can be used for underwater drone operations. A Suffren"
-  },
-  {
-    "id": "ec99adfe5b3e",
-    "title": "Report to Congress on Iran’s Nuclear Program and UN Sanctions Reimposition",
-    "url": "https://news.usni.org/2026/04/08/report-to-congress-on-irans-nuclear-program-and-un-sanctions-reimposition",
-    "date": "2026-04-08T13:03:36Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The following is the April 6, 2026, Congressional Research Service report, Iran’s Nuclear Program and UN Sanctions Reimposition. From the Report UN Security Council Resolution 2231 (2015), which the council adopted on July 20, 2015, implements the Joint Comprehensive Plan of Action (JCPOA) and conta"
-  },
-  {
-    "id": "46c505c0c45e",
-    "title": "Pentagon Adds to Pacific Refueling Capacity With New Philippine Depot",
-    "url": "https://news.usni.org/2026/04/07/pentagon-adds-to-pacific-refueling-capacity-with-new-philippine-depot",
-    "date": "2026-04-07T20:57:49Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The Pentagon plans to open a new depot in the Southern Philippines by 2028, setting the stage to expand Washington’s growing network of forward-based Western Pacific refueling hubs alongside upcoming sites in Australia and Papua New Guinea. Last month, the Defense Logistics Agency (DLA) requested co"
   },
   {
     "id": "17e3bad3fcf4",
