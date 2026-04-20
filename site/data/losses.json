@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "3d465b9f83e2",
+      "type": "Destroyer",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-04-20T02:23:13Z",
+      "headline": "U.S. Disables, Seizes Iranian Container Ship Attempting to Run Strait of Hormuz Blockade",
+      "context": ".S. Treasury, as it attempted to sail into an Iranian port, CENTCOM announced Sunday. USS Spruance (DDG-111), a destroyer in the Abraham Lincoln Carrier Strike Group, intercepted container ship MV Tou",
+      "url": "https://news.usni.org/2026/04/19/u-s-disables-seizes-iranian-container-ship-attempting-to-run-strait-of-hormuz-blockade"
+    },
+    {
       "id": "7de1022f6d68",
       "type": "Aircraft Carrier",
       "qty": 1,
@@ -11,5 +21,5 @@
       "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
     }
   ],
-  "updated": "2026-04-20T01:29:48Z"
+  "updated": "2026-04-20T07:51:19Z"
 }

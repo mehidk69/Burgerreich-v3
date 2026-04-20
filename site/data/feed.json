@@ -1,5 +1,15 @@
 [
   {
+    "id": "b183e366c099",
+    "title": "U.S. Disables, Seizes Iranian Container Ship Attempting to Run Strait of Hormuz Blockade",
+    "url": "https://news.usni.org/2026/04/19/u-s-disables-seizes-iranian-container-ship-attempting-to-run-strait-of-hormuz-blockade",
+    "date": "2026-04-20T02:23:13Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.S. Central Command forces boarded and seized an Iranian-flagged cargo vessel, sanctioned by the U.S. Treasury, as it attempted to sail into an Iranian port, CENTCOM announced Sunday. USS Spruance (DDG-111), a destroyer in the Abraham Lincoln Carrier Strike Group, intercepted container ship MV Tous"
+  },
+  {
     "id": "806928faf7ea",
     "title": "USS Gerald R. Ford is Now Operating in the Red Sea",
     "url": "https://news.usni.org/2026/04/19/uss-gerald-r-ford-now-operating-in-the-red-sea",
@@ -1158,16 +1168,6 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "The Coast Guard cutter Midgett crew rescued a family of three in the waters off the coast of Chuuk, part of the Federated States of Micronesia, following search and rescue operations."
-  },
-  {
-    "id": "9e917b54c138",
-    "title": "Pentagon’s Fiscal Year 2027 Budget Request for Procurement Programs",
-    "url": "https://news.usni.org/2026/04/07/pentagons-fiscal-year-2027-budget-request-for-procurement-programs",
-    "date": "2026-04-07T14:58:07Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is the Pentagon’s Fiscal Year 2027 budget request for procurement programs, released April 3, 2026. Summary This document outlines the Fiscal Year 2027 budget request for the Defense Department&#8217;s procurement programs. The document includes total obligational authority across Army"
   },
   {
     "id": "17e3bad3fcf4",
