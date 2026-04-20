@@ -1,5 +1,15 @@
 [
   {
+    "id": "8dcca1338f8e",
+    "title": "U.S. Forces Strike Suspected Narco Boat, 3 Killed",
+    "url": "https://news.usni.org/2026/04/20/u-s-forces-strike-suspected-narco-boat-3-killed",
+    "date": "2026-04-20T11:34:32Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Joint Task Force Southern Spear forces struck a boat allegedly ferrying illicit narcotics in the Caribbean, U.S. Southern Command announced Sunday night. Three men were killed in the strike, which makes the 53rd one since President Donald Trump announced the first one on Sept. 1. The SOUTHCOM strike"
+  },
+  {
     "id": "b183e366c099",
     "title": "U.S. Disables, Seizes Iranian Container Ship Attempting to Run Strait of Hormuz Blockade",
     "url": "https://news.usni.org/2026/04/19/u-s-disables-seizes-iranian-container-ship-attempting-to-run-strait-of-hormuz-blockade",
@@ -1158,16 +1168,6 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "Adam Telle, Army assistant secretary for civil works, visited Juneau, Alaska, to observe the Army Corps of Engineers' efforts to address flooding ahead of the annual Mendenhall Glacier outburst."
-  },
-  {
-    "id": "13bcd4c2a542",
-    "title": "Coast Guard Cutter Midgett Rescues Family Missing in Western Pacific",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4453234/coast-guard-cutter-midgett-rescues-family-missing-in-western-pacific/",
-    "date": "2026-04-07T16:06:48Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The Coast Guard cutter Midgett crew rescued a family of three in the waters off the coast of Chuuk, part of the Federated States of Micronesia, following search and rescue operations."
   },
   {
     "id": "17e3bad3fcf4",
