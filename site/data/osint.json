@@ -1,5 +1,55 @@
 [
   {
+    "id": "24fcd71d8382",
+    "title": "Navy to Deploy Thousands of Unmanned Surface Vessels to the Indo-Pacific by 2030",
+    "url": "https://news.usni.org/2026/04/21/navy-to-deploy-thousands-of-unmanned-surface-vessels-to-the-indo-pacific-by-2030",
+    "date": "2026-04-21T18:43:02Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "NATIONAL HARBOR, Md. — The U.S. Navy is looking to field thousands of unmanned surface vessels to the Indo-Pacific by 2030, according to the service’s drone boat development group. “By 2030, expect to see over 30 Medium Unmanned Surface Vessels (MUSV) just in the Indo-Pacific. Expect to see thousand"
+  },
+  {
+    "id": "d525a27a0a7b",
+    "title": "Army Contracting Command Accelerates Hypersonic Weapon Fielding",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4465604/army-contracting-command-accelerates-hypersonic-weapon-fielding/",
+    "date": "2026-04-21T16:27:04Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "U.S. Army Contracting Command Redstone Arsenal awarded a $2.7 billion production contract to support the Dark Eagle long-range hypersonic weapon, marking a major milestone ahead of an accelerated fiscal 2026 fielding timeline."
+  },
+  {
+    "id": "050657b14dee",
+    "title": "On Time Columbia-class Delivery is ‘Life or Death Imperative,’ Sub Czar Gaucher Says",
+    "url": "https://news.usni.org/2026/04/21/on-time-columbia-class-delivery-is-life-or-death-imperative-sub-czar-gaucher-says",
+    "date": "2026-04-21T15:18:53Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "NATIONAL HARBOR, Md. — The architects of the Navy’s new shift in building submarines were given the green light by senior Pentagon leaders to “bust things up” to get submarine repair and construction back on track as the service races to deliver the first Columbia-class ballistic missile submarine o"
+  },
+  {
+    "id": "493401b45d32",
+    "title": "Navy Wants to Buy $17B Trump-class Battleship in FY 2028",
+    "url": "https://news.usni.org/2026/04/21/navy-wants-to-buy-trump-class-battleship-in-fy-2028",
+    "date": "2026-04-21T15:00:11Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "THE PENTAGON – The Navy wants to buy the first Trump-class battleship in next year’s budget submission, a schedule that would allow the service to make the purchase before President Donald Trump leaves office. The first battleship, known as BBG(X), is currently programmed in the five-year budget out"
+  },
+  {
+    "id": "a7f5ad24166b",
+    "title": "Hegseth: Flu Vaccine Optional",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4464967/hegseth-flu-vaccine-optional/",
+    "date": "2026-04-21T14:02:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Annual influenza vaccines are no longer mandatory, said Secretary of War Pete Hegseth in a video posted on social media. The new mandate follows similar department efforts regarding the COVID-19 vaccine."
+  },
+  {
     "id": "30a250610fd5",
     "title": "Service Member Olympians Meet With Secretary of War",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4464847/service-member-olympians-meet-with-secretary-of-war/",
@@ -548,55 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Navy researchers at Wright-Patterson Air Force Base, Ohio, are seeking volunteers to assist in a study that directly supports one of the United States' biggest space exploration goals: returning American astronauts to the moon."
-  },
-  {
-    "id": "7ac9f3a8e8d2",
-    "title": "Airmen Launch Remotely Operated Weapon Station Course in Turkey",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4455350/airmen-launch-remotely-operated-weapon-station-course-in-turkey/",
-    "date": "2026-04-09T16:10:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The 39th Security Forces Squadron certified airmen on the Common Remotely Operated Weapon Station for the first time at Incirlik Air Base, Turkey, supporting the 39th Air Base Wing's goal for airmen to be trained, equipped and ready."
-  },
-  {
-    "id": "bce66569cc10",
-    "title": "Report to Congress on U.S. Army’s Dark Eagle Hypersonic Weapon",
-    "url": "https://news.usni.org/2026/04/09/report-to-congress-on-u-s-armys-dark-eagle-hypersonic-weapon",
-    "date": "2026-04-09T14:12:03Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The following is the April 7, 2026, Congressional Research Service In Focus report, U.S. Army’s Long-Range Hypersonic Weapon (LRHW): Dark Eagle. From the report What Is the Army’s Long-Range Hypersonic Weapon? The Army’s Long-Range Hypersonic Weapon (LRHW)—also known as Dark Eagle —with a reported r"
-  },
-  {
-    "id": "948df08b2b65",
-    "title": "South Korean Submarine Completes First Leg of Indo-Pacific Voyage to Canada",
-    "url": "https://news.usni.org/2026/04/08/south-korean-submarine-completes-first-leg-of-indo-pacific-voyage-to-canada",
-    "date": "2026-04-08T21:46:04Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A Republic of Korea Navy attack boat docked in Guam on Tuesday, completing the first leg of what will be the longest voyage of a South Korean submarine to date. ROKS Dosan Ahn Chang-ho (SS-083), the first of Seoul’s KSS-III-class of diesel electric submarines, departed South Korea last month for Can"
-  },
-  {
-    "id": "43d56bc880a4",
-    "title": "Naval Postgraduate School Alumni Lead Artemis II Homebound",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4454241/naval-postgraduate-school-alumni-lead-artemis-ii-homebound/",
-    "date": "2026-04-08T16:50:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Retired Navy Capt. Reid Wiseman and Navy Capt. Victor Glover — Naval Postgraduate School alumni — are using their years of experience as test pilots, advanced education and astronaut training to guide the Artemis II crew safely back to Earth."
-  },
-  {
-    "id": "393a43c6b2c7",
-    "title": "Epic Fury Quelled for Now, Objectives Accomplished, U.S. Forces Remain Ready",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4454276/epic-fury-quelled-for-now-objectives-accomplished-us-forces-remain-ready/",
-    "date": "2026-04-08T16:25:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "In fewer than 40 days, unrelenting military action by America's joint force has helped accomplish all the goals President Donald J. Trump set for Operation Epic Fury."
   }
 ]
