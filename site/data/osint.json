@@ -1,5 +1,25 @@
 [
   {
+    "id": "30a250610fd5",
+    "title": "Service Member Olympians Meet With Secretary of War",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4464847/service-member-olympians-meet-with-secretary-of-war/",
+    "date": "2026-04-20T20:04:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Soldiers and airmen who participated in the 2026 Milan Cortina Winter Olympic Games in Italy with the World Class Athlete Program visited the Pentagon, where the athletes also got an unexpected opportunity to meet with Secretary of War Pete Hegseth."
+  },
+  {
+    "id": "d4395a7fe744",
+    "title": "Department Official Details DOW's Intelligence, Security Priorities",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4464750/department-official-details-dows-intelligence-security-priorities/",
+    "date": "2026-04-20T19:30:06Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The undersecretary of war for intelligence and security testified on the resourcing, priorities and challenges facing the intelligence enterprise for fiscal year 2027 during a hearing in Washington."
+  },
+  {
     "id": "cb790598eec0",
     "title": "USNI News Fleet and Marine Tracker: April, 20 2026",
     "url": "https://news.usni.org/2026/04/20/usni-news-fleet-and-marine-tracker-april-20-2026",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "In fewer than 40 days, unrelenting military action by America's joint force has helped accomplish all the goals President Donald J. Trump set for Operation Epic Fury."
-  },
-  {
-    "id": "3478d087a6c5",
-    "title": "Leaders Praise Troops Who Rescued Downed Airmen in Iran",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4454212/leaders-praise-troops-who-rescued-downed-airmen-in-iran/",
-    "date": "2026-04-08T15:22:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "In a Pentagon press briefing, Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, said that he and Secretary of War Pete Hegseth visited many of the warfighters involved in the missions to rescue two airmen downed by enemy forces in Iran, from the crew to the search and rescue forces."
-  },
-  {
-    "id": "005d0db420a2",
-    "title": "French Navy Submarine Launches, Recovers U.S. Navy Drone in Test Run",
-    "url": "https://news.usni.org/2026/04/08/french-navy-submarine-launches-recovers-u-s-navy-drone-in-test-run",
-    "date": "2026-04-08T15:19:34Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The French Navy tested launching and recovering a U.S. Navy Razorback Unmanned Undersea Vehicle (UUV) from a submerged French Suffren-class nuclear-powered attack submarine last month, validating the French submarine’s removable dry deck shelter can be used for underwater drone operations. A Suffren"
   }
 ]
