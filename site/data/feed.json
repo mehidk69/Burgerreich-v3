@@ -1,5 +1,35 @@
 [
   {
+    "id": "a1e48f866eee",
+    "title": "Navy Tests Long-Range Munition Capable of Maritime Strike, Mining Missions",
+    "url": "https://news.usni.org/2026/04/22/navy-tests-long-range-munition-capable-of-maritime-strike-mining-missions",
+    "date": "2026-04-22T18:29:41Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "NATIONAL HARBOR, Md. — The U.S. Navy tested a new guided munition capable of striking naval targets or deploying sea mines from aircraft hundreds of miles away, service officials revealed Monday. Naval Air Systems Command (NAVAIR) disclosed the first tests of the Joint Direct Attack Munition (JDAM)"
+  },
+  {
+    "id": "2c64d38c4d4d",
+    "title": "Braker Breakthrough: Drone-Delivered Bunker-Busting Warhead Passes Test",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4466875/braker-breakthrough-drone-delivered-bunker-busting-warhead-passes-test/",
+    "date": "2026-04-22T17:11:40Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Army infantry drone operators successfully tested a new warhead designed for delivery by an unmanned aerial system, a significant leap forward for battlefield technology only weeks after the initial design and rapid prototyping of the system."
+  },
+  {
+    "id": "0a1829a4a34a",
+    "title": "U.S. Army Stages Equipment at American-owned Subic Bay Facility for Balikatan, Alliance Contingencies",
+    "url": "https://news.usni.org/2026/04/22/u-s-army-stages-equipment-at-american-owned-subic-bay-facility-for-balikatan-alliance-contingencies",
+    "date": "2026-04-22T16:46:53Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The U.S. Army is using a facility in Subic Bay to stage equipment for exercises and alliance contingencies, according to a recent think tank report and imagery released by the Pentagon. Army trucks and helicopters rolled off a Military Sealift Command-contracted vessel at Subic Bay last month during"
+  },
+  {
     "id": "022770ed4534",
     "title": "Navy Reviewing Ford-class Carrier Design Ahead of Future Contract Awards",
     "url": "https://news.usni.org/2026/04/21/navy-reviewing-ford-class-carrier-design-ahead-of-future-contract-awards",
@@ -33,7 +63,7 @@
     "id": "39bd1b24f923",
     "title": "Spring Culminating Exercise Tests Cadet Warfighter Skills",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4465731/spring-culminating-exercise-tests-cadet-warfighter-skills/",
-    "date": "2026-04-21T19:05:06Z",
+    "date": "2026-04-21T19:05:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "exercise",
@@ -638,36 +668,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "U.S. forces debuted a new logistical method across the Southeast Asian archipelago using new facilities and civilian barges to position forces ahead of Balikatan 2026. Military Sealift Command vessel USNS Sgt. William W. Seay (T-AKR 302) docked last month in the Port of Cagayan de Oro to conduct the"
-  },
-  {
-    "id": "5b6c4ea1cf21",
-    "title": "Navy to Inactivate Attack Boat USS Boise After $1.6B Repair Effort",
-    "url": "https://news.usni.org/2026/04/10/navy-to-inactivate-attack-boat-uss-boise-after-1-6b-repair-effort",
-    "date": "2026-04-10T17:36:45Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "One of the youngest Los Angeles-class nuclear attack submarines will be inactivated after waiting more than a decade for an overhaul, the Navy announced on Friday. USS Boise (SSN-764), currently in a drydock at HII Newport News Shipbuilding, Va., has been scheduled for a regular overhaul since Fisca"
-  },
-  {
-    "id": "6c2c6b07a0e5",
-    "title": "Army Launches Data Operations Center, Giving Warfighters Decisive Edge",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4456289/army-launches-data-operations-center-giving-warfighters-decisive-edge/",
-    "date": "2026-04-10T15:48:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "The Army launched the Army Data Operations Center — a key initiative designed to transform how it manages and uses its vast data resources to ensure decision dominance on the modern battlefield."
-  },
-  {
-    "id": "9505091a90f2",
-    "title": "White House Honors National Guard-Supported Counterdrug Operations",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4456127/white-house-honors-national-guard-supported-counterdrug-operations/",
-    "date": "2026-04-10T14:02:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The White House Office of National Drug Control Policy recognized personnel assigned to National Guard counterdrug programs for their support to 10 award-winning law enforcement investigations."
   },
   {
     "id": "8db442956a66",
