@@ -1,5 +1,35 @@
 [
   {
+    "id": "2dbfc5122876",
+    "title": "Air Force Pararescuemen Complete Combat Leader Course",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4467939/air-force-pararescuemen-complete-combat-leader-course/",
+    "date": "2026-04-23T17:47:23Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Air Force pararescuemen assigned to the 68th Rescue Squadron completed the Combat Leader Course at Davis-Monthan Air Force Base, Ariz., enhancing their operational readiness and leadership skills."
+  },
+  {
+    "id": "236dbcd4fca8",
+    "title": "Southcom Establishes Autonomous Warfare Command",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4467892/southcom-establishes-autonomous-warfare-command/",
+    "date": "2026-04-23T16:25:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Marine Corps Gen. Francis L. Donovan directed the establishment of the Southcom Autonomous Warfare Command, which will employ autonomous, semiautonomous and unmanned platforms and systems to counter threats and challenges across the region."
+  },
+  {
+    "id": "c51a934c6712",
+    "title": "Australia to Increase Defense Spending by $37.9B Over Next Decade",
+    "url": "https://news.usni.org/2026/04/23/australia-to-increase-defense-spending-by-37-9b-over-next-decade",
+    "date": "2026-04-23T15:59:58Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Australia will increase its defense spending by $37.9 billion U.S. dollars over the next decade, according to its 2026 National Defense Strategy and accompanying Integrated Investment Program documents, which were unveiled last week. According to the documents released April 16, Australia plans to s"
+  },
+  {
     "id": "913f931e617b",
     "title": "Space Force Delivers Final GPS III Satellite to Orbit",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4467271/space-force-delivers-final-gps-iii-satellite-to-orbit/",
@@ -638,36 +668,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Secretary of War Pete Hegseth welcomed his Indonesian counterpart — Minister of Defense Sjafrie Sjamsoeddin — to the Pentagon, where the two men announced the establishment of the Major Defense Cooperation Partnership between the two countries."
-  },
-  {
-    "id": "b9a7604e218a",
-    "title": "5 Killed in U.S. Strikes on Suspected Narco Boats in Eastern Pacific",
-    "url": "https://news.usni.org/2026/04/13/5-killed-in-u-s-strikes-on-suspected-narco-boats-in-eastern-pacific",
-    "date": "2026-04-13T15:00:27Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Forces with Joint Task Force Southern Spear struck two vessels in the Eastern Pacific on Saturday, the first such strikes in April. Two men were killed in the first strike while the second strike killed three men. One person survived the first strike, according to a late Sunday U.S. Southern Command"
-  },
-  {
-    "id": "92ac45e52aed",
-    "title": "U.S. Forces Start Mine Clearance Mission in Strait of Hormuz",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4457440/us-forces-start-mine-clearance-mission-in-strait-of-hormuz/",
-    "date": "2026-04-13T14:16:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.S. Central Command forces prepared to start clearing mines in the Strait of Hormuz as two Navy destroyers conducted operations."
-  },
-  {
-    "id": "b2e09102450b",
-    "title": "‘Integrity, Arriving’",
-    "url": "https://news.usni.org/2026/04/12/integrity-arriving",
-    "date": "2026-04-12T20:45:34Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "NAVAL BASE SAN DIEGO, Calif. &#8212; A boom across the Pacific near San Diego late Friday afternoon signaled the Orion capsule’s return to Earth&#8217;s atmosphere. The shock wave also summoned sailors tasked with safely returning the four astronauts following their 10-day lunar flight. It was time"
   },
   {
     "id": "8db442956a66",
