@@ -1,5 +1,45 @@
 [
   {
+    "id": "913f931e617b",
+    "title": "Space Force Delivers Final GPS III Satellite to Orbit",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4467271/space-force-delivers-final-gps-iii-satellite-to-orbit/",
+    "date": "2026-04-22T21:46:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The Space Force's Space Systems Command and Combat Forces Command successfully delivered the GPS III-8 satellite into orbit, providing GPS capabilities to the warfighter that are three times as accurate and eight times as resistant to jamming as the previous constellation."
+  },
+  {
+    "id": "2d239536d727",
+    "title": "Navy Secretary John Phelan Leaving Trump Administration; Hung Cao Serving as Acting Secretary",
+    "url": "https://news.usni.org/2026/04/22/navy-secretary-john-phelan-leaving-trump-administration-hung-cao-serving-as-acting-secretary",
+    "date": "2026-04-22T21:41:21Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "This post will be updated as additional information becomes available. Navy Secretary John Phelan is leaving the Trump administration, the Defense Department announced Wednesday. Under Secretary of the Navy Hung Cao will now serve as the acting Navy Secretary. &#8220;Secretary of the Navy John C. Ph"
+  },
+  {
+    "id": "c607a7bec592",
+    "title": "3 Sailors Injured in Fire Aboard USS Zumwalt",
+    "url": "https://news.usni.org/2026/04/22/3-sailors-injured-in-fire-aboard-destroyer-uss-zumwalt",
+    "date": "2026-04-22T20:28:06Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Three sailors were injured in a fire aboard destroyer USS Zumwalt (DDG-1000) at HII Ingalls Shipbuilding on Sunday, USNI News has learned. The ship fire was reported at approximately 9:45 p.m. while Zumwalt was pierside at the Pascagoula, Miss., shipyard, a Naval Surface Force spokesperson confirmed"
+  },
+  {
+    "id": "03e7b8924b43",
+    "title": "Iran Conflict Holds Lessons for U.S., Adversaries, IndoPACOM Commander Says",
+    "url": "https://news.usni.org/2026/04/22/iran-conflict-holds-lessons-for-u-s-adversaries-indopacom-commander-says",
+    "date": "2026-04-22T19:26:19Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "While the war in Iran has siphoned assets from the Pacific and is using “finite levels” of munitions, it is also providing valuable lessons that will ultimately strengthen regional defense, Indo-Pacific Commander Adm. Samuel Paparo said Tuesday. The San Diego-based Abraham Lincoln Carrier Strike Gro"
+  },
+  {
     "id": "a1e48f866eee",
     "title": "Navy Tests Long-Range Munition Capable of Maritime Strike, Mining Missions",
     "url": "https://news.usni.org/2026/04/22/navy-tests-long-range-munition-capable-of-maritime-strike-mining-missions",
@@ -628,46 +668,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "This post has been updated with additional information on the transit and the announcement of a U.S. blockade of Iranian merchant ships. Two Navy guided-missile destroyers entered the Strait of Hormuz on Saturday, the first American warships to transit the strait since the U.S.-Israel offensive in I"
-  },
-  {
-    "id": "49745cb16d62",
-    "title": "Two U.S. Warships Sail Through Strait of Hormuz to Establish New Route for Merchant Ships",
-    "url": "https://news.usni.org/2026/04/11/two-u-s-warships-sail-through-strait-of-hormuz-to-establish-new-route-for-merchant-ships",
-    "date": "2026-04-11T18:05:24Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Two Navy guided-missile destroyers entered the Strait of Hormuz on Saturday, the first American warships to transit the strait since the U.S.-Israel offensive in Iran began on Feb. 28. USS Frank E. Peterson (DDG-121) and USS Michael Murphy (DDG-112) are now in the Persian Gulf after transiting the s"
-  },
-  {
-    "id": "7f671acf9b9c",
-    "title": "This Week in DOW: Iran Ceasefire, Daring Rescue, Honoring Gold Star Spouses",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4456466/this-week-in-dow-iran-ceasefire-daring-rescue-honoring-gold-star-spouses/",
-    "date": "2026-04-10T21:43:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "This week, the U.S. announced a two-week ceasefire with Iran, as Secretary of War Pete Hegseth hailed the success of Operation Epic Fury in dismantling one of the world's largest militaries, and the War Department observed Gold Star Spouses Day."
-  },
-  {
-    "id": "74a30f377698",
-    "title": "Navy, Marine Corps See Drop in 2024 Suicide Rate, Overall Trend is Rising, New Data Says",
-    "url": "https://news.usni.org/2026/04/10/navy-marine-corps-see-drop-in-2024-suicide-rate-but-overall-trend-is-rising-new-data-says",
-    "date": "2026-04-10T21:14:08Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "&#160; This story has been updated to correct who provided gunlocks. The Navy and the Marine Corps saw the lowest suicide rate in four years, according to the Pentagon’s recently released suicide report covering calendar year 2024. In 2024, the Navy had 60 suicides, while the Marine Corps had 46, ac"
-  },
-  {
-    "id": "f2f7b22d2234",
-    "title": "U.S. Marines Practice Logistics from the Sea Across the Philippines Ahead of Balikatan",
-    "url": "https://news.usni.org/2026/04/10/u-s-marines-practice-distributed-maritime-logistics-across-the-philippines-ahead-of-balikatan-2026",
-    "date": "2026-04-10T19:51:08Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.S. forces debuted a new logistical method across the Southeast Asian archipelago using new facilities and civilian barges to position forces ahead of Balikatan 2026. Military Sealift Command vessel USNS Sgt. William W. Seay (T-AKR 302) docked last month in the Port of Cagayan de Oro to conduct the"
   },
   {
     "id": "8db442956a66",

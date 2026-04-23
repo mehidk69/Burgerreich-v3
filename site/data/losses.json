@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "8835cc7518ca",
+      "type": "Destroyer",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-04-22T20:28:06Z",
+      "headline": "3 Sailors Injured in Fire Aboard USS Zumwalt",
+      "context": "jured in Fire Aboard USS Zumwalt Three sailors were injured in a fire aboard destroyer USS Zumwalt (DDG-1000) at HII Ingalls Shipbuilding on Sunday, USNI News has learned. The ship fire was reported a",
+      "url": "https://news.usni.org/2026/04/22/3-sailors-injured-in-fire-aboard-destroyer-uss-zumwalt"
+    },
+    {
       "id": "3d465b9f83e2",
       "type": "Destroyer",
       "qty": 1,
@@ -21,5 +31,5 @@
       "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
     }
   ],
-  "updated": "2026-04-22T18:59:21Z"
+  "updated": "2026-04-23T01:30:51Z"
 }
