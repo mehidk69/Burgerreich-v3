@@ -1,5 +1,55 @@
 [
   {
+    "id": "57b120a1876e",
+    "title": "U.S. Considering Foreign Designs, Shipyards for New Navy Frigate, Destroyer Work in $1.85B Study",
+    "url": "https://news.usni.org/2026/04/24/u-s-considering-foreign-designs-shipyards-for-new-navy-frigate-destroyer-work-in-1-85b-study",
+    "date": "2026-04-24T22:02:54Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "American officials are considering foreign designs and having U.S. warship components built in overseas yards as part of an expansive manufacturing study proposed in the Fiscal Year 2027 budget, USNI News has learned. To expand naval shipbuilding capacity for U.S. warships, the FY 2027 budget submis"
+  },
+  {
+    "id": "68fbabe1e056",
+    "title": "Middle East Shipping ‘Paralyzed’ by Dueling U.S., Iranian Blockades, Analysts Say",
+    "url": "https://news.usni.org/2026/04/24/middle-east-shipping-paralyzed-by-dueling-u-s-iranian-blockades-analysts-say",
+    "date": "2026-04-24T21:40:17Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.S. and Iranian forces are both interdicting ships as the two countries grapple with control of the flow of maritime traffic through the region, leaving the shipping industry ‘paralyzed,’ experts say. In the past week, the U.S. interdicted three ships – two in the Indian Ocean and one in the Strait"
+  },
+  {
+    "id": "988abf7d28bf",
+    "title": "Armed Forces Medical Examiner System Supports Artemis II Mission",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4470642/armed-forces-medical-examiner-system-supports-artemis-ii-mission/",
+    "date": "2026-04-24T20:57:18Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The Armed Forces Medical Examiner System provides critical forensic pathology and contingency logistics for NASA's crewed launches to ensure immediate medical and investigative readiness in the event of a mishap."
+  },
+  {
+    "id": "6536b42dea44",
+    "title": "Eyes, Ears of Joint Force: Caine Honors Unsung Intelligence Community Heroes",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4470381/eyes-ears-of-joint-force-caine-honors-unsung-intelligence-community-heroes/",
+    "date": "2026-04-24T18:15:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Successful military operations depend on those in the intelligence community, including the Defense Intelligence Agency, National Security Agency, National Reconnaissance Office, Central Intelligence Agency and others, said Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff."
+  },
+  {
+    "id": "148bdc0d3837",
+    "title": "Traumatic Brain Injury Field Assessment Program Could Revolutionize Treatment",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4470227/traumatic-brain-injury-field-assessment-program-could-revolutionize-treatment/",
+    "date": "2026-04-24T17:55:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The Defense Health Agency Operational Medical Systems Program Management Office helps mature the development of traumatic brain injury detection capabilities and accelerates the successful completion of the Traumatic Brain Injury Field Assessment Program."
+  },
+  {
     "id": "49127d40dc12",
     "title": "Joint Force Enforces Maritime Blockade in Gulf of Oman, Globally",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4470128/joint-force-enforces-maritime-blockade-in-gulf-of-oman-globally/",
@@ -618,56 +668,6 @@
     "cocom": "centcom",
     "tag": "air",
     "summary": "U.S. Air Force pararescuemen assigned to the 68th Rescue Squadron parachute during an exercise at<br />\n<img alt=\"U.S. Air Force pararescuemen assigned to the 68th Rescue Squadron parachute during an exercise at Davis-Monthan Air Force Base, Arizona, April 10, 2026. The airborne insertion allowed pa"
-  },
-  {
-    "id": "52deac748293",
-    "title": "Army Engineers Conduct Bridge-Building Exercise in Texas",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4459292/army-engineers-conduct-bridge-building-exercise-in-texas/",
-    "date": "2026-04-14T18:53:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Army Reserve soldiers assigned to the 401st Engineer Company conducted a multiday bridge-building exercise designed to train new troops and refresh skills at Bardwell Lake, Texas."
-  },
-  {
-    "id": "2265cdf8dafb",
-    "title": "Joint Task Forces Train on Counter-UASs, Strengthen Homeland Defense",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4459196/joint-task-forces-train-on-counter-uass-strengthen-homeland-defense/",
-    "date": "2026-04-14T17:00:11Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Joint Interagency Task Force 401 and Joint Task Force National Capital Region recently coordinated a training exercise at Fort Belvoir, Va., as part of a synchronized effort to advance counter-drone capabilities."
-  },
-  {
-    "id": "981bb85b74c3",
-    "title": "Arkansas National Guard Honors America's 250th Birthday by Enlisting 250 Recruits",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4459105/arkansas-national-guard-honors-americas-250th-birthday-by-enlisting-250-recruits/",
-    "date": "2026-04-14T16:07:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "To celebrate America's 250th birthday this year, the Arkansas National Guard enlisted 250 recruits during a ceremony at the MacArthur Museum of Arkansas Military History in Little Rock, Ark."
-  },
-  {
-    "id": "0fafe85004b9",
-    "title": "U.S. Military Kills 2 in 50th Strike on Suspected Narco Boat",
-    "url": "https://news.usni.org/2026/04/14/u-s-military-kills-2-in-50th-strike-on-suspected-narco-boat",
-    "date": "2026-04-14T15:45:46Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "U.S. forces struck a suspected narco boat Monday, the 50th such strike since the Trump administration launched its campaign against drug cartels in September, according to USNI News data. The boat was operating in the Eastern Pacific when it was struck, killing two men, U.S. Southern Command announc"
-  },
-  {
-    "id": "426817d4f156",
-    "title": "U.K. Forces Counter Covert Russian Submarine Activities, Officials Say",
-    "url": "https://news.usni.org/2026/04/14/u-k-forces-counter-covert-russian-submarine-activities-officials-say",
-    "date": "2026-04-14T14:31:08Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.K. forces thwarted what they believe was a covert operation by Russian submarines in the country’s Exclusive Economic Zone, U.K. officials announced Thursday. In a month-long operation, the U.K. Armed Forces monitored a Russian Akula-class attack submarine and multiple vessels, including two speci"
   },
   {
     "id": "106f6f94031e",
