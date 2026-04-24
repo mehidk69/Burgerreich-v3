@@ -1,5 +1,45 @@
 [
   {
+    "id": "cdaac6b2f70e",
+    "title": "Carrier USS George H.W. Bush Now in U.S. Central Command After Traveling Around Africa",
+    "url": "https://news.usni.org/2026/04/23/carrier-uss-george-h-w-bush-now-in-u-s-central-command-after-traveling-around-africa",
+    "date": "2026-04-23T22:11:24Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "East Coast carrier USS George H.W. Bush (CVN-77) is now operating in the Middle East after a sailing around the southern tip of Africa, U.S. Central Command announced on Thursday. Bush’s entrance into CENTCOM marks the first time three carriers have been in the Middle East since the height of the U."
+  },
+  {
+    "id": "8ebebdaa98cb",
+    "title": "Air Force Special Warfare employs Kinetic Interceptor in counter-UAS proof of concept",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4468576/air-force-special-warfare-employs-kinetic-interceptor-in-counter-uas-proof-of-c/",
+    "date": "2026-04-23T21:32:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "alert",
+    "summary": "Air Force Special Warfare Airmen from the 48th Rescue Squadron, 7th Air Support Operations Squadron, and 316th Civil Engineer Squadron Explosive Ordnance Disposal conducted a proof-of-concept event on April 7, 2026. The event integrated a commercial off-the-shelf kinetic interceptor with an expediti"
+  },
+  {
+    "id": "920d8b2f2f84",
+    "title": "Thousands of Kids Descend on Pentagon for 'Bring Your Child to Work Day'",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4468478/thousands-of-kids-descend-on-pentagon-for-bring-your-child-to-work-day/",
+    "date": "2026-04-23T21:11:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "More than 8,000 children visited the Pentagon for \"Bring Your Child to Work Day,\" where they explored military displays, met with leaders like Secretary Pete Hegseth, and participated in a special reading with Second Lady Usha Vance."
+  },
+  {
+    "id": "086a1bf1358f",
+    "title": "Navy to Integrate PAC-3 Missiles on Aegis Guided-Missile Destroyers",
+    "url": "https://news.usni.org/2026/04/23/navy-to-integrate-pac-3-missiles-on-aegis-guided-missile-destroyers",
+    "date": "2026-04-23T20:06:42Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "NATIONAL HARBOR, Md. — The Navy has finalized its decision to integrate Advanced Capability 3 Missile Segment Enhancements aboard its warships, Lockheed Martin announced this week. The sea service will integrate the PAC-3 MSEs with the service’s ubiquitous Mark 41 vertical launching systems and Aegi"
+  },
+  {
     "id": "2dbfc5122876",
     "title": "Air Force Pararescuemen Complete Combat Leader Course",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4467939/air-force-pararescuemen-complete-combat-leader-course/",
@@ -638,36 +678,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of April 13, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the ca"
-  },
-  {
-    "id": "d516030b1159",
-    "title": "Navy Commissions USS Harvey C. Barnum Jr. into the Fleet",
-    "url": "https://news.usni.org/2026/04/13/navy-commissions-uss-harvey-c-barnum-jr-into-the-fleet",
-    "date": "2026-04-13T18:56:26Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Navy welcomed its newest destroyer USS Harvey C. Barnum Jr. (DDG-124) into the fleet Saturday during a ceremony in Norfolk, Va., which is among the last Flight IIA configurations of the Arleigh Burke-class. The destroyer was commissioned at Naval Station Norfolk before approximately 1,800 guests"
-  },
-  {
-    "id": "86f79943fd9a",
-    "title": "Navy Dive Medical Recovery Team Provides Initial Care to Artemis II Crew",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4457852/navy-dive-medical-recovery-team-provides-initial-care-to-artemis-ii-crew/",
-    "date": "2026-04-13T18:25:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A Navy dive medical team served as the first responders for the Artemis II crew, providing critical assessments and assistance during their safe splashdown and recovery off the coast of San Diego."
-  },
-  {
-    "id": "a8451adacd24",
-    "title": "Hegseth, Indonesian Counterpart Announce Defense Partnership",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4457873/hegseth-indonesian-counterpart-announce-defense-partnership/",
-    "date": "2026-04-13T17:47:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Secretary of War Pete Hegseth welcomed his Indonesian counterpart — Minister of Defense Sjafrie Sjamsoeddin — to the Pentagon, where the two men announced the establishment of the Major Defense Cooperation Partnership between the two countries."
   },
   {
     "id": "8db442956a66",
