@@ -1,5 +1,25 @@
 [
   {
+    "id": "49127d40dc12",
+    "title": "Joint Force Enforces Maritime Blockade in Gulf of Oman, Globally",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4470128/joint-force-enforces-maritime-blockade-in-gulf-of-oman-globally/",
+    "date": "2026-04-24T16:19:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy is enforcing a growing global blockade to seize ships doing business with Iran and has authorized lethal force to protect maritime interests."
+  },
+  {
+    "id": "6bace52775b1",
+    "title": "North Korea Test Launches Short Range Ballistic Missiles with Cluster Munitions",
+    "url": "https://news.usni.org/2026/04/24/north-korea-test-launches-short-range-ballistic-missiles-with-cluster-munitions",
+    "date": "2026-04-24T13:50:53Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "North Korea recently launched five short range ballistic missiles (SRBMs) armed with cluster munitions against an island target in the Sea of Japan for the second time this month, further trialing the warhead’s capabilities, state media reported Monday. North Korea’s Missile Administration conducted"
+  },
+  {
     "id": "a5f28b726054",
     "title": "Personal Property Activity Engages Industry Partners Ahead of Peak PCS Season",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4468646/personal-property-activity-engages-industry-partners-ahead-of-peak-pcs-season/",
@@ -53,7 +73,7 @@
     "id": "2dbfc5122876",
     "title": "Air Force Pararescuemen Complete Combat Leader Course",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4467939/air-force-pararescuemen-complete-combat-leader-course/",
-    "date": "2026-04-23T17:47:23Z",
+    "date": "2026-04-23T17:47:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -650,16 +670,6 @@
     "summary": "U.K. forces thwarted what they believe was a covert operation by Russian submarines in the country’s Exclusive Economic Zone, U.K. officials announced Thursday. In a month-long operation, the U.K. Armed Forces monitored a Russian Akula-class attack submarine and multiple vessels, including two speci"
   },
   {
-    "id": "1e6ce1b4440d",
-    "title": "Report to Congress on the U.S.-South Korea Alliance",
-    "url": "https://news.usni.org/2026/04/14/report-to-congress-on-u-s-south-korea-alliance",
-    "date": "2026-04-14T13:36:23Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The following is the March 16, 2026, Congressional Research Service report, U.S.-South Korea Alliance: Background and Issues for Congress. From the report In the wake of the Korean War (1950-53), the United States and South Korea (officially the Republic of Korea, or ROK) forged an alliance that rem"
-  },
-  {
     "id": "106f6f94031e",
     "title": "DM50 Picnic and Car Show",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4458353/dm50-picnic-and-car-show/",
@@ -668,16 +678,6 @@
     "cocom": "centcom",
     "tag": "general",
     "summary": "The DM50 picnic and car show brought together service members, their families and the Tucson community for a day of connection April 11, 2026.<br />\n<img alt=\"DM50 Picnic and Car Show\" src=\"https://media.defense.gov/2026/Apr/13/2003912167/150/150/0/260411-F-AR459-1038.JPG\" /> <br />"
-  },
-  {
-    "id": "70be519e1cc4",
-    "title": "Carrier USS George H.W. Bush Operating off Southern Africa as Iranian Blockade Begins",
-    "url": "https://news.usni.org/2026/04/13/carrier-uss-george-h-w-bush-operating-off-southern-africa-as-iranian-blockade-begins",
-    "date": "2026-04-13T19:18:15Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Aircraft carrier USS George H.W. Bush (CVN-77) is operating off the coast of Namibia, as it sails around the African continent and is set to join a growing naval force in the Arabian Sea amid a U.S. blockade of the Strait of Hormuz, USNI News has learned. Bush, which deployed at the end of March, di"
   },
   {
     "id": "8db442956a66",
