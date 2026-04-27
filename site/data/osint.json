@@ -1,5 +1,35 @@
 [
   {
+    "id": "c20c7161ae13",
+    "title": "USNI News Fleet and Marine Tracker: April, 27 2026",
+    "url": "https://news.usni.org/2026/04/27/usni-news-fleet-and-marine-tracker-april-27-2026",
+    "date": "2026-04-27T17:42:17Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of April 27, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the ca"
+  },
+  {
+    "id": "06b87b6f6fc7",
+    "title": "U.S. Forces Kill 5 in Strikes on Suspected Narco Boats",
+    "url": "https://news.usni.org/2026/04/27/u-s-forces-kill-5-in-strikes-on-suspected-narco-boats",
+    "date": "2026-04-27T16:45:15Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "U.S. forces with Joint Task Force Southern Spear conducted two strikes over the weekend in the Eastern Pacific, killing a total of five men, U.S. Southern Command announced. A strike on Friday killed two men, while a Sunday strike killed three. At least 184 people have been killed in the strikes sin"
+  },
+  {
+    "id": "a91526cafc26",
+    "title": "U.S., Moroccan Air Forces Project Combat Power During Exercise African Lion 26",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4471127/us-moroccan-air-forces-project-combat-power-during-exercise-african-lion-26/",
+    "date": "2026-04-27T15:57:52Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "During Exercise African Lion 26, a joint flyover of U.S. and Moroccan aircraft inaugurated Morocco's first accredited joint terminal attack controller qualification course to enhance regional interoperability."
+  },
+  {
     "id": "57b120a1876e",
     "title": "U.S. Considering Foreign Designs, Shipyards for New Navy Frigate, Destroyer Work in $1.85B Study",
     "url": "https://news.usni.org/2026/04/24/u-s-considering-foreign-designs-shipyards-for-new-navy-frigate-destroyer-work-in-1-85b-study",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "North Korea launched anti-ship and cruise missiles over the weekend from first-in-class destroyer Choe Hyon (51) with North Korea leader Kim Jong Un overseeing the trials, state media reported Tuesday. Two strategic cruise missiles and three anti-ship missiles were fired Sunday as part of Choe Hyon’"
-  },
-  {
-    "id": "9626785f1c1f",
-    "title": "Marines Conduct Cargo UAS Shipboard Testing",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4460417/marines-conduct-cargo-uas-shipboard-testing/",
-    "date": "2026-04-15T15:59:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Marine Corps recently conducted shipboard testing with the TRV-150C tactical resupply unmanned aircraft system aboard an amphibious transport dock ship, marking a significant milestone in advancing ship-to-shore and ship-to-ship resupply solutions for combat logistics battalions."
-  },
-  {
-    "id": "aa4987237aa2",
-    "title": "USS Gerald R. Ford Breaks Post-Cold War Deployment Record",
-    "url": "https://news.usni.org/2026/04/15/uss-gerald-r-ford-breaks-post-cold-war-deployment-record",
-    "date": "2026-04-15T14:25:05Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The crew of USS Gerald R. Ford (CVN-78) are now the record holders for the longest carrier deployment since the collapse of the Soviet Union. On Wednesday, Ford’s deployment hit the 295-day record previously set by USS Abraham Lincoln (CVN-72) in the early days of the COVID-19 pandemic during its Mi"
-  },
-  {
-    "id": "b88675e6d9ae",
-    "title": "Strait of Hormuz Traffic Down As U.S. Blockade Appears to Deter Some Ships",
-    "url": "https://news.usni.org/2026/04/14/strait-of-hormuz-traffic-down-as-u-s-blockade-appears-to-deter-some-ships",
-    "date": "2026-04-14T21:38:03Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "There are at least seven ships that initially reversed course in the Persian and Oman gulfs after the U.S. announced a blockade of Iran’s coast, according to maritime analysts monitoring merchant traffic in the Middle East. Four of the seven ships ultimately embarked back on their planned routes, ac"
   }
 ]
