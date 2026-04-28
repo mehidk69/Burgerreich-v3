@@ -1,5 +1,55 @@
 [
   {
+    "id": "dec19a6e4566",
+    "title": "Multinational Forces Validate Defensive Readiness During Exercise Balikatan 2026",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4472230/multinational-forces-validate-defensive-readiness-during-exercise-balikatan-2026/",
+    "date": "2026-04-28T17:09:11Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Over 500 service members from the U.S., Philippines, Australia and New Zealand successfully coordinated fires from land and air to defeat a simulated adversary attack during Balikatan 2026, exemplifying the \"shoulder-to-shoulder\" spirit of the exercise."
+  },
+  {
+    "id": "1b63a08a54af",
+    "title": "Training in Close Air Support Keeps Idaho Airmen 'Always Ready'",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4472219/training-in-close-air-support-keeps-idaho-airmen-always-ready/",
+    "date": "2026-04-28T16:41:18Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Airmen assigned to the 124th Air Support Operations Squadron, Idaho Air National Guard, conducted close air support training at the 188th Wing's Razorback Range at Fort Chaffee Joint Maneuver Training Center, Ark."
+  },
+  {
+    "id": "68b6c8397dd0",
+    "title": "U.S. Missiles Deploy Near Taiwan During Balikatan Exercise, Chinese Action Group Operates Nearby",
+    "url": "https://news.usni.org/2026/04/28/u-s-missiles-deploy-near-taiwan-during-balikatan-exercise-chinese-action-group-operates-nearby",
+    "date": "2026-04-28T16:19:16Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "MANILA, Philippines — American missile systems were deployed last week to a remote Luzon Strait island 100 miles south of Taiwan as part of Washington and Manila’s Balikatan 2026 military drills. The arrival of Washington’s precision strike and anti-ship launchers for the annual exercise marks one o"
+  },
+  {
+    "id": "962fc9b76c18",
+    "title": "Russian, Chinese Warships Sail Through Japan’s Southwest Region to East China Sea",
+    "url": "https://news.usni.org/2026/04/28/russian-chinese-naval-warships-sail-through-japans-southwest-region-to-east-china-sea",
+    "date": "2026-04-28T15:25:09Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Russian and People’s Liberation Army naval groups made separate transits over the past week through Japan’s southwest region to enter the East China Sea, according to officials from the island country. A Russian Navy task group consisting of submarine RFS Petropavlovsk-Kamchatsky (B-274), corvette R"
+  },
+  {
+    "id": "67ddb4b9348a",
+    "title": "Army Medic Leads Life-Saving Response After Bear Attack in Alaska",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4472080/army-medic-leads-life-saving-response-after-bear-attack-in-alaska/",
+    "date": "2026-04-28T14:03:14Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "During a training exercise, Army Sgt. Zachariah Clark relied on his expertise as a combat medic to lead a life-saving rescue and triage effort after two fellow soldiers were mauled by a bear in the Alaskan wilderness."
+  },
+  {
     "id": "ec95886b51cb",
     "title": "Amphibs Bougainville, Fallujah Deliveries Are Pushed Another Year",
     "url": "https://news.usni.org/2026/04/27/amphibs-bougainville-fallujah-deliveries-are-pushed-another-year",
@@ -63,7 +113,7 @@
     "id": "a91526cafc26",
     "title": "U.S., Moroccan Air Forces Project Combat Power During Exercise African Lion 26",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4471127/us-moroccan-air-forces-project-combat-power-during-exercise-african-lion-26/",
-    "date": "2026-04-27T15:57:52Z",
+    "date": "2026-04-27T15:57:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "alert",
@@ -618,56 +668,6 @@
     "cocom": "centcom",
     "tag": "naval",
     "summary": "355th Wing leadership led from the front as they completed a diagnostic Physical Fitness Risk Assessment (PFRA) alongside Airmen, setting the standard for implementation of the Department of the Air Force’s updated fitness program April 15, 2026.<br />\n<img alt=\"DM Command Team Takes the PT Test\" sr"
-  },
-  {
-    "id": "13e44a786b8f",
-    "title": "Golden Dome Will Protect Homeland, Provide Layered Defense, Leaders Say",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4461784/golden-dome-will-protect-homeland-provide-layered-defense-leaders-say/",
-    "date": "2026-04-16T16:21:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "During a hearing before the House Armed Services Committee's strategic forces subcommittee, the assistant secretary of war for space policy reiterated the need for the Golden Dome for America as he described the intensifying strategic competition facing the nation."
-  },
-  {
-    "id": "2e0554df6e63",
-    "title": "Carrier USS Dwight D. Eisenhower Suffers Fire at Norfolk Naval Shipyard",
-    "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard",
-    "date": "2026-04-16T14:41:43Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Aircraft carrier USS Dwight D. Eisenhower (CVN-69) suffered a fire this week while undergoing a maintenance availability at Norfolk Naval Shipyard in Portsmouth, Va., USNI News has learned. There was a small fire onboard the carrier Tuesday, a Navy spokesperson confirmed to USNI News. The ship’s for"
-  },
-  {
-    "id": "28dad94e74d7",
-    "title": "U.S. Strikes Third Suspected Narco Boat in Three Days, Three Killed",
-    "url": "https://news.usni.org/2026/04/16/u-s-strikes-third-suspected-narco-boat-in-three-days-three-killed",
-    "date": "2026-04-16T13:26:35Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Joint Task Force Southern Spear struck the third suspected narco boat in three days, U.S. Southern Command announced late Wednesday. Forces with the joint task force struck a boat allegedly carrying illicit narcotics in the Eastern Pacific on Wednesday, according to SOUTHCOM post on social media sit"
-  },
-  {
-    "id": "7368ad87fc29",
-    "title": "U.S. Military Strikes 4th Suspected Drug Boat in Eastern Pacific in 5 Days",
-    "url": "https://news.usni.org/2026/04/15/u-s-military-strikes-4th-suspected-drug-boat-in-eastern-pacific-in-5-days",
-    "date": "2026-04-15T20:46:04Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "U.S. forces with Joint Task Force Southern Spear conducted a fourth strike against an alleged drug boat in five days, U.S. Southern Command announced Wednesday. Four men were killed in the strike – the 51st overall – bringing the total number of deaths in the strikes to at least 173. One of the stri"
-  },
-  {
-    "id": "6caabd2ff54a",
-    "title": "Counter-UAS Marketplace Streamlines Acquisition, First Purchases Total $13 Million",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4460957/counter-uas-marketplace-streamlines-acquisition-first-purchases-total-13-million/",
-    "date": "2026-04-15T20:07:02Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Joint Interagency Task Force 401 announced the first set of purchases completed through its new counter-unmanned aircraft systems marketplace, four acquisitions  collectively valued at $13 million."
   },
   {
     "id": "08b7ddb5c505",
