@@ -1,5 +1,35 @@
 [
   {
+    "id": "ec95886b51cb",
+    "title": "Amphibs Bougainville, Fallujah Deliveries Are Pushed Another Year",
+    "url": "https://news.usni.org/2026/04/27/amphibs-bougainville-fallujah-deliveries-are-pushed-another-year",
+    "date": "2026-04-27T21:38:51Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The next two big-deck amphibious warships will take about nine years each to build, as the Navy pushes the planned delivery date for the vessels by another year, USNI News has learned. The future USS Bougainville (LHA-8) will now deliver to the Navy in July of 2027 instead of August of 2026, accordi"
+  },
+  {
+    "id": "9cce4e2719b0",
+    "title": "Navy Pushes MQ-25A Stingray IOC Back to 2029 while Production Aircraft Takes First Flight",
+    "url": "https://news.usni.org/2026/04/27/navy-pushes-mq-25a-stingray-ioc-back-to-2029-while-production-aircraft-takes-first-flight",
+    "date": "2026-04-27T20:16:02Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The first unmanned tankers for the U.S. Navy won’t be ready to deploy on aircraft carriers until 2029, according to Navy budget documents. The Boeing MQ-25A Stingray, the unmanned carrier tanker developed to extend the range of the air wing, will reach initial operational capability three years late"
+  },
+  {
+    "id": "efa5dc0b0815",
+    "title": "Navy Commissions Submarine USS Idaho",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4471428/navy-commissions-submarine-uss-idaho/",
+    "date": "2026-04-27T18:56:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy commissioned the submarine USS Idaho in a traditional ceremony at Naval Submarine Base New London in Groton, Conn., bringing cutting-edge warfighting capability to the nation's undersea forces after a multiyear construction process."
+  },
+  {
     "id": "c20c7161ae13",
     "title": "USNI News Fleet and Marine Tracker: April, 27 2026",
     "url": "https://news.usni.org/2026/04/27/usni-news-fleet-and-marine-tracker-april-27-2026",
@@ -110,16 +140,6 @@
     "summary": "North Korea recently launched five short range ballistic missiles (SRBMs) armed with cluster munitions against an island target in the Sea of Japan for the second time this month, further trialing the warhead’s capabilities, state media reported Monday. North Korea’s Missile Administration conducted"
   },
   {
-    "id": "8ebebdaa98cb",
-    "title": "Air Force Special Warfare employs Kinetic Interceptor in counter-UAS proof of concept",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4468576/air-force-special-warfare-employs-kinetic-interceptor-in-counter-uas-proof-of-c/",
-    "date": "2026-04-24T03:32:00Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "alert",
-    "summary": "Air Force Special Warfare Airmen from the 48th Rescue Squadron, 7th Air Support Operations Squadron, and 316th Civil Engineer Squadron Explosive Ordnance Disposal conducted a proof-of-concept event on April 7, 2026. The event integrated a commercial off-the-shelf kinetic interceptor with an expediti"
-  },
-  {
     "id": "a5f28b726054",
     "title": "Personal Property Activity Engages Industry Partners Ahead of Peak PCS Season",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4468646/personal-property-activity-engages-industry-partners-ahead-of-peak-pcs-season/",
@@ -138,6 +158,16 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "East Coast carrier USS George H.W. Bush (CVN-77) is now operating in the Middle East after a sailing around the southern tip of Africa, U.S. Central Command announced on Thursday. Bush’s entrance into CENTCOM marks the first time three carriers have been in the Middle East since the height of the U."
+  },
+  {
+    "id": "8ebebdaa98cb",
+    "title": "Air Force Special Warfare employs Kinetic Interceptor in counter-UAS proof of concept",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4468576/air-force-special-warfare-employs-kinetic-interceptor-in-counter-uas-proof-of-c/",
+    "date": "2026-04-23T21:32:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "alert",
+    "summary": "Air Force Special Warfare Airmen from the 48th Rescue Squadron, 7th Air Support Operations Squadron, and 316th Civil Engineer Squadron Explosive Ordnance Disposal conducted a proof-of-concept event on April 7, 2026. The event integrated a commercial off-the-shelf kinetic interceptor with an expediti"
   },
   {
     "id": "920d8b2f2f84",
@@ -638,36 +668,6 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "Joint Interagency Task Force 401 announced the first set of purchases completed through its new counter-unmanned aircraft systems marketplace, four acquisitions  collectively valued at $13 million."
-  },
-  {
-    "id": "c260fd3e0175",
-    "title": "Africom Commences Exercise Flintlock 2026 in Africa",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4460643/africom-commences-exercise-flintlock-2026-in-africa/",
-    "date": "2026-04-15T18:06:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "U.S. Africa Command hosted dual opening ceremonies in Libya and Côte d'Ivoire, officially beginning Exercise Flintlock 2026, its annual combined special operations exercise."
-  },
-  {
-    "id": "27c63360b4b1",
-    "title": "Navy Must Do More to Protect SWCC Crews from Shock Trauma, IG Finds",
-    "url": "https://news.usni.org/2026/04/15/navy-must-do-more-to-protect-swcc-crews-from-shock-trauma-ig-finds",
-    "date": "2026-04-15T17:56:29Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Naval Special Warfare Command is not doing enough to protect special warfare combat crew members from traumatic brain injuries and musculoskeletal damage on small Combatant Craft Assault boats, the Defense Department&#8217;s top watchdog agency found. A 16-page report, published March 30 by the Defe"
-  },
-  {
-    "id": "a4d6ae56ba13",
-    "title": "North Korea Test Launches Anti-ship, Cruise Missiles from First-in-class Destroyer",
-    "url": "https://news.usni.org/2026/04/15/north-korea-test-launches-anti-ship-cruise-missiles-from-first-in-class-destroyer",
-    "date": "2026-04-15T16:25:14Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "North Korea launched anti-ship and cruise missiles over the weekend from first-in-class destroyer Choe Hyon (51) with North Korea leader Kim Jong Un overseeing the trials, state media reported Tuesday. Two strategic cruise missiles and three anti-ship missiles were fired Sunday as part of Choe Hyon’"
   },
   {
     "id": "08b7ddb5c505",
