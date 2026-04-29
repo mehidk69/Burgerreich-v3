@@ -1,5 +1,15 @@
 [
   {
+    "id": "8074bc6c8a40",
+    "title": "Socom Keeps America Safe With Wide Focus",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4472877/socom-keeps-america-safe-with-wide-focus/",
+    "date": "2026-04-29T12:41:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "America's Special Operations Command has eyes and ears around the world focused on a variety of hotspots and threats that may put the well-being and safety of the homeland at risk."
+  },
+  {
     "id": "493ba8b7e6e9",
     "title": "Navy Awards $282.9M FF(X) Frigate Contract to HII’s Ingalls Shipbuilding",
     "url": "https://news.usni.org/2026/04/28/navy-awards-282-9m-ffx-frigate-contract-to-hiis-ingalls-shipbuilding",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "During a Pentagon press briefing, Secretary of War Pete Hegseth urged the new Iranian regime to make wise choices amid a ceasefire in combat operations, and to work in good faith toward a deal with the United States."
-  },
-  {
-    "id": "80cfa9f34e3d",
-    "title": "Caine Praises Sailors, Marines Enforcing Iran Blockade",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4462499/caine-praises-sailors-marines-enforcing-iran-blockade/",
-    "date": "2026-04-16T20:04:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "During a press conference at the Pentagon, Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, thanked the sailors and Marines on board vessels in the Persian Gulf enforcing the blockade of ships that sail from Iranian ports."
   }
 ]
