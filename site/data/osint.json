@@ -1,5 +1,25 @@
 [
   {
+    "id": "493ba8b7e6e9",
+    "title": "Navy Awards $282.9M FF(X) Frigate Contract to HII’s Ingalls Shipbuilding",
+    "url": "https://news.usni.org/2026/04/28/navy-awards-282-9m-ffx-frigate-contract-to-hiis-ingalls-shipbuilding",
+    "date": "2026-04-28T22:36:02Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy issued HII’s Ingalls Shipbuilding a $282.9 million contract award Tuesday to do lead yard work for the new frigate based on the Coast Guard’s National Security Cutter. A Pentagon announcement noted that the Navy did not compete the contract and said the work should wrap up in April 2028. Th"
+  },
+  {
+    "id": "92a83aa4f706",
+    "title": "Amphib USS San Antonio Returns from Southern Command After More Than 8-month Deployment",
+    "url": "https://news.usni.org/2026/04/28/amphib-uss-san-antonio-returns-from-southern-command-after-more-than-8-month-deployment",
+    "date": "2026-04-28T22:26:56Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "NAVAL STATION NORFOLK, Va. — One third of the amphibious force that has patrolled U.S. Southern Command since late August returned Tuesday to its homeport of Norfolk, Va. Amphibious warship USS San Antonio (LPD-17) moored at pier 9 at Naval Station Norfolk to a waiting crowd of families after 257 da"
+  },
+  {
     "id": "dec19a6e4566",
     "title": "Multinational Forces Validate Defensive Readiness During Exercise Balikatan 2026",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4472230/multinational-forces-validate-defensive-readiness-during-exercise-balikatan-2026/",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "During a press conference at the Pentagon, Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, thanked the sailors and Marines on board vessels in the Persian Gulf enforcing the blockade of ships that sail from Iranian ports."
-  },
-  {
-    "id": "cdb3a920c0cf",
-    "title": "Marinette Marine Awarded $30M for Landing Ship Medium Ahead of Vessel Construction Manager Selection",
-    "url": "https://news.usni.org/2026/04/16/marinette-marine-awarded-30m-for-landing-ship-medium-ahead-of-vessel-construction-manager-selection",
-    "date": "2026-04-16T19:59:49Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Wisconsin shipbuilder Fincantieri Marinette Marine was awarded a $30 million contract for long lead material and planning for four planned McClung-class medium landing ships, according to a Pentagon contract announcement. The Naval Sea Systems Command award sets up the yard on the Menominee River ne"
-  },
-  {
-    "id": "fd196ea54e63",
-    "title": "Military Leaders Update Congress on Force Readiness, Quality of Life Programs",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4462107/military-leaders-update-congress-on-force-readiness-quality-of-life-programs/",
-    "date": "2026-04-16T18:38:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Senior leaders from the Army, Navy and Marine Corps provided an update on steps their respective branches are taking to improve the quality of life for service members during a hearing in Washington before the House Armed Services Committee's readiness subcommittee."
   }
 ]
