@@ -1,5 +1,45 @@
 [
   {
+    "id": "ccead613bdb7",
+    "title": "Hegseth, Caine Say Budget Increases Lethality, Benefits U.S. Industries",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4473246/hegseth-caine-say-budget-increases-lethality-benefits-us-industries/",
+    "date": "2026-04-29T17:18:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The War Department's $1.5 trillion fiscal year 2027 budget request reflects the urgency of the moment, addressing both the deferment of long-standing problems, as well as positioning the joint force for the current and the future fight, Secretary of War Pete Hegseth said during a House Armed Service"
+  },
+  {
+    "id": "44931687bee7",
+    "title": "Ship that Debuted with the Nigerian Navy will be Key for Future U.S., Australian Naval Forces",
+    "url": "https://news.usni.org/2026/04/29/ship-that-debuted-with-the-nigerian-navy-will-be-key-for-future-u-s-australian-naval-forces",
+    "date": "2026-04-29T16:22:28Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A class of landing vessels designed by a Dutch firm – first built in the United Arab Emirates and debuted by the Nigerian Navy – will become the mainstay of U.S. Marine Corps and Australian Defense Force amphibious operations across the Indo-Pacific Region in the coming decades. Within the last two"
+  },
+  {
+    "id": "228ba63fd632",
+    "title": "Marines Debut New Ground Sensor Systems",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4473073/marines-debut-new-ground-sensor-systems/",
+    "date": "2026-04-29T16:03:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Marines showed Tunisian special forces soldiers how the newest generation of ground sensor systems can support security efforts in complex environments during Exercise African Lion 26."
+  },
+  {
+    "id": "2c13788bd999",
+    "title": "AUKUS Inquiry Report from the U.K. Defence Committee",
+    "url": "https://news.usni.org/2026/04/29/the-u-k-defence-committees-aukus-inquiry-report",
+    "date": "2026-04-29T14:18:02Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is the U.K. Defence Committee’s AUKUS inquiry report, published April 28, 2026. From the Report AUKUS, a trilateral defence and security partnership, was announced in 2021 by the leaders of the US, UK and Australia. Conceived with the overarching aim of preserving security and stabilit"
+  },
+  {
     "id": "8074bc6c8a40",
     "title": "Socom Keeps America Safe With Wide Focus",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4472877/socom-keeps-america-safe-with-wide-focus/",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "The Nevada Army National Guard's 1st Battalion, 221st Cavalry Regiment transitioned from a mounted cavalry formation to a mobile infantry battalion during a \"turning blue\" ceremony at the Clark County Armory in Las Vegas."
-  },
-  {
-    "id": "743446260457",
-    "title": "2026 Australian National Defence Strategy",
-    "url": "https://news.usni.org/2026/04/17/2026-australian-national-defence-strategy",
-    "date": "2026-04-17T13:02:52Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the 2026 Australian Government National Defence Strategy, released on April 16, 2026. From the report Australia’s strategic environment The deteriorating trends in our strategic environment that were identified in the 2024 National Defence Strategy have broadened and intensified. Ne"
-  },
-  {
-    "id": "051592900097",
-    "title": "Air Force, Army, Marines Unite for Joint Air Traffic Control Training",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4461712/air-force-army-marines-unite-for-joint-air-traffic-control-training/",
-    "date": "2026-04-17T11:30:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Airmen, soldiers and Marines completed two weeks of airfield training at Robins Air Force Base, Ga., learning valuable skills while highlighting the power of military interoperability."
-  },
-  {
-    "id": "4ffc268790f4",
-    "title": "U.S. Expands Search for Contraband as Iranian Blockade Continues",
-    "url": "https://news.usni.org/2026/04/16/u-s-expands-search-for-contraband-as-iranian-blockade-continues",
-    "date": "2026-04-16T21:12:43Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. reserves the right to search any Iranian vessels, sanctioned vessels and ships suspected of carrying a list of contraband items, according to a Thursday notice to mariners from U.S. Central Command. Contraband items include weapons, ammunition, explosives and military equipment, the notice"
-  },
-  {
-    "id": "8eb5784bf8d3",
-    "title": "Hegseth Urges Iran to 'Choose Wisely' During Epic Fury Ceasefire, Blockade",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4461708/hegseth-urges-iran-to-choose-wisely-during-epic-fury-ceasefire-blockade/",
-    "date": "2026-04-16T20:04:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "During a Pentagon press briefing, Secretary of War Pete Hegseth urged the new Iranian regime to make wise choices amid a ceasefire in combat operations, and to work in good faith toward a deal with the United States."
   }
 ]
