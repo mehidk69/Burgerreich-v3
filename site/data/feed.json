@@ -1,9 +1,79 @@
 [
   {
+    "id": "d2a4bd6e45aa",
+    "title": "Navy’s Modest $602M Unfunded Request Includes 6 Military Construction Projects",
+    "url": "https://news.usni.org/2026/04/30/navys-modest-602m-unfunded-request-includes-6-military-construction-projects",
+    "date": "2026-04-30T17:46:14Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Behind a record-breaking $1.5 trillion Pentagon budget request, the Navy’s unfunded wish list focused on a handful of military construction projects, according to the document reviewed by USNI News. The $602 million unfunded priority list leads with $50 million for a 16,118 square foot facility at N"
+  },
+  {
+    "id": "f2f1250488c0",
+    "title": "25th OWS Annual Nylander Day memorial ceremony 2026",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4474467/25th-ows-annual-nylander-day-memorial-ceremony-2026/",
+    "date": "2026-04-30T17:23:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "alert",
+    "summary": "U.S. Airmen assigned to the 25th Operational Weather Squadron gathered Friday, April 24, 2026 to honor U.S. Air Force Capt. Nathan J. Nylander, a weather officer who made the ultimate sacrifice April 27, 2011, during an enemy attack in Kabul, Afghanistan.<br />\n<img alt=\"U.S. Air Force Davis-Monthan"
+  },
+  {
+    "id": "15cff47390f6",
+    "title": "Three Davis-Monthan units recognized for unprecedented rescue efforts during final withdrawal of U.S. troops from Afghanistan",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4474256/three-davis-monthan-units-recognized-for-unprecedented-rescue-efforts-during-fi/",
+    "date": "2026-04-30T17:03:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "After distinguishing themselves during a deployment to Afghanistan that included the final withdrawal of U.S. troops from the country in 2021, two units, the 55th and 48th Rescue Squadrons, received the Presidential Unit Citation award at a ceremony at Davis-Monthan Air Force Base, Arizona, April 17"
+  },
+  {
+    "id": "026b6ffb64e2",
+    "title": "Nevada Guard's Civil Support Team Trains for Radiological, Explosive Threats",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4474322/nevada-guards-civil-support-team-trains-for-radiological-explosive-threats/",
+    "date": "2026-04-30T16:28:47Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The Nevada National Guard's 92nd Civil Support Team conducted its annual \"Beta Burn\" exercise at the Ormsby House in Carson City, training alongside local and federal partners to respond to simulated radiological and explosive threats."
+  },
+  {
+    "id": "b13c8af1277a",
+    "title": "Spacecom Takes Operational Control of Facility in Alabama",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4474297/spacecom-takes-operational-control-of-facility-in-alabama/",
+    "date": "2026-04-30T15:57:52Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "U.S. Space Command took control of a facility at Redstone Arsenal, Ala., planting its flag for the first operational element of its new headquarters — the Joint Intelligence Support Element."
+  },
+  {
+    "id": "0fc63ec4cf1b",
+    "title": "U.S. Navy Declares Initial Operational Capability for Modified P-8A Poseidon Patrol Aircraft",
+    "url": "https://news.usni.org/2026/04/30/u-s-navy-declares-initial-operational-capability-for-modified-p-8a-poseidon-patrol-aircraft",
+    "date": "2026-04-30T15:50:11Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. Navy declared Initial Operational Capability (IOC) for the P-8A Poseidon Increment 3 Block 2 system, Naval Air Systems Command announced Friday. The Inc 3 Blk 2 achieved IOC after the Initial Operational Test performed by Air Test and Evaluation Squadron One (VX-1) with support from the Mar"
+  },
+  {
+    "id": "c2a7f1ad6b14",
+    "title": "Fiscal Year 2027 Navy Unfunded Priority List to Congress",
+    "url": "https://news.usni.org/2026/04/30/fiscal-year-2027-navy-unfunded-priorities-list-to-congress",
+    "date": "2026-04-30T14:21:17Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is the Navy’s Fiscal Year 2027 unfunded priority list, delivered this week to Congress. From the Report The annual request comes after the Navy formally unveiled its FY 27 budget request on April 21, 2026. Download the document here."
+  },
+  {
     "id": "150c5907b05e",
     "title": "Reauthorizations Accelerate Tech for War Department",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4473801/reauthorizations-accelerate-tech-for-war-department/",
-    "date": "2026-04-29T22:53:59Z",
+    "date": "2026-04-29T22:53:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "air",
@@ -236,7 +306,7 @@
     "date": "2026-04-27T17:00:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "posture",
+    "tag": "exercise",
     "summary": "Guardians assigned to Space Forces - Southern completed their first-ever Human Performance Assessment on April 23, 2026, marking a historic milestone as the unit conducted an evaluation for the first time since its activation and a historical first for first at Davis-Monthan Air Force Base.<br />\n<i"
   },
   {
@@ -608,56 +678,6 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "Soldiers and airmen who participated in the 2026 Milan Cortina Winter Olympic Games in Italy with the World Class Athlete Program visited the Pentagon, where the athletes also got an unexpected opportunity to meet with Secretary of War Pete Hegseth."
-  },
-  {
-    "id": "d4395a7fe744",
-    "title": "Department Official Details DOW's Intelligence, Security Priorities",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4464750/department-official-details-dows-intelligence-security-priorities/",
-    "date": "2026-04-20T19:30:06Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The undersecretary of war for intelligence and security testified on the resourcing, priorities and challenges facing the intelligence enterprise for fiscal year 2027 during a hearing in Washington."
-  },
-  {
-    "id": "cb790598eec0",
-    "title": "USNI News Fleet and Marine Tracker: April, 20 2026",
-    "url": "https://news.usni.org/2026/04/20/usni-news-fleet-and-marine-tracker-april-20-2026",
-    "date": "2026-04-20T17:26:50Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of April 20, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the ca"
-  },
-  {
-    "id": "9d27d0d196e6",
-    "title": "PLAN Carrier Fujian Expected to Achieve Full Readiness This Year, Chinese State Media Says",
-    "url": "https://news.usni.org/2026/04/20/plan-carrier-fujian-expected-to-achieve-full-readiness-this-year-chinese-state-media-says",
-    "date": "2026-04-20T15:25:32Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Beijing’s newest and largest aircraft carrier is expected to achieve full operational readiness this year, Chinese state media reported when highlighting the rapid progress of the country’s carrier program and naval aviation developments. Chinese military commentators expressed optimism that the Typ"
-  },
-  {
-    "id": "3908c3846a7c",
-    "title": "U.S. Forces Disable Vessel Attempting to Enter Iranian Port, Violate Blockade",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4464208/us-forces-disable-vessel-attempting-to-enter-iranian-port-violate-blockade/",
-    "date": "2026-04-20T14:19:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "U.S. forces operating in the Arabian Sea enforced naval blockade measures against an Iranian-flagged cargo vessel attempting to sail toward an Iranian port."
-  },
-  {
-    "id": "d829b08f31ca",
-    "title": "Navy’s Next Generation F/A-XX Downselect Expected in August",
-    "url": "https://news.usni.org/2026/04/20/navys-next-generation-f-a-xx-downselect-expected-in-august",
-    "date": "2026-04-20T13:23:17Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "NATIONAL HARBOR, Md. — The builder of the Navy’s long-awaited next-generation carrier fighter will be picked in the summer, Chief of Naval Operations Adm. Daryl Caudle said Monday. Speaking to reporters, Caudle said that following several conversations with Deputy Secretary of Defense Steve Feinberg"
   },
   {
     "id": "e4fe08d1ac03",
