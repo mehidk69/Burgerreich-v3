@@ -1,5 +1,65 @@
 [
   {
+    "id": "150c5907b05e",
+    "title": "Reauthorizations Accelerate Tech for War Department",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4473801/reauthorizations-accelerate-tech-for-war-department/",
+    "date": "2026-04-29T22:53:59Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The reauthorization of a couple of small business technology programs opens the gates for the War Department to get cutting-edge technology more quickly into the hands of warfighters."
+  },
+  {
+    "id": "ce57d199c18f",
+    "title": "Marines Considering Alternative Ships for SOUTHCOM Deployments",
+    "url": "https://news.usni.org/2026/04/29/marines-considering-alternative-ships-for-southcom-deployments",
+    "date": "2026-04-29T22:16:20Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "WASHINGTON, D.C. — The Marine Corps is preparing to deploy Marines on specialty platforms like the Expeditionary Fast Transport and the Expeditionary Sea Base to meet combatant commander demands in the Caribbean, a top general said Wednesday. Due to a lack of ready amphibious ships on both coasts, t"
+  },
+  {
+    "id": "9e4b8417950d",
+    "title": "First Columbia-class Sub Tracking to 2028 Delivery, General Dynamics Says",
+    "url": "https://news.usni.org/2026/04/29/first-columbia-class-sub-tracking-to-2028-delivery-general-dynamics-says",
+    "date": "2026-04-29T21:19:22Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The first of the new Columbia-class of ballistic missile submarine is tracking for a 2028 delivery due to improvements in workforce efficiency and the supplier base, General Dynamics officials said Wednesday. District of Columbia (SSBN-826), currently being assembled at GD Electric Boat is “on a pat"
+  },
+  {
+    "id": "73a76f97041c",
+    "title": "Joint Interagency Task Force 401, Paratroopers Test New Counter-UAS",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4473408/joint-interagency-task-force-401-paratroopers-test-new-counter-uas/",
+    "date": "2026-04-29T19:42:44Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Paratroopers assigned to the 82nd Airborne Division recently took part in the inaugural training event with the Bumblebee V2 counter-drone system, marking the first operational test of the prototypes purchased by Joint Interagency Task Force 401 earlier this year."
+  },
+  {
+    "id": "d651f2234475",
+    "title": "National Guard Military Police Battalion Deploys in Support of Operation Epic Fury",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4473393/national-guard-military-police-battalion-deploys-in-support-of-operation-epic-f/",
+    "date": "2026-04-29T18:48:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Approximately 150 soldiers assigned to the 192nd Military Police Battalion, Connecticut Army National Guard, participated in a deployment ceremony after being selected to deploy on short notice to the Middle East in support of Operation Epic Fury."
+  },
+  {
+    "id": "3ad66c3c5bd3",
+    "title": "Hegseth, Caine Say Budget Increases Lethality, Strengthens Defense Industrial Base",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4473246/hegseth-caine-say-budget-increases-lethality-strengthens-defense-industrial-base/",
+    "date": "2026-04-29T17:18:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The War Department's $1.5 trillion fiscal year 2027 budget request reflects the urgency of the moment, addressing both the deferment of long-standing problems, as well as positioning the joint force for the current and the future fight, Secretary of War Pete Hegseth said during a House Armed Service"
+  },
+  {
     "id": "ccead613bdb7",
     "title": "Hegseth, Caine Say Budget Increases Lethality, Benefits U.S. Industries",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4473246/hegseth-caine-say-budget-increases-lethality-benefits-us-industries/",
@@ -57,7 +117,7 @@
     "source": "USNI News",
     "cocom": "osint",
     "tag": "naval",
-    "summary": "The Navy issued HII’s Ingalls Shipbuilding a $282.9 million contract award Tuesday to do lead yard work for the new frigate based on the Coast Guard’s National Security Cutter. A Pentagon announcement noted that the Navy did not compete the contract and said the work should wrap up in April 2028. Th"
+    "summary": "This story has been updated to include additional information about the timeline for the lead ship in the FF(X) class. The Navy issued HII’s Ingalls Shipbuilding a $282.9 million contract award Tuesday to do lead yard work for the new frigate based on the Coast Guard’s National Security Cutter. A Pe"
   },
   {
     "id": "92a83aa4f706",
@@ -598,66 +658,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "NATIONAL HARBOR, Md. — The builder of the Navy’s long-awaited next-generation carrier fighter will be picked in the summer, Chief of Naval Operations Adm. Daryl Caudle said Monday. Speaking to reporters, Caudle said that following several conversations with Deputy Secretary of Defense Steve Feinberg"
-  },
-  {
-    "id": "8dcca1338f8e",
-    "title": "U.S. Forces Strike Suspected Narco Boat, 3 Killed",
-    "url": "https://news.usni.org/2026/04/20/u-s-forces-strike-suspected-narco-boat-3-killed",
-    "date": "2026-04-20T11:34:32Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "This story has been updated to include the Navy ships operating in the Caribbean under U.S. Southern Command. Joint Task Force Southern Spear forces struck a boat allegedly ferrying illicit narcotics in the Caribbean, U.S. Southern Command announced Sunday night. Three men were killed in the strike,"
-  },
-  {
-    "id": "b183e366c099",
-    "title": "U.S. Disables, Seizes Iranian Container Ship Attempting to Run Strait of Hormuz Blockade",
-    "url": "https://news.usni.org/2026/04/19/u-s-disables-seizes-iranian-container-ship-attempting-to-run-strait-of-hormuz-blockade",
-    "date": "2026-04-20T02:23:13Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.S. Central Command forces boarded and seized an Iranian-flagged cargo vessel, sanctioned by the U.S. Treasury, as it attempted to sail into an Iranian port, CENTCOM announced Sunday. USS Spruance (DDG-111), a destroyer in the Abraham Lincoln Carrier Strike Group, intercepted container ship MV Tous"
-  },
-  {
-    "id": "806928faf7ea",
-    "title": "USS Gerald R. Ford is Now Operating in the Red Sea",
-    "url": "https://news.usni.org/2026/04/19/uss-gerald-r-ford-now-operating-in-the-red-sea",
-    "date": "2026-04-19T17:45:03Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Aircraft carrier USS Gerald R. Ford (CVN-78) is now operating in U.S. Central Command, two defense officials confirmed to USNI News on Friday. Ford departed the Eastern Mediterranean Sea late last week and is now in the Red Sea after a Suez Canal transit. Destroyers USS Mahan (DDG-72) and USS Winsto"
-  },
-  {
-    "id": "73f153d93697",
-    "title": "Nordhaus Underscores National Guard's Indispensable Role",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4463931/nordhaus-underscores-national-guards-indispensable-role/",
-    "date": "2026-04-17T21:34:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Air Force Gen. Steven Nordhaus, chief of the National Guard Bureau, testified that 2025's dual-mission operations — from combat strikes in Iran to domestic crisis response — prove the guard needs urgent modernization and funding reform."
-  },
-  {
-    "id": "d234b0cef733",
-    "title": "Marine Corps Awards Contracts for Advanced Reconnaissance Vehicle Prototypes",
-    "url": "https://news.usni.org/2026/04/17/marine-corps-awards-contracts-for-advanced-reconnaissance-vehicle-prototypes",
-    "date": "2026-04-17T17:59:25Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The U.S. Marine Corps awarded contracts to General Dynamics Land Systems and Textron Systems Corporation earlier this month, moving forward with the second phase of rapid prototyping for the service’s Advanced Reconnaissance Vehicle.  Both GD Land Systems and Textron will build and deliver their res"
-  },
-  {
-    "id": "6f54fb708981",
-    "title": "Guard Unit 'Turns Blue,' Symbolizing Mobile Infantry Transition",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4463357/guard-unit-turns-blue-symbolizing-mobile-infantry-transition/",
-    "date": "2026-04-17T16:40:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The Nevada Army National Guard's 1st Battalion, 221st Cavalry Regiment transitioned from a mounted cavalry formation to a mobile infantry battalion during a \"turning blue\" ceremony at the Clark County Armory in Las Vegas."
   },
   {
     "id": "e4fe08d1ac03",
