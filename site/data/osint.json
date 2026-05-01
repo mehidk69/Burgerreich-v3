@@ -1,5 +1,35 @@
 [
   {
+    "id": "4865609c2350",
+    "title": "King Charles III and Queen Camilla Honor a Shared History of Service and Sacrifice",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4475647/king-charles-iii-and-queen-camilla-honor-a-shared-history-of-service-and-sacrif/",
+    "date": "2026-05-01T18:22:54Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "King Charles III and Queen Camilla commemorated the 250th anniversary of American independence with a visit to Arlington National Cemetery for a full honors wreath-laying ceremony at the Tomb of the Unknown Soldier."
+  },
+  {
+    "id": "70718658b074",
+    "title": "Synchronized Logistics Enable Engineer Unit Deployment",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4475414/synchronized-logistics-enable-engineer-unit-deployment/",
+    "date": "2026-05-01T16:08:31Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Fort Buchanan demonstrated its critical role as a readiness platform when hundreds of soldiers deployed from the installation in Puerto Rico to a continental United States mobilization station in support of a future mission with a combatant command."
+  },
+  {
+    "id": "2c3d7f9f1879",
+    "title": "Report to Congress on Russia’s Nuclear Weapons",
+    "url": "https://news.usni.org/2026/05/01/report-to-congress-russias-nuclear-weapons",
+    "date": "2026-05-01T15:56:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The following is the April 22, 2026, Congressional Research Service report, Russia&#8217;s Nuclear weapons. From the report According to the Pentagon’s 2026 National Defense Strategy, Russia “possesses the world’s largest nuclear arsenal, which it continues to modernize and diversify, as well as und"
+  },
+  {
     "id": "1dd4e02c9ad5",
     "title": "War Department's $1.5 Trillion Budget Proposal Includes Sizable Nuclear Triad Investment",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4474675/war-departments-15-trillion-budget-proposal-includes-sizable-nuclear-triad-inve/",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "NATIONAL HARBOR, Md. — The U.S. Navy is looking to field thousands of unmanned surface vessels to the Indo-Pacific by 2030, according to the service’s drone boat development group. “By 2030, expect to see over 30 Medium Unmanned Surface Vessels (MUSV) just in the Indo-Pacific. Expect to see thousand"
-  },
-  {
-    "id": "d525a27a0a7b",
-    "title": "Army Contracting Command Accelerates Hypersonic Weapon Fielding",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4465604/army-contracting-command-accelerates-hypersonic-weapon-fielding/",
-    "date": "2026-04-21T16:27:04Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "U.S. Army Contracting Command Redstone Arsenal awarded a $2.7 billion production contract to support the Dark Eagle long-range hypersonic weapon, marking a major milestone ahead of an accelerated fiscal 2026 fielding timeline."
-  },
-  {
-    "id": "050657b14dee",
-    "title": "On Time Columbia-class Delivery is ‘Life or Death Imperative,’ Sub Czar Gaucher Says",
-    "url": "https://news.usni.org/2026/04/21/on-time-columbia-class-delivery-is-life-or-death-imperative-sub-czar-gaucher-says",
-    "date": "2026-04-21T15:18:53Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "NATIONAL HARBOR, Md. — The architects of the Navy’s new shift in building submarines were given the green light by senior Pentagon leaders to “bust things up” to get submarine repair and construction back on track as the service races to deliver the first Columbia-class ballistic missile submarine o"
-  },
-  {
-    "id": "493401b45d32",
-    "title": "Navy Wants to Buy $17B Trump-class Battleship in FY 2028",
-    "url": "https://news.usni.org/2026/04/21/navy-wants-to-buy-trump-class-battleship-in-fy-2028",
-    "date": "2026-04-21T15:00:11Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "THE PENTAGON – The Navy wants to buy the first Trump-class battleship in next year’s budget submission, a schedule that would allow the service to make the purchase before President Donald Trump leaves office. The first battleship, known as BBG(X), is currently programmed in the five-year budget out"
   }
 ]
