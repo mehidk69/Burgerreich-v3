@@ -1,5 +1,25 @@
 [
   {
+    "id": "1dd4e02c9ad5",
+    "title": "War Department's $1.5 Trillion Budget Proposal Includes Sizable Nuclear Triad Investment",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4474675/war-departments-15-trillion-budget-proposal-includes-sizable-nuclear-triad-inve/",
+    "date": "2026-04-30T20:48:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The War Department aims to modernize the U.S. nuclear triad — including air, land and sea weapons — and the fiscal year 2027 budget proposal includes ample investment to make that happen, said Secretary of War Pete Hegseth during testimony on Capitol Hill."
+  },
+  {
+    "id": "cce3888ee3f2",
+    "title": "Personal Property Activity Launches Moving Website",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4474708/personal-property-activity-launches-moving-website/",
+    "date": "2026-04-30T20:02:13Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The War Department's Personal Property Activity launches its new website, www.ppa.mil, creating a centralized digital hub designed to better support DOW personnel and industry partners as they navigate the moving process."
+  },
+  {
     "id": "d2a4bd6e45aa",
     "title": "Navy’s Modest $602M Unfunded Request Includes 6 Military Construction Projects",
     "url": "https://news.usni.org/2026/04/30/navys-modest-602m-unfunded-request-includes-6-military-construction-projects",
@@ -23,7 +43,7 @@
     "id": "b13c8af1277a",
     "title": "Spacecom Takes Operational Control of Facility in Alabama",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4474297/spacecom-takes-operational-control-of-facility-in-alabama/",
-    "date": "2026-04-30T15:57:52Z",
+    "date": "2026-04-30T15:57:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "THE PENTAGON – The Navy wants to buy the first Trump-class battleship in next year’s budget submission, a schedule that would allow the service to make the purchase before President Donald Trump leaves office. The first battleship, known as BBG(X), is currently programmed in the five-year budget out"
-  },
-  {
-    "id": "a7f5ad24166b",
-    "title": "Hegseth: Flu Vaccine Optional",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4464967/hegseth-flu-vaccine-optional/",
-    "date": "2026-04-21T14:02:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Annual influenza vaccines are no longer mandatory, said Secretary of War Pete Hegseth in a video posted on social media. The new mandate follows similar department efforts regarding the COVID-19 vaccine."
-  },
-  {
-    "id": "30a250610fd5",
-    "title": "Service Member Olympians Meet With Secretary of War",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4464847/service-member-olympians-meet-with-secretary-of-war/",
-    "date": "2026-04-20T20:04:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Soldiers and airmen who participated in the 2026 Milan Cortina Winter Olympic Games in Italy with the World Class Athlete Program visited the Pentagon, where the athletes also got an unexpected opportunity to meet with Secretary of War Pete Hegseth."
   }
 ]
