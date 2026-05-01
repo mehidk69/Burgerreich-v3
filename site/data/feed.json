@@ -1,9 +1,29 @@
 [
   {
+    "id": "6647e2b82abf",
+    "title": "CNO: U.S. Naval Aviators Will No Longer Command Amphibious Warships",
+    "url": "https://news.usni.org/2026/05/01/cno-u-s-naval-aviators-will-no-longer-command-amphibious-warships",
+    "date": "2026-05-01T21:29:36Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Naval aviators will no longer command amphibious warships, according to a directive issued last week by Chief of Naval Operations Daryl Caudle. Citing poor amphibious ship readiness and operational availability, Caudle said that surface warfare officers would become the only officers authorized to c"
+  },
+  {
+    "id": "a55ef7fee406",
+    "title": "Strait of Hormuz Commercial Transits at Lowest Level Since Operation Epic Fury Start, Shipping Data Shows",
+    "url": "https://news.usni.org/2026/05/01/strait-of-hormuz-commercial-transits-at-lowest-level-since-operation-epic-fury-start-shipping-data-shows",
+    "date": "2026-05-01T21:24:19Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Transits in the Strait of Hormuz dropped to their lowest numbers since the first days of the U.S.-Israel offensive in Iran, according to merchant shipping data. The shipping industry continues to be caught between the U.S. and Iran’s fight over the strait. Iran has claimed it should be able to contr"
+  },
+  {
     "id": "4865609c2350",
     "title": "King Charles III and Queen Camilla Honor a Shared History of Service and Sacrifice",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4475647/king-charles-iii-and-queen-camilla-honor-a-shared-history-of-service-and-sacrif/",
-    "date": "2026-05-01T18:22:54Z",
+    "date": "2026-05-01T18:22:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "ground",
@@ -648,26 +668,6 @@
     "cocom": "osint",
     "tag": "posture",
     "summary": "The president's fiscal year 2027 budget request was made public during a briefing at the Pentagon, with $1.5 trillion — the largest request in history — aimed at, among other things, supporting military families, securing the homeland, modernizing equipment, rebuilding the defense industrial base an"
-  },
-  {
-    "id": "39bd1b24f923",
-    "title": "Spring Culminating Exercise Tests Cadet Warfighter Skills",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4465731/spring-culminating-exercise-tests-cadet-warfighter-skills/",
-    "date": "2026-04-21T19:05:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Nearly 3,000 cadets participated in the U.S. Air Force Academy's spring culminating exercise, a rigorous, multidomain military training that develops cadets into combat-ready Air Force and Space Force leaders."
-  },
-  {
-    "id": "24fcd71d8382",
-    "title": "Navy to Deploy Thousands of Unmanned Surface Vessels to the Indo-Pacific by 2030",
-    "url": "https://news.usni.org/2026/04/21/navy-to-deploy-thousands-of-unmanned-surface-vessels-to-the-indo-pacific-by-2030",
-    "date": "2026-04-21T18:43:02Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "NATIONAL HARBOR, Md. — The U.S. Navy is looking to field thousands of unmanned surface vessels to the Indo-Pacific by 2030, according to the service’s drone boat development group. “By 2030, expect to see over 30 Medium Unmanned Surface Vessels (MUSV) just in the Indo-Pacific. Expect to see thousand"
   },
   {
     "id": "8bb15ce9ce2d",
