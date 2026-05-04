@@ -1,5 +1,55 @@
 [
   {
+    "id": "f1a6f0b799bc",
+    "title": "USNI News Fleet and Marine Tracker: May 4, 2026",
+    "url": "https://news.usni.org/2026/05/04/usni-news-fleet-and-marine-tracker-may-4-2026",
+    "date": "2026-05-04T16:53:08Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 4, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capit"
+  },
+  {
+    "id": "22e990744a8f",
+    "title": "Project Flytrap 5.0 Puts Emerging Tech in Warfighters' Hands",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4476789/project-flytrap-50-puts-emerging-tech-in-warfighters-hands/",
+    "date": "2026-05-04T16:51:38Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "U.S. infantry soldiers and U.K. paratroopers prepared for the force-on-force phase of Project Flytrap 5.0, an exercise that integrates autonomous and unmanned ground vehicles, first-person view drones and counter-unmanned aerial systems on a simulated battlefield in Europe."
+  },
+  {
+    "id": "4843e052512a",
+    "title": "Shipbuilding Advisor William Toti Now Performing Duties of Under Secretary of the Navy",
+    "url": "https://news.usni.org/2026/05/04/shipbuilding-advisor-william-toti-now-performing-duties-of-under-secretary-of-the-navy",
+    "date": "2026-05-04T16:34:41Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A former advisor to Deputy Defense Secretary Steve Feinberg is now performing the duties of the under secretary of the Navy, the service announced last week. Retired Navy Capt. William Toti, a career submariner who until recently worked for Feinberg on shipbuilding issues, is filling in as the Navy’"
+  },
+  {
+    "id": "23ebc72c3751",
+    "title": "Eerie Company: A New Threat at the Joint Multinational Readiness Center",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4476715/eerie-company-a-new-threat-at-the-joint-multinational-readiness-center/",
+    "date": "2026-05-04T16:02:13Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Soldiers assigned to the newly established Eerie Company, 1st Battalion, 4th Infantry Regiment, used first-person-view drone systems to enhance reconnaissance capabilities during Joint Multinational Readiness Center exercises in Hohenfels, Germany."
+  },
+  {
+    "id": "5f513c184fff",
+    "title": "Exercise Desert Hammer Prepares Citizen Airmen for 'Trial by Fire'",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4476599/exercise-desert-hammer-prepares-citizen-airmen-for-trial-by-fire/",
+    "date": "2026-05-04T15:56:21Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Airmen assigned to the 944th Fighter Wing participated in Exercise Desert Hammer 26-2, training designed to build battlefield skills, test mission-essential tasks and prepare reserve airmen for operations beyond base, at Camp Navajo, Ariz."
+  },
+  {
     "id": "bfb2a11606f8",
     "title": "Green Berets Deploy Ship-Killing Drone in Luzon Strait Maritime Strike Exercise",
     "url": "https://news.usni.org/2026/05/03/green-berets-deploy-ship-killing-drone-in-luzon-strait-maritime-strike-exercise",
@@ -548,55 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "While the war in Iran has siphoned assets from the Pacific and is using “finite levels” of munitions, it is also providing valuable lessons that will ultimately strengthen regional defense, Indo-Pacific Commander Adm. Samuel Paparo said Tuesday. The San Diego-based Abraham Lincoln Carrier Strike Gro"
-  },
-  {
-    "id": "03e7b8924b43",
-    "title": "Iran Conflict Holds Lessons for U.S., Adversaries, IndoPACOM Commander Says",
-    "url": "https://news.usni.org/2026/04/22/iran-conflict-holds-lessons-for-u-s-adversaries-indopacom-commander-says",
-    "date": "2026-04-22T19:26:19Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "While the war in Iran has siphoned assets from the Pacific and is using “finite levels” of munitions, it is also providing valuable lessons that will ultimately strengthen regional defense, Indo-Pacific Commander Adm. Samuel Paparo said Tuesday. The San Diego-based Abraham Lincoln Carrier Strike Gro"
-  },
-  {
-    "id": "a1e48f866eee",
-    "title": "Navy Tests Long-Range Munition Capable of Maritime Strike, Mining Missions",
-    "url": "https://news.usni.org/2026/04/22/navy-tests-long-range-munition-capable-of-maritime-strike-mining-missions",
-    "date": "2026-04-22T18:29:41Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "NATIONAL HARBOR, Md. — The U.S. Navy tested a new guided munition capable of striking naval targets or deploying sea mines from aircraft hundreds of miles away, service officials revealed Monday. Naval Air Systems Command (NAVAIR) disclosed the first tests of the Joint Direct Attack Munition (JDAM)"
-  },
-  {
-    "id": "2c64d38c4d4d",
-    "title": "Braker Breakthrough: Drone-Delivered Bunker-Busting Warhead Passes Test",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4466875/braker-breakthrough-drone-delivered-bunker-busting-warhead-passes-test/",
-    "date": "2026-04-22T17:11:40Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Army infantry drone operators successfully tested a new warhead designed for delivery by an unmanned aerial system, a significant leap forward for battlefield technology only weeks after the initial design and rapid prototyping of the system."
-  },
-  {
-    "id": "0a1829a4a34a",
-    "title": "U.S. Army Stages Equipment at American-owned Subic Bay Facility for Balikatan, Alliance Contingencies",
-    "url": "https://news.usni.org/2026/04/22/u-s-army-stages-equipment-at-american-owned-subic-bay-facility-for-balikatan-alliance-contingencies",
-    "date": "2026-04-22T16:46:53Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The U.S. Army is using a facility in Subic Bay to stage equipment for exercises and alliance contingencies, according to a recent think tank report and imagery released by the Pentagon. Army trucks and helicopters rolled off a Military Sealift Command-contracted vessel at Subic Bay last month during"
-  },
-  {
-    "id": "022770ed4534",
-    "title": "Navy Reviewing Ford-class Carrier Design Ahead of Future Contract Awards",
-    "url": "https://news.usni.org/2026/04/21/navy-reviewing-ford-class-carrier-design-ahead-of-future-contract-awards",
-    "date": "2026-04-21T22:57:44Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "NATIONAL HARBOR, Md. — The Navy is finalizing a new study that is examining the Ford-class carrier to determine whether it should alter the design of the next two in the class, Secretary of the Navy John Phelan said on Tuesday. The sea service is assessing the design of CVN-82 and CVN-83, the next a"
   }
 ]
