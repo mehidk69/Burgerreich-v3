@@ -1,5 +1,15 @@
 [
   {
+    "id": "bfb2a11606f8",
+    "title": "Green Berets Deploy Ship-Killing Drone in Luzon Strait Maritime Strike Exercise",
+    "url": "https://news.usni.org/2026/05/03/green-berets-deploy-ship-killing-drone-in-luzon-strait-maritime-strike-exercise",
+    "date": "2026-05-03T20:17:59Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "MANILA, Philippines — American special forces used unmanned surface vessels equipped with explosive charges against a maritime target in the Luzon Strait. U.S. Army Green Berets with the 1st Special Forces Group (Airborne) controlled the explosive-laden drone and other unmanned maritime systems from"
+  },
+  {
     "id": "6647e2b82abf",
     "title": "CNO: U.S. Naval Aviators Will No Longer Command Amphibious Warships",
     "url": "https://news.usni.org/2026/05/01/cno-u-s-naval-aviators-will-no-longer-command-amphibious-warships",
@@ -658,16 +668,6 @@
     "cocom": "centcom",
     "tag": "alert",
     "summary": "U.S. Air Force Pararescuemen assigned to the 68th Rescue Squadron completed the Combat Leader Course at Davis-Monthan Air Force Base, Arizona, April 17, 2026, enhancing their operational readiness and leadership skills through a series of simulated mission objectives to test both their tactical prof"
-  },
-  {
-    "id": "464b6e8487d5",
-    "title": "$1.5 Trillion Budget Request Prioritizes Service Members, Modernization",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4465551/15-trillion-budget-request-prioritizes-service-members-modernization/",
-    "date": "2026-04-21T20:18:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The president's fiscal year 2027 budget request was made public during a briefing at the Pentagon, with $1.5 trillion — the largest request in history — aimed at, among other things, supporting military families, securing the homeland, modernizing equipment, rebuilding the defense industrial base an"
   },
   {
     "id": "8bb15ce9ce2d",
