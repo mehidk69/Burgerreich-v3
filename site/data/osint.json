@@ -1,5 +1,65 @@
 [
   {
+    "id": "c9a2a16d5cd7",
+    "title": "'Project Freedom' Aims to Get Thousands of Commercial Ships Safely Through Strait of Hormuz",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4477864/project-freedom-aims-to-get-thousands-of-commercial-ships-safely-through-strait/",
+    "date": "2026-05-05T17:06:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Project Freedom is a targeted U.S. military mission to break the Iranian blockade of the Strait of Hormuz and restore the safe flow of international shipping and oil."
+  },
+  {
+    "id": "7428bd84624a",
+    "title": "82nd Airborne Division Ready to Respond, Support Project Freedom, Caine Says",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4477804/82nd-airborne-division-ready-to-respond-support-project-freedom-caine-says/",
+    "date": "2026-05-05T16:58:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "When the president or the secretary of war needs immediate, scalable and lethal combat power anywhere in the world, 82nd Airborne Division paratroopers answer the call, Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, said during a Pentagon press briefing."
+  },
+  {
+    "id": "c99f19d984dc",
+    "title": "Enlistees Honored During Recognition Ceremony",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4477810/enlistees-honored-during-recognition-ceremony/",
+    "date": "2026-05-05T16:45:19Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "As the nation commemorates its 250th anniversary throughout 2026, community and military leaders honored the next generation of American defenders during the second annual Our Community Salutes Enlistee Recognition Ceremony at the First Baptist Church in O'Fallon, Ill."
+  },
+  {
+    "id": "2ee929c5dccd",
+    "title": "U.S. Forces Kill 2 in Caribbean Strike Against Suspected Narco Boat",
+    "url": "https://news.usni.org/2026/05/05/u-s-forces-kill-2-in-caribbean-strike-against-suspected-narco-boat",
+    "date": "2026-05-05T16:19:57Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Two are dead following a U.S. military strike in the Caribbean Sea against a suspected narcotics trafficking vessel, U.S. Southern Command announced late Monday. “Intelligence confirmed the vessel was transiting along known narco-trafficking routes in the Caribbean and was engaged in narco-trafficki"
+  },
+  {
+    "id": "675f28c69b9a",
+    "title": "Coast Guard Great Lakes District Set to Use Autonomous Sail Drones",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4477650/coast-guard-great-lakes-district-set-to-use-autonomous-sail-drones/",
+    "date": "2026-05-05T15:44:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Leveraging a contract awarded by the Coast Guard to enhance maritime domain awareness, the Great Lakes District will deploy autonomous drones to support Coast Guard missions on the Great Lakes."
+  },
+  {
+    "id": "7824cfe7d6a9",
+    "title": "The Navy’s Fiscal Year 2027 Active-duty Captain Line Selections",
+    "url": "https://news.usni.org/2026/05/05/the-navys-fiscal-year-2027-active-duty-captain-line-selections",
+    "date": "2026-05-05T13:16:32Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is the Navy’s Fiscal Year 2027 active-duty captain line selections, released April 29, 2026, by Acting Secretary of the Navy Hung Cao. From the Report CLASSIFICATION: UNCLASSIFIED FM SECNAV WASHINGTON DC TO ALNAV INFO SECNAV WASHINGTON DC CNO WASHINGTON DC CMC WASHINGTON DC SUBJ/FY-27"
+  },
+  {
     "id": "4740de5a4e6b",
     "title": "80 Years After Death, Medal of Honor Recipient Identified, Buried",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4477278/80-years-after-death-medal-of-honor-recipient-identified-buried/",
@@ -8,6 +68,16 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "More than 80 years after his death, Medal of Honor recipient Army Capt. Willibald Bianchi's remains were identified by the Defense POW/MIA Accounting Agency, he was buried in his hometown alongside his parents and his sisters."
+  },
+  {
+    "id": "f505a3056eea",
+    "title": "West Virginia Guardsmen Awarded Medals for Heroism in Nation's Capital",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4477098/west-virginia-guardsmen-awarded-medals-for-heroism-in-nations-capital/",
+    "date": "2026-05-04T20:27:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Two West Virginia National Guardsmen were recognized in the Pentagon's Hall of Heroes for actions late last year while working as part of Joint Task Force District of Columbia — an effort directed by President Donald J. Trump to stop crime in the nation's capital and to beautify the city."
   },
   {
     "id": "c2a26a6c3270",
@@ -53,7 +123,7 @@
     "id": "22e990744a8f",
     "title": "Project Flytrap 5.0 Puts Emerging Tech in Warfighters' Hands",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4476789/project-flytrap-50-puts-emerging-tech-in-warfighters-hands/",
-    "date": "2026-05-04T16:51:38Z",
+    "date": "2026-05-04T16:51:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "air",
@@ -73,7 +143,7 @@
     "id": "23ebc72c3751",
     "title": "Eerie Company: A New Threat at the Joint Multinational Readiness Center",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4476715/eerie-company-a-new-threat-at-the-joint-multinational-readiness-center/",
-    "date": "2026-05-04T16:02:13Z",
+    "date": "2026-05-04T16:02:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "ground",
@@ -83,7 +153,7 @@
     "id": "5f513c184fff",
     "title": "Exercise Desert Hammer Prepares Citizen Airmen for 'Trial by Fire'",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4476599/exercise-desert-hammer-prepares-citizen-airmen-for-trial-by-fire/",
-    "date": "2026-05-04T15:56:21Z",
+    "date": "2026-05-04T15:56:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "exercise",
@@ -528,75 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "North Korea recently launched five short range ballistic missiles (SRBMs) armed with cluster munitions against an island target in the Sea of Japan for the second time this month, further trialing the warhead’s capabilities, state media reported Monday. North Korea’s Missile Administration conducted"
-  },
-  {
-    "id": "a5f28b726054",
-    "title": "Personal Property Activity Engages Industry Partners Ahead of Peak PCS Season",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4468646/personal-property-activity-engages-industry-partners-ahead-of-peak-pcs-season/",
-    "date": "2026-04-23T23:37:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The War Department's newest special activity — the Personal Property Activity — met with moving, shipping and logistics leaders to provide an update on the accelerated reform aimed at improving one of the most critical quality-of-life issues facing military families, the permanent change of station"
-  },
-  {
-    "id": "cdaac6b2f70e",
-    "title": "Carrier USS George H.W. Bush Now in U.S. Central Command After Traveling Around Africa",
-    "url": "https://news.usni.org/2026/04/23/carrier-uss-george-h-w-bush-now-in-u-s-central-command-after-traveling-around-africa",
-    "date": "2026-04-23T22:11:24Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "East Coast carrier USS George H.W. Bush (CVN-77) is now operating in the Middle East after a sailing around the southern tip of Africa, U.S. Central Command announced on Thursday. Bush’s entrance into CENTCOM marks the first time three carriers have been in the Middle East since the height of the U."
-  },
-  {
-    "id": "920d8b2f2f84",
-    "title": "Thousands of Kids Descend on Pentagon for 'Bring Your Child to Work Day'",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4468478/thousands-of-kids-descend-on-pentagon-for-bring-your-child-to-work-day/",
-    "date": "2026-04-23T21:11:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "More than 8,000 children visited the Pentagon for \"Bring Your Child to Work Day,\" where they explored military displays, met with leaders like Secretary Pete Hegseth, and participated in a special reading with Second Lady Usha Vance."
-  },
-  {
-    "id": "086a1bf1358f",
-    "title": "Navy to Integrate PAC-3 Missiles on Aegis Guided-Missile Destroyers",
-    "url": "https://news.usni.org/2026/04/23/navy-to-integrate-pac-3-missiles-on-aegis-guided-missile-destroyers",
-    "date": "2026-04-23T20:06:42Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "NATIONAL HARBOR, Md. — The Navy has finalized its decision to integrate Advanced Capability 3 Missile Segment Enhancements aboard its warships, Lockheed Martin announced this week. The sea service will integrate the PAC-3 MSEs with the service’s ubiquitous Mark 41 vertical launching systems and Aegi"
-  },
-  {
-    "id": "2dbfc5122876",
-    "title": "Air Force Pararescuemen Complete Combat Leader Course",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4467939/air-force-pararescuemen-complete-combat-leader-course/",
-    "date": "2026-04-23T17:47:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Air Force pararescuemen assigned to the 68th Rescue Squadron completed the Combat Leader Course at Davis-Monthan Air Force Base, Ariz., enhancing their operational readiness and leadership skills."
-  },
-  {
-    "id": "236dbcd4fca8",
-    "title": "Southcom Establishes Autonomous Warfare Command",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4467892/southcom-establishes-autonomous-warfare-command/",
-    "date": "2026-04-23T16:25:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Marine Corps Gen. Francis L. Donovan directed the establishment of the Southcom Autonomous Warfare Command, which will employ autonomous, semiautonomous and unmanned platforms and systems to counter threats and challenges across the region."
-  },
-  {
-    "id": "c51a934c6712",
-    "title": "Australia to Increase Defense Spending by $37.9B Over Next Decade",
-    "url": "https://news.usni.org/2026/04/23/australia-to-increase-defense-spending-by-37-9b-over-next-decade",
-    "date": "2026-04-23T15:59:58Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Australia will increase its defense spending by $37.9 billion U.S. dollars over the next decade, according to its 2026 National Defense Strategy and accompanying Integrated Investment Program documents, which were unveiled last week. According to the documents released April 16, Australia plans to s"
   }
 ]
