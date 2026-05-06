@@ -1,5 +1,25 @@
 [
   {
+    "id": "1a068a732672",
+    "title": "‘Littoral Deep Battle’",
+    "url": "https://news.usni.org/2026/05/05/littoral-deep-battle",
+    "date": "2026-05-05T22:14:43Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "LAOAG, Philippines — Target drones resembling Chinese amphibious infantry fighting vehicles approached the La Paz Sand Dunes at a steady pace. In the next few hours, a combined force of American, Philippine, Canadian and Japanese troops took turns tearing into the simulated beach landing, trialing a"
+  },
+  {
+    "id": "ccf0a641c75a",
+    "title": "U.S. Tests Using Drones to Track, Target Suspected Narco Boats",
+    "url": "https://news.usni.org/2026/05/05/u-s-tests-using-drones-to-track-target-suspected-narco-boats",
+    "date": "2026-05-05T20:29:59Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.S. 4th Fleet and U.S. Naval Southern Command recently tested the use of drones and artificial intelligence to track and target suspected narco boats and counter transnational organized crime. The drill, conducted in the waters off Key West, Fla., was part of this year’s iteration of the Navy’s ann"
+  },
+  {
     "id": "c9a2a16d5cd7",
     "title": "'Project Freedom' Aims to Get Thousands of Commercial Ships Safely Through Strait of Hormuz",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4477864/project-freedom-aims-to-get-thousands-of-commercial-ships-safely-through-strait/",
@@ -23,7 +43,7 @@
     "id": "c99f19d984dc",
     "title": "Enlistees Honored During Recognition Ceremony",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4477810/enlistees-honored-during-recognition-ceremony/",
-    "date": "2026-05-05T16:45:19Z",
+    "date": "2026-05-05T16:45:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "The Defense Health Agency Operational Medical Systems Program Management Office helps mature the development of traumatic brain injury detection capabilities and accelerates the successful completion of the Traumatic Brain Injury Field Assessment Program."
-  },
-  {
-    "id": "49127d40dc12",
-    "title": "Joint Force Enforces Maritime Blockade in Gulf of Oman, Globally",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4470128/joint-force-enforces-maritime-blockade-in-gulf-of-oman-globally/",
-    "date": "2026-04-24T16:19:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Navy is enforcing a growing global blockade to seize ships doing business with Iran and has authorized lethal force to protect maritime interests."
-  },
-  {
-    "id": "6bace52775b1",
-    "title": "North Korea Test Launches Short Range Ballistic Missiles with Cluster Munitions",
-    "url": "https://news.usni.org/2026/04/24/north-korea-test-launches-short-range-ballistic-missiles-with-cluster-munitions",
-    "date": "2026-04-24T13:50:53Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "North Korea recently launched five short range ballistic missiles (SRBMs) armed with cluster munitions against an island target in the Sea of Japan for the second time this month, further trialing the warhead’s capabilities, state media reported Monday. North Korea’s Missile Administration conducted"
   }
 ]
