@@ -1,5 +1,45 @@
 [
   {
+    "id": "d0e3f78359a9",
+    "title": "Cahill Nominated to Lead Naval Surface Force, Cash Nominated as Navy’s Top Chaplain",
+    "url": "https://news.usni.org/2026/05/06/cahill-nominated-to-lead-naval-surface-force-cash-nominated-as-navys-top-chaplain",
+    "date": "2026-05-06T17:35:29Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "President Donald Trump nominated Rear Adm. Joe Cahill to serve as the next commander of Naval Surface Force, the Pentagon announced Tuesday. Cahill, who is the current commander of Naval Surface Force Atlantic in Norfolk, Va., will be promoted to vice admiral if confirmed as the next SWO Boss. A car"
+  },
+  {
+    "id": "dd7cc9595b3f",
+    "title": "Utah National Guard Integrates Air, Ground Capabilities During Exercise Wolverine",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4478900/utah-national-guard-integrates-air-ground-capabilities-during-exercise-wolverine/",
+    "date": "2026-05-06T17:27:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Exercise Wolverine at Camp Williams, Utah, focused on strengthening joint interaction between Utah Army and Air National Guard units for disaster response and air-to-ground operations to support homeland defense."
+  },
+  {
+    "id": "7d0fec7b1d58",
+    "title": "GAO Report on Determining Cost-of-Living Allowances for Military Personnel",
+    "url": "https://news.usni.org/2026/05/06/gao-report-on-determining-cost-of-living-allowances-for-military-personnel",
+    "date": "2026-05-06T16:05:16Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the Government Accountability Office report, Military Personnel: DOD Should Improve Processes for Determining Cost-of-Living Allowances, published April 30, 2026. From the Report What GAO Found The Department of Defense (DOD) uses three key processes to determine service member cost"
+  },
+  {
+    "id": "53c530ca33aa",
+    "title": "F-22 Raptors Arrive in Japan, Strengthen Indo-Pacific Airpower",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4478801/f-22-raptors-arrive-in-japan-strengthen-indo-pacific-airpower/",
+    "date": "2026-05-06T15:02:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Air Force F-22 Raptors arrived at Kadena Air Base, Japan, for a rotation designed to strengthen regional interoperability and maintain a persistent, high-tech presence in the Indo-Pacific."
+  },
+  {
     "id": "bf7f277999d6",
     "title": "Carrier USS Gerald R. Ford is Now in the Atlantic",
     "url": "https://news.usni.org/2026/05/06/carrier-uss-gerald-r-ford-is-now-in-the-atlantic",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "U.S. forces with Joint Task Force Southern Spear conducted two strikes over the weekend in the Eastern Pacific, killing a total of five men, U.S. Southern Command announced. A strike on Friday killed two men, while a Sunday strike killed three. At least 184 people have been killed in the strikes sin"
-  },
-  {
-    "id": "a91526cafc26",
-    "title": "U.S., Moroccan Air Forces Project Combat Power During Exercise African Lion 26",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4471127/us-moroccan-air-forces-project-combat-power-during-exercise-african-lion-26/",
-    "date": "2026-04-27T15:57:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "During Exercise African Lion 26, a joint flyover of U.S. and Moroccan aircraft inaugurated Morocco's first accredited joint terminal attack controller qualification course to enhance regional interoperability."
-  },
-  {
-    "id": "57b120a1876e",
-    "title": "U.S. Considering Foreign Designs, Shipyards for New Navy Frigate, Destroyer Work in $1.85B Study",
-    "url": "https://news.usni.org/2026/04/24/u-s-considering-foreign-designs-shipyards-for-new-navy-frigate-destroyer-work-in-1-85b-study",
-    "date": "2026-04-24T22:02:54Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "American officials are considering foreign designs and having U.S. warship components built in overseas yards as part of an expansive manufacturing study proposed in the Fiscal Year 2027 budget, USNI News has learned. To expand naval shipbuilding capacity for U.S. warships, the FY 2027 budget submis"
-  },
-  {
-    "id": "68fbabe1e056",
-    "title": "Middle East Shipping ‘Paralyzed’ by Dueling U.S., Iranian Blockades, Analysts Say",
-    "url": "https://news.usni.org/2026/04/24/middle-east-shipping-paralyzed-by-dueling-u-s-iranian-blockades-analysts-say",
-    "date": "2026-04-24T21:40:17Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.S. and Iranian forces are both interdicting ships as the two countries grapple with control of the flow of maritime traffic through the region, leaving the shipping industry ‘paralyzed,’ experts say. In the past week, the U.S. interdicted three ships – two in the Indian Ocean and one in the Strait"
-  },
-  {
-    "id": "988abf7d28bf",
-    "title": "Armed Forces Medical Examiner System Supports Artemis II Mission",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4470642/armed-forces-medical-examiner-system-supports-artemis-ii-mission/",
-    "date": "2026-04-24T20:57:18Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The Armed Forces Medical Examiner System provides critical forensic pathology and contingency logistics for NASA's crewed launches to ensure immediate medical and investigative readiness in the event of a mishap."
   }
 ]
