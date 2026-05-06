@@ -1,5 +1,15 @@
 [
   {
+    "id": "bf7f277999d6",
+    "title": "Carrier USS Gerald R. Ford is Now in the Atlantic",
+    "url": "https://news.usni.org/2026/05/06/carrier-uss-gerald-r-ford-is-now-in-the-atlantic",
+    "date": "2026-05-06T11:32:53Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Aircraft carrier USS Gerald R. Ford (CVN-78) is now operating in the Atlantic Ocean after sailing through the Strait of Gibraltar on Wednesday, according to ship spotters. As of Wednesday, Ford has been deployed for 315 days, the longest carrier strike group deployment since the end of the Cold War."
+  },
+  {
     "id": "1a068a732672",
     "title": "‘Littoral Deep Battle’",
     "url": "https://news.usni.org/2026/05/05/littoral-deep-battle",
@@ -48,6 +58,16 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "As the nation commemorates its 250th anniversary throughout 2026, community and military leaders honored the next generation of American defenders during the second annual Our Community Salutes Enlistee Recognition Ceremony at the First Baptist Church in O'Fallon, Ill."
+  },
+  {
+    "id": "1ab9971e7f5c",
+    "title": "UPDATED: U.S. Strikes in Caribbean, Eastern Pacific Kill 5",
+    "url": "https://news.usni.org/2026/05/05/u-s-forces-kill-2-in-caribbean-strike-against-suspected-narco-boat",
+    "date": "2026-05-05T16:19:57Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "This post has been updated to add details from a strike on May 5. Two are dead following a U.S. military strike in the Caribbean Sea against a suspected narcotics trafficking vessel, U.S. Southern Command announced late Monday. “Intelligence confirmed the vessel was transiting along known narco-traf"
   },
   {
     "id": "2ee929c5dccd",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "The Armed Forces Medical Examiner System provides critical forensic pathology and contingency logistics for NASA's crewed launches to ensure immediate medical and investigative readiness in the event of a mishap."
-  },
-  {
-    "id": "6536b42dea44",
-    "title": "Eyes, Ears of Joint Force: Caine Honors Unsung Intelligence Community Heroes",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4470381/eyes-ears-of-joint-force-caine-honors-unsung-intelligence-community-heroes/",
-    "date": "2026-04-24T18:15:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Successful military operations depend on those in the intelligence community, including the Defense Intelligence Agency, National Security Agency, National Reconnaissance Office, Central Intelligence Agency and others, said Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff."
-  },
-  {
-    "id": "148bdc0d3837",
-    "title": "Traumatic Brain Injury Field Assessment Program Could Revolutionize Treatment",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4470227/traumatic-brain-injury-field-assessment-program-could-revolutionize-treatment/",
-    "date": "2026-04-24T17:55:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The Defense Health Agency Operational Medical Systems Program Management Office helps mature the development of traumatic brain injury detection capabilities and accelerates the successful completion of the Traumatic Brain Injury Field Assessment Program."
   }
 ]
