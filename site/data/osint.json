@@ -1,5 +1,45 @@
 [
   {
+    "id": "945cdeca5d88",
+    "title": "French Carrier Strike Group Now Operating in the Middle East",
+    "url": "https://news.usni.org/2026/05/07/french-carrier-strike-group-now-operating-in-the-middle-east",
+    "date": "2026-05-07T18:45:17Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The French Carrier Strike Group transited the Suez Canal on Wednesday en route to the Red Sea, as part of a multinational naval coalition that seeks to restore freedom of navigation in the Strait of Hormuz. “The multinational mission that France and the United Kingdom have set up can help restore co"
+  },
+  {
+    "id": "44b1f70e1a61",
+    "title": "U.S. Tomahawk Hits Target 390 Miles Away in Land Test of New Launch System",
+    "url": "https://news.usni.org/2026/05/07/u-s-tomahawk-hits-target-390-miles-away-in-land-test-of-new-launch-system",
+    "date": "2026-05-07T17:06:08Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "MANILA, Philippines — U.S. forces struck a target on Luzon in the Philippines earlier this week with a Tomahawk cruise missile in a first-of-its-kind long-range precision strike drill within the first island chain. The single Tomahawk Land Attack Missile was launched by the U.S. Army around midnight"
+  },
+  {
+    "id": "50b64780d166",
+    "title": "Joint Force Provides Post-Typhoon Relief in Pacific",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4479923/joint-force-provides-post-typhoon-relief-in-pacific/",
+    "date": "2026-05-07T15:52:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Sailors and Marines assigned to the USS Boxer Amphibious Ready Group and the 11th Marine Expeditionary Unit supported Guam and the Northern Mariana Islands' civil and local authorities in their recovery efforts from Super Typhoon Sinlaku."
+  },
+  {
+    "id": "74f53450d198",
+    "title": "Bumblebee V1 System Sharpens 10th Mountain Division's Counter-Drone Edge",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4479880/bumblebee-v1-system-sharpens-10th-mountain-divisions-counter-drone-edge/",
+    "date": "2026-05-07T15:21:34Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Soldiers assigned to the 10th Mountain Division began training with the Bumblebee V1 counter-drone system, introducing a capability to improve the warfighter's ability to detect and defeat the threat of unmanned aerial systems on the modern battlefield."
+  },
+  {
     "id": "275d7c9f31ff",
     "title": "Pentagon Lab Day Demonstrates Best of War Department Research",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4479499/pentagon-lab-day-demonstrates-best-of-war-department-research/",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "MANILA, Philippines — American missile systems were deployed last week to a remote Luzon Strait island 100 miles south of Taiwan as part of Washington and Manila’s Balikatan 2026 military drills. The arrival of Washington’s precision strike and anti-ship launchers for the annual exercise marks one o"
-  },
-  {
-    "id": "962fc9b76c18",
-    "title": "Russian, Chinese Warships Sail Through Japan’s Southwest Region to East China Sea",
-    "url": "https://news.usni.org/2026/04/28/russian-chinese-naval-warships-sail-through-japans-southwest-region-to-east-china-sea",
-    "date": "2026-04-28T15:25:09Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Russian and People’s Liberation Army naval groups made separate transits over the past week through Japan’s southwest region to enter the East China Sea, according to officials from the island country. A Russian Navy task group consisting of submarine RFS Petropavlovsk-Kamchatsky (B-274), corvette R"
-  },
-  {
-    "id": "67ddb4b9348a",
-    "title": "Army Medic Leads Life-Saving Response After Bear Attack in Alaska",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4472080/army-medic-leads-life-saving-response-after-bear-attack-in-alaska/",
-    "date": "2026-04-28T14:03:14Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "During a training exercise, Army Sgt. Zachariah Clark relied on his expertise as a combat medic to lead a life-saving rescue and triage effort after two fellow soldiers were mauled by a bear in the Alaskan wilderness."
-  },
-  {
-    "id": "ec95886b51cb",
-    "title": "Amphibs Bougainville, Fallujah Deliveries Are Pushed Another Year",
-    "url": "https://news.usni.org/2026/04/27/amphibs-bougainville-fallujah-deliveries-are-pushed-another-year",
-    "date": "2026-04-27T21:38:51Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The next two big-deck amphibious warships will take about nine years each to build, as the Navy pushes the planned delivery date for the vessels by another year, USNI News has learned. The future USS Bougainville (LHA-8) will now deliver to the Navy in July of 2027 instead of August of 2026, accordi"
-  },
-  {
-    "id": "9cce4e2719b0",
-    "title": "Navy Pushes MQ-25A Stingray IOC Back to 2029 while Production Aircraft Takes First Flight",
-    "url": "https://news.usni.org/2026/04/27/navy-pushes-mq-25a-stingray-ioc-back-to-2029-while-production-aircraft-takes-first-flight",
-    "date": "2026-04-27T20:16:02Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The first unmanned tankers for the U.S. Navy won’t be ready to deploy on aircraft carriers until 2029, according to Navy budget documents. The Boeing MQ-25A Stingray, the unmanned carrier tanker developed to extend the range of the air wing, will reach initial operational capability three years late"
   }
 ]
