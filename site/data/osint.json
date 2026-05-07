@@ -1,5 +1,35 @@
 [
   {
+    "id": "275d7c9f31ff",
+    "title": "Pentagon Lab Day Demonstrates Best of War Department Research",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4479499/pentagon-lab-day-demonstrates-best-of-war-department-research/",
+    "date": "2026-05-06T23:41:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Dozens of scientists and engineers from around the War Department visited the Pentagon to showcase what the best and brightest minds are creating in the nation's most advanced research labs."
+  },
+  {
+    "id": "b4091e4842d4",
+    "title": "Site Selections Announced for Directed-Energy Counter-Drone Program",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4479463/site-selections-announced-for-directed-energy-counter-drone-program/",
+    "date": "2026-05-06T21:56:10Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "On behalf of the War Department, Joint Interagency Task Force 401 selected five installations to participate in the directed-energy counter-unmanned aircraft systems pilot program included in the Fiscal Year 2026 National Defense Authorization Act."
+  },
+  {
+    "id": "a4fd68976f08",
+    "title": "Cleaner Barracks, Modern Dining: Marine Corps Gives ‘Gen Z’ a Taste of Home",
+    "url": "https://news.usni.org/2026/05/06/cleaner-barracks-modern-dining-marine-corps-gives-gen-z-a-taste-of-home",
+    "date": "2026-05-06T20:17:17Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "CAMP PENDLETON, Calif. – Across the Marine Corps&#8217; western installations, spring cleaning has evolved from a seasonal chore to a warfighting mission. Over several weeks in April and continuing into May, thousands of junior enlisted Marines and sailors residing in barracks in California and Ariz"
+  },
+  {
     "id": "d0e3f78359a9",
     "title": "Cahill Nominated to Lead Naval Surface Force, Cash Nominated as Navy’s Top Chaplain",
     "url": "https://news.usni.org/2026/05/06/cahill-nominated-to-lead-naval-surface-force-cash-nominated-as-navys-top-chaplain",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The first unmanned tankers for the U.S. Navy won’t be ready to deploy on aircraft carriers until 2029, according to Navy budget documents. The Boeing MQ-25A Stingray, the unmanned carrier tanker developed to extend the range of the air wing, will reach initial operational capability three years late"
-  },
-  {
-    "id": "efa5dc0b0815",
-    "title": "Navy Commissions Submarine USS Idaho",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4471428/navy-commissions-submarine-uss-idaho/",
-    "date": "2026-04-27T18:56:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Navy commissioned the submarine USS Idaho in a traditional ceremony at Naval Submarine Base New London in Groton, Conn., bringing cutting-edge warfighting capability to the nation's undersea forces after a multiyear construction process."
-  },
-  {
-    "id": "c20c7161ae13",
-    "title": "USNI News Fleet and Marine Tracker: April, 27 2026",
-    "url": "https://news.usni.org/2026/04/27/usni-news-fleet-and-marine-tracker-april-27-2026",
-    "date": "2026-04-27T17:42:17Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of April 27, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the ca"
-  },
-  {
-    "id": "06b87b6f6fc7",
-    "title": "U.S. Forces Kill 5 in Strikes on Suspected Narco Boats",
-    "url": "https://news.usni.org/2026/04/27/u-s-forces-kill-5-in-strikes-on-suspected-narco-boats",
-    "date": "2026-04-27T16:45:15Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "U.S. forces with Joint Task Force Southern Spear conducted two strikes over the weekend in the Eastern Pacific, killing a total of five men, U.S. Southern Command announced. A strike on Friday killed two men, while a Sunday strike killed three. At least 184 people have been killed in the strikes sin"
   }
 ]
