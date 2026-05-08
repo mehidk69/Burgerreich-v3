@@ -1,5 +1,25 @@
 [
   {
+    "id": "0de6ccd62365",
+    "title": "Japan-based Carrier Air Wing 5 Begins Training Ahead of Next Patrol",
+    "url": "https://news.usni.org/2026/05/08/japan-based-carrier-air-wing-5-begins-training-ahead-of-next-patrol",
+    "date": "2026-05-08T15:04:28Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Carrier Air Wing (CVW) 5, assigned to aircraft carrier USS George Washington (CVN-73), began 10 days of field carrier landing practice drills Thursday on Iwo Jima, Japan, the first stage of preparations for the carrier&#8217;s next patrol. CVW-5 will conduct FCLP on Iwo Jima through May 17, accordin"
+  },
+  {
+    "id": "e3306ca7f5ad",
+    "title": "Blount Island Command's Ship-to-Shore Operations Reinforces Southcom Readiness",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4480761/blount-island-commands-ship-to-shore-operations-reinforces-southcom-readiness/",
+    "date": "2026-05-08T14:44:21Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Marines landed an MK36 Wrecker tactical armored vehicle at Marine Corps Support Facility Blount Island in Jacksonville, Fla., demonstrating how the service rapidly moves equipment to support operations across the region."
+  },
+  {
     "id": "f11b1125d37c",
     "title": "GAO Report on Mariner Training",
     "url": "https://news.usni.org/2026/05/07/gao-report-on-mariner-training",
@@ -638,26 +658,6 @@
     "cocom": "centcom",
     "tag": "naval",
     "summary": "Airmen and leadership gathered for a groundbreaking ceremony marking the start of construction on a new Human Performance Optimization facility. This facility is designed to support Air Force Special Warfare Airmen assigned to the 306th Rescue Squadron, an Air Force Reserve Command tenant unit assig"
-  },
-  {
-    "id": "dec19a6e4566",
-    "title": "Multinational Forces Validate Defensive Readiness During Exercise Balikatan 2026",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4472230/multinational-forces-validate-defensive-readiness-during-exercise-balikatan-2026/",
-    "date": "2026-04-28T17:09:11Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Over 500 service members from the U.S., Philippines, Australia and New Zealand successfully coordinated fires from land and air to defeat a simulated adversary attack during Balikatan 2026, exemplifying the \"shoulder-to-shoulder\" spirit of the exercise."
-  },
-  {
-    "id": "1b63a08a54af",
-    "title": "Training in Close Air Support Keeps Idaho Airmen 'Always Ready'",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4472219/training-in-close-air-support-keeps-idaho-airmen-always-ready/",
-    "date": "2026-04-28T16:41:18Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Airmen assigned to the 124th Air Support Operations Squadron, Idaho Air National Guard, conducted close air support training at the 188th Wing's Razorback Range at Fort Chaffee Joint Maneuver Training Center, Ark."
   },
   {
     "id": "f2119058c4f4",
