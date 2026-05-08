@@ -1,5 +1,15 @@
 [
   {
+    "id": "f11b1125d37c",
+    "title": "GAO Report on Mariner Training",
+    "url": "https://news.usni.org/2026/05/07/gao-report-on-mariner-training",
+    "date": "2026-05-07T20:35:26Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is the May 7, 2026, Government Accountability Office report, Mariner Training: Maritime Administration Should Share More Information About Financial Aid and Careers. From the report What GAO Found Mariner students typically take training courses to begin or advance their careers, and m"
+  },
+  {
     "id": "945cdeca5d88",
     "title": "French Carrier Strike Group Now Operating in the Middle East",
     "url": "https://news.usni.org/2026/05/07/french-carrier-strike-group-now-operating-in-the-middle-east",
@@ -648,16 +658,6 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "Airmen assigned to the 124th Air Support Operations Squadron, Idaho Air National Guard, conducted close air support training at the 188th Wing's Razorback Range at Fort Chaffee Joint Maneuver Training Center, Ark."
-  },
-  {
-    "id": "68b6c8397dd0",
-    "title": "U.S. Missiles Deploy Near Taiwan During Balikatan Exercise, Chinese Action Group Operates Nearby",
-    "url": "https://news.usni.org/2026/04/28/u-s-missiles-deploy-near-taiwan-during-balikatan-exercise-chinese-action-group-operates-nearby",
-    "date": "2026-04-28T16:19:16Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "MANILA, Philippines — American missile systems were deployed last week to a remote Luzon Strait island 100 miles south of Taiwan as part of Washington and Manila’s Balikatan 2026 military drills. The arrival of Washington’s precision strike and anti-ship launchers for the annual exercise marks one o"
   },
   {
     "id": "f2119058c4f4",
