@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "835d4b6eeb0f",
+      "type": "Destroyer",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-05-08T19:21:28Z",
+      "headline": "Strait of Hormuz Shipping in State of Confusion as Industry Watches U.S., Iranian Actions",
+      "context": "ains at an almost standstill. Iranian forces sent missiles, drones and small boats after USS Mason (DDG-87), USS Rafael Peralta (DDG-115) and USS Truxton (DDG-103) as the three warships headed toward ",
+      "url": "https://news.usni.org/2026/05/08/strait-of-hormuz-shipping-in-state-of-confusion-as-industry-watches-u-s-iranian-actions"
+    },
+    {
       "id": "8835cc7518ca",
       "type": "Destroyer",
       "qty": 1,
@@ -31,5 +41,5 @@
       "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
     }
   ],
-  "updated": "2026-05-08T19:04:11Z"
+  "updated": "2026-05-08T22:44:23Z"
 }
