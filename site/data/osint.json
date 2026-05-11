@@ -1,5 +1,25 @@
 [
   {
+    "id": "7b0a9c79678d",
+    "title": "2 Dead, 1 Survivor in Friday Strike on Suspected Narco Boat",
+    "url": "https://news.usni.org/2026/05/11/2-dead-1-survivor-in-friday-strike-on-suspected-nacro-boat",
+    "date": "2026-05-11T15:43:56Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "U.S. forces struck a suspected narco boat Friday, killing two men and leaving one survivor, U.S. Southern Command announced. The boat was operating in the Eastern Pacific and is alleged to have been transiting along known narco-trafficking routes when it was struck. Following the strike, SOUTHCOM no"
+  },
+  {
+    "id": "57b8ac930b5a",
+    "title": "Army Paratroopers Integrate Drones, Night Operations in Historic Company Live Fire",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4483100/army-paratroopers-integrate-drones-night-operations-in-historic-company-live-fi/",
+    "date": "2026-05-11T15:32:10Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "More than 700 paratroopers assigned to the 2nd Infantry Brigade Combat Team, 11th Airborne Division, executed a historic company live-fire exercise at Joint Base Elmendorf-Richardson, Alaska."
+  },
+  {
     "id": "1efaa4800c89",
     "title": "Partner Nations Hammer Out Foundation for Digital Transformation at Leadership Summit",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4482343/partner-nations-hammer-out-foundation-for-digital-transformation-at-leadership/",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "posture",
     "summary": "The War Department's $1.5 trillion fiscal year 2027 budget request reflects the urgency of the moment, addressing both the deferment of long-standing problems, as well as positioning the joint force for the current and the future fight, Secretary of War Pete Hegseth said during a House Armed Service"
-  },
-  {
-    "id": "ccead613bdb7",
-    "title": "Hegseth, Caine Say Budget Increases Lethality, Benefits U.S. Industries",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4473246/hegseth-caine-say-budget-increases-lethality-benefits-us-industries/",
-    "date": "2026-04-29T17:18:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The War Department's $1.5 trillion fiscal year 2027 budget request reflects the urgency of the moment, addressing both the deferment of long-standing problems, as well as positioning the joint force for the current and the future fight, Secretary of War Pete Hegseth said during a House Armed Service"
-  },
-  {
-    "id": "44931687bee7",
-    "title": "Ship that Debuted with the Nigerian Navy will be Key for Future U.S., Australian Naval Forces",
-    "url": "https://news.usni.org/2026/04/29/ship-that-debuted-with-the-nigerian-navy-will-be-key-for-future-u-s-australian-naval-forces",
-    "date": "2026-04-29T16:22:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A class of landing vessels designed by a Dutch firm – first built in the United Arab Emirates and debuted by the Nigerian Navy – will become the mainstay of U.S. Marine Corps and Australian Defense Force amphibious operations across the Indo-Pacific Region in the coming decades. Within the last two"
   }
 ]
