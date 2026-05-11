@@ -1,5 +1,35 @@
 [
   {
+    "id": "bf3eda5806ef",
+    "title": "USNI News Fleet and Marine Tracker: May 11, 2026",
+    "url": "https://news.usni.org/2026/05/11/usni-news-fleet-and-marine-tracker-may-11-2026",
+    "date": "2026-05-11T16:59:33Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 11, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
+  },
+  {
+    "id": "cc1cdb26c21d",
+    "title": "Hegseth Welcomes South Korean Counterpart to Pentagon",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4483397/hegseth-welcomes-south-korean-counterpart-to-pentagon/",
+    "date": "2026-05-11T16:50:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Secretary of War Pete Hegseth welcomed South Korean Defense Minister Ahn Gyu-back to Washington for a bilateral engagement at the Pentagon."
+  },
+  {
+    "id": "57098bfc2f78",
+    "title": "U.S. Navy’s 2026 Shipbuilding Plan",
+    "url": "https://news.usni.org/2026/05/11/u-s-navys-2026-shipbuilding-plan",
+    "date": "2026-05-11T16:35:15Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is the U.S. Navy&#8217;s Shipbuilding Plan, published May 11, 2026. From the Report Introduction SEAPOWER DELIVERED Over the past year, the United States Navy has continually demonstrated across multiple theaters and mission sets why it is the world’s premier maritime force. Whether de"
+  },
+  {
     "id": "7b0a9c79678d",
     "title": "2 Dead, 1 Survivor in Friday Strike on Suspected Narco Boat",
     "url": "https://news.usni.org/2026/05/11/2-dead-1-survivor-in-friday-strike-on-suspected-nacro-boat",
@@ -618,36 +648,6 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "The first of the new Columbia-class of ballistic missile submarine is tracking for a 2028 delivery due to improvements in workforce efficiency and the supplier base, General Dynamics officials said Wednesday. District of Columbia (SSBN-826), currently being assembled at GD Electric Boat is “on a pat"
-  },
-  {
-    "id": "73a76f97041c",
-    "title": "Joint Interagency Task Force 401, Paratroopers Test New Counter-UAS",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4473408/joint-interagency-task-force-401-paratroopers-test-new-counter-uas/",
-    "date": "2026-04-29T19:42:44Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Paratroopers assigned to the 82nd Airborne Division recently took part in the inaugural training event with the Bumblebee V2 counter-drone system, marking the first operational test of the prototypes purchased by Joint Interagency Task Force 401 earlier this year."
-  },
-  {
-    "id": "d651f2234475",
-    "title": "National Guard Military Police Battalion Deploys in Support of Operation Epic Fury",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4473393/national-guard-military-police-battalion-deploys-in-support-of-operation-epic-f/",
-    "date": "2026-04-29T18:48:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Approximately 150 soldiers assigned to the 192nd Military Police Battalion, Connecticut Army National Guard, participated in a deployment ceremony after being selected to deploy on short notice to the Middle East in support of Operation Epic Fury."
-  },
-  {
-    "id": "3ad66c3c5bd3",
-    "title": "Hegseth, Caine Say Budget Increases Lethality, Strengthens Defense Industrial Base",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4473246/hegseth-caine-say-budget-increases-lethality-strengthens-defense-industrial-base/",
-    "date": "2026-04-29T17:18:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The War Department's $1.5 trillion fiscal year 2027 budget request reflects the urgency of the moment, addressing both the deferment of long-standing problems, as well as positioning the joint force for the current and the future fight, Secretary of War Pete Hegseth said during a House Armed Service"
   },
   {
     "id": "0a0e7f4c772b",
