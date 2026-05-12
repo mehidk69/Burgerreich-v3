@@ -1,5 +1,25 @@
 [
   {
+    "id": "2c5cc2ee4b68",
+    "title": "New Navy Shipbuilding Plan: Trump-class Battleship will be Nuclear-powered, Carrier Design is Under Review",
+    "url": "https://news.usni.org/2026/05/11/new-navy-shipbuilding-plan-trump-class-battleship-will-be-nuclear-powered-carrier-design-is-under-review",
+    "date": "2026-05-11T20:45:05Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The new Trump-class battleship will be powered by a nuclear reactor and is not a successor to the Arleigh Burke-class guided-missile destroyers, the Navy revealed Monday in its annual 30-year shipbuilding blueprint. The Navy’s shipbuilding plan officially acknowledges for the first time what naval o"
+  },
+  {
+    "id": "48c6c7f64de8",
+    "title": "10-ship Russian Convoy Transits Japan’s Tsushima Strait",
+    "url": "https://news.usni.org/2026/05/11/10-ship-russian-convoy-transits-japans-tsushima-strait",
+    "date": "2026-05-11T20:24:19Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A 10-ship Russian convoy transited Japan’s Tsushima Strait to enter the East China Sea over the weekend, according to Japan’s Joint Staff Office. The Japan Maritime Self-Defense Force (JMSDF) spotted two Russian corvettes, a fleet oiler, a tugboat and six cargo ships around 5 p.m. Saturday sailing s"
+  },
+  {
     "id": "bf3eda5806ef",
     "title": "USNI News Fleet and Marine Tracker: May 11, 2026",
     "url": "https://news.usni.org/2026/05/11/usni-news-fleet-and-marine-tracker-may-11-2026",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "The reauthorization of a couple of small business technology programs opens the gates for the War Department to get cutting-edge technology more quickly into the hands of warfighters."
-  },
-  {
-    "id": "ce57d199c18f",
-    "title": "Marines Considering Alternative Ships for SOUTHCOM Deployments",
-    "url": "https://news.usni.org/2026/04/29/marines-considering-alternative-ships-for-southcom-deployments",
-    "date": "2026-04-29T22:16:20Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "WASHINGTON, D.C. — The Marine Corps is preparing to deploy Marines on specialty platforms like the Expeditionary Fast Transport and the Expeditionary Sea Base to meet combatant commander demands in the Caribbean, a top general said Wednesday. Due to a lack of ready amphibious ships on both coasts, t"
-  },
-  {
-    "id": "9e4b8417950d",
-    "title": "First Columbia-class Sub Tracking to 2028 Delivery, General Dynamics Says",
-    "url": "https://news.usni.org/2026/04/29/first-columbia-class-sub-tracking-to-2028-delivery-general-dynamics-says",
-    "date": "2026-04-29T21:19:22Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The first of the new Columbia-class of ballistic missile submarine is tracking for a 2028 delivery due to improvements in workforce efficiency and the supplier base, General Dynamics officials said Wednesday. District of Columbia (SSBN-826), currently being assembled at GD Electric Boat is “on a pat"
   }
 ]
