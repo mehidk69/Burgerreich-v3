@@ -1,5 +1,35 @@
 [
   {
+    "id": "b294bc8eedb0",
+    "title": "Washington National Guard Aviation Crews Train for Wildfire Season",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4484298/washington-national-guard-aviation-crews-train-for-wildfire-season/",
+    "date": "2026-05-12T16:48:33Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Aviation crews assigned to the 1st Battalion, 168th Aviation Regiment, Washington Army National Guard, partnered with Central Pierce Fire and Rescue to conduct water bucket training near Puyallup, Wash., preparing for the state's wildfire season."
+  },
+  {
+    "id": "71e5c7bcad27",
+    "title": "Sinking Ships in the South China Sea",
+    "url": "https://news.usni.org/2026/05/12/sinking-ships-in-the-south-china-sea",
+    "date": "2026-05-12T16:06:27Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "PAOAY, Philippines — An audible click preceded the plumes of exhaust that the two Japanese anti-ship missiles left in their wake. The Type 88 missiles unfolded their wings and cruised toward the ship at a steady subsonic speed, finding their mark six minutes after launch. The target: BRP Quezon (PS-"
+  },
+  {
+    "id": "7e02f8d19497",
+    "title": "Soldiers Conduct Baltic Balloon Training",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4484259/soldiers-conduct-baltic-balloon-training/",
+    "date": "2026-05-12T15:26:12Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Soldiers assigned to Multi-Domain Command – Europe will partner with NATO allies for a high-altitude balloon training event stretching from Sweden to Latvia to test emerging sensing and communications technologies."
+  },
+  {
     "id": "9fe79dbe1541",
     "title": "Dragons in the Dirt: 357th Fighter Squadron Unleashes Expeditionary A-10 Lethality",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4483841/dragons-in-the-dirt-357th-fighter-squadron-unleashes-expeditionary-a-10-lethali/",
@@ -638,36 +668,6 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "U.S. Space Command took control of a facility at Redstone Arsenal, Ala., planting its flag for the first operational element of its new headquarters — the Joint Intelligence Support Element."
-  },
-  {
-    "id": "0fc63ec4cf1b",
-    "title": "U.S. Navy Declares Initial Operational Capability for Modified P-8A Poseidon Patrol Aircraft",
-    "url": "https://news.usni.org/2026/04/30/u-s-navy-declares-initial-operational-capability-for-modified-p-8a-poseidon-patrol-aircraft",
-    "date": "2026-04-30T15:50:11Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. Navy declared Initial Operational Capability (IOC) for the P-8A Poseidon Increment 3 Block 2 system, Naval Air Systems Command announced Friday. The Inc 3 Blk 2 achieved IOC after the Initial Operational Test performed by Air Test and Evaluation Squadron One (VX-1) with support from the Mar"
-  },
-  {
-    "id": "c2a7f1ad6b14",
-    "title": "Fiscal Year 2027 Navy Unfunded Priority List to Congress",
-    "url": "https://news.usni.org/2026/04/30/fiscal-year-2027-navy-unfunded-priorities-list-to-congress",
-    "date": "2026-04-30T14:21:17Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is the Navy’s Fiscal Year 2027 unfunded priority list, delivered this week to Congress. From the Report The annual request comes after the Navy formally unveiled its FY 27 budget request on April 21, 2026. Download the document here."
-  },
-  {
-    "id": "150c5907b05e",
-    "title": "Reauthorizations Accelerate Tech for War Department",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4473801/reauthorizations-accelerate-tech-for-war-department/",
-    "date": "2026-04-29T22:53:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "The reauthorization of a couple of small business technology programs opens the gates for the War Department to get cutting-edge technology more quickly into the hands of warfighters."
   },
   {
     "id": "0a0e7f4c772b",
