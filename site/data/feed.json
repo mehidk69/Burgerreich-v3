@@ -1,5 +1,45 @@
 [
   {
+    "id": "cf7de1b096b9",
+    "title": "Virginia Subs Will Hit 2-A-Year Build Rate in 2030s, CNO Caudle Says",
+    "url": "https://news.usni.org/2026/05/12/virginia-subs-will-hit-2-a-year-build-rate-in-2030s-cno-caudle-says",
+    "date": "2026-05-12T21:52:02Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Shipbuilders are on track to deliver two Virginia-class attack submarines per year in the early 2030s, Chief of Naval Operations Adm. Daryl Caudle told defense appropriators on Tuesday. Based on the current investment in the submarine industrial base and workforce and the expansion of distributed co"
+  },
+  {
+    "id": "f46cf5ecb5eb",
+    "title": "Joint Interagency Task Force Enables Standardized Counter-UAS Assessment",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4484863/joint-interagency-task-force-enables-standardized-counter-uas-assessment/",
+    "date": "2026-05-12T21:01:55Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "JIATF 401 recently supported the Army's assessment of emerging counter-unmanned aerial system capabilities during Project Flytrap 5.0, a training exercise underway in Lithuania that brings together U.S. and allied forces."
+  },
+  {
+    "id": "0494d7125011",
+    "title": "Marine Corps Revamps Training Courses to Build Reconnaissance, Scout Skills",
+    "url": "https://news.usni.org/2026/05/12/marine-corps-revamps-training-courses-to-build-reconnaissance-scout-skills",
+    "date": "2026-05-12T20:50:14Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The Marine Corps&#8217; renowned reconnaissance training is being revamped to better prepare reconnaissance Marines and infantry scouts for the tech-driven, multi-domain fight on land and at sea. The 12-week Basic Reconnaissance Course will be replaced by two courses – Ground Reconnaissance course a"
+  },
+  {
+    "id": "7e6e025d096b",
+    "title": "War Department Multiyear Purchases Spur Industrial Base Investments",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4484583/war-department-multiyear-purchases-spur-industrial-base-investments/",
+    "date": "2026-05-12T19:57:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "War Department investments in the fiscal year 2026 budget and promised in the FY27 budget have heartened companies within the defense industrial base to invest in their own capabilities and to grow their capacity to produce, Secretary of War Pete Hegseth explained to lawmakers on Capitol Hill."
+  },
+  {
     "id": "b294bc8eedb0",
     "title": "Washington National Guard Aviation Crews Train for Wildfire Season",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4484298/washington-national-guard-aviation-crews-train-for-wildfire-season/",
@@ -610,26 +650,6 @@
     "summary": "The War Department aims to modernize the U.S. nuclear triad — including air, land and sea weapons — and the fiscal year 2027 budget proposal includes ample investment to make that happen, said Secretary of War Pete Hegseth during testimony on Capitol Hill."
   },
   {
-    "id": "cce3888ee3f2",
-    "title": "Personal Property Activity Launches Moving Website",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4474708/personal-property-activity-launches-moving-website/",
-    "date": "2026-04-30T20:02:13Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The War Department's Personal Property Activity launches its new website, www.ppa.mil, creating a centralized digital hub designed to better support DOW personnel and industry partners as they navigate the moving process."
-  },
-  {
-    "id": "d2a4bd6e45aa",
-    "title": "Navy’s Modest $602M Unfunded Request Includes 6 Military Construction Projects",
-    "url": "https://news.usni.org/2026/04/30/navys-modest-602m-unfunded-request-includes-6-military-construction-projects",
-    "date": "2026-04-30T17:46:14Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Behind a record-breaking $1.5 trillion Pentagon budget request, the Navy’s unfunded wish list focused on a handful of military construction projects, according to the document reviewed by USNI News. The $602 million unfunded priority list leads with $50 million for a 16,118 square foot facility at N"
-  },
-  {
     "id": "f2f1250488c0",
     "title": "25th OWS Annual Nylander Day memorial ceremony 2026",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4474467/25th-ows-annual-nylander-day-memorial-ceremony-2026/",
@@ -648,26 +668,6 @@
     "cocom": "centcom",
     "tag": "posture",
     "summary": "After distinguishing themselves during a deployment to Afghanistan that included the final withdrawal of U.S. troops from the country in 2021, two units, the 55th and 48th Rescue Squadrons, received the Presidential Unit Citation award at a ceremony at Davis-Monthan Air Force Base, Arizona, April 17"
-  },
-  {
-    "id": "026b6ffb64e2",
-    "title": "Nevada Guard's Civil Support Team Trains for Radiological, Explosive Threats",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4474322/nevada-guards-civil-support-team-trains-for-radiological-explosive-threats/",
-    "date": "2026-04-30T16:28:47Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The Nevada National Guard's 92nd Civil Support Team conducted its annual \"Beta Burn\" exercise at the Ormsby House in Carson City, training alongside local and federal partners to respond to simulated radiological and explosive threats."
-  },
-  {
-    "id": "b13c8af1277a",
-    "title": "Spacecom Takes Operational Control of Facility in Alabama",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4474297/spacecom-takes-operational-control-of-facility-in-alabama/",
-    "date": "2026-04-30T15:57:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "U.S. Space Command took control of a facility at Redstone Arsenal, Ala., planting its flag for the first operational element of its new headquarters — the Joint Intelligence Support Element."
   },
   {
     "id": "0a0e7f4c772b",
