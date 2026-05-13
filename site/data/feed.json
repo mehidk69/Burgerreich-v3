@@ -1,5 +1,35 @@
 [
   {
+    "id": "c6ebe423a253",
+    "title": "Mosaic Lightning 26-2",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4485615/mosaic-lightning-26-2/",
+    "date": "2026-05-13T16:46:33Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "general",
+    "summary": "<br />\n<img alt=\"Mosaic Lightning 26-1 DLT Tent Set Up\" src=\"https://media.defense.gov/2026/May/13/2003930068/150/150/0/260510-F-AR459-1013.JPG\" /> <br />"
+  },
+  {
+    "id": "89dbd4ff1815",
+    "title": "355th Maintenance Group Change of Command Ceremony",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4485524/355th-maintenance-group-change-of-command-ceremony/",
+    "date": "2026-05-13T16:43:29Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "naval",
+    "summary": "355th Wing leadership attend the 355th Maintenance Group change of command ceremony at Davis-Monthan Air Force Base, Arizona, May 8, 2026. Change of command ceremonies symbolize the formal transfer of authority, responsibility and accountability from one commander to another. <br />\n<img alt=\"355th"
+  },
+  {
+    "id": "59a42a3ae425",
+    "title": "Report to Congress on the Marine Corps’ Amphibious Combat Vehicle",
+    "url": "https://news.usni.org/2026/05/13/report-to-congress-on-the-marine-corps-amphibious-combat-vehicle",
+    "date": "2026-05-13T15:42:33Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The following is the May 11, 2026, Congressional Research Service report The Marine Corps’ Amphibious Combat Vehicle (ACV). From the Report Background The Marine Corps describes the Amphibious Combat Vehicle (ACV) as a next-generation, eight-wheeled vehicle designed to move Marines from ship to shor"
+  },
+  {
     "id": "cf7de1b096b9",
     "title": "Virginia Subs Will Hit 2-A-Year Build Rate in 2030s, CNO Caudle Says",
     "url": "https://news.usni.org/2026/05/12/virginia-subs-will-hit-2-a-year-build-rate-in-2030s-cno-caudle-says",
@@ -153,7 +183,7 @@
     "id": "57b8ac930b5a",
     "title": "Army Paratroopers Integrate Drones, Night Operations in Historic Company Live Fire",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4483100/army-paratroopers-integrate-drones-night-operations-in-historic-company-live-fi/",
-    "date": "2026-05-11T15:32:00Z",
+    "date": "2026-05-11T15:32:10Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "ground",
@@ -638,16 +668,6 @@
     "cocom": "centcom",
     "tag": "naval",
     "summary": "Retired U.S. Air Force Maj. Gen. Ed Thomas, Air and Space Forces Aid Society chief executive officer, and Packy Lyden, AFAS chief development officer, met with Davis-Monthan Air Force Base installation leaders to discuss the organization’s impact April 29, 2026.<br />\n<img alt=\"Packy Lyden, Air and"
-  },
-  {
-    "id": "1dd4e02c9ad5",
-    "title": "War Department's $1.5 Trillion Budget Proposal Includes Sizable Nuclear Triad Investment",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4474675/war-departments-15-trillion-budget-proposal-includes-sizable-nuclear-triad-inve/",
-    "date": "2026-04-30T20:48:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The War Department aims to modernize the U.S. nuclear triad — including air, land and sea weapons — and the fiscal year 2027 budget proposal includes ample investment to make that happen, said Secretary of War Pete Hegseth during testimony on Capitol Hill."
   },
   {
     "id": "f2f1250488c0",
@@ -1478,25 +1498,5 @@
     "cocom": "centcom",
     "tag": "posture",
     "summary": "U.S. Airmen from the 79th Rescue Squadron return from an overseas deployment at an undisclosed<br />\n<img alt=\"79th Rescue Squadron return to DMAFB\" src=\"https://media.defense.gov/2026/Feb/13/2003875544/150/150/0/260209-F-AR459-1001.JPG\" /> <br />"
-  },
-  {
-    "id": "bbfef2cf553e",
-    "title": "Bushwhacker 26-1",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4405972/bushwhacker-26-1/",
-    "date": "2026-02-13T02:31:00Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "exercise",
-    "summary": "U.S. Air Force Airmen and partner organizations conducted Bushwhacker 26-1, a Major Accident Response Exercise, at Davis-Monthan Air Force Base, Arizona, Feb. 11, 2026.<br />\n<img alt=\"Bushwhacker 26-1\" src=\"https://media.defense.gov/2026/Feb/12/2003875334/150/150/0/260211-F-AR459-1040.JPG\" /> <br /"
-  },
-  {
-    "id": "2fbb9b505a00",
-    "title": "55th Rescue Squadron returns to DMAFB",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4405019/55th-rescue-squadron-returns-to-dmafb/",
-    "date": "2026-02-12T15:25:00Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "posture",
-    "summary": "Airmen were welcomed home by leadership and thanked for their service during their deployment to the Middle East.<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 55th Rescue Squadron walk towards friends and family after a redeployment at Davis-Monthan Air Force Base, Arizona, Feb. 6, 2026. Th"
   }
 ]

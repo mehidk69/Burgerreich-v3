@@ -1,5 +1,15 @@
 [
   {
+    "id": "59a42a3ae425",
+    "title": "Report to Congress on the Marine Corps’ Amphibious Combat Vehicle",
+    "url": "https://news.usni.org/2026/05/13/report-to-congress-on-the-marine-corps-amphibious-combat-vehicle",
+    "date": "2026-05-13T15:42:33Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The following is the May 11, 2026, Congressional Research Service report The Marine Corps’ Amphibious Combat Vehicle (ACV). From the Report Background The Marine Corps describes the Amphibious Combat Vehicle (ACV) as a next-generation, eight-wheeled vehicle designed to move Marines from ship to shor"
+  },
+  {
     "id": "cf7de1b096b9",
     "title": "Virginia Subs Will Hit 2-A-Year Build Rate in 2030s, CNO Caudle Says",
     "url": "https://news.usni.org/2026/05/12/virginia-subs-will-hit-2-a-year-build-rate-in-2030s-cno-caudle-says",
@@ -133,7 +143,7 @@
     "id": "57b8ac930b5a",
     "title": "Army Paratroopers Integrate Drones, Night Operations in Historic Company Live Fire",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4483100/army-paratroopers-integrate-drones-night-operations-in-historic-company-live-fi/",
-    "date": "2026-05-11T15:32:00Z",
+    "date": "2026-05-11T15:32:10Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "ground",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "posture",
     "summary": "The following is the April 22, 2026, Congressional Research Service report, Russia&#8217;s Nuclear weapons. From the report According to the Pentagon’s 2026 National Defense Strategy, Russia “possesses the world’s largest nuclear arsenal, which it continues to modernize and diversify, as well as und"
-  },
-  {
-    "id": "1dd4e02c9ad5",
-    "title": "War Department's $1.5 Trillion Budget Proposal Includes Sizable Nuclear Triad Investment",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4474675/war-departments-15-trillion-budget-proposal-includes-sizable-nuclear-triad-inve/",
-    "date": "2026-04-30T20:48:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The War Department aims to modernize the U.S. nuclear triad — including air, land and sea weapons — and the fiscal year 2027 budget proposal includes ample investment to make that happen, said Secretary of War Pete Hegseth during testimony on Capitol Hill."
   }
 ]
