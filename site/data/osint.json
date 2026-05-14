@@ -1,5 +1,45 @@
 [
   {
+    "id": "c5e0c91c9749",
+    "title": "‘Trauma Alert’",
+    "url": "https://news.usni.org/2026/05/13/trauma-alert",
+    "date": "2026-05-13T21:05:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "RALEIGH, N.C. — Emergency medical technicians rolled a combative 43-year-old woman on a gurney through the brown double doors of the trauma bay at WakeMed-Raleigh Campus. A tourniquet dug into the skin on her left arm as she howled in pain and begged medical staff to stop treating her. Below the tou"
+  },
+  {
+    "id": "917122d9c7bb",
+    "title": "U.K. Pledges Destroyer, Drone-hunting Systems to Strait of Hormuz Mission",
+    "url": "https://news.usni.org/2026/05/13/u-k-pledges-destroyer-drone-hunting-systems-to-strait-of-hormuz-mission",
+    "date": "2026-05-13T19:44:12Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The U.K. has pledged a force package that includes a destroyer, Typhoon fighter aircraft, autonomous mine hunting systems and unmanned surface vessels to secure freedom of navigation in the Strait of Hormuz after the U.S. and Iran agree to a “sustainable” ceasefire agreement, the U.K. Ministry of De"
+  },
+  {
+    "id": "b7c6992dedf1",
+    "title": "Senior Leaders Update Congress on Special Ops Community",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4485654/senior-leaders-update-congress-on-special-ops-community/",
+    "date": "2026-05-13T18:03:01Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Four of the most senior leaders from the U.S. military's special operations forces community appeared before the Senate Armed Services Committee in Washington to provide an update on the SOF components within their respective branches of service."
+  },
+  {
+    "id": "bb912b73ba66",
+    "title": "U.S., Multinational Allies Launch Exercise Salaknib's Second Phase in the Philippines",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4485638/us-multinational-allies-launch-exercise-salaknibs-second-phase-in-the-philippin/",
+    "date": "2026-05-13T17:59:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The Army's 25th Infantry Division, in close partnership with the Armed Forces of the Philippines and multinational allies, officially launched the Joint Pacific Multinational Readiness Center-Exportable Exercise, Part II of the bilateral Exercise Salaknib."
+  },
+  {
     "id": "59a42a3ae425",
     "title": "Report to Congress on the Marine Corps’ Amphibious Combat Vehicle",
     "url": "https://news.usni.org/2026/05/13/report-to-congress-on-the-marine-corps-amphibious-combat-vehicle",
@@ -8,6 +48,16 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "The following is the May 11, 2026, Congressional Research Service report The Marine Corps’ Amphibious Combat Vehicle (ACV). From the Report Background The Marine Corps describes the Amphibious Combat Vehicle (ACV) as a next-generation, eight-wheeled vehicle designed to move Marines from ship to shor"
+  },
+  {
+    "id": "4e368bdc416c",
+    "title": "Army, Forest Service Complete Annual Prescribed Burn in Hawaii",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4485405/army-forest-service-complete-annual-prescribed-burn-in-hawaii/",
+    "date": "2026-05-13T15:22:52Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "U.S. Army Garrison Hawaii and the U.S. Forest Service successfully completed the annual prescribed burn of the training area at Schofield Barracks, Hawaii, treating approximately 1,707 acres of invasive vegetation to reduce wildfire risk and maintain the integrity of military training lands."
   },
   {
     "id": "cf7de1b096b9",
@@ -143,7 +193,7 @@
     "id": "57b8ac930b5a",
     "title": "Army Paratroopers Integrate Drones, Night Operations in Historic Company Live Fire",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4483100/army-paratroopers-integrate-drones-night-operations-in-historic-company-live-fi/",
-    "date": "2026-05-11T15:32:10Z",
+    "date": "2026-05-11T15:32:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "ground",
@@ -548,55 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "MANILA, Philippines — American special forces used unmanned surface vessels equipped with explosive charges against a maritime target in the Luzon Strait. U.S. Army Green Berets with the 1st Special Forces Group (Airborne) controlled the explosive-laden drone and other unmanned maritime systems from"
-  },
-  {
-    "id": "6647e2b82abf",
-    "title": "CNO: U.S. Naval Aviators Will No Longer Command Amphibious Warships",
-    "url": "https://news.usni.org/2026/05/01/cno-u-s-naval-aviators-will-no-longer-command-amphibious-warships",
-    "date": "2026-05-01T21:29:36Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Naval aviators will no longer command amphibious warships, according to a directive issued last week by Chief of Naval Operations Daryl Caudle. Citing poor amphibious ship readiness and operational availability, Caudle said that surface warfare officers would become the only officers authorized to c"
-  },
-  {
-    "id": "a55ef7fee406",
-    "title": "Strait of Hormuz Commercial Transits at Lowest Level Since Operation Epic Fury Start, Shipping Data Shows",
-    "url": "https://news.usni.org/2026/05/01/strait-of-hormuz-commercial-transits-at-lowest-level-since-operation-epic-fury-start-shipping-data-shows",
-    "date": "2026-05-01T21:24:19Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Transits in the Strait of Hormuz dropped to their lowest numbers since the first days of the U.S.-Israel offensive in Iran, according to merchant shipping data. The shipping industry continues to be caught between the U.S. and Iran’s fight over the strait. Iran has claimed it should be able to contr"
-  },
-  {
-    "id": "4865609c2350",
-    "title": "King Charles III and Queen Camilla Honor a Shared History of Service and Sacrifice",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4475647/king-charles-iii-and-queen-camilla-honor-a-shared-history-of-service-and-sacrif/",
-    "date": "2026-05-01T18:22:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "King Charles III and Queen Camilla commemorated the 250th anniversary of American independence with a visit to Arlington National Cemetery for a full honors wreath-laying ceremony at the Tomb of the Unknown Soldier."
-  },
-  {
-    "id": "70718658b074",
-    "title": "Synchronized Logistics Enable Engineer Unit Deployment",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4475414/synchronized-logistics-enable-engineer-unit-deployment/",
-    "date": "2026-05-01T16:08:31Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "Fort Buchanan demonstrated its critical role as a readiness platform when hundreds of soldiers deployed from the installation in Puerto Rico to a continental United States mobilization station in support of a future mission with a combatant command."
-  },
-  {
-    "id": "2c3d7f9f1879",
-    "title": "Report to Congress on Russia’s Nuclear Weapons",
-    "url": "https://news.usni.org/2026/05/01/report-to-congress-russias-nuclear-weapons",
-    "date": "2026-05-01T15:56:44Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The following is the April 22, 2026, Congressional Research Service report, Russia&#8217;s Nuclear weapons. From the report According to the Pentagon’s 2026 National Defense Strategy, Russia “possesses the world’s largest nuclear arsenal, which it continues to modernize and diversify, as well as und"
   }
 ]
