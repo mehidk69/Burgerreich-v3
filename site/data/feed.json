@@ -1,5 +1,15 @@
 [
   {
+    "id": "aa5fd8033a14",
+    "title": "355 SFS and 355 CES EOD flight respond to abandoned vehicle during ML 26-2",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4486215/355-sfs-and-355-ces-eod-flight-respond-to-abandoned-vehicle-during-ml-26-2/",
+    "date": "2026-05-13T23:19:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "Airmen assigned to the 355th Security Forces Squadron and 355 Civil Engineer Squadron explosive ordnance disposal flight respond to a reported abandoned vehicle during Mosaic Lightning 26-2 at Davis-Monthan Air Force Base, Arizona, May 8, 2026. <br />\n<img alt=\"A T7 robotic platform is utilized to r"
+  },
+  {
     "id": "c5e0c91c9749",
     "title": "‘Trauma Alert’",
     "url": "https://news.usni.org/2026/05/13/trauma-alert",
@@ -428,6 +438,16 @@
     "cocom": "osint",
     "tag": "posture",
     "summary": "Air Force F-22 Raptors arrived at Kadena Air Base, Japan, for a rotation designed to strengthen regional interoperability and maintain a persistent, high-tech presence in the Indo-Pacific."
+  },
+  {
+    "id": "666220536fba",
+    "title": "Back from the Boneyard: Tinker Brings B-1 Back to the Fight",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4479387/back-from-the-boneyard-tinker-brings-b-1-back-to-the-fight/",
+    "date": "2026-05-06T14:25:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "A U.S. Air Force B-1B Lancer once parked in the Arizona desert is back in the air after an intensive regeneration and depot maintenance effort led by the Oklahoma City Air Logistics Complex at Tinker Air Force Base.<br />\n<img alt=\"stripped b1 test flight\" src=\"https://media.defense.gov/2026/May/06/"
   },
   {
     "id": "bf7f277999d6",
@@ -1478,25 +1498,5 @@
     "cocom": "centcom",
     "tag": "naval",
     "summary": "Retired Senior Enlisted Advisor to the Chairman Ramón \"CZ\" Colón-López, visited Davis-Monthan Air Force Base Feb. 19 and 20 to share his leadership philosophies with Airmen across the installation.<br />\n<img alt=\".\" src=\"https://media.defense.gov/2026/Feb/20/2003878817/150/150/0/260219-F-QO903-1034"
-  },
-  {
-    "id": "73adfd4cdc05",
-    "title": "355th LRS conducts special operations refueling tryouts",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4407441/355th-lrs-conducts-special-operations-refueling-tryouts/",
-    "date": "2026-02-17T16:10:00Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "posture",
-    "summary": "Airmen assigned to the 355th Logistics Readiness Squadron participate in Forward Area Refueling Point team tryouts at Davis Monthan Air Force Base, Arizona, Feb. 13, 2026. FARP teams across the Air Force are responsible for conducting special operations refueling missions. <br />\n<img alt=\"Airmen as"
-  },
-  {
-    "id": "27db7a806688",
-    "title": "79th Rescue Squadron returns to DMAFB",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4406515/79th-rescue-squadron-returns-to-dmafb/",
-    "date": "2026-02-13T17:21:00Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "posture",
-    "summary": "U.S. Airmen from the 79th Rescue Squadron return from an overseas deployment at an undisclosed<br />\n<img alt=\"79th Rescue Squadron return to DMAFB\" src=\"https://media.defense.gov/2026/Feb/13/2003875544/150/150/0/260209-F-AR459-1001.JPG\" /> <br />"
   }
 ]
