@@ -1,5 +1,25 @@
 [
   {
+    "id": "8791e281cb24",
+    "title": "Air Force Pilots Receive Distinguished Flying Cross for Midnight Hammer Heroics",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4486752/air-force-pilots-receive-distinguished-flying-cross-for-midnight-hammer-heroics/",
+    "date": "2026-05-14T15:52:24Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Six F-16 Fighting Falcon pilots assigned to the 55th Fighter Squadron received the Distinguished Flying Cross for their heroic actions in combat operations during a ceremony at Shaw Air Force Base, S.C."
+  },
+  {
+    "id": "c5e31658dc73",
+    "title": "Report to Congress on Strait of Hormuz Non-oil Shipments and Effects on U.S. Shippers",
+    "url": "https://news.usni.org/2026/05/14/report-to-congress-on-strait-of-hormuz-non-oil-shipments-and-u-s-shippers",
+    "date": "2026-05-14T14:11:15Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the May 4, 2026, Congressional Research Service report The Strait of Hormuz in Brief: Non-Oil Shipments and Effects on U.S. Shippers. From the Report Before U.S. and Israeli military operations began against Iran on February 28, 2026, the average number of ships from various countri"
+  },
+  {
     "id": "c5e0c91c9749",
     "title": "‘Trauma Alert’",
     "url": "https://news.usni.org/2026/05/13/trauma-alert",
@@ -53,7 +73,7 @@
     "id": "4e368bdc416c",
     "title": "Army, Forest Service Complete Annual Prescribed Burn in Hawaii",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4485405/army-forest-service-complete-annual-prescribed-burn-in-hawaii/",
-    "date": "2026-05-13T15:22:52Z",
+    "date": "2026-05-13T15:22:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "exercise",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "Soldiers assigned to the newly established Eerie Company, 1st Battalion, 4th Infantry Regiment, used first-person-view drone systems to enhance reconnaissance capabilities during Joint Multinational Readiness Center exercises in Hohenfels, Germany."
-  },
-  {
-    "id": "5f513c184fff",
-    "title": "Exercise Desert Hammer Prepares Citizen Airmen for 'Trial by Fire'",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4476599/exercise-desert-hammer-prepares-citizen-airmen-for-trial-by-fire/",
-    "date": "2026-05-04T15:56:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Airmen assigned to the 944th Fighter Wing participated in Exercise Desert Hammer 26-2, training designed to build battlefield skills, test mission-essential tasks and prepare reserve airmen for operations beyond base, at Camp Navajo, Ariz."
-  },
-  {
-    "id": "bfb2a11606f8",
-    "title": "Green Berets Deploy Ship-Killing Drone in Luzon Strait Maritime Strike Exercise",
-    "url": "https://news.usni.org/2026/05/03/green-berets-deploy-ship-killing-drone-in-luzon-strait-maritime-strike-exercise",
-    "date": "2026-05-03T20:17:59Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "MANILA, Philippines — American special forces used unmanned surface vessels equipped with explosive charges against a maritime target in the Luzon Strait. U.S. Army Green Berets with the 1st Special Forces Group (Airborne) controlled the explosive-laden drone and other unmanned maritime systems from"
   }
 ]
