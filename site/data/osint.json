@@ -1,5 +1,15 @@
 [
   {
+    "id": "eb5dca89f7a4",
+    "title": "USNI News Western Pacific Pulse: May 15, 2026",
+    "url": "https://news.usni.org/2026/05/15/usni-news-western-pacific-pulse-may-15-2026",
+    "date": "2026-05-15T17:01:20Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Philippine Sea A 10-ship Russian convoy sailed southwest through the waters between Yonaguni Island and Iriomote Island to enter the Philippine Sea on Tuesday and Wednesday, according t"
+  },
+  {
     "id": "94e81f9131da",
     "title": "Iran’s Plan to Charge for Strait of Hormuz Transits Could Spread to Other Regions, Experts Warn",
     "url": "https://news.usni.org/2026/05/14/irans-plan-to-charge-for-strait-of-hormuz-transits-could-spread-to-other-regions-experts-warn",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "Two West Virginia National Guardsmen were recognized in the Pentagon's Hall of Heroes for actions late last year while working as part of Joint Task Force District of Columbia — an effort directed by President Donald J. Trump to stop crime in the nation's capital and to beautify the city."
-  },
-  {
-    "id": "87af430c4307",
-    "title": "Royal Navy Plans to Use Hybrid Fleet to Keep Pace with Russia in High North",
-    "url": "https://news.usni.org/2026/05/04/royal-navy-to-use-hybrid-fleet-to-keep-pace-with-russia-in-high-north",
-    "date": "2026-05-04T19:56:12Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Royal Navy will use its hybrid fleet, enhanced with autonomous and uncrewed vessels, to keep pace with Russia in the High North and North Atlantic, according to the service’s transformation plan. First Sea Lord Gen. Gywn Jenkins, head of the Royal Navy, outlined the service’s Hybrid Navy transfo"
   }
 ]
