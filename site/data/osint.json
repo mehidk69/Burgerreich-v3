@@ -1,5 +1,25 @@
 [
   {
+    "id": "4bd19b881fb6",
+    "title": "Middle East Conflict Costs Could Prevent Flow of Sailors to A-Schools, Reenlistment Bonuses Without Supplemental, Says CNO",
+    "url": "https://news.usni.org/2026/05/15/middle-east-conflict-costs-could-prevent-flow-of-sailors-to-a-schools-reenlistment-bonuses-without-supplemental-says-cno",
+    "date": "2026-05-15T21:37:30Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The Navy may have to put up to 15,000 new enlisted accessions on hold without additional funding from a supplemental budget, the Chief of Naval Operations Adm. Daryl Caudle told the House Armed Services Committee Thursday. The ongoing cost of military action in the Middle East means the Navy may not"
+  },
+  {
+    "id": "c27de34e51af",
+    "title": "Future USS Cleveland Sailors Attend Commissioning Week Events",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4493526/future-uss-cleveland-sailors-attend-commissioning-week-events/",
+    "date": "2026-05-15T19:42:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Sailors assigned to the future USS Cleveland, the 16th and final Freedom-variant littoral combat ship to be built and commissioned for the Navy, arrived in their namesake city to launch a week of community engagement and celebration leading up to the ship's commissioning."
+  },
+  {
     "id": "eb5dca89f7a4",
     "title": "USNI News Western Pacific Pulse: May 15, 2026",
     "url": "https://news.usni.org/2026/05/15/usni-news-western-pacific-pulse-may-15-2026",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "More than 80 years after his death, Medal of Honor recipient Army Capt. Willibald Bianchi's remains were identified by the Defense POW/MIA Accounting Agency, he was buried in his hometown alongside his parents and his sisters."
-  },
-  {
-    "id": "f505a3056eea",
-    "title": "West Virginia Guardsmen Awarded Medals for Heroism in Nation's Capital",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4477098/west-virginia-guardsmen-awarded-medals-for-heroism-in-nations-capital/",
-    "date": "2026-05-04T20:27:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Two West Virginia National Guardsmen were recognized in the Pentagon's Hall of Heroes for actions late last year while working as part of Joint Task Force District of Columbia — an effort directed by President Donald J. Trump to stop crime in the nation's capital and to beautify the city."
-  },
-  {
-    "id": "c2a26a6c3270",
-    "title": "West Virginia Guardsmen Awarded Soldier, Airman Medals for Heroism in Nation's Capital",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4477098/west-virginia-guardsmen-awarded-soldier-airman-medals-for-heroism-in-nations-ca/",
-    "date": "2026-05-04T20:27:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Two West Virginia National Guardsmen were recognized in the Pentagon's Hall of Heroes for actions late last year while working as part of Joint Task Force District of Columbia — an effort directed by President Donald J. Trump to stop crime in the nation's capital and to beautify the city."
   }
 ]
