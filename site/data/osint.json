@@ -1,5 +1,15 @@
 [
   {
+    "id": "6119c40a7532",
+    "title": "USS Gerald R. Ford Comes Home",
+    "url": "https://news.usni.org/2026/05/16/uss-gerald-r-ford-comes-home",
+    "date": "2026-05-16T12:57:25Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": ""
+  },
+  {
     "id": "4bd19b881fb6",
     "title": "Middle East Conflict Costs Could Prevent Flow of Sailors to A-Schools, Reenlistment Bonuses Without Supplemental, Says CNO",
     "url": "https://news.usni.org/2026/05/15/middle-east-conflict-costs-could-prevent-flow-of-sailors-to-a-schools-reenlistment-bonuses-without-supplemental-says-cno",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The following is the Navy’s Fiscal Year 2027 active-duty captain line selections, released April 29, 2026, by Acting Secretary of the Navy Hung Cao. From the Report CLASSIFICATION: UNCLASSIFIED FM SECNAV WASHINGTON DC TO ALNAV INFO SECNAV WASHINGTON DC CNO WASHINGTON DC CMC WASHINGTON DC SUBJ/FY-27"
-  },
-  {
-    "id": "4740de5a4e6b",
-    "title": "80 Years After Death, Medal of Honor Recipient Identified, Buried",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4477278/80-years-after-death-medal-of-honor-recipient-identified-buried/",
-    "date": "2026-05-04T21:14:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "More than 80 years after his death, Medal of Honor recipient Army Capt. Willibald Bianchi's remains were identified by the Defense POW/MIA Accounting Agency, he was buried in his hometown alongside his parents and his sisters."
   }
 ]
