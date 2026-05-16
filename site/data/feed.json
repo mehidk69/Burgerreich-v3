@@ -1,5 +1,15 @@
 [
   {
+    "id": "eb4c00e16812",
+    "title": "Pentagon Marks Armed Forces Day With Special Flag",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4493962/pentagon-marks-armed-forces-day-with-special-flag/",
+    "date": "2026-05-16T13:03:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The War Department celebrated Armed Forces Day with a newly unveiled America 250 version of the Betsy Ross flag, unfurled over the outside of the Pentagon."
+  },
+  {
     "id": "6119c40a7532",
     "title": "USS Gerald R. Ford Comes Home",
     "url": "https://news.usni.org/2026/05/16/uss-gerald-r-ford-comes-home",
@@ -668,16 +678,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Leveraging a contract awarded by the Coast Guard to enhance maritime domain awareness, the Great Lakes District will deploy autonomous drones to support Coast Guard missions on the Great Lakes."
-  },
-  {
-    "id": "7824cfe7d6a9",
-    "title": "The Navy’s Fiscal Year 2027 Active-duty Captain Line Selections",
-    "url": "https://news.usni.org/2026/05/05/the-navys-fiscal-year-2027-active-duty-captain-line-selections",
-    "date": "2026-05-05T13:16:32Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is the Navy’s Fiscal Year 2027 active-duty captain line selections, released April 29, 2026, by Acting Secretary of the Navy Hung Cao. From the Report CLASSIFICATION: UNCLASSIFIED FM SECNAV WASHINGTON DC TO ALNAV INFO SECNAV WASHINGTON DC CNO WASHINGTON DC CMC WASHINGTON DC SUBJ/FY-27"
   },
   {
     "id": "a79c29ed7dab",
