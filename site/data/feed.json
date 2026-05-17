@@ -1,5 +1,15 @@
 [
   {
+    "id": "f3924955295e",
+    "title": "Hegseth Welcomes Ford Carrier Strike Group Home After Record-Breaking Deployment",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4494266/hegseth-welcomes-ford-carrier-strike-group-home-after-record-breaking-deployment/",
+    "date": "2026-05-16T21:59:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Secretary of War Pete Hegseth was on hand with his wife, Jennifer, and numerous senior Navy leaders at Naval Station Norfolk, Va., to welcome home sailors assigned to USS Gerald R. Ford Carrier Strike Group after a record-setting, multi-month deployment."
+  },
+  {
     "id": "eb4c00e16812",
     "title": "Pentagon Marks Armed Forces Day With Special Flag",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4493962/pentagon-marks-armed-forces-day-with-special-flag/",
@@ -668,16 +678,6 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "Two are dead following a U.S. military strike in the Caribbean Sea against a suspected narcotics trafficking vessel, U.S. Southern Command announced late Monday. “Intelligence confirmed the vessel was transiting along known narco-trafficking routes in the Caribbean and was engaged in narco-trafficki"
-  },
-  {
-    "id": "675f28c69b9a",
-    "title": "Coast Guard Great Lakes District Set to Use Autonomous Sail Drones",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4477650/coast-guard-great-lakes-district-set-to-use-autonomous-sail-drones/",
-    "date": "2026-05-05T15:44:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Leveraging a contract awarded by the Coast Guard to enhance maritime domain awareness, the Great Lakes District will deploy autonomous drones to support Coast Guard missions on the Great Lakes."
   },
   {
     "id": "a79c29ed7dab",
