@@ -1,5 +1,25 @@
 [
   {
+    "id": "9fdaf6f2be09",
+    "title": "USNI News Fleet and Marine Tracker: May 18, 2026",
+    "url": "https://news.usni.org/2026/05/18/usni-news-fleet-and-marine-tracker-may-18-2026",
+    "date": "2026-05-18T18:58:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 18, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
+  },
+  {
+    "id": "be8a0e03b77d",
+    "title": "High-Pressure Field Artillery Creates Bonds Between Soldiers",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4494912/high-pressure-field-artillery-creates-bonds-between-soldiers/",
+    "date": "2026-05-18T17:34:05Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Behind the massive firepower of field artillery are tight-knit soldiers driven by deep trust and family-like bonds."
+  },
+  {
     "id": "ee308192a171",
     "title": "VIDEO: Navy’s Final Freedom-class Littoral Combat Ship Joins the Fleet",
     "url": "https://news.usni.org/2026/05/18/video-navys-final-freedom-class-littoral-combat-ship-joins-the-fleet",
@@ -17,7 +37,7 @@
     "source": "USNI News",
     "cocom": "osint",
     "tag": "air",
-    "summary": "Four Navy pilots are safe after their EA-18G Growlers crashed during the Gunfighter Skies air show at the Mountain Home Air Force Base in Idaho on Sunday. The Growlers were assigned to the “Vikings” of VAQ-129 EA-18G Growler Demo Team out of Naval Air Station Whidbey Island in Washington. The crash"
+    "summary": "Four naval aviators are safe after their EA-18G Growlers crashed during the Gunfighter Skies air show at the Mountain Home Air Force Base in Idaho on Sunday. The Growlers were assigned to the “Vikings” of VAQ-129 EA-18G Growler Demo Team out of Naval Air Station Whidbey Island in Washington. The cra"
   },
   {
     "id": "f3924955295e",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Project Freedom is a targeted U.S. military mission to break the Iranian blockade of the Strait of Hormuz and restore the safe flow of international shipping and oil."
-  },
-  {
-    "id": "7428bd84624a",
-    "title": "82nd Airborne Division Ready to Respond, Support Project Freedom, Caine Says",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4477804/82nd-airborne-division-ready-to-respond-support-project-freedom-caine-says/",
-    "date": "2026-05-05T16:58:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "When the president or the secretary of war needs immediate, scalable and lethal combat power anywhere in the world, 82nd Airborne Division paratroopers answer the call, Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, said during a Pentagon press briefing."
-  },
-  {
-    "id": "c99f19d984dc",
-    "title": "Enlistees Honored During Recognition Ceremony",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4477810/enlistees-honored-during-recognition-ceremony/",
-    "date": "2026-05-05T16:45:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "As the nation commemorates its 250th anniversary throughout 2026, community and military leaders honored the next generation of American defenders during the second annual Our Community Salutes Enlistee Recognition Ceremony at the First Baptist Church in O'Fallon, Ill."
   }
 ]
