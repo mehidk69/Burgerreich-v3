@@ -1,5 +1,15 @@
 [
   {
+    "id": "7c8445b6e12e",
+    "title": "Naval Aviators Safe After EA-18G Growlers Crash at Idaho Air Show",
+    "url": "https://news.usni.org/2026/05/17/naval-aviators-safe-after-ea-18g-growlers-crash-at-idaho-air-show",
+    "date": "2026-05-17T21:03:11Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Four Navy pilots are safe after their EA-18G Growlers crashed during the Gunfighter Skies air show at the Mountain Home Air Force Base in Idaho on Sunday. The Growlers were assigned to the “Vikings” of VAQ-129 EA-18G Growler Demo Team out of Naval Air Station Whidbey Island in Washington. The crash"
+  },
+  {
     "id": "f3924955295e",
     "title": "Hegseth Welcomes Ford Carrier Strike Group Home After Record-Breaking Deployment",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4494266/hegseth-welcomes-ford-carrier-strike-group-home-after-record-breaking-deployment/",
@@ -668,16 +678,6 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "This post has been updated to add details from a strike on May 5. Two are dead following a U.S. military strike in the Caribbean Sea against a suspected narcotics trafficking vessel, U.S. Southern Command announced late Monday. “Intelligence confirmed the vessel was transiting along known narco-traf"
-  },
-  {
-    "id": "2ee929c5dccd",
-    "title": "U.S. Forces Kill 2 in Caribbean Strike Against Suspected Narco Boat",
-    "url": "https://news.usni.org/2026/05/05/u-s-forces-kill-2-in-caribbean-strike-against-suspected-narco-boat",
-    "date": "2026-05-05T16:19:57Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Two are dead following a U.S. military strike in the Caribbean Sea against a suspected narcotics trafficking vessel, U.S. Southern Command announced late Monday. “Intelligence confirmed the vessel was transiting along known narco-trafficking routes in the Caribbean and was engaged in narco-trafficki"
   },
   {
     "id": "a79c29ed7dab",
