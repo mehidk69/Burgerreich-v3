@@ -1,5 +1,35 @@
 [
   {
+    "id": "fafbad6ab51d",
+    "title": "Joint Interagency Task Force 401 Awards $500 Million Counter-UAS Contract",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4495165/joint-interagency-task-force-401-awards-500-million-counter-uas-contract/",
+    "date": "2026-05-18T20:09:38Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "JIATF 401 awarded a three-year contract with a $500 million ceiling to support enterprisewide counter-unmanned aerial system operations, ensuring that top-tier technologies can be rapidly scaled and sustained in response to evolving threats."
+  },
+  {
+    "id": "369cfa959cfa",
+    "title": "At Fort Campbell, Hegseth Underscores Significance of Purple Hearts, Enlistments",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4495094/at-fort-campbell-hegseth-underscores-significance-of-purple-hearts-enlistments/",
+    "date": "2026-05-18T19:42:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "During a visit with the 101st Airborne Division at Fort Campbell, Ky., as part of its \"Week of the Eagles\" celebration, Secretary of War Pete Hegseth administered the oath of enlistment to a handful of screaming eagle soldiers and pinned Purple Heart medals to the chests of nine others."
+  },
+  {
+    "id": "7490a0228c1d",
+    "title": "Marine Rotational Force-Darwin Certified as Special Purpose MAGTF",
+    "url": "https://news.usni.org/2026/05/18/marine-rotational-force-darwin-certified-as-special-purpose-magtf",
+    "date": "2026-05-18T19:41:08Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Marine Rotational Force-Darwin 26 was recently certified as a Special Purpose Marine Air-Ground Task Force, marking the first MRF-D unit to earn the certification since the rotational force was established in 2011. “Being the first rotation of MRF-D to be certified as an SPMAGTF is an incredible sta"
+  },
+  {
     "id": "9fdaf6f2be09",
     "title": "USNI News Fleet and Marine Tracker: May 18, 2026",
     "url": "https://news.usni.org/2026/05/18/usni-news-fleet-and-marine-tracker-may-18-2026",
@@ -8,6 +38,26 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 18, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
+  },
+  {
+    "id": "58aa79074d3f",
+    "title": "Army Advances Barracks Modernization Efforts to Improve Quality of Life",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4494938/army-advances-barracks-modernization-efforts-to-improve-quality-of-life/",
+    "date": "2026-05-18T18:52:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The Army has accelerated efforts to strengthen quality-of-life investments across installations, showing a long-term commitment to ensuring soldiers live and work in facilities that reflect the professionalism, standards and readiness expectations of the service."
+  },
+  {
+    "id": "d9decbecbd9a",
+    "title": "Fueling the Fight: USNS Kanawha Completes Strategic Deployment",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4494772/fueling-the-fight-usns-kanawha-completes-strategic-deployment/",
+    "date": "2026-05-18T18:11:15Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Family and friends gathered on the pier at Naval Station Norfolk, Va., to welcome home the crew of the USNS Kanawha. The fleet replenishment oiler and its 92 civil service mariners returned after a 204-day deployment, including 156 days at sea."
   },
   {
     "id": "be8a0e03b77d",
@@ -180,6 +230,16 @@
     "summary": "The following is the May 4, 2026, Congressional Research Service report The Strait of Hormuz in Brief: Non-Oil Shipments and Effects on U.S. Shippers. From the Report Before U.S. and Israeli military operations began against Iran on February 28, 2026, the average number of ships from various countri"
   },
   {
+    "id": "c6ebe423a253",
+    "title": "Mosaic Lightning 26-2",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4485615/mosaic-lightning-26-2/",
+    "date": "2026-05-14T01:46:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "Airmen with the 355th Wing tested their ability to deploy as a cohesive, self-sustaining combat force under the Air Expeditionary Wing 2.0 model during the Mosaic Lightning 26-2 exercise at Davis-Monthan Air Force Base, Arizona, May 7-15.\n\n<br />\n<img alt=\"Mosaic Lightning 26-2 Concrete Pour\" src=\"h"
+  },
+  {
     "id": "aa5fd8033a14",
     "title": "355 SFS and 355 CES EOD flight respond to abandoned vehicle during ML 26-2",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4486215/355-sfs-and-355-ces-eod-flight-respond-to-abandoned-vehicle-during-ml-26-2/",
@@ -228,16 +288,6 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "The Army's 25th Infantry Division, in close partnership with the Armed Forces of the Philippines and multinational allies, officially launched the Joint Pacific Multinational Readiness Center-Exportable Exercise, Part II of the bilateral Exercise Salaknib."
-  },
-  {
-    "id": "c6ebe423a253",
-    "title": "Mosaic Lightning 26-2",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4485615/mosaic-lightning-26-2/",
-    "date": "2026-05-13T16:46:00Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "posture",
-    "summary": "Airmen with the 355th Wing tested their ability to deploy as a cohesive, self-sustaining combat force under the Air Expeditionary Wing 2.0 model during the Mosaic Lightning 26-2 exercise at Davis-Monthan Air Force Base, Arizona, May 7-15.\n\n<br />\n<img alt=\"Mosaic Lightning 26-2 tests 355th Wing medi"
   },
   {
     "id": "89dbd4ff1815",
@@ -610,16 +660,6 @@
     "summary": "The following is the Government Accountability Office report, Military Personnel: DOD Should Improve Processes for Determining Cost-of-Living Allowances, published April 30, 2026. From the Report What GAO Found The Department of Defense (DOD) uses three key processes to determine service member cost"
   },
   {
-    "id": "53c530ca33aa",
-    "title": "F-22 Raptors Arrive in Japan, Strengthen Indo-Pacific Airpower",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4478801/f-22-raptors-arrive-in-japan-strengthen-indo-pacific-airpower/",
-    "date": "2026-05-06T15:02:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "Air Force F-22 Raptors arrived at Kadena Air Base, Japan, for a rotation designed to strengthen regional interoperability and maintain a persistent, high-tech presence in the Indo-Pacific."
-  },
-  {
     "id": "666220536fba",
     "title": "Back from the Boneyard: Tinker Brings B-1 Back to the Fight",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4479387/back-from-the-boneyard-tinker-brings-b-1-back-to-the-fight/",
@@ -628,46 +668,6 @@
     "cocom": "centcom",
     "tag": "posture",
     "summary": "A U.S. Air Force B-1B Lancer once parked in the Arizona desert is back in the air after an intensive regeneration and depot maintenance effort led by the Oklahoma City Air Logistics Complex at Tinker Air Force Base.<br />\n<img alt=\"stripped b1 test flight\" src=\"https://media.defense.gov/2026/May/06/"
-  },
-  {
-    "id": "bf7f277999d6",
-    "title": "Carrier USS Gerald R. Ford is Now in the Atlantic",
-    "url": "https://news.usni.org/2026/05/06/carrier-uss-gerald-r-ford-is-now-in-the-atlantic",
-    "date": "2026-05-06T11:32:53Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Aircraft carrier USS Gerald R. Ford (CVN-78) is now operating in the Atlantic Ocean after sailing through the Strait of Gibraltar on Wednesday, according to ship spotters. As of Wednesday, Ford has been deployed for 315 days, the longest carrier strike group deployment since the end of the Cold War."
-  },
-  {
-    "id": "1a068a732672",
-    "title": "‘Littoral Deep Battle’",
-    "url": "https://news.usni.org/2026/05/05/littoral-deep-battle",
-    "date": "2026-05-05T22:14:43Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "LAOAG, Philippines — Target drones resembling Chinese amphibious infantry fighting vehicles approached the La Paz Sand Dunes at a steady pace. In the next few hours, a combined force of American, Philippine, Canadian and Japanese troops took turns tearing into the simulated beach landing, trialing a"
-  },
-  {
-    "id": "ccf0a641c75a",
-    "title": "U.S. Tests Using Drones to Track, Target Suspected Narco Boats",
-    "url": "https://news.usni.org/2026/05/05/u-s-tests-using-drones-to-track-target-suspected-narco-boats",
-    "date": "2026-05-05T20:29:59Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.S. 4th Fleet and U.S. Naval Southern Command recently tested the use of drones and artificial intelligence to track and target suspected narco boats and counter transnational organized crime. The drill, conducted in the waters off Key West, Fla., was part of this year’s iteration of the Navy’s ann"
-  },
-  {
-    "id": "c9a2a16d5cd7",
-    "title": "'Project Freedom' Aims to Get Thousands of Commercial Ships Safely Through Strait of Hormuz",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4477864/project-freedom-aims-to-get-thousands-of-commercial-ships-safely-through-strait/",
-    "date": "2026-05-05T17:06:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Project Freedom is a targeted U.S. military mission to break the Iranian blockade of the Strait of Hormuz and restore the safe flow of international shipping and oil."
   },
   {
     "id": "26e64ddb6745",
