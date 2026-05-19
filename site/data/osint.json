@@ -1,5 +1,55 @@
 [
   {
+    "id": "6d811908b607",
+    "title": "MQ-25A Stingray Certified to Enter Low-Rate Initial Production",
+    "url": "https://news.usni.org/2026/05/19/mq-25a-stingray-certified-to-enter-low-rate-initial-production",
+    "date": "2026-05-19T19:28:47Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. Navy’s unmanned tanker has officially entered the low-rate production phase, the service announced Tuesday. The carrier-based MQ-25A Stingray reached the milestone C authorization that the Pentagon requires for a program to enter the low-rate initial production stage of acquisition. “An LRI"
+  },
+  {
+    "id": "7ce285f314ec",
+    "title": "Coast Guard, Eastern Shipbuilding Negotiating ‘Contract Resolution’ on First 2 Offshore Patrol Cutters",
+    "url": "https://news.usni.org/2026/05/19/coast-guard-eastern-shipbuilding-negotiating-contract-resolution-on-first-2-offshore-patrol-cutters",
+    "date": "2026-05-19T19:17:58Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Coast Guard and Eastern Shipbuilding are negotiating the end of the Offshore Patrol Cutter program at the Florida shipyard, the service confirmed in a statement to USNI News this week. Eastern Shipbuilding stopped work last year on the first two cutters in the class — Argus (WMSM-915) and Chase"
+  },
+  {
+    "id": "428c27585f59",
+    "title": "Coast Guard's Newest Polar Icebreaker Returns Home Following Arctic Deployment",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4495876/coast-guards-newest-polar-icebreaker-returns-home-following-arctic-deployment/",
+    "date": "2026-05-19T17:09:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The Coast Guard cutter Storis completed a 36-day Bering Sea deployment to test its capabilities and train for high-risk Arctic missions."
+  },
+  {
+    "id": "04b5e91201f5",
+    "title": "Defeating the Swarm: Project Flytrap Accelerates NATO's Counter-Drone Lethality",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4495825/defeating-the-swarm-project-flytrap-accelerates-natos-counter-drone-lethality/",
+    "date": "2026-05-19T16:50:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Project Flytrap 5.0, a U.S. Army V Corps counter-unmanned aerial systems initiative including British partner forces, integrated and tested more than 50 industry-provided technologies to fight and defeat the low-cost drones reshaping the modern battlefield."
+  },
+  {
+    "id": "0f6ed79cfd37",
+    "title": "Balikatan 2026 was Rehearsal for Defense of the Philippines, Paparo Says",
+    "url": "https://news.usni.org/2026/05/19/balikatan-2026-was-rehearsal-for-defense-of-the-philippines-paparo-says",
+    "date": "2026-05-19T15:56:56Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Balikatan 2026 was a rehearsal for the defense of the Philippines amid a “dangerous security environment,” U.S. Indo-Pacific Command chief Adm. Samuel Paparo said at the conclusion of the largest iteration of the drills held to date. “Balikatan 2026 marks a strategic evolution from a bilateral exerc"
+  },
+  {
     "id": "9685fe4d67b8",
     "title": "Defense Primer: Hypersonic Boost-Glide Weapons",
     "url": "https://news.usni.org/2026/05/19/defense-primer-hypersonic-boost-glide-weapons",
@@ -548,55 +598,5 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "Soldiers assigned to the 10th Mountain Division began training with the Bumblebee V1 counter-drone system, introducing a capability to improve the warfighter's ability to detect and defeat the threat of unmanned aerial systems on the modern battlefield."
-  },
-  {
-    "id": "275d7c9f31ff",
-    "title": "Pentagon Lab Day Demonstrates Best of War Department Research",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4479499/pentagon-lab-day-demonstrates-best-of-war-department-research/",
-    "date": "2026-05-06T23:41:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Dozens of scientists and engineers from around the War Department visited the Pentagon to showcase what the best and brightest minds are creating in the nation's most advanced research labs."
-  },
-  {
-    "id": "b4091e4842d4",
-    "title": "Site Selections Announced for Directed-Energy Counter-Drone Program",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4479463/site-selections-announced-for-directed-energy-counter-drone-program/",
-    "date": "2026-05-06T21:56:10Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "On behalf of the War Department, Joint Interagency Task Force 401 selected five installations to participate in the directed-energy counter-unmanned aircraft systems pilot program included in the Fiscal Year 2026 National Defense Authorization Act."
-  },
-  {
-    "id": "a4fd68976f08",
-    "title": "Cleaner Barracks, Modern Dining: Marine Corps Gives ‘Gen Z’ a Taste of Home",
-    "url": "https://news.usni.org/2026/05/06/cleaner-barracks-modern-dining-marine-corps-gives-gen-z-a-taste-of-home",
-    "date": "2026-05-06T20:17:17Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "CAMP PENDLETON, Calif. – Across the Marine Corps&#8217; western installations, spring cleaning has evolved from a seasonal chore to a warfighting mission. Over several weeks in April and continuing into May, thousands of junior enlisted Marines and sailors residing in barracks in California and Ariz"
-  },
-  {
-    "id": "d0e3f78359a9",
-    "title": "Cahill Nominated to Lead Naval Surface Force, Cash Nominated as Navy’s Top Chaplain",
-    "url": "https://news.usni.org/2026/05/06/cahill-nominated-to-lead-naval-surface-force-cash-nominated-as-navys-top-chaplain",
-    "date": "2026-05-06T17:35:29Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "President Donald Trump nominated Rear Adm. Joe Cahill to serve as the next commander of Naval Surface Force, the Pentagon announced Tuesday. Cahill, who is the current commander of Naval Surface Force Atlantic in Norfolk, Va., will be promoted to vice admiral if confirmed as the next SWO Boss. A car"
-  },
-  {
-    "id": "dd7cc9595b3f",
-    "title": "Utah National Guard Integrates Air, Ground Capabilities During Exercise Wolverine",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4478900/utah-national-guard-integrates-air-ground-capabilities-during-exercise-wolverine/",
-    "date": "2026-05-06T17:27:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Exercise Wolverine at Camp Williams, Utah, focused on strengthening joint interaction between Utah Army and Air National Guard units for disaster response and air-to-ground operations to support homeland defense."
   }
 ]
