@@ -1,5 +1,65 @@
 [
   {
+    "id": "229251f24d20",
+    "title": "U.S. Wants to Construct Philippine Coast Guard Maintenance Facility, Repair Fuel Depot in Palawan",
+    "url": "https://news.usni.org/2026/05/20/u-s-wants-to-construct-philippine-coast-guard-maintenance-facility-repair-fuel-depot-in-palawan",
+    "date": "2026-05-20T19:04:48Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Washington is seeking funding to construct a Coast Guard maintenance center and refurbish a joint airfield fuel depot that could bolster Philippine security infrastructure near the South China Sea, according to recent documents. The Pentagon released notices within the last month for upcoming projec"
+  },
+  {
+    "id": "dca1a1ea684c",
+    "title": "War Department's Science Enterprise Maintains Tight Focus on Half-Dozen Key Areas",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4497409/war-departments-science-enterprise-maintains-tight-focus-on-half-dozen-key-areas/",
+    "date": "2026-05-20T18:59:35Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Emil G. Michael, undersecretary of defense for research and engineering and War Department chief technology officer, shared his plan to guarantee U.S. troops always have the tools to win before the Senate Armed Services Committee in Washington."
+  },
+  {
+    "id": "ac0b36f56732",
+    "title": "JIATF 401 Drone Defense Marketplace Broadens Allied Access to Counter-Drone Capabilities",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4497147/jiatf-401-drone-defense-marketplace-broadens-allied-access-to-counter-drone-cap/",
+    "date": "2026-05-20T18:32:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Army Secretary Dan Driscoll and key leaders from Australia, Poland and South Korea recently signed agreements enabling each country to procure counter-small UAS technologies through the Joint Interagency Task Force 401 drone defense marketplace."
+  },
+  {
+    "id": "2267809eff75",
+    "title": "Fort Bragg Honors the Fallen During Annual Remembrance Run",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4497078/fort-bragg-honors-the-fallen-during-annual-remembrance-run/",
+    "date": "2026-05-20T16:48:30Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "More than 2,000 soldiers, families and community members came together at Fort Bragg, N.C., for the annual Run, Honor, Remember 5K, an event dedicated to honoring service members who gave their lives in defense of the nation."
+  },
+  {
+    "id": "4ca28a058ce3",
+    "title": "Japan’s Largest Warship Preparing for F-35B Training with U.S. Marines",
+    "url": "https://news.usni.org/2026/05/20/japans-largest-warship-preparing-for-f-35b-training-with-u-s-marines",
+    "date": "2026-05-20T15:52:16Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "U.S. Marine Corps F-35B Lightning II fighter aircraft will conduct take-off and landing drills on Japan&#8217;s largest warship JS Kaga (DDH-184) in June as the warship prepares to load equipment at Marine Corps Air Station Iwakuni, according to the government officials. Helicopter carrier Kaga will"
+  },
+  {
+    "id": "a48977378ce9",
+    "title": "Police Week Ruck",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4496946/police-week-ruck/",
+    "date": "2026-05-20T15:20:13Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "Every year, Airmen across Davis-Monthan Air Force Base observe Police Week, a weeklong observance that pays tribute to the sacrifice, strength and unwavering commitment of Security Forces members and law enforcement personnel. To kick off this year's event, Airmen from the 355th Security Forces Squa"
+  },
+  {
     "id": "457ecf11b4c3",
     "title": "Report to Congress on U.S. Aircraft Combat Losses in Operation Epic Fury",
     "url": "https://news.usni.org/2026/05/20/report-to-congress-on-u-s-aircraft-combat-losses-in-operation-epic-fury",
@@ -628,56 +688,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "One of the Navy’s Ford-class aircraft carriers is delayed by two years, stretching the schedule to build the future USS Doris Miller (CVN-81) out to 15 years, USNI News has learned. Carrier Doris Miller will now deliver to the Navy in February of 2034, according to the service’s Fiscal Year 2027 bud"
-  },
-  {
-    "id": "9492d339358a",
-    "title": "Strait of Hormuz Shipping in State of Confusion as Industry Watches U.S., Iranian Actions",
-    "url": "https://news.usni.org/2026/05/08/strait-of-hormuz-shipping-in-state-of-confusion-as-industry-watches-u-s-iranian-actions",
-    "date": "2026-05-08T19:21:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Three Navy destroyers came under fire from Iran as they transited the Strait of Hormuz as commercial shipping traffic remains at an almost standstill. Iranian forces sent missiles, drones and small boats after USS Mason (DDG-87), USS Rafael Peralta (DDG-115) and USS Truxton (DDG-103) as the three wa"
-  },
-  {
-    "id": "6b4d253b420c",
-    "title": "Forging Tactical Readiness During Iron Ascent",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4481857/forging-tactical-readiness-during-iron-ascent/",
-    "date": "2026-05-08T15:55:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The 92nd Air Refueling Wing launched Iron Ascent, a three-day tactical training course at Fairchild Air Force Base, Washington, that enabled airmen from various career fields to operate as capable expeditionary warfighters."
-  },
-  {
-    "id": "0de6ccd62365",
-    "title": "Japan-based Carrier Air Wing 5 Begins Training Ahead of Next Patrol",
-    "url": "https://news.usni.org/2026/05/08/japan-based-carrier-air-wing-5-begins-training-ahead-of-next-patrol",
-    "date": "2026-05-08T15:04:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Carrier Air Wing (CVW) 5, assigned to aircraft carrier USS George Washington (CVN-73), began 10 days of field carrier landing practice drills Thursday on Iwo Jima, Japan, the first stage of preparations for the carrier&#8217;s next patrol. CVW-5 will conduct FCLP on Iwo Jima through May 17, accordin"
-  },
-  {
-    "id": "e3306ca7f5ad",
-    "title": "Blount Island Command's Ship-to-Shore Operations Reinforces Southcom Readiness",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4480761/blount-island-commands-ship-to-shore-operations-reinforces-southcom-readiness/",
-    "date": "2026-05-08T14:44:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Marines landed an MK36 Wrecker tactical armored vehicle at Marine Corps Support Facility Blount Island in Jacksonville, Fla., demonstrating how the service rapidly moves equipment to support operations across the region."
-  },
-  {
-    "id": "f11b1125d37c",
-    "title": "GAO Report on Mariner Training",
-    "url": "https://news.usni.org/2026/05/07/gao-report-on-mariner-training",
-    "date": "2026-05-07T20:35:26Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Why GAO Did This Study The maritime industry relies on mariners to work on vessels carrying goods and passengers domestically and internationally. However, industry stakeholders have raised concerns about a mariner shortage. To work in the industry, mariners often take courses through a training ins"
   },
   {
     "id": "666220536fba",
@@ -1488,15 +1498,5 @@
     "cocom": "centcom",
     "tag": "naval",
     "summary": "Airmen from the 55th and 48th Rescue Squadrons strengthened their ability to execute personnel recovery operations in contested environments during Exercise Red Flag-Rescue 26-1 in San Diego, California, Feb. 13-20.<br />\n<img alt=\"U.S. Navy rescue swimmers observe an HH-60H Seahawk participating in"
-  },
-  {
-    "id": "3bcb07faa9d7",
-    "title": "Heritage Flight Training Course 2026",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4421198/heritage-flight-training-course-2026/",
-    "date": "2026-03-04T20:14:07Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "air",
-    "summary": "<br />\n<img alt=\"U.S. Air Force Maj. Taylor “FEMA” Heister, F-16 Demonstration Team pilot and commander, completes the final safety checks before performing in the Heritage Flight Training Course at Davis-Monthan Air Force Base, Arizona, Feb. 28, 2026. The Viper demonstration team consists of eight"
   }
 ]
