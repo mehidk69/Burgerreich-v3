@@ -1,5 +1,15 @@
 [
   {
+    "id": "457ecf11b4c3",
+    "title": "Report to Congress on U.S. Aircraft Combat Losses in Operation Epic Fury",
+    "url": "https://news.usni.org/2026/05/20/report-to-congress-on-u-s-aircraft-combat-losses-in-operation-epic-fury",
+    "date": "2026-05-20T13:03:22Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the May 13, 2026, Congressional Research Service report, U.S. Aircraft Combat Losses in Operation Epic Fury: Considerations for Congress. From the Report On February 28, 2026, the United States, in coordination with Israel, initiated military operations against Iran under the design"
+  },
+  {
     "id": "66c51f40bd16",
     "title": "D-M team competes in first-ever FM innovation contest finals",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4496495/d-m-team-competes-in-first-ever-fm-innovation-contest-finals/",
@@ -668,16 +678,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Why GAO Did This Study The maritime industry relies on mariners to work on vessels carrying goods and passengers domestically and internationally. However, industry stakeholders have raised concerns about a mariner shortage. To work in the industry, mariners often take courses through a training ins"
-  },
-  {
-    "id": "945cdeca5d88",
-    "title": "French Carrier Strike Group Now Operating in the Middle East",
-    "url": "https://news.usni.org/2026/05/07/french-carrier-strike-group-now-operating-in-the-middle-east",
-    "date": "2026-05-07T18:45:17Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The French Carrier Strike Group transited the Suez Canal on Wednesday en route to the Red Sea, as part of a multinational naval coalition that seeks to restore freedom of navigation in the Strait of Hormuz. “The multinational mission that France and the United Kingdom have set up can help restore co"
   },
   {
     "id": "666220536fba",
