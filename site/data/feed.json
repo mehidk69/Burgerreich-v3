@@ -1,5 +1,45 @@
 [
   {
+    "id": "66c51f40bd16",
+    "title": "D-M team competes in first-ever FM innovation contest finals",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4496495/d-m-team-competes-in-first-ever-fm-innovation-contest-finals/",
+    "date": "2026-05-19T23:05:53Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "Two airmen from Davis-Monthan Air Force Base are finalists in the inaugural Financial Management Innovation Rodeo for their \"Lightning FM\" platform, a digital tool designed to streamline and standardize the Air Force's purchase request process.<br />\n<img alt=\"Chief Master Sgt. Leah Anderson, Financ"
+  },
+  {
+    "id": "e3ca9484acc7",
+    "title": "Senior Leaders Discuss Recruiting STEM Candidates Into Special Ops",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4496409/senior-leaders-discuss-recruiting-stem-candidates-into-special-ops/",
+    "date": "2026-05-19T22:28:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "During a panel discussion at the Special Operations Forces Week 2026 convention in Tampa, Fla., a pair of senior SOF leaders discussed how to bring more recruits with science, technology, engineering and mathematics backgrounds into their formations."
+  },
+  {
+    "id": "4919934535c7",
+    "title": "CBRNE Training Bolsters Readiness at Davis-Monthan during Mosaic Lightning 26-2",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4496448/cbrne-training-bolsters-readiness-at-davis-monthan-during-mosaic-lightning-26-2/",
+    "date": "2026-05-19T22:06:15Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "U.S. Airmen across Davis-Monthan Air Force Base installation enhanced mission readiness through Chemical, Biological, Radiological, Nuclear, Explosives (CBRNE) response training during some of the most complex contingency scenarios featured in exercise Mosaic Lightning 26-2, May 7-15, 2026.<br />\n<i"
+  },
+  {
+    "id": "f40e920e6af5",
+    "title": "Special Ops Convention Convenes Under 'Peace Through Strength' Strategy",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4496381/special-ops-convention-convenes-under-peace-through-strength-strategy/",
+    "date": "2026-05-19T21:56:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "More than 29,000 members of the military's special operations forces community and the public converged in person on Tampa, Fla., and virtually to kick off Special Operations Forces Week 2026."
+  },
+  {
     "id": "6d811908b607",
     "title": "MQ-25A Stingray Certified to Enter Low-Rate Initial Production",
     "url": "https://news.usni.org/2026/05/19/mq-25a-stingray-certified-to-enter-low-rate-initial-production",
@@ -18,6 +58,16 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The Coast Guard and Eastern Shipbuilding are negotiating the end of the Offshore Patrol Cutter program at the Florida shipyard, the service confirmed in a statement to USNI News this week. Eastern Shipbuilding stopped work last year on the first two cutters in the class — Argus (WMSM-915) and Chase"
+  },
+  {
+    "id": "1fcb1b7defe3",
+    "title": "National Defense Strategy Prioritizes America First, Leader Says",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4496022/national-defense-strategy-prioritizes-america-first-leader-says/",
+    "date": "2026-05-19T18:43:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The U.S. will prioritize theaters with the greatest consequence for national interests and where only American power can play a decisive role, said Daniel Zimmerman, assistant secretary of war for international security affairs, who spoke during a hearing before the House Armed Services Committee."
   },
   {
     "id": "428c27585f59",
@@ -628,36 +678,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The French Carrier Strike Group transited the Suez Canal on Wednesday en route to the Red Sea, as part of a multinational naval coalition that seeks to restore freedom of navigation in the Strait of Hormuz. “The multinational mission that France and the United Kingdom have set up can help restore co"
-  },
-  {
-    "id": "44b1f70e1a61",
-    "title": "U.S. Tomahawk Hits Target 390 Miles Away in Land Test of New Launch System",
-    "url": "https://news.usni.org/2026/05/07/u-s-tomahawk-hits-target-390-miles-away-in-land-test-of-new-launch-system",
-    "date": "2026-05-07T17:06:08Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "MANILA, Philippines — U.S. forces struck a target on Luzon in the Philippines earlier this week with a Tomahawk cruise missile in a first-of-its-kind long-range precision strike drill within the first island chain. The single Tomahawk Land Attack Missile was launched by the U.S. Army around midnight"
-  },
-  {
-    "id": "50b64780d166",
-    "title": "Joint Force Provides Post-Typhoon Relief in Pacific",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4479923/joint-force-provides-post-typhoon-relief-in-pacific/",
-    "date": "2026-05-07T15:52:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Sailors and Marines assigned to the USS Boxer Amphibious Ready Group and the 11th Marine Expeditionary Unit supported Guam and the Northern Mariana Islands' civil and local authorities in their recovery efforts from Super Typhoon Sinlaku."
-  },
-  {
-    "id": "74f53450d198",
-    "title": "Bumblebee V1 System Sharpens 10th Mountain Division's Counter-Drone Edge",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4479880/bumblebee-v1-system-sharpens-10th-mountain-divisions-counter-drone-edge/",
-    "date": "2026-05-07T15:21:34Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Soldiers assigned to the 10th Mountain Division began training with the Bumblebee V1 counter-drone system, introducing a capability to improve the warfighter's ability to detect and defeat the threat of unmanned aerial systems on the modern battlefield."
   },
   {
     "id": "666220536fba",
@@ -1478,25 +1498,5 @@
     "cocom": "centcom",
     "tag": "air",
     "summary": "<br />\n<img alt=\"U.S. Air Force Maj. Taylor “FEMA” Heister, F-16 Demonstration Team pilot and commander, completes the final safety checks before performing in the Heritage Flight Training Course at Davis-Monthan Air Force Base, Arizona, Feb. 28, 2026. The Viper demonstration team consists of eight"
-  },
-  {
-    "id": "d88fdd2cd099",
-    "title": "COMACC visits Davis-Monthan",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4419373/comacc-visits-davis-monthan/",
-    "date": "2026-03-02T23:05:58Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "posture",
-    "summary": "U.S. Air Force Gen. Adrian Spain, commander of Air Combat Command, thanks Airmen assigned to the 563rd Rescue Group for their service at Davis-Monthan Air Force Base, Arizona, Feb. 26, 2026. The Airmen were thanked for outstanding service after a successful civilian search and rescue mission in Mexi"
-  },
-  {
-    "id": "c3eb9e46b2a1",
-    "title": "355th Wing leadership trains alongside 563rd OSS Airmen",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4412997/355th-wing-leadership-trains-alongside-563rd-oss-airmen/",
-    "date": "2026-02-24T15:34:50Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "naval",
-    "summary": "355th Wing leadership conducts combatives training alongside members of the 563rd Operations Support<br />\n<img alt=\".\" src=\"https://media.defense.gov/2026/Feb/24/2003879700/150/150/0/260220-F-XR514-1121.JPG\" /> <br />"
   }
 ]
