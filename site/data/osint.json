@@ -1,5 +1,35 @@
 [
   {
+    "id": "72aa68a76d2e",
+    "title": "Russian Surveillance Ship Spotted Near NATO Sub Drills",
+    "url": "https://news.usni.org/2026/05/21/russian-surveillance-ship-spotted-near-nato-sub-drills",
+    "date": "2026-05-21T18:11:27Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A Russian surveillance ship was loitering near an ongoing NATO submarine warfare exercise in the Norwegian Sea, NATO’s Maritime Command said Thursday. Portuguese Navy frigate NRP Dom Francisco de Almeida (F334) and a Royal Navy Merlin Mk 2 helicopter from aircraft carrier HMS Prince of Wales (R09) s"
+  },
+  {
+    "id": "b136c5975396",
+    "title": "Give Them Wings, Teach Them to Fly: The Making of a Phoenix Raven",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4498253/give-them-wings-teach-them-to-fly-the-making-of-a-phoenix-raven/",
+    "date": "2026-05-21T16:45:29Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Airmen must push through a demanding 28-day qualification course to become one of the Phoenix Ravens, a force tasked with safeguarding aircraft, personnel and critical assets in austere locations where threats may be elevated or unpredictable."
+  },
+  {
+    "id": "4dbca38ae384",
+    "title": "Symbol of Grit Returns, 10th Mountain Division to Wear Crossed Ski Insignia",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4498256/symbol-of-grit-returns-10th-mountain-division-to-wear-crossed-ski-insignia/",
+    "date": "2026-05-21T16:42:12Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Soldiers assigned to the 10th Mountain Division can once again wear the division's historic crossed ski insignia on their Army Green Service Uniform garrison caps, restoring a visual link to the unit's World War II roots and reinforcing the alpine spirit that resonates across the formation."
+  },
+  {
     "id": "3e42e876c941",
     "title": "GAO Report on Suicide Prevention Across the Defense Department",
     "url": "https://news.usni.org/2026/05/21/gao-report-on-suicide-prevention-across-the-defense-department",
@@ -23,7 +53,7 @@
     "id": "4496aa12abb7",
     "title": "Senior DOW Tech Official Says Department AI Use Up 1,775% in Past Year",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4497743/senior-dow-tech-official-says-department-ai-use-up-1775-in-past-year/",
-    "date": "2026-05-20T22:27:49Z",
+    "date": "2026-05-20T22:27:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 11, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
-  },
-  {
-    "id": "cc1cdb26c21d",
-    "title": "Hegseth Welcomes South Korean Counterpart to Pentagon",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4483397/hegseth-welcomes-south-korean-counterpart-to-pentagon/",
-    "date": "2026-05-11T16:50:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Secretary of War Pete Hegseth welcomed South Korean Defense Minister Ahn Gyu-back to Washington for a bilateral engagement at the Pentagon."
-  },
-  {
-    "id": "57098bfc2f78",
-    "title": "U.S. Navy’s 2026 Shipbuilding Plan",
-    "url": "https://news.usni.org/2026/05/11/u-s-navys-2026-shipbuilding-plan",
-    "date": "2026-05-11T16:35:15Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is the U.S. Navy&#8217;s Shipbuilding Plan, published May 11, 2026. From the Report Introduction SEAPOWER DELIVERED Over the past year, the United States Navy has continually demonstrated across multiple theaters and mission sets why it is the world’s premier maritime force. Whether de"
-  },
-  {
-    "id": "7b0a9c79678d",
-    "title": "2 Dead, 1 Survivor in Friday Strike on Suspected Narco Boat",
-    "url": "https://news.usni.org/2026/05/11/2-dead-1-survivor-in-friday-strike-on-suspected-nacro-boat",
-    "date": "2026-05-11T15:43:56Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "U.S. forces struck a suspected narco boat Friday, killing two men and leaving one survivor, U.S. Southern Command announced. The boat was operating in the Eastern Pacific and is alleged to have been transiting along known narco-trafficking routes when it was struck. Following the strike, SOUTHCOM no"
   }
 ]
