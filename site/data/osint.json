@@ -1,5 +1,35 @@
 [
   {
+    "id": "2602837c2aa8",
+    "title": "Retired Combat Vet Rejoins Marine Corps",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4497776/retired-combat-vet-rejoins-marine-corps/",
+    "date": "2026-05-20T23:39:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Marine Corps Staff Sgt. Johnny \"Joey\" Jones reenlisted in the Marine Corps Reserve at the Pentagon, 14 years after being medically retired following the loss of both legs in a 2010 Afghanistan combat deployment."
+  },
+  {
+    "id": "4496aa12abb7",
+    "title": "Senior DOW Tech Official Says Department AI Use Up 1,775% in Past Year",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4497743/senior-dow-tech-official-says-department-ai-use-up-1775-in-past-year/",
+    "date": "2026-05-20T22:27:49Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Emil Michael, undersecretary of war for research and engineering and War Department chief technology officer, said that use of artificial intelligence across the department is up by roughly 1.42 million users over the past calendar year."
+  },
+  {
+    "id": "203735a6952b",
+    "title": "Senior Special Ops Leaders Discuss Value of Partnerships, Alliances",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4497576/senior-special-ops-leaders-discuss-value-of-partnerships-alliances/",
+    "date": "2026-05-20T20:55:13Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Senior military special operations forces leaders from the U.S., Sweden and the Philippines participated in a panel about the importance of partnerships and alliances, as part of Special Operations Forces Week 2026 in Tampa, Fla."
+  },
+  {
     "id": "229251f24d20",
     "title": "U.S. Wants to Construct Philippine Coast Guard Maintenance Facility, Repair Fuel Depot in Palawan",
     "url": "https://news.usni.org/2026/05/20/u-s-wants-to-construct-philippine-coast-guard-maintenance-facility-repair-fuel-depot-in-palawan",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "More than 700 paratroopers assigned to the 2nd Infantry Brigade Combat Team, 11th Airborne Division, executed a historic company live-fire exercise at Joint Base Elmendorf-Richardson, Alaska."
-  },
-  {
-    "id": "1efaa4800c89",
-    "title": "Partner Nations Hammer Out Foundation for Digital Transformation at Leadership Summit",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4482343/partner-nations-hammer-out-foundation-for-digital-transformation-at-leadership/",
-    "date": "2026-05-08T20:52:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Five Eyes alliance concluded its Digital Leadership Summit at the Pentagon, focusing on Project Arcadia to synchronize digital transformation and enhance data supremacy for coalition forces."
-  },
-  {
-    "id": "62fa9e0d70c1",
-    "title": "USNI News Western Pacific Pulse: May 8, 2026",
-    "url": "https://news.usni.org/2026/05/08/usni-news-western-pacific-pulse-may-8-2026",
-    "date": "2026-05-08T20:40:54Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Vladivostok, Russia The Russian Navy Pacific Fleet task group arrived Thursday in Vladivostok, Russia, according to a Russian Navy Pacific Fleet news release. The task group included submar"
-  },
-  {
-    "id": "29516ae2062b",
-    "title": "Future Aircraft Carrier Doris Miller Delayed by 2 Years",
-    "url": "https://news.usni.org/2026/05/08/future-aircraft-carrier-doris-miller-delayed-by-2-years",
-    "date": "2026-05-08T19:21:39Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "One of the Navy’s Ford-class aircraft carriers is delayed by two years, stretching the schedule to build the future USS Doris Miller (CVN-81) out to 15 years, USNI News has learned. Carrier Doris Miller will now deliver to the Navy in February of 2034, according to the service’s Fiscal Year 2027 bud"
   }
 ]
