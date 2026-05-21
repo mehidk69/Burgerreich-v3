@@ -1,5 +1,15 @@
 [
   {
+    "id": "3e42e876c941",
+    "title": "GAO Report on Suicide Prevention Across the Defense Department",
+    "url": "https://news.usni.org/2026/05/21/gao-report-on-suicide-prevention-across-the-defense-department",
+    "date": "2026-05-21T13:49:50Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The following is the May 20, 2026, Government Accountability Office report, Suicide Prevention: DOD Should Improve Monitoring and Assessment of Training. From the Report What GAO Found The Department of Defense’s (DOD) Defense Suicide Prevention Office (DSPO) is responsible for suicide prevention ef"
+  },
+  {
     "id": "2602837c2aa8",
     "title": "Retired Combat Vet Rejoins Marine Corps",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4497776/retired-combat-vet-rejoins-marine-corps/",
@@ -678,16 +688,6 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "U.S. forces struck a suspected narco boat Friday, killing two men and leaving one survivor, U.S. Southern Command announced. The boat was operating in the Eastern Pacific and is alleged to have been transiting along known narco-trafficking routes when it was struck. Following the strike, SOUTHCOM no"
-  },
-  {
-    "id": "57b8ac930b5a",
-    "title": "Army Paratroopers Integrate Drones, Night Operations in Historic Company Live Fire",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4483100/army-paratroopers-integrate-drones-night-operations-in-historic-company-live-fi/",
-    "date": "2026-05-11T15:32:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "More than 700 paratroopers assigned to the 2nd Infantry Brigade Combat Team, 11th Airborne Division, executed a historic company live-fire exercise at Joint Base Elmendorf-Richardson, Alaska."
   },
   {
     "id": "666220536fba",
