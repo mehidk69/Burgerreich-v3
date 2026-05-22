@@ -1,5 +1,35 @@
 [
   {
+    "id": "a08af5d2483a",
+    "title": "USNI News Western Pacific Pulse: May 22, 2026",
+    "url": "https://news.usni.org/2026/05/22/usni-news-western-pacific-pulse-may-22-2026",
+    "date": "2026-05-22T19:14:51Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Western Pacific The People’s Liberation Army Navy Liaoning Carrier Strike Group led by aircraft carrier CNS Liaoning (16) is in an unspecified part of the Western Pacific. The carrier strike g"
+  },
+  {
+    "id": "3f7e279f79ee",
+    "title": "For Old Guard Soldiers, 'Flags In' Is a Personal Mission",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4499458/for-old-guard-soldiers-flags-in-is-a-personal-mission/",
+    "date": "2026-05-22T15:59:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Soldiers assigned to the 3rd U.S. Infantry Regiment honored America's fallen heroes ahead of Memorial Day by placing a U.S. flag in front of each headstone and columbarium column at Arlington National Cemetery and at the United States Soldiers' and Airmen's Home National Cemetery."
+  },
+  {
+    "id": "dae36ff3f243",
+    "title": "Report to Congress on U.S. Extended Deterrence and Regional Nuclear Capabilities",
+    "url": "https://news.usni.org/2026/05/22/report-to-congress-on-u-s-extended-deterrence-and-regional-nuclear-capabilities",
+    "date": "2026-05-22T14:16:31Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the May 21, 2026, Congressional Research Service report, U.S. Extended Deterrence and Regional Nuclear Capabilities. From the report One of the stated goals of U.S. nuclear weapons policy has been to extend deterrence to over 30 U.S. &#8220;allies and partners&#8221; and assure thes"
+  },
+  {
     "id": "ee16fe97acc8",
     "title": "War Department's 'Patriot Pipeline' Flows Talent to Arsenal of Freedom",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4499103/war-departments-patriot-pipeline-flows-talent-to-arsenal-of-freedom/",
@@ -638,36 +668,6 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "JIATF 401 recently supported the Army's assessment of emerging counter-unmanned aerial system capabilities during Project Flytrap 5.0, a training exercise underway in Lithuania that brings together U.S. and allied forces."
-  },
-  {
-    "id": "0494d7125011",
-    "title": "Marine Corps Revamps Training Courses to Build Reconnaissance, Scout Skills",
-    "url": "https://news.usni.org/2026/05/12/marine-corps-revamps-training-courses-to-build-reconnaissance-scout-skills",
-    "date": "2026-05-12T20:50:14Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The Marine Corps&#8217; renowned reconnaissance training is being revamped to better prepare reconnaissance Marines and infantry scouts for the tech-driven, multi-domain fight on land and at sea. The 12-week Basic Reconnaissance Course will be replaced by two courses – Ground Reconnaissance course a"
-  },
-  {
-    "id": "7e6e025d096b",
-    "title": "War Department Multiyear Purchases Spur Industrial Base Investments",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4484583/war-department-multiyear-purchases-spur-industrial-base-investments/",
-    "date": "2026-05-12T19:57:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "War Department investments in the fiscal year 2026 budget and promised in the FY27 budget have heartened companies within the defense industrial base to invest in their own capabilities and to grow their capacity to produce, Secretary of War Pete Hegseth explained to lawmakers on Capitol Hill."
-  },
-  {
-    "id": "b294bc8eedb0",
-    "title": "Washington National Guard Aviation Crews Train for Wildfire Season",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4484298/washington-national-guard-aviation-crews-train-for-wildfire-season/",
-    "date": "2026-05-12T16:48:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Aviation crews assigned to the 1st Battalion, 168th Aviation Regiment, Washington Army National Guard, partnered with Central Pierce Fire and Rescue to conduct water bucket training near Puyallup, Wash., preparing for the state's wildfire season."
   },
   {
     "id": "9fe79dbe1541",
