@@ -1,5 +1,55 @@
 [
   {
+    "id": "ee16fe97acc8",
+    "title": "War Department's 'Patriot Pipeline' Flows Talent to Arsenal of Freedom",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4499103/war-departments-patriot-pipeline-flows-talent-to-arsenal-of-freedom/",
+    "date": "2026-05-21T22:55:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "While testifying before the Senate Armed Services Committee's personnel subcommittee, Anthony J. Tata, the undersecretary of war for personnel and readiness, said the department has established Project Patriot Pipeline, an initiative to unify dozens of training and workforce development programs."
+  },
+  {
+    "id": "f1df6397b34a",
+    "title": "Top Special Ops Civilian Recounts Successes, Lays Out Vision for Future",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4499105/top-special-ops-civilian-recounts-successes-lays-out-vision-for-future/",
+    "date": "2026-05-21T22:48:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Derrick Anderson, assistant secretary of war for special operations and low-intensity conflict, closed out the Special Operations Forces Week 2026 convention by underscoring the SOF community's recent successes and articulating his plan to prioritize five areas."
+  },
+  {
+    "id": "4a92e38f66e1",
+    "title": "Modular Construction Key to Battleship Effort, Navy Official Says",
+    "url": "https://news.usni.org/2026/05/21/modular-construction-key-to-battleship-effort-navy-official-says",
+    "date": "2026-05-21T21:10:03Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Spreading the construction of the Trump-class battleship across several different manufacturing locations is key to the Navy’s current plan to build the almost three-football-field-long warship, a service official said this week. The service is betting on modular construction across the country to c"
+  },
+  {
+    "id": "24ca13cee13d",
+    "title": "Special Ops Conference Discusses Optimizing Human Performance",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4498839/special-ops-conference-discusses-optimizing-human-performance/",
+    "date": "2026-05-21T20:48:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "During the Special Operations Forces Week convention, experts stressed that early health checks, artificial intelligence tracking and family support are vital to protect operators before problems worsen."
+  },
+  {
+    "id": "f4afd5126c6e",
+    "title": "Air Boss Orders Flight Demo Team Safety Stand Down Following Growler Crash",
+    "url": "https://news.usni.org/2026/05/21/air-boss-orders-flight-demo-team-safety-stand-down-following-growler-crash",
+    "date": "2026-05-21T20:36:43Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.S. Naval Air Forces issued a safety stand down for four tactical aviation teams following a crash between two EA-18G Growlers at an air show over the weekend. All four Naval aviators ejected from the two aircraft, assigned to the “Vikings” of VAQ-129 EA-18G Growler Demo Team out of Naval Air Stati"
+  },
+  {
     "id": "72aa68a76d2e",
     "title": "Russian Surveillance Ship Spotted Near NATO Sub Drills",
     "url": "https://news.usni.org/2026/05/21/russian-surveillance-ship-spotted-near-nato-sub-drills",
@@ -63,7 +113,7 @@
     "id": "203735a6952b",
     "title": "Senior Special Ops Leaders Discuss Value of Partnerships, Alliances",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4497576/senior-special-ops-leaders-discuss-value-of-partnerships-alliances/",
-    "date": "2026-05-20T20:55:13Z",
+    "date": "2026-05-20T20:55:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -620,26 +670,6 @@
     "summary": "Aviation crews assigned to the 1st Battalion, 168th Aviation Regiment, Washington Army National Guard, partnered with Central Pierce Fire and Rescue to conduct water bucket training near Puyallup, Wash., preparing for the state's wildfire season."
   },
   {
-    "id": "71e5c7bcad27",
-    "title": "Sinking Ships in the South China Sea",
-    "url": "https://news.usni.org/2026/05/12/sinking-ships-in-the-south-china-sea",
-    "date": "2026-05-12T16:06:27Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "PAOAY, Philippines — An audible click preceded the plumes of exhaust that the two Japanese anti-ship missiles left in their wake. The Type 88 missiles unfolded their wings and cruised toward the ship at a steady subsonic speed, finding their mark six minutes after launch. The target: BRP Quezon (PS-"
-  },
-  {
-    "id": "7e02f8d19497",
-    "title": "Soldiers Conduct Baltic Balloon Training",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4484259/soldiers-conduct-baltic-balloon-training/",
-    "date": "2026-05-12T15:26:12Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Soldiers assigned to Multi-Domain Command – Europe will partner with NATO allies for a high-altitude balloon training event stretching from Sweden to Latvia to test emerging sensing and communications technologies."
-  },
-  {
     "id": "9fe79dbe1541",
     "title": "Dragons in the Dirt: 357th Fighter Squadron Unleashes Expeditionary A-10 Lethality",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4483841/dragons-in-the-dirt-357th-fighter-squadron-unleashes-expeditionary-a-10-lethali/",
@@ -650,26 +680,6 @@
     "summary": "From the high-desert heat of Twentynine Palms to the maritime environment of San Clemente Island, the “Dragons” of the 357th Fighter Squadron recently pushed the A-10C Thunderbolt II aircraft to its limits during a high-intensity, two-week temporary duty (TDY) assignment.<br />\n<img alt=\"357th Fight"
   },
   {
-    "id": "2c5cc2ee4b68",
-    "title": "New Navy Shipbuilding Plan: Trump-class Battleship will be Nuclear-powered, Carrier Design is Under Review",
-    "url": "https://news.usni.org/2026/05/11/new-navy-shipbuilding-plan-trump-class-battleship-will-be-nuclear-powered-carrier-design-is-under-review",
-    "date": "2026-05-11T20:45:05Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The new Trump-class battleship will be powered by a nuclear reactor and is not a successor to the Arleigh Burke-class guided-missile destroyers, the Navy revealed Monday in its annual 30-year shipbuilding blueprint. The Navy’s shipbuilding plan officially acknowledges for the first time what naval o"
-  },
-  {
-    "id": "48c6c7f64de8",
-    "title": "10-ship Russian Convoy Transits Japan’s Tsushima Strait",
-    "url": "https://news.usni.org/2026/05/11/10-ship-russian-convoy-transits-japans-tsushima-strait",
-    "date": "2026-05-11T20:24:19Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A 10-ship Russian convoy transited Japan’s Tsushima Strait to enter the East China Sea over the weekend, according to Japan’s Joint Staff Office. The Japan Maritime Self-Defense Force (JMSDF) spotted two Russian corvettes, a fleet oiler, a tugboat and six cargo ships around 5 p.m. Saturday sailing s"
-  },
-  {
     "id": "c00f4a3d8256",
     "title": "CBRN sUAS exercise kicks off Mosaic Lightning 26-2",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4483994/cbrn-suas-exercise-kicks-off-mosaic-lightning-26-2/",
@@ -678,16 +688,6 @@
     "cocom": "centcom",
     "tag": "air",
     "summary": "355th Wing Drone Innovation Cell Airmen conducted a small unmanned aircraft system exercise that simulated a chemical, biological, radiological and nuclear (CBRN) attack on a military installation during Mosaic Lightning 26-2 at Davis-Monthan Air Force Base, May 8, 2026.<br />\n<img alt=\"CBRN sUAS ex"
-  },
-  {
-    "id": "bf3eda5806ef",
-    "title": "USNI News Fleet and Marine Tracker: May 11, 2026",
-    "url": "https://news.usni.org/2026/05/11/usni-news-fleet-and-marine-tracker-may-11-2026",
-    "date": "2026-05-11T16:59:33Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 11, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
   },
   {
     "id": "666220536fba",
