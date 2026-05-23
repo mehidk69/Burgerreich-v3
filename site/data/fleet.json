@@ -1,5 +1,52 @@
 {
-  "carriers": [],
-  "args": [],
-  "updated": "2026-05-22T22:46:53Z"
+  "carriers": [
+    {
+      "hull": "CVN-68",
+      "status": "deployed",
+      "location": "astern Pacific\n.\nIn the South Atlantic\nArgentine service members stow an Argentine Navy SH-3 Sea King, attached to 2da Escuadrilla Aeronaval de Helico"
+    },
+    {
+      "hull": "CVN-71",
+      "status": "deployed",
+      "location": "des\nBoxer\n, USS\nComstock\n(LSD-45), USS\nPortland\n(LPD-27\n)\nand the 11th\nMarine Expeditionary Unit\n.\nIn the Eastern Pacific\nSailors assigned to the Nimi"
+    },
+    {
+      "hull": "CVN-72",
+      "status": "deployed",
+      "location": "a.\nUSS\nThomas Hudner\n(DDG-116), homeported at Naval Station Mayport, Fla.\nIn the Arabian Sea\nSailors observe flight operations on the flight deck of N"
+    },
+    {
+      "hull": "CVN-73",
+      "status": "deployed",
+      "location": "yen, assigned to Patrol and Reconnaissance (VP) Squadron 26, conducts an inspection of a P-8A Poseidon on Kadena Air Base, Japan, April 29, 2026. US N"
+    },
+    {
+      "hull": "CVN-77",
+      "status": "deployed",
+      "location": "tion San Diego, Calif.\nThe George H.W. Bush Carrier Strike Group\nis also operating in the Arabian Sea, having joined the naval buildup in U.S. 5th Fle"
+    },
+    {
+      "hull": "CVN-78",
+      "status": "deployed",
+      "location": "based at Naval Station Mayport, Fla.\nIn the Eastern Mediterranean Sea\nAn F/A-18E Super Hornet, attached to Strike Fighter Squadron 37, lands on the fl"
+    }
+  ],
+  "args": [
+    {
+      "hull": "LHD-4",
+      "status": "deployed",
+      "location": "ine Corps F-35B Lightning II assigned to Marine Fighter Attack Squadron (VMFA) 122, 11th Marine Expeditionary Unit, lands during flight operations abo"
+    },
+    {
+      "hull": "LHA-7",
+      "status": "deployed",
+      "location": "Japan.\nUSS\nTruxtun\n(DDG-103), homeported at Naval Station Norfolk.\nUSS\nCanberra\n(LCS-30), homeported in Manama, Bahrain.\nUSS\nTulsa\n(LCS-16), homeporte"
+    },
+    {
+      "hull": "LHD-8",
+      "status": "deployed",
+      "location": "(CVN-71) conduct pre-launch checks on an F-35C Lightning II, assigned to Strike Fighter Squadron (VFA) 86, on the flight deck, April 29, 2026. US Navy"
+    }
+  ],
+  "updated": "2026-05-04T16:53:08Z"
 }
