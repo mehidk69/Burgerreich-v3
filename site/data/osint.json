@@ -1,5 +1,15 @@
 [
   {
+    "id": "05f1eb147870",
+    "title": "Hegseth Tells West Point Cadets They Are Ready to Lead",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4499909/hegseth-tells-west-point-cadets-they-are-ready-to-lead/",
+    "date": "2026-05-23T19:22:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Speaking at Michie Stadium in West Point, N.Y., Secretary of War Pete Hegseth assured the 2026 U.S. Military Academy graduates that they have both his and the president's trust."
+  },
+  {
     "id": "44608b5a06dc",
     "title": "Navy Selects 7 MUSV Designs to Enter Prototype Phase",
     "url": "https://news.usni.org/2026/05/22/navy-selects-7-musv-designs-to-enter-prototype-phase",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "The Army's 25th Infantry Division, in close partnership with the Armed Forces of the Philippines and multinational allies, officially launched the Joint Pacific Multinational Readiness Center-Exportable Exercise, Part II of the bilateral Exercise Salaknib."
-  },
-  {
-    "id": "59a42a3ae425",
-    "title": "Report to Congress on the Marine Corps’ Amphibious Combat Vehicle",
-    "url": "https://news.usni.org/2026/05/13/report-to-congress-on-the-marine-corps-amphibious-combat-vehicle",
-    "date": "2026-05-13T15:42:33Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The following is the May 11, 2026, Congressional Research Service report The Marine Corps’ Amphibious Combat Vehicle (ACV). From the Report Background The Marine Corps describes the Amphibious Combat Vehicle (ACV) as a next-generation, eight-wheeled vehicle designed to move Marines from ship to shor"
   }
 ]
