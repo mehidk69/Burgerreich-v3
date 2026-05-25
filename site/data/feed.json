@@ -1,5 +1,25 @@
 [
   {
+    "id": "fb0684153a5b",
+    "title": "Japan Announces 2 Major Western Pacific Exercises with U.S.",
+    "url": "https://news.usni.org/2026/05/25/japan-announces-2-major-western-pacific-exercises-with-u-s",
+    "date": "2026-05-25T13:01:22Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The U.S. and Japan will hold two exercises in Japan in late June, Resolute Dragon 26 and the Japan segment of Valiant Shield 2026, according to releases by the Japanese military on Friday. Valiant Shield see the deployment of the containerized Typhon missile system in Japan and in contrast to last y"
+  },
+  {
+    "id": "83b2c91395b1",
+    "title": "Report to Congress on China’s Nuclear and Missile Proliferation",
+    "url": "https://news.usni.org/2026/05/25/report-to-congress-on-chinas-nuclear-and-missile-proliferation-2",
+    "date": "2026-05-25T10:44:07Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the May 19, 2026, Congressional Research Service in focus report, China: Nuclear and Missile Proliferation. From the Report The U.S. government for decades has expressed concerns about China&#8217;s proliferation of nuclear- and missile-related technologies to other countries, with"
+  },
+  {
     "id": "05f1eb147870",
     "title": "Hegseth Tells West Point Cadets They Are Ready to Lead",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4499909/hegseth-tells-west-point-cadets-they-are-ready-to-lead/",
@@ -638,26 +658,6 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "The U.K. has pledged a force package that includes a destroyer, Typhoon fighter aircraft, autonomous mine hunting systems and unmanned surface vessels to secure freedom of navigation in the Strait of Hormuz after the U.S. and Iran agree to a “sustainable” ceasefire agreement, the U.K. Ministry of De"
-  },
-  {
-    "id": "b7c6992dedf1",
-    "title": "Senior Leaders Update Congress on Special Ops Community",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4485654/senior-leaders-update-congress-on-special-ops-community/",
-    "date": "2026-05-13T18:03:01Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Four of the most senior leaders from the U.S. military's special operations forces community appeared before the Senate Armed Services Committee in Washington to provide an update on the SOF components within their respective branches of service."
-  },
-  {
-    "id": "bb912b73ba66",
-    "title": "U.S., Multinational Allies Launch Exercise Salaknib's Second Phase in the Philippines",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4485638/us-multinational-allies-launch-exercise-salaknibs-second-phase-in-the-philippin/",
-    "date": "2026-05-13T17:59:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The Army's 25th Infantry Division, in close partnership with the Armed Forces of the Philippines and multinational allies, officially launched the Joint Pacific Multinational Readiness Center-Exportable Exercise, Part II of the bilateral Exercise Salaknib."
   },
   {
     "id": "89dbd4ff1815",
