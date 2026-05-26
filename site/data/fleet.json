@@ -3,39 +3,54 @@
     {
       "hull": "CVN-68",
       "status": "deployed",
-      "location": "astern Pacific\n.\nIn the South Atlantic\nArgentine service members stow an Argentine Navy SH-3 Sea King, attached to 2da Escuadrilla Aeronaval de Helico"
+      "location": "n the South Atlantic\nRear Adm. Cassidy Norman, commander of Carrier Strike Group 11, delivers remarks during a celebration held to honor the 51st birt"
+    },
+    {
+      "hull": "CVN-69",
+      "status": "deployed",
+      "location": "Western Atlantic\nAn F/A-18F Super Hornet, attached to the ‘Fighting Swordsmen’ of Strike Fighter Squadron (VFA) 32, lands on the flight deck of Nimitz"
     },
     {
       "hull": "CVN-71",
       "status": "deployed",
-      "location": "des\nBoxer\n, USS\nComstock\n(LSD-45), USS\nPortland\n(LPD-27\n)\nand the 11th\nMarine Expeditionary Unit\n.\nIn the Eastern Pacific\nSailors assigned to the Nimi"
+      "location": "ibious Ready Group includes\nBoxer\n, USS\nComstock\n(LSD-45), USS\nPortland\n(LPD-27\n)\nand the 11th\nMarine Expeditionary Unit\n.\nIn the Eastern Pacific\nNimi"
     },
     {
       "hull": "CVN-72",
       "status": "deployed",
-      "location": "a.\nUSS\nThomas Hudner\n(DDG-116), homeported at Naval Station Mayport, Fla.\nIn the Arabian Sea\nSailors observe flight operations on the flight deck of N"
+      "location": "ea\nA sailor conducts maintenance on a windscreen on an F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 151, in the hangar bay aboard N"
     },
     {
       "hull": "CVN-73",
       "status": "deployed",
-      "location": "yen, assigned to Patrol and Reconnaissance (VP) Squadron 26, conducts an inspection of a P-8A Poseidon on Kadena Air Base, Japan, April 29, 2026. US N"
+      "location": "ip.\nTotal Battle Force\nDeployed\nUnderway\n291\n(USS 232, USNS 59)\n105\n(USS 74, USNS 31)\n(37 FDNF, 68 Rotational)\n88\n(59 Deployed, 29 Local)\nIn the Phili"
     },
     {
       "hull": "CVN-77",
       "status": "deployed",
-      "location": "tion San Diego, Calif.\nThe George H.W. Bush Carrier Strike Group\nis also operating in the Arabian Sea, having joined the naval buildup in U.S. 5th Fle"
+      "location": "n 21\nDestroyer Squadron 21 is based in Naval Station San Diego, Calif., and embarked with\nAbraham Lincoln\n.\nUSS\nSpruance\n(DDG-111), homeported at Nava"
     },
     {
       "hull": "CVN-78",
       "status": "deployed",
-      "location": "based at Naval Station Mayport, Fla.\nIn the Eastern Mediterranean Sea\nAn F/A-18E Super Hornet, attached to Strike Fighter Squadron 37, lands on the fl"
+      "location": "week.\nBillings\nis based at Naval Station Mayport, Fla.\nIn the Atlantic Ocean\nActing Secretary of the Navy Hung Cao speaks to sailors during an all han"
     }
   ],
   "args": [
     {
+      "hull": "LHD-2",
+      "status": "deployed",
+      "location": "flight operations, May 4, 2026. US Navy photo\nAmphibious assault ship USS\nMakin Island\n(LHD-8) departed Friday from San Diego, Calif.,\naccording to sh"
+    },
+    {
+      "hull": "LHD-3",
+      "status": "deployed",
+      "location": "men’ of Strike Fighter Squadron (VFA) 32, lands on the flight deck of Nimitz-class aircraft carrier USS Dwight D. Eisenhower (CVN-69) May 6, 2026. US "
+    },
+    {
       "hull": "LHD-4",
       "status": "deployed",
-      "location": "ine Corps F-35B Lightning II assigned to Marine Fighter Attack Squadron (VMFA) 122, 11th Marine Expeditionary Unit, lands during flight operations abo"
+      "location": "40B machine gun during a live-fire range aboard Whidbey Island-class dock landing ship USS Comstock (LSD-45) in the Indian Ocean, May 6, 2026. US Mari"
     },
     {
       "hull": "LHA-7",
@@ -44,9 +59,9 @@
     },
     {
       "hull": "LHD-8",
-      "status": "deployed",
-      "location": "(CVN-71) conduct pre-launch checks on an F-35C Lightning II, assigned to Strike Fighter Squadron (VFA) 86, on the flight deck, April 29, 2026. US Navy"
+      "status": "homeport",
+      "location": "editionary Unit\n.\nIn the Eastern Pacific\nNimitz-class aircraft carrier USS Theodore Roosevelt (CVN-71) conducts flight operations, May 4, 2026. US Nav"
     }
   ],
-  "updated": "2026-05-04T16:53:08Z"
+  "updated": "2026-05-11T16:59:33Z"
 }

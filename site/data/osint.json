@@ -1,5 +1,45 @@
 [
   {
+    "id": "914ac9c9da4f",
+    "title": "Chinese Carrier Liaoning Near Philippines, USS George Washington Leaves Yokosuka Ahead of Spring Patrol",
+    "url": "https://news.usni.org/2026/05/26/chinese-carrier-liaoning-near-philippines-uss-george-washington-leaves-yokosuka-ahead-of-spring-patrol",
+    "date": "2026-05-26T19:13:55Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The People’s Liberation Army Navy&#8217;s Liaoning Carrier Strike Group is operating in the Philippine Sea east of Luzon, Japan’s Joint Staff Office said Tuesday. The Liaoning Carrier Strike Group was spotted Monday around 880 kilometers southwest of Okinotori Island, Japan’s southernmost territory."
+  },
+  {
+    "id": "51ec323e7e0b",
+    "title": "District of Columbia National Guard Unveils Freedom 250 Patch",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4500601/district-of-columbia-national-guard-unveils-freedom-250-patch/",
+    "date": "2026-05-26T17:47:06Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "District of Columbia National Guard leaders introduced a new assignment patch, honoring America's 250th birthday and recognizing the National Guard's support of key events in the nation's capital."
+  },
+  {
+    "id": "cb750c666547",
+    "title": "USNI News Fleet and Marine Tracker: May 26, 2026",
+    "url": "https://news.usni.org/2026/05/26/usni-news-fleet-and-marine-tracker-may-26-2026",
+    "date": "2026-05-26T17:21:50Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 26, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
+  },
+  {
+    "id": "8fd6763a9f18",
+    "title": "South Korea Announces Plan to Build Domestic Nuclear Attack Boat",
+    "url": "https://news.usni.org/2026/05/26/south-korea-announces-plan-to-build-domestic-nuclear-attack-boat",
+    "date": "2026-05-26T16:46:37Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "South Korea will build a new class of nuclear-powered attack boats to counter North Korea’s growing missile submarine threat, Seoul announced Tuesday. The nuclear submarines “will be developed and constructed entirely within the Republic of Korea,” reads a Ministry of National Defense document publi"
+  },
+  {
     "id": "6a7ef482e88b",
     "title": "Gold Star Spouse Turns Grief Into Advocacy",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4500140/gold-star-spouse-turns-grief-into-advocacy/",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "Air Force Gen. Dagvin R.M. Anderson, commander of U.S. Africa Command, told Congress that as Africa ascends on the world stage, it faces a precarious situation due to bad actors operating throughout the region."
-  },
-  {
-    "id": "f645a52c5749",
-    "title": "Centcom Commander Says Epic Fury Crippled Iran, Enhanced Military Partnerships in Region",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4487365/centcom-commander-says-epic-fury-crippled-iran-enhanced-military-partnerships-i/",
-    "date": "2026-05-14T21:00:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Since the launch of Operation Epic Fury, American forces in the U.S. Central Command area of operations crippled Iran's military and its ability to project power, according to War Department leaders."
-  },
-  {
-    "id": "3aa7cb8c004d",
-    "title": "Air Force Reserve Wing Assists in Downed Aircraft Rescue off Florida Coast",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4486918/air-force-reserve-wing-assists-in-downed-aircraft-rescue-off-florida-coast/",
-    "date": "2026-05-14T19:43:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Air Force Reserve airmen assigned to the 920th Rescue Wing assisted in the rescue of 11 survivors from a downed civilian aircraft in the Atlantic Ocean about 80 miles east of Melbourne, Fla."
-  },
-  {
-    "id": "8791e281cb24",
-    "title": "Air Force Pilots Receive Distinguished Flying Cross for Midnight Hammer Heroics",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4486752/air-force-pilots-receive-distinguished-flying-cross-for-midnight-hammer-heroics/",
-    "date": "2026-05-14T15:52:24Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Six F-16 Fighting Falcon pilots assigned to the 55th Fighter Squadron received the Distinguished Flying Cross for their heroic actions in combat operations during a ceremony at Shaw Air Force Base, S.C."
-  },
-  {
-    "id": "c5e31658dc73",
-    "title": "Report to Congress on Strait of Hormuz Non-oil Shipments and Effects on U.S. Shippers",
-    "url": "https://news.usni.org/2026/05/14/report-to-congress-on-strait-of-hormuz-non-oil-shipments-and-u-s-shippers",
-    "date": "2026-05-14T14:11:15Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The following is the May 4, 2026, Congressional Research Service report The Strait of Hormuz in Brief: Non-Oil Shipments and Effects on U.S. Shippers. From the Report Before U.S. and Israeli military operations began against Iran on February 28, 2026, the average number of ships from various countri"
   }
 ]
