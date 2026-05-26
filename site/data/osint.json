@@ -1,5 +1,25 @@
 [
   {
+    "id": "6a7ef482e88b",
+    "title": "Gold Star Spouse Turns Grief Into Advocacy",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4500140/gold-star-spouse-turns-grief-into-advocacy/",
+    "date": "2026-05-25T22:11:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "At Charlotte, N.C., Motor Speedway, the Coca-Cola 600 was everything it is supposed to be: horsepower, heat, noise and 600 miles of punishment. It was also remembrance, with each car carrying the name of a fallen service member."
+  },
+  {
+    "id": "a9592591c34d",
+    "title": "On Memorial Day, Commander in Chief, Secretary of War, Honor Nation's Fallen",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4500104/on-memorial-day-commander-in-chief-secretary-of-war-honor-nations-fallen/",
+    "date": "2026-05-25T20:39:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The U.S. will soon mark its semiquincentennial — 250 years as a nation. It's a big milestone, said President Donald J. Trump, but not one that could have been achieved without more than 1 million service members having given their lives to the nation."
+  },
+  {
     "id": "fb0684153a5b",
     "title": "Japan Announces 2 Major Western Pacific Exercises with U.S.",
     "url": "https://news.usni.org/2026/05/25/japan-announces-2-major-western-pacific-exercises-with-u-s",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "The following is the May 4, 2026, Congressional Research Service report The Strait of Hormuz in Brief: Non-Oil Shipments and Effects on U.S. Shippers. From the Report Before U.S. and Israeli military operations began against Iran on February 28, 2026, the average number of ships from various countri"
-  },
-  {
-    "id": "c5e0c91c9749",
-    "title": "‘Trauma Alert’",
-    "url": "https://news.usni.org/2026/05/13/trauma-alert",
-    "date": "2026-05-13T21:05:52Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "RALEIGH, N.C. — Emergency medical technicians rolled a combative 43-year-old woman on a gurney through the brown double doors of the trauma bay at WakeMed-Raleigh Campus. A tourniquet dug into the skin on her left arm as she howled in pain and begged medical staff to stop treating her. Below the tou"
-  },
-  {
-    "id": "917122d9c7bb",
-    "title": "U.K. Pledges Destroyer, Drone-hunting Systems to Strait of Hormuz Mission",
-    "url": "https://news.usni.org/2026/05/13/u-k-pledges-destroyer-drone-hunting-systems-to-strait-of-hormuz-mission",
-    "date": "2026-05-13T19:44:12Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "The U.K. has pledged a force package that includes a destroyer, Typhoon fighter aircraft, autonomous mine hunting systems and unmanned surface vessels to secure freedom of navigation in the Strait of Hormuz after the U.S. and Iran agree to a “sustainable” ceasefire agreement, the U.K. Ministry of De"
   }
 ]
