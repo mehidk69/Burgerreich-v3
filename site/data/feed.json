@@ -1,5 +1,15 @@
 [
   {
+    "id": "cb1fa93c8a29",
+    "title": "Republic of Korea’s Nuclear-powered Submarine Initiative",
+    "url": "https://news.usni.org/2026/05/27/republic-of-koreas-nuclear-powered-submarine-initiative",
+    "date": "2026-05-27T14:21:13Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the Republic of Korea’s Nuclear-powered Submarine Initiative, published May 26, 2026, by the Republic of Korea’s Ministry of National Defense. The Chang Bogo N Project, named after the country’s first submarine, plans to get the first nuclear attack boat in the water by the mid-2030"
+  },
+  {
     "id": "8f2e51a9a9a6",
     "title": "New Top Navy Acquisition Official Named",
     "url": "https://news.usni.org/2026/05/26/new-top-navy-acquisition-official-named",
@@ -13,7 +23,7 @@
     "id": "3d368bdeb536",
     "title": "Coast Guard Commissions 62nd Fast Response Cutter Honoring 9/11 Hero",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4500908/coast-guard-commissions-62nd-fast-response-cutter-honoring-911-hero/",
-    "date": "2026-05-26T21:39:31Z",
+    "date": "2026-05-26T21:39:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -43,7 +53,7 @@
     "id": "e2a861f2a2ca",
     "title": "Pennsylvania Guard Shapes Army's Extended Basic Leader Course",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4500707/pennsylvania-guard-shapes-armys-extended-basic-leader-course/",
-    "date": "2026-05-26T19:19:46Z",
+    "date": "2026-05-26T19:19:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "ground",
@@ -618,16 +628,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": ""
-  },
-  {
-    "id": "4bd19b881fb6",
-    "title": "Middle East Conflict Costs Could Prevent Flow of Sailors to A-Schools, Reenlistment Bonuses Without Supplemental, Says CNO",
-    "url": "https://news.usni.org/2026/05/15/middle-east-conflict-costs-could-prevent-flow-of-sailors-to-a-schools-reenlistment-bonuses-without-supplemental-says-cno",
-    "date": "2026-05-15T21:37:30Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The Navy may have to put up to 15,000 new enlisted accessions on hold without additional funding from a supplemental budget, the Chief of Naval Operations Adm. Daryl Caudle told the House Armed Services Committee Thursday. The ongoing cost of military action in the Middle East means the Navy may not"
   },
   {
     "id": "96f775b4269d",
