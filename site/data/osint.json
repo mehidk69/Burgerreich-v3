@@ -1,5 +1,65 @@
 [
   {
+    "id": "4922df6e0f7d",
+    "title": "North Korea Tests New Lightweight Launch System and Tactical Cruise Missiles",
+    "url": "https://news.usni.org/2026/05/27/north-korea-tests-new-lightweight-launch-system-and-tactical-cruise-missiles",
+    "date": "2026-05-27T19:55:47Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "North Korea test fired a newly-developed lightweight multi-purpose missile launching system and multiple tactical cruise missile weapons systems on Tuesday, state media Korean Central News Agency reported. North Korea’s Missile Administration and the Academy of Defense Science trialled the new missi"
+  },
+  {
+    "id": "00338c2a0adf",
+    "title": "Moody Air Force Base Installs Refueling Probe, Improves Efficiency",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4502026/moody-air-force-base-installs-refueling-probe-improves-efficiency/",
+    "date": "2026-05-27T19:44:11Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Airmen assigned to Moody Air Force Base, Ga., installed the base's first air refueling probe on an A-10C Thunderbolt II subsonic attack aircraft, enhancing its ability to support combat search and rescue and close-air support operations."
+  },
+  {
+    "id": "37e7fe9072de",
+    "title": "Hegseth Praises U.S. Military Efforts to Protect Nigerian Christians From ISIS",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4501996/hegseth-praises-us-military-efforts-to-protect-nigerian-christians-from-isis/",
+    "date": "2026-05-27T18:52:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Secretary of War Pete Hegseth praised recent efforts the U.S. military has made to counter the Islamic State and its ongoing murder of Christians in Nigeria."
+  },
+  {
+    "id": "32780cabde7c",
+    "title": "Sword 26: Cyber Defenders Train in Estonia, Secure Critical Infrastructure",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4501896/sword-26-cyber-defenders-train-in-estonia-secure-critical-infrastructure/",
+    "date": "2026-05-27T18:37:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "U.S. soldiers and National Guard cyber professionals trained with members of the Estonian Defense Forces to defend the networks that modern societies rely on daily during a Sword 26 simulated exercise."
+  },
+  {
+    "id": "1c1e157a7ae0",
+    "title": "Iwo Jima ARG, 22nd MEU are Heading Home After 10 Months",
+    "url": "https://news.usni.org/2026/05/27/iwo-jima-arg-22nd-meu-are-heading-home-after-10-months",
+    "date": "2026-05-27T18:02:32Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "USS Iwo Jima (LHD-7), USS Fort Lauderdale (LPD-28) and the 22nd Marine Expeditionary Unit are heading home after nearly 10 months in U.S. Southern Command, the Marines announced on Wednesday. The Iwo Jima Amphibious Ready Group and the 22nd MEU deployed in August and headed to the Caribbean, where t"
+  },
+  {
+    "id": "351cdbab5453",
+    "title": "Chinese Use Electronic Warfare Attacks on Dutch Warship in South China Sea, Says PLA",
+    "url": "https://news.usni.org/2026/05/27/chinese-use-electronic-warfare-attacks-on-dutch-warship-in-south-china-sea-says-pla",
+    "date": "2026-05-27T15:45:14Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Chinese naval and air forces drove off a Dutch air defense frigate near a disputed archipelago using warnings and electronic interference, Beijing’s South China Sea command said Wednesday. According to the People’s Liberation Army’s Southern Theater Command (PLA STC), the HNLMS De Ruyter (F804) and"
+  },
+  {
     "id": "cb1fa93c8a29",
     "title": "Republic of Korea’s Nuclear-powered Submarine Initiative",
     "url": "https://news.usni.org/2026/05/27/republic-of-koreas-nuclear-powered-submarine-initiative",
@@ -538,65 +598,5 @@
     "cocom": "osint",
     "tag": "posture",
     "summary": "Family and friends gathered on the pier at Naval Station Norfolk, Va., to welcome home the crew of the USNS Kanawha. The fleet replenishment oiler and its 92 civil service mariners returned after a 204-day deployment, including 156 days at sea."
-  },
-  {
-    "id": "be8a0e03b77d",
-    "title": "High-Pressure Field Artillery Creates Bonds Between Soldiers",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4494912/high-pressure-field-artillery-creates-bonds-between-soldiers/",
-    "date": "2026-05-18T17:34:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Behind the massive firepower of field artillery are tight-knit soldiers driven by deep trust and family-like bonds."
-  },
-  {
-    "id": "ee308192a171",
-    "title": "VIDEO: Navy’s Final Freedom-class Littoral Combat Ship Joins the Fleet",
-    "url": "https://news.usni.org/2026/05/18/video-navys-final-freedom-class-littoral-combat-ship-joins-the-fleet",
-    "date": "2026-05-18T15:33:01Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Navy commissioned the final Littoral Combat Ship on Saturday in Cleveland, Ohio, the namesake of the new ship. Freedom-class USS Cleveland (LCS-31) joining the fleet marks the beginning of the end of the Littoral Combat Ships, which will be followed up by a new class of frigates based on the Nat"
-  },
-  {
-    "id": "7c8445b6e12e",
-    "title": "Naval Aviators Safe After EA-18G Growlers Crash at Idaho Air Show",
-    "url": "https://news.usni.org/2026/05/17/naval-aviators-safe-after-ea-18g-growlers-crash-at-idaho-air-show",
-    "date": "2026-05-17T21:03:11Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Four naval aviators are safe after their EA-18G Growlers crashed during the Gunfighter Skies air show at the Mountain Home Air Force Base in Idaho on Sunday. The Growlers were assigned to the “Vikings” of VAQ-129 EA-18G Growler Demo Team out of Naval Air Station Whidbey Island in Washington. The cra"
-  },
-  {
-    "id": "f3924955295e",
-    "title": "Hegseth Welcomes Ford Carrier Strike Group Home After Record-Breaking Deployment",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4494266/hegseth-welcomes-ford-carrier-strike-group-home-after-record-breaking-deployment/",
-    "date": "2026-05-16T21:59:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Secretary of War Pete Hegseth was on hand with his wife, Jennifer, and numerous senior Navy leaders at Naval Station Norfolk, Va., to welcome home sailors assigned to USS Gerald R. Ford Carrier Strike Group after a record-setting, multi-month deployment."
-  },
-  {
-    "id": "eb4c00e16812",
-    "title": "Pentagon Marks Armed Forces Day With Special Flag",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4493962/pentagon-marks-armed-forces-day-with-special-flag/",
-    "date": "2026-05-16T13:03:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The War Department celebrated Armed Forces Day with a newly unveiled America 250 version of the Betsy Ross flag, unfurled over the outside of the Pentagon."
-  },
-  {
-    "id": "6119c40a7532",
-    "title": "USS Gerald R. Ford Comes Home",
-    "url": "https://news.usni.org/2026/05/16/uss-gerald-r-ford-comes-home",
-    "date": "2026-05-16T12:57:25Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": ""
   }
 ]
