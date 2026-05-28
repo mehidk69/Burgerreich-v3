@@ -1,5 +1,25 @@
 [
   {
+    "id": "bf31b543ccb8",
+    "title": "U.K. Mine Countermeasures Mothership Leaves Gibraltar for Potential Strait of Hormuz Mission",
+    "url": "https://news.usni.org/2026/05/28/u-k-mine-countermeasures-mothership-leaves-gibraltar-for-potential-strait-of-hormuz-mission",
+    "date": "2026-05-28T19:18:15Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Royal Navy’s mine countermeasures mothership RFA Lyme Bay (L3007) departed Tuesday from Gibraltar as the U.K. and France prepare to launch a multinational military mission to ensure freedom of navigation through the strait. More than 100 minehunting personnel from the Royal Navy’s diving and thr"
+  },
+  {
+    "id": "d8df77296c66",
+    "title": "South Korean Attack Boat Arrives in Canada Ahead of Submarine Program Decision",
+    "url": "https://news.usni.org/2026/05/28/south-korean-attack-boat-arrives-in-canada-ahead-of-submarine-program-decision",
+    "date": "2026-05-28T15:45:22Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A South Korean attack boat arrived Sunday at Canada&#8217;s Pacific Fleet naval base ahead of Ottawa’s procurement decision for its next class of submarines. The Republic of Korea Navy’s ROKS Dosan Ahn Chang-ho (SS-083) over the weekend pulled into Victoria, Canada, concluding the longest voyage of"
+  },
+  {
     "id": "c2bc3f320ba0",
     "title": "2 Killed in Eastern Pacific Strike on Suspected Narco Boat",
     "url": "https://news.usni.org/2026/05/28/2-killed-in-eastern-pacific-strike-on-suspected-narco-boat-2",
@@ -628,26 +648,6 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "During a visit with the 101st Airborne Division at Fort Campbell, Ky., as part of its \"Week of the Eagles\" celebration, Secretary of War Pete Hegseth administered the oath of enlistment to a handful of screaming eagle soldiers and pinned Purple Heart medals to the chests of nine others."
-  },
-  {
-    "id": "7490a0228c1d",
-    "title": "Marine Rotational Force-Darwin Certified as Special Purpose MAGTF",
-    "url": "https://news.usni.org/2026/05/18/marine-rotational-force-darwin-certified-as-special-purpose-magtf",
-    "date": "2026-05-18T19:41:08Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Marine Rotational Force-Darwin 26 was recently certified as a Special Purpose Marine Air-Ground Task Force, marking the first MRF-D unit to earn the certification since the rotational force was established in 2011. “Being the first rotation of MRF-D to be certified as an SPMAGTF is an incredible sta"
-  },
-  {
-    "id": "9fdaf6f2be09",
-    "title": "USNI News Fleet and Marine Tracker: May 18, 2026",
-    "url": "https://news.usni.org/2026/05/18/usni-news-fleet-and-marine-tracker-may-18-2026",
-    "date": "2026-05-18T18:58:44Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "This post has been updated to adjust the position of USS Nimitz. These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 18, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disa"
   },
   {
     "id": "96f775b4269d",
