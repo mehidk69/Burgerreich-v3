@@ -1,5 +1,25 @@
 [
   {
+    "id": "c2bc3f320ba0",
+    "title": "2 Killed in Eastern Pacific Strike on Suspected Narco Boat",
+    "url": "https://news.usni.org/2026/05/28/2-killed-in-eastern-pacific-strike-on-suspected-narco-boat-2",
+    "date": "2026-05-28T15:01:09Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Two men were killed Wednesday in a strike on a suspected narco boat in the Eastern Pacific, U.S. Southern Command announced. The vessel, allegedly operated by an unidentified designated terrorist organization, is said to have been traveling along known narco-trafficking routes, USSOUTHCOM said. The"
+  },
+  {
+    "id": "b12cdf55bb30",
+    "title": "Personal Property Activity Expands PCS Support Across Joint Force",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4501024/personal-property-activity-expands-pcs-support-across-joint-force/",
+    "date": "2026-05-28T11:56:42Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Now that peak permanent change of station season is underway, the Personal Property Activity is providing tips and operating a 24/7 call center until Sept. 15 to ensure support is available for service members and their families preparing for a PCS."
+  },
+  {
     "id": "4922df6e0f7d",
     "title": "North Korea Tests New Lightweight Launch System and Tactical Cruise Missiles",
     "url": "https://news.usni.org/2026/05/27/north-korea-tests-new-lightweight-launch-system-and-tactical-cruise-missiles",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "This post has been updated to adjust the position of USS Nimitz. These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 18, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disa"
-  },
-  {
-    "id": "58aa79074d3f",
-    "title": "Army Advances Barracks Modernization Efforts to Improve Quality of Life",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4494938/army-advances-barracks-modernization-efforts-to-improve-quality-of-life/",
-    "date": "2026-05-18T18:52:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The Army has accelerated efforts to strengthen quality-of-life investments across installations, showing a long-term commitment to ensuring soldiers live and work in facilities that reflect the professionalism, standards and readiness expectations of the service."
-  },
-  {
-    "id": "d9decbecbd9a",
-    "title": "Fueling the Fight: USNS Kanawha Completes Strategic Deployment",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4494772/fueling-the-fight-usns-kanawha-completes-strategic-deployment/",
-    "date": "2026-05-18T18:11:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "Family and friends gathered on the pier at Naval Station Norfolk, Va., to welcome home the crew of the USNS Kanawha. The fleet replenishment oiler and its 92 civil service mariners returned after a 204-day deployment, including 156 days at sea."
   }
 ]
