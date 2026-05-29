@@ -1,5 +1,15 @@
 [
   {
+    "id": "ef74c9933b6c",
+    "title": "War Department Signs $9.7B Technology Deal With Dell for Microsoft Services",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4502292/war-department-signs-97b-technology-deal-with-dell-for-microsoft-services/",
+    "date": "2026-05-28T21:03:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The War Department signed a $9.7 billion, five-year enterprisewide contract to purchase Microsoft Services, a move expected to save the department an initial $422 million annually."
+  },
+  {
     "id": "bf31b543ccb8",
     "title": "U.K. Mine Countermeasures Mothership Leaves Gibraltar for Potential Strait of Hormuz Mission",
     "url": "https://news.usni.org/2026/05/28/u-k-mine-countermeasures-mothership-leaves-gibraltar-for-potential-strait-of-hormuz-mission",
@@ -638,16 +648,6 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "JIATF 401 awarded a three-year contract with a $500 million ceiling to support enterprisewide counter-unmanned aerial system operations, ensuring that top-tier technologies can be rapidly scaled and sustained in response to evolving threats."
-  },
-  {
-    "id": "369cfa959cfa",
-    "title": "At Fort Campbell, Hegseth Underscores Significance of Purple Hearts, Enlistments",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4495094/at-fort-campbell-hegseth-underscores-significance-of-purple-hearts-enlistments/",
-    "date": "2026-05-18T19:42:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "During a visit with the 101st Airborne Division at Fort Campbell, Ky., as part of its \"Week of the Eagles\" celebration, Secretary of War Pete Hegseth administered the oath of enlistment to a handful of screaming eagle soldiers and pinned Purple Heart medals to the chests of nine others."
   },
   {
     "id": "96f775b4269d",
