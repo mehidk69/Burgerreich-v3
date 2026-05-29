@@ -1,5 +1,35 @@
 [
   {
+    "id": "bccb228abb90",
+    "title": "Specialized Group of 1,300 Marines, Sailors Take Over SOUTHCOM Duties As 22nd MEU Heads Home",
+    "url": "https://news.usni.org/2026/05/29/specialized-group-of-1300-marines-sailors-take-over-southcom-duties-as-22nd-meu-heads-home",
+    "date": "2026-05-29T20:02:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A specialized group of Marines operating in SOUTHCOM will now support Operation Southern Spear, the U.S. campaign to stop maritime drug trafficking, as the 22nd Marine Expeditionary Unit heads home. The 24th Marine Expeditionary Unit will operate as Littoral Combat Force-24, providing a Marine Air-G"
+  },
+  {
+    "id": "7a190d965631",
+    "title": "44th Medical Brigade Integrates Drones Into Medical Resupply Operations",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4503788/44th-medical-brigade-integrates-drones-into-medical-resupply-operations/",
+    "date": "2026-05-29T18:12:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Soldiers assigned to the XVIII Airborne Corps' 44th Medical Brigade are expanding battlefield medical support capabilities by integrating unmanned aircraft systems into medical resupply operations."
+  },
+  {
+    "id": "b8aada224dd7",
+    "title": "USNI News Western Pacific Pulse: May 29, 2026",
+    "url": "https://news.usni.org/2026/05/29/usni-news-western-pacific-pulse-may-29-2026",
+    "date": "2026-05-29T16:53:46Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Singapore The International Institute of Strategic Studies Shangri-La Dialogue began Friday and runs through Sunday at the Shangri-La Hotel in Singapore. The annual summit gathers defens"
+  },
+  {
     "id": "ef74c9933b6c",
     "title": "War Department Signs $9.7B Technology Deal With Dell for Microsoft Services",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4502292/war-department-signs-97b-technology-deal-with-dell-for-microsoft-services/",
@@ -108,6 +138,16 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "U.S. soldiers and National Guard cyber professionals trained with members of the Estonian Defense Forces to defend the networks that modern societies rely on daily during a Sword 26 simulated exercise."
+  },
+  {
+    "id": "5dcca98dd0fa",
+    "title": "Iwo Jima, 22nd MEU are Heading Home After 10 Months",
+    "url": "https://news.usni.org/2026/05/27/iwo-jima-arg-22nd-meu-are-heading-home-after-10-months",
+    "date": "2026-05-27T18:02:32Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Following an earlier version of this post, Joint Task Force Southern Spear announced USS Fort Lauderdale would continue to support Operation Southern Spear. USS Iwo Jima (LHD-7) and the 22nd Marine Expeditionary Unit are heading home after nearly 10 months in U.S. Southern Command, the Marines annou"
   },
   {
     "id": "1c1e157a7ae0",
@@ -608,46 +648,6 @@
     "cocom": "osint",
     "tag": "posture",
     "summary": "The Coast Guard cutter Storis completed a 36-day Bering Sea deployment to test its capabilities and train for high-risk Arctic missions."
-  },
-  {
-    "id": "04b5e91201f5",
-    "title": "Defeating the Swarm: Project Flytrap Accelerates NATO's Counter-Drone Lethality",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4495825/defeating-the-swarm-project-flytrap-accelerates-natos-counter-drone-lethality/",
-    "date": "2026-05-19T16:50:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Project Flytrap 5.0, a U.S. Army V Corps counter-unmanned aerial systems initiative including British partner forces, integrated and tested more than 50 industry-provided technologies to fight and defeat the low-cost drones reshaping the modern battlefield."
-  },
-  {
-    "id": "0f6ed79cfd37",
-    "title": "Balikatan 2026 was Rehearsal for Defense of the Philippines, Paparo Says",
-    "url": "https://news.usni.org/2026/05/19/balikatan-2026-was-rehearsal-for-defense-of-the-philippines-paparo-says",
-    "date": "2026-05-19T15:56:56Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Balikatan 2026 was a rehearsal for the defense of the Philippines amid a “dangerous security environment,” U.S. Indo-Pacific Command chief Adm. Samuel Paparo said at the conclusion of the largest iteration of the drills held to date. “Balikatan 2026 marks a strategic evolution from a bilateral exerc"
-  },
-  {
-    "id": "9685fe4d67b8",
-    "title": "Defense Primer: Hypersonic Boost-Glide Weapons",
-    "url": "https://news.usni.org/2026/05/19/defense-primer-hypersonic-boost-glide-weapons",
-    "date": "2026-05-19T14:29:23Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The following is the May 14, 2026, Congressional Research Service report, Defense Primer: Hypersonic Boost-Glide Weapons. From the Report The U.S. Department of Defense (DOD; currently &#8220;using a secondary Department of War designation&#8221; under Executive Order 14347 dated September 5, 2025)"
-  },
-  {
-    "id": "fafbad6ab51d",
-    "title": "Joint Interagency Task Force 401 Awards $500 Million Counter-UAS Contract",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4495165/joint-interagency-task-force-401-awards-500-million-counter-uas-contract/",
-    "date": "2026-05-18T20:09:38Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "JIATF 401 awarded a three-year contract with a $500 million ceiling to support enterprisewide counter-unmanned aerial system operations, ensuring that top-tier technologies can be rapidly scaled and sustained in response to evolving threats."
   },
   {
     "id": "96f775b4269d",
