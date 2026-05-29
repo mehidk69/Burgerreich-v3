@@ -1,5 +1,25 @@
 [
   {
+    "id": "69daa2a8d26c",
+    "title": "HII, Saronic Included in First MUSV Navy Prototype Tests",
+    "url": "https://news.usni.org/2026/05/29/hii-saronic-included-in-first-musv-navy-prototype-tests",
+    "date": "2026-05-29T21:10:53Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Seven companies have been identified by the Navy as supporting the first round of medium unmanned surface vessel prototyping, the service said on Friday. The announcement of the companies follows Navy acknowledgement of the selection of the first seven designs for the MUSV marketplace, USNI News rep"
+  },
+  {
+    "id": "ff029a0aef60",
+    "title": "Texas Military Department Partners With Civilian Agencies for 2026 SAREX",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4504346/texas-military-department-partners-with-civilian-agencies-for-2026-sarex/",
+    "date": "2026-05-29T20:58:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Texas Military Department participated in the 2026 Search and Rescue Exercise in San Antonio, May 18-21, 2026, marking 12 years of interagency partnership for this effort."
+  },
+  {
     "id": "bccb228abb90",
     "title": "Specialized Group of 1,300 Marines, Sailors Take Over SOUTHCOM Duties As 22nd MEU Heads Home",
     "url": "https://news.usni.org/2026/05/29/specialized-group-of-1300-marines-sailors-take-over-southcom-duties-as-22nd-meu-heads-home",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The Coast Guard and Eastern Shipbuilding are negotiating the end of the Offshore Patrol Cutter program at the Florida shipyard, the service confirmed in a statement to USNI News this week. Eastern Shipbuilding stopped work last year on the first two cutters in the class — Argus (WMSM-915) and Chase"
-  },
-  {
-    "id": "1fcb1b7defe3",
-    "title": "National Defense Strategy Prioritizes America First, Leader Says",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4496022/national-defense-strategy-prioritizes-america-first-leader-says/",
-    "date": "2026-05-19T18:43:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The U.S. will prioritize theaters with the greatest consequence for national interests and where only American power can play a decisive role, said Daniel Zimmerman, assistant secretary of war for international security affairs, who spoke during a hearing before the House Armed Services Committee."
-  },
-  {
-    "id": "428c27585f59",
-    "title": "Coast Guard's Newest Polar Icebreaker Returns Home Following Arctic Deployment",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4495876/coast-guards-newest-polar-icebreaker-returns-home-following-arctic-deployment/",
-    "date": "2026-05-19T17:09:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The Coast Guard cutter Storis completed a 36-day Bering Sea deployment to test its capabilities and train for high-risk Arctic missions."
   }
 ]
