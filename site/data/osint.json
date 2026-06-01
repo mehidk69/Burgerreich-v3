@@ -1,5 +1,15 @@
 [
   {
+    "id": "8102d73c03ab",
+    "title": "U.S. Coast Guard Patrols Near Scarborough Shoal with Philippine Forces Amid Concerns of Potential Chinese Build-Up",
+    "url": "https://news.usni.org/2026/05/31/u-s-coast-guard-patrols-near-scarborough-shoal-with-philippine-forces-amid-concerns-of-potential-chinese-build-up",
+    "date": "2026-05-31T22:04:06Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A U.S.-Philippine patrol near Scarborough Shoal this week amid Manila’s concerns of potential structures placed by Beijing at the South China Sea hotspot. The exercise from May 26 to 30 was the first time a U.S. Coast Guard vessel joined Philippine forces for a maritime cooperative activity. Also kn"
+  },
+  {
     "id": "2b6e13acb5d1",
     "title": "Shangri-La: Hegseth Calls on Western Pacific Allies to Maintain Military Strength, ‘We Need Partners, Not Protectorates’",
     "url": "https://news.usni.org/2026/05/30/shangri-la-hegseth-calls-on-western-pacific-allies-to-maintain-military-strength-we-need-partners-not-protectorates",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "During a panel discussion at the Special Operations Forces Week 2026 convention in Tampa, Fla., a pair of senior SOF leaders discussed how to bring more recruits with science, technology, engineering and mathematics backgrounds into their formations."
-  },
-  {
-    "id": "f40e920e6af5",
-    "title": "Special Ops Convention Convenes Under 'Peace Through Strength' Strategy",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4496381/special-ops-convention-convenes-under-peace-through-strength-strategy/",
-    "date": "2026-05-19T21:56:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "More than 29,000 members of the military's special operations forces community and the public converged in person on Tampa, Fla., and virtually to kick off Special Operations Forces Week 2026."
   }
 ]
