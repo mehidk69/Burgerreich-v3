@@ -3,65 +3,60 @@
     {
       "hull": "CVN-68",
       "status": "deployed",
-      "location": "n the South Atlantic\nRear Adm. Cassidy Norman, commander of Carrier Strike Group 11, delivers remarks during a celebration held to honor the 51st birt"
+      "location": "leting an 11-month deployment,\nUSNI News reported\n.\nIn the South Atlantic\nBrazilian Navy Niterói-class frigate Defensora (F-41) steams in formation al"
     },
     {
       "hull": "CVN-69",
-      "status": "deployed",
-      "location": "Western Atlantic\nAn F/A-18F Super Hornet, attached to the ‘Fighting Swordsmen’ of Strike Fighter Squadron (VFA) 32, lands on the flight deck of Nimitz"
+      "status": "homeport",
+      "location": "val Station Norfolk, May 16, 2026. US Navy photo\nAmphibious assault ship USS\nKearsarge\n(LHD-3) returned Friday to Norfolk, Va.,\naccording to ship spot"
     },
     {
       "hull": "CVN-71",
-      "status": "deployed",
-      "location": "ibious Ready Group includes\nBoxer\n, USS\nComstock\n(LSD-45), USS\nPortland\n(LPD-27\n)\nand the 11th\nMarine Expeditionary Unit\n.\nIn the Eastern Pacific\nNimi"
+      "status": "homeport",
+      "location": "and the 11th\nMarine Expeditionary Unit\n.\nIn the Eastern Pacific\nNavy Aviation Boatswain’s Mate (Handling) 1st Class Matthew Cruz, assigned to the Nimi"
     },
     {
       "hull": "CVN-72",
       "status": "deployed",
-      "location": "ea\nA sailor conducts maintenance on a windscreen on an F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 151, in the hangar bay aboard N"
+      "location": "Red Sea.\nUSS\nThomas Hudner\n(DDG-116), homeported at Naval Station Mayport, Fla.\nIn the Arabian Sea\nSailors replace a .50-caliber machine gun aboard Ni"
     },
     {
       "hull": "CVN-73",
-      "status": "deployed",
-      "location": "ip.\nTotal Battle Force\nDeployed\nUnderway\n291\n(USS 232, USNS 59)\n105\n(USS 74, USNS 31)\n(37 FDNF, 68 Rotational)\n88\n(59 Deployed, 29 Local)\nIn the Phili"
+      "status": "homeport",
+      "location": "Burke-class guided-missile destroyer USS Howard (DDG-83), right, arrives at Shimoda, Japan for the 87th annual Black Ship Festival, May 14, 2026. US N"
     },
     {
       "hull": "CVN-77",
-      "status": "deployed",
-      "location": "n 21\nDestroyer Squadron 21 is based in Naval Station San Diego, Calif., and embarked with\nAbraham Lincoln\n.\nUSS\nSpruance\n(DDG-111), homeported at Nava"
+      "status": "homeport",
+      "location": "r Strike Group 10\nVice Adm. Curt Renshaw, commander of U.S. Naval Forces Central Command and U.S. 5th Fleet, addresses the crew over the 1MC aboard Ni"
     },
     {
       "hull": "CVN-78",
       "status": "deployed",
-      "location": "week.\nBillings\nis based at Naval Station Mayport, Fla.\nIn the Atlantic Ocean\nActing Secretary of the Navy Hung Cao speaks to sailors during an all han"
+      "location": "t ship USS\nMakin Island\n(LHD-8) is underway in the Eastern Pacific\nconducting pre-deployment workups\n.\nIn the Western Atlantic\nAircrew Survival Equipm"
     }
   ],
   "args": [
     {
-      "hull": "LHD-2",
-      "status": "deployed",
-      "location": "flight operations, May 4, 2026. US Navy photo\nAmphibious assault ship USS\nMakin Island\n(LHD-8) departed Friday from San Diego, Calif.,\naccording to sh"
-    },
-    {
       "hull": "LHD-3",
-      "status": "deployed",
-      "location": "men’ of Strike Fighter Squadron (VFA) 32, lands on the flight deck of Nimitz-class aircraft carrier USS Dwight D. Eisenhower (CVN-69) May 6, 2026. US "
+      "status": "homeport",
+      "location": "3rd Class Omar Mora, a USS Gerald R. Ford (CVN-78) sailor, meets his child for the first time on the pier at Naval Station Norfolk, May 16, 2026. US N"
     },
     {
       "hull": "LHD-4",
       "status": "deployed",
-      "location": "40B machine gun during a live-fire range aboard Whidbey Island-class dock landing ship USS Comstock (LSD-45) in the Indian Ocean, May 6, 2026. US Mari"
+      "location": "orted in Sasebo, Japan.\nUSS\nChief\n(MCM-14), homeported in Sasebo.\nIn the Strait of Malacca\nRear Adm. Tom Shultz, commander, Task Force 76, is rung abo"
     },
     {
       "hull": "LHA-7",
       "status": "deployed",
-      "location": "Japan.\nUSS\nTruxtun\n(DDG-103), homeported at Naval Station Norfolk.\nUSS\nCanberra\n(LCS-30), homeported in Manama, Bahrain.\nUSS\nTulsa\n(LCS-16), homeporte"
+      "location": "Station Norfolk.\nUSS\nCanberra\n(LCS-30), homeported in Manama, Bahrain.\nUSS\nTulsa\n(LCS-16), homeported in Manama.\nUSS\nSanta Barbara\n(LCS-32), homeporte"
     },
     {
       "hull": "LHD-8",
-      "status": "homeport",
-      "location": "editionary Unit\n.\nIn the Eastern Pacific\nNimitz-class aircraft carrier USS Theodore Roosevelt (CVN-71) conducts flight operations, May 4, 2026. US Nav"
+      "status": "deployed",
+      "location": "operations, May 5, 2026. US Navy photo\nAircraft carrier USS\nTheodore Roosevelt\n(CVN-71) returned Thursday to San Diego, Calif.,\naccording to ship spot"
     }
   ],
-  "updated": "2026-05-11T16:59:33Z"
+  "updated": "2026-05-18T18:58:44Z"
 }
