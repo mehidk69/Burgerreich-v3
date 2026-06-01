@@ -1,5 +1,15 @@
 [
   {
+    "id": "9ec3c5fba031",
+    "title": "2026 MHS Conference Keynote Speaker Thanks Military Medicine for His Recovery",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4505223/2026-mhs-conference-keynote-speaker-thanks-military-medicine-for-his-recovery/",
+    "date": "2026-06-01T15:42:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Medal of Honor recipient retired Army Capt. Florent Groberg shared his powerful story of combat survival, mental health recovery and leadership at the 2026 Military Health System Conference in Dallas."
+  },
+  {
     "id": "8102d73c03ab",
     "title": "U.S. Coast Guard Patrols Near Scarborough Shoal with Philippine Forces Amid Concerns of Potential Chinese Build-Up",
     "url": "https://news.usni.org/2026/05/31/u-s-coast-guard-patrols-near-scarborough-shoal-with-philippine-forces-amid-concerns-of-potential-chinese-build-up",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "The following is the May 13, 2026, Congressional Research Service report, U.S. Aircraft Combat Losses in Operation Epic Fury: Considerations for Congress. From the Report On February 28, 2026, the United States, in coordination with Israel, initiated military operations against Iran under the design"
-  },
-  {
-    "id": "e3ca9484acc7",
-    "title": "Senior Leaders Discuss Recruiting STEM Candidates Into Special Ops",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4496409/senior-leaders-discuss-recruiting-stem-candidates-into-special-ops/",
-    "date": "2026-05-19T22:28:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "During a panel discussion at the Special Operations Forces Week 2026 convention in Tampa, Fla., a pair of senior SOF leaders discussed how to bring more recruits with science, technology, engineering and mathematics backgrounds into their formations."
   }
 ]
