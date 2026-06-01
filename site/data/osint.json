@@ -1,5 +1,25 @@
 [
   {
+    "id": "715fd717393e",
+    "title": "House Wants the Army to Consider Sea Drones for Watercraft Escort Missions",
+    "url": "https://news.usni.org/2026/06/01/house-wants-the-army-to-consider-sea-drones-for-watercraft-escort-missions",
+    "date": "2026-06-01T20:30:23Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Lawmakers want the Army to examine the use of unmanned surface vessels to escort its watercraft against threats the ground branch may face during contested logistics, according to new legislation. The House Armed Services Committee forwarded the recommendation last Tuesday to the Army to meet concer"
+  },
+  {
+    "id": "5cab6c1c085a",
+    "title": "At Least 200 People Killed in U.S. Strikes on Suspected Drug Boats",
+    "url": "https://news.usni.org/2026/06/01/at-least-200-people-killed-in-u-s-strikes-on-suspected-drug-boats",
+    "date": "2026-06-01T19:54:28Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "At least 200 people have been killed in U.S. strikes on suspected drug boats after forces with Joint Task Force &#8211; Operation Southern Spear hit two boats over the weekend. The U.S. struck two boats in the Eastern Pacific – one on Friday and one on Saturday – killing three men in each strike. Th"
+  },
+  {
     "id": "671f943cff46",
     "title": "U.S. Will Sell 3 In-service Virginia Subs to Australia Instead of 1 New, 2 In-service",
     "url": "https://news.usni.org/2026/06/01/u-s-will-sell-3-in-service-virginia-subs-to-australia-instead-of-1-new-2-in-service",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "Emil G. Michael, undersecretary of defense for research and engineering and War Department chief technology officer, shared his plan to guarantee U.S. troops always have the tools to win before the Senate Armed Services Committee in Washington."
-  },
-  {
-    "id": "ac0b36f56732",
-    "title": "JIATF 401 Drone Defense Marketplace Broadens Allied Access to Counter-Drone Capabilities",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4497147/jiatf-401-drone-defense-marketplace-broadens-allied-access-to-counter-drone-cap/",
-    "date": "2026-05-20T18:32:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Army Secretary Dan Driscoll and key leaders from Australia, Poland and South Korea recently signed agreements enabling each country to procure counter-small UAS technologies through the Joint Interagency Task Force 401 drone defense marketplace."
-  },
-  {
-    "id": "2267809eff75",
-    "title": "Fort Bragg Honors the Fallen During Annual Remembrance Run",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4497078/fort-bragg-honors-the-fallen-during-annual-remembrance-run/",
-    "date": "2026-05-20T16:48:30Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "More than 2,000 soldiers, families and community members came together at Fort Bragg, N.C., for the annual Run, Honor, Remember 5K, an event dedicated to honoring service members who gave their lives in defense of the nation."
   }
 ]
