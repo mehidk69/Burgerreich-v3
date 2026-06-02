@@ -1,5 +1,45 @@
 [
   {
+    "id": "b4ce17b1ec92",
+    "title": "Ankara’s Ambition",
+    "url": "https://news.usni.org/2026/06/02/ankaras-ambition",
+    "date": "2026-06-02T19:57:27Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "DOĞANBEY TRAINING AREA, TURKEY — Two-thousand-pound bombs, artillery shells and naval bombardments sent shockwaves through the valley in Turkey where the Aegean Army focused its firepower last month. Every explosion captured the attention of Turkish Armed Forces commanders, international observers a"
+  },
+  {
+    "id": "30de1fdf4bd9",
+    "title": "Joint Task Force Southern Border Holds Transfer of Authority",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4506508/joint-task-force-southern-border-holds-transfer-of-authority/",
+    "date": "2026-06-02T16:28:30Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The 101st Airborne Division transferred authority of the Joint Task Force Southern Border mission to the 1st Armored Division during a ceremony at Fort Huachuca, Ariz."
+  },
+  {
+    "id": "b49d5cb5ed77",
+    "title": "Chinese Carrier Strike Group Conducts 170 Sorties During Drills in Philippine Sea",
+    "url": "https://news.usni.org/2026/06/02/chinese-carrier-strike-group-conducts-170-sorties-during-drills-in-philippine-sea",
+    "date": "2026-06-02T16:00:00Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The People’s Liberation Army Navy (PLAN) Liaoning Carrier Strike Group has conducted 170 sorties in the past week as the group trains in the Philippine Sea east of Luzon while shadowed by the Japan Maritime Self-Defense Force. Embarked fighter aircraft and helicopters were observed doing 80 take off"
+  },
+  {
+    "id": "345ea8afe60d",
+    "title": "Philippine, U.S. Forces Conduct Maritime Cooperative Activity",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4506406/philippine-us-forces-conduct-maritime-cooperative-activity/",
+    "date": "2026-06-02T15:43:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. Coast Guard and the Armed Forces of the Philippines partnered for a joint maritime exercise to strengthen regional cooperation and support a free and open Indo-Pacific."
+  },
+  {
     "id": "c3c782c3d0c6",
     "title": "Report to Congress on U.S. Foreign Policy in the Western Hemisphere",
     "url": "https://news.usni.org/2026/06/02/report-to-congress-on-u-s-foreign-policy-in-the-western-hemisphere",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "Soldiers assigned to the 10th Mountain Division can once again wear the division's historic crossed ski insignia on their Army Green Service Uniform garrison caps, restoring a visual link to the unit's World War II roots and reinforcing the alpine spirit that resonates across the formation."
-  },
-  {
-    "id": "3e42e876c941",
-    "title": "GAO Report on Suicide Prevention Across the Defense Department",
-    "url": "https://news.usni.org/2026/05/21/gao-report-on-suicide-prevention-across-the-defense-department",
-    "date": "2026-05-21T13:49:50Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The following is the May 20, 2026, Government Accountability Office report, Suicide Prevention: DOD Should Improve Monitoring and Assessment of Training. From the Report What GAO Found The Department of Defense’s (DOD) Defense Suicide Prevention Office (DSPO) is responsible for suicide prevention ef"
-  },
-  {
-    "id": "2602837c2aa8",
-    "title": "Retired Combat Vet Rejoins Marine Corps",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4497776/retired-combat-vet-rejoins-marine-corps/",
-    "date": "2026-05-20T23:39:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "Marine Corps Staff Sgt. Johnny \"Joey\" Jones reenlisted in the Marine Corps Reserve at the Pentagon, 14 years after being medically retired following the loss of both legs in a 2010 Afghanistan combat deployment."
-  },
-  {
-    "id": "4496aa12abb7",
-    "title": "Senior DOW Tech Official Says Department AI Use Up 1,775% in Past Year",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4497743/senior-dow-tech-official-says-department-ai-use-up-1775-in-past-year/",
-    "date": "2026-05-20T22:27:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Emil Michael, undersecretary of war for research and engineering and War Department chief technology officer, said that use of artificial intelligence across the department is up by roughly 1.42 million users over the past calendar year."
-  },
-  {
-    "id": "203735a6952b",
-    "title": "Senior Special Ops Leaders Discuss Value of Partnerships, Alliances",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4497576/senior-special-ops-leaders-discuss-value-of-partnerships-alliances/",
-    "date": "2026-05-20T20:55:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Senior military special operations forces leaders from the U.S., Sweden and the Philippines participated in a panel about the importance of partnerships and alliances, as part of Special Operations Forces Week 2026 in Tampa, Fla."
   }
 ]
