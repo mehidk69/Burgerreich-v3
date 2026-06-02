@@ -1,5 +1,15 @@
 [
   {
+    "id": "c3c782c3d0c6",
+    "title": "Report to Congress on U.S. Foreign Policy in the Western Hemisphere",
+    "url": "https://news.usni.org/2026/06/02/report-to-congress-on-u-s-foreign-policy-in-the-western-hemisphere",
+    "date": "2026-06-02T13:40:58Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the May 26, 2026, Congressional Research Service report, U.S. Foreign Policy in the Western Hemisphere: Issues for Congress. From the Report Summary Historically, many U.S. policymakers have regarded the Western Hemisphere as a U.S. sphere of influence, vital to U.S. interests, or b"
+  },
+  {
     "id": "9ebdb3764cb8",
     "title": "Walter Reed, Other Military Hospitals Get 'A' Grade for Patient Care",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4505921/walter-reed-other-military-hospitals-get-a-grade-for-patient-care/",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Senior military special operations forces leaders from the U.S., Sweden and the Philippines participated in a panel about the importance of partnerships and alliances, as part of Special Operations Forces Week 2026 in Tampa, Fla."
-  },
-  {
-    "id": "229251f24d20",
-    "title": "U.S. Wants to Construct Philippine Coast Guard Maintenance Facility, Repair Fuel Depot in Palawan",
-    "url": "https://news.usni.org/2026/05/20/u-s-wants-to-construct-philippine-coast-guard-maintenance-facility-repair-fuel-depot-in-palawan",
-    "date": "2026-05-20T19:04:48Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Washington is seeking funding to construct a Coast Guard maintenance center and refurbish a joint airfield fuel depot that could bolster Philippine security infrastructure near the South China Sea, according to recent documents. The Pentagon released notices within the last month for upcoming projec"
   }
 ]
