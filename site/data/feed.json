@@ -1,5 +1,15 @@
 [
   {
+    "id": "ac03a94d0cfd",
+    "title": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs",
+    "url": "https://news.usni.org/2026/06/03/report-to-congress-on-north-koreas-nuclear-weapons-and-missile-programs-4",
+    "date": "2026-06-03T17:38:06Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the May 29, 2026, Congressional Research Service report, North Korea’s Nuclear Weapons and Missile Programs. From the Report Over the past decade, the Democratic People&#8217;s Republic of Korea (DPRK, or North Korea) has advanced its nuclear weapons and ballistic missile programs,"
+  },
+  {
     "id": "82eaccaacf8f",
     "title": "French Navy Seizes Sanctioned Russian Tanker, 4th Since September",
     "url": "https://news.usni.org/2026/06/03/french-navy-seizes-sanctioned-russian-tanker-4th-since-september",
@@ -33,7 +43,7 @@
     "id": "2de2a14e2ea8",
     "title": "Joint Interagency Task Force 401 Conducts Multicommand Counter-UAS Qualification",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4507000/joint-interagency-task-force-401-conducts-multicommand-counter-uas-qualification/",
-    "date": "2026-06-03T11:34:59Z",
+    "date": "2026-06-03T11:34:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -608,16 +618,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Spreading the construction of the Trump-class battleship across several different manufacturing locations is key to the Navy’s current plan to build the almost three-football-field-long warship, a service official said this week. The service is betting on modular construction across the country to c"
-  },
-  {
-    "id": "24ca13cee13d",
-    "title": "Special Ops Conference Discusses Optimizing Human Performance",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4498839/special-ops-conference-discusses-optimizing-human-performance/",
-    "date": "2026-05-21T20:48:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "During the Special Operations Forces Week convention, experts stressed that early health checks, artificial intelligence tracking and family support are vital to protect operators before problems worsen."
   },
   {
     "id": "a48977378ce9",
