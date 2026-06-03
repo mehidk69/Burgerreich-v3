@@ -1,5 +1,45 @@
 [
   {
+    "id": "82eaccaacf8f",
+    "title": "French Navy Seizes Sanctioned Russian Tanker, 4th Since September",
+    "url": "https://news.usni.org/2026/06/03/french-navy-seizes-sanctioned-russian-tanker-4th-since-september",
+    "date": "2026-06-03T16:02:00Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The French Navy seized sanctioned tanker MT Tagor on Sunday while it operated in the Atlantic, marking the service’s fourth shadow fleet seizure since September. The tanker was seized on suspicion of flying a false Cameroonian flag and diverted to France, arriving Tuesday in Douarnenez Bay where the"
+  },
+  {
+    "id": "df683e47de7b",
+    "title": "Navy Forecasters Keep Typhoon Watch Around the Clock",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4507331/navy-forecasters-keep-typhoon-watch-around-the-clock/",
+    "date": "2026-06-03T14:08:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Naval Oceanography Antisubmarine Warfare Center in Yokosuka, Japan, provides around-the-clock weather tracking and forecasting to protect Navy ships and military communities from unpredictable Pacific typhoons."
+  },
+  {
+    "id": "34c5d250025a",
+    "title": "Wrenches to Wings: The Artisan Hands Behind Every Test Flight",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4507298/wrenches-to-wings-the-artisan-hands-behind-every-test-flight/",
+    "date": "2026-06-03T13:41:40Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The 10th Flight Test Squadron pilots test newly rebuilt, non-airworthy aircraft to ensure they are battle-ready before returning them to active service."
+  },
+  {
+    "id": "2de2a14e2ea8",
+    "title": "Joint Interagency Task Force 401 Conducts Multicommand Counter-UAS Qualification",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4507000/joint-interagency-task-force-401-conducts-multicommand-counter-uas-qualification/",
+    "date": "2026-06-03T11:34:59Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Airmen participated in a counter-small unmanned aircraft systems firing qualification in partnership with Joint Interagency Task Force 401 at Camp Guernsey Joint Training Center, Wyo."
+  },
+  {
     "id": "b4ce17b1ec92",
     "title": "Ankara’s Ambition",
     "url": "https://news.usni.org/2026/06/02/ankaras-ambition",
@@ -578,46 +618,6 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "During the Special Operations Forces Week convention, experts stressed that early health checks, artificial intelligence tracking and family support are vital to protect operators before problems worsen."
-  },
-  {
-    "id": "f4afd5126c6e",
-    "title": "Air Boss Orders Flight Demo Team Safety Stand Down Following Growler Crash",
-    "url": "https://news.usni.org/2026/05/21/air-boss-orders-flight-demo-team-safety-stand-down-following-growler-crash",
-    "date": "2026-05-21T20:36:43Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.S. Naval Air Forces issued a safety stand down for four tactical aviation teams following a crash between two EA-18G Growlers at an air show over the weekend. All four Naval aviators ejected from the two aircraft, assigned to the “Vikings” of VAQ-129 EA-18G Growler Demo Team out of Naval Air Stati"
-  },
-  {
-    "id": "72aa68a76d2e",
-    "title": "Russian Surveillance Ship Spotted Near NATO Sub Drills",
-    "url": "https://news.usni.org/2026/05/21/russian-surveillance-ship-spotted-near-nato-sub-drills",
-    "date": "2026-05-21T18:11:27Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A Russian surveillance ship was loitering near an ongoing NATO submarine warfare exercise in the Norwegian Sea, NATO’s Maritime Command said Thursday. Portuguese Navy frigate NRP Dom Francisco de Almeida (F334) and a Royal Navy Merlin Mk 2 helicopter from aircraft carrier HMS Prince of Wales (R09) s"
-  },
-  {
-    "id": "b136c5975396",
-    "title": "Give Them Wings, Teach Them to Fly: The Making of a Phoenix Raven",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4498253/give-them-wings-teach-them-to-fly-the-making-of-a-phoenix-raven/",
-    "date": "2026-05-21T16:45:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Airmen must push through a demanding 28-day qualification course to become one of the Phoenix Ravens, a force tasked with safeguarding aircraft, personnel and critical assets in austere locations where threats may be elevated or unpredictable."
-  },
-  {
-    "id": "4dbca38ae384",
-    "title": "Symbol of Grit Returns, 10th Mountain Division to Wear Crossed Ski Insignia",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4498256/symbol-of-grit-returns-10th-mountain-division-to-wear-crossed-ski-insignia/",
-    "date": "2026-05-21T16:42:12Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Soldiers assigned to the 10th Mountain Division can once again wear the division's historic crossed ski insignia on their Army Green Service Uniform garrison caps, restoring a visual link to the unit's World War II roots and reinforcing the alpine spirit that resonates across the formation."
   },
   {
     "id": "a48977378ce9",
