@@ -1,5 +1,55 @@
 [
   {
+    "id": "3c4fe72fde95",
+    "title": "Two Men Killed in Strike On Suspected Drug Boat, First in June",
+    "url": "https://news.usni.org/2026/06/04/two-men-killed-in-strike-on-suspected-drug-boat-first-in-june",
+    "date": "2026-06-04T18:37:30Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "U.S. forces with Joint Task Force-Southern Spear conducted the first strike on a suspected drug boat in June, killing two men on board. The Wednesday strike, ordered by U.S. Southern Command Commander Gen. Francis Donovan, was on a vessel in the Eastern Pacific allegedly carrying illicit narcotics."
+  },
+  {
+    "id": "039b7c89a776",
+    "title": "Exercise Red Flag-Alaska Launches Multinational Air Combat Training",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4508737/exercise-red-flag-alaska-launches-multinational-air-combat-training/",
+    "date": "2026-06-04T16:45:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Exercise Red Flag-Alaska 26-2 brought together more than 2,100 service members from the U.S. and partner nations for realistic air combat training at Eielson Air Force Base and Joint Base Elmendorf-Richardson, Alaska."
+  },
+  {
+    "id": "fdcf6449b2cc",
+    "title": "Leaders of U.S. Navy’s Ship Maintenance Facility in Japan Removed from Command",
+    "url": "https://news.usni.org/2026/06/04/leaders-of-u-s-navys-ship-maintenance-facility-in-japan-removed-from-command",
+    "date": "2026-06-04T16:44:16Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The leadership of the Navy’s primary ship maintenance facility in Japan was removed from command this week, the service announced Wednesday. U.S. Naval Ship Repair Facility and Japan Regional Maintenance Center (SRF-JRMC) commander Capt. Wendel Penetrante, executive officer Capt. Edwin Catubig and M"
+  },
+  {
+    "id": "f4ef0266b545",
+    "title": "Marine Expeditionary Unit Concludes 10-Month Southcom Deployment",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4508722/marine-expeditionary-unit-concludes-10-month-southcom-deployment/",
+    "date": "2026-06-04T16:23:13Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Marines and sailors assigned to the 22nd Marine Expeditionary Unit returned to Camp Lejeune, N.C., after a 10-month U.S. Southern Command deployment."
+  },
+  {
+    "id": "d6339173e250",
+    "title": "Task Force Ashland Returns to California from 4-month Indo-Pacific Deployment",
+    "url": "https://news.usni.org/2026/06/04/task-force-ashland-returns-to-california-from-4-month-indo-pacific-deployment",
+    "date": "2026-06-04T15:50:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Specialized Marine Air-Ground Task Force Ashland recently completed a four-month deployment to the Indo-Pacific, returning to California in the past week. The Marine Corps element of TF Ashland returned Friday to Camp Pendleton, disembarking from amphibious dock landing ship USS Ashland (LSD-48). Th"
+  },
+  {
     "id": "f7da184c00ba",
     "title": "Navy Pilot Programs Aim to Expand Sailor Food Options At Galleys",
     "url": "https://news.usni.org/2026/06/03/navy-pilot-programs-aim-to-expand-sailor-food-options-at-galleys",
@@ -570,56 +620,6 @@
     "summary": "Russia is expanding its oil business while the traffic through the Strait of Hormuz is still slow, analysts said this week. Moscow’s crude oil exports have increased since March as the U.S. waived some sanctions on Russian crude in floating storage until June, Lloyd’s List editor-in-chief Richard Me"
   },
   {
-    "id": "b0c7c25fee01",
-    "title": "Russian Crude Exports Increase as Other Strait of Hormuz Transits Remain Low",
-    "url": "https://news.usni.org/2026/05/22/russian-crude-exports-increase-as-other-strait-of-hormuz-transits-remain-low",
-    "date": "2026-05-22T21:08:06Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Russia is expanding its oil business while the traffic through the Strait of Hormuz is still slow, analysts said this week. Moscow’s crude oil exports have increased since March as the U.S. waived some sanctions on Russian crude in floating storage until June, Lloyd’s List editor-in-chief Richard Me"
-  },
-  {
-    "id": "a08af5d2483a",
-    "title": "USNI News Western Pacific Pulse: May 22, 2026",
-    "url": "https://news.usni.org/2026/05/22/usni-news-western-pacific-pulse-may-22-2026",
-    "date": "2026-05-22T19:14:51Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Western Pacific The People’s Liberation Army Navy Liaoning Carrier Strike Group led by aircraft carrier CNS Liaoning (16) is in an unspecified part of the Western Pacific. The carrier strike g"
-  },
-  {
-    "id": "3f7e279f79ee",
-    "title": "For Old Guard Soldiers, 'Flags In' Is a Personal Mission",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4499458/for-old-guard-soldiers-flags-in-is-a-personal-mission/",
-    "date": "2026-05-22T15:59:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Soldiers assigned to the 3rd U.S. Infantry Regiment honored America's fallen heroes ahead of Memorial Day by placing a U.S. flag in front of each headstone and columbarium column at Arlington National Cemetery and at the United States Soldiers' and Airmen's Home National Cemetery."
-  },
-  {
-    "id": "dae36ff3f243",
-    "title": "Report to Congress on U.S. Extended Deterrence and Regional Nuclear Capabilities",
-    "url": "https://news.usni.org/2026/05/22/report-to-congress-on-u-s-extended-deterrence-and-regional-nuclear-capabilities",
-    "date": "2026-05-22T14:16:31Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The following is the May 21, 2026, Congressional Research Service report, U.S. Extended Deterrence and Regional Nuclear Capabilities. From the report One of the stated goals of U.S. nuclear weapons policy has been to extend deterrence to over 30 U.S. &#8220;allies and partners&#8221; and assure thes"
-  },
-  {
-    "id": "ee16fe97acc8",
-    "title": "War Department's 'Patriot Pipeline' Flows Talent to Arsenal of Freedom",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4499103/war-departments-patriot-pipeline-flows-talent-to-arsenal-of-freedom/",
-    "date": "2026-05-21T22:55:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "While testifying before the Senate Armed Services Committee's personnel subcommittee, Anthony J. Tata, the undersecretary of war for personnel and readiness, said the department has established Project Patriot Pipeline, an initiative to unify dozens of training and workforce development programs."
-  },
-  {
     "id": "a48977378ce9",
     "title": "Police Week Ruck",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4496946/police-week-ruck/",
@@ -633,7 +633,7 @@
     "id": "66c51f40bd16",
     "title": "D-M team competes in first-ever FM innovation contest finals",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4496495/d-m-team-competes-in-first-ever-fm-innovation-contest-finals/",
-    "date": "2026-05-19T23:05:53Z",
+    "date": "2026-05-20T02:05:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
@@ -663,7 +663,7 @@
     "id": "c6ebe423a253",
     "title": "Mosaic Lightning 26-2",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4485615/mosaic-lightning-26-2/",
-    "date": "2026-05-14T01:46:00Z",
+    "date": "2026-05-14T04:46:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
