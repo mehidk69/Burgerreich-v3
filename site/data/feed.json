@@ -1,5 +1,25 @@
 [
   {
+    "id": "f7da184c00ba",
+    "title": "Navy Pilot Programs Aim to Expand Sailor Food Options At Galleys",
+    "url": "https://news.usni.org/2026/06/03/navy-pilot-programs-aim-to-expand-sailor-food-options-at-galleys",
+    "date": "2026-06-03T21:48:22Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Sailors stationed at Naval Base Kitsap, Wash., and Naval Construction Battalion Center Gulfport, Miss., will now have access to a wider variety of food options as part of the Navy’s efforts to improve sailor quality of life. Two food-centered pilot programs under the Navy Installations Command (CNIC"
+  },
+  {
+    "id": "f41e30c7cb26",
+    "title": "Philippines Progresses Japanese Destroyer Transfer Talks, Receives American Cutter at Shangri-La",
+    "url": "https://news.usni.org/2026/06/03/philippines-progresses-japanese-destroyer-transfer-talks-receives-american-cutter-at-shangri-la",
+    "date": "2026-06-03T21:14:47Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Philippines is set to receive transfers of American and Japanese vessels to bolster its Coast Guard and Navy fleets operating in the South China Sea. American and Japanese defense officials pledged to reinforce Manila’s fleet with recently and soon-to-be decommissioned vessels over the weekend f"
+  },
+  {
     "id": "ac03a94d0cfd",
     "title": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs",
     "url": "https://news.usni.org/2026/06/03/report-to-congress-on-north-koreas-nuclear-weapons-and-missile-programs-4",
@@ -600,26 +620,6 @@
     "summary": "While testifying before the Senate Armed Services Committee's personnel subcommittee, Anthony J. Tata, the undersecretary of war for personnel and readiness, said the department has established Project Patriot Pipeline, an initiative to unify dozens of training and workforce development programs."
   },
   {
-    "id": "f1df6397b34a",
-    "title": "Top Special Ops Civilian Recounts Successes, Lays Out Vision for Future",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4499105/top-special-ops-civilian-recounts-successes-lays-out-vision-for-future/",
-    "date": "2026-05-21T22:48:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Derrick Anderson, assistant secretary of war for special operations and low-intensity conflict, closed out the Special Operations Forces Week 2026 convention by underscoring the SOF community's recent successes and articulating his plan to prioritize five areas."
-  },
-  {
-    "id": "4a92e38f66e1",
-    "title": "Modular Construction Key to Battleship Effort, Navy Official Says",
-    "url": "https://news.usni.org/2026/05/21/modular-construction-key-to-battleship-effort-navy-official-says",
-    "date": "2026-05-21T21:10:03Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Spreading the construction of the Trump-class battleship across several different manufacturing locations is key to the Navy’s current plan to build the almost three-football-field-long warship, a service official said this week. The service is betting on modular construction across the country to c"
-  },
-  {
     "id": "a48977378ce9",
     "title": "Police Week Ruck",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4496946/police-week-ruck/",
@@ -653,7 +653,7 @@
     "id": "96f775b4269d",
     "title": "Col. Redmond Fini Flight",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4487544/col-redmond-fini-flight/",
-    "date": "2026-05-14T21:01:06Z",
+    "date": "2026-05-14T21:01:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
