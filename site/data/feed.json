@@ -1,5 +1,35 @@
 [
   {
+    "id": "a7d8a5d437f9",
+    "title": "Ottawa Wants Future Canadian Army HIMARS to Deploy Long-range Anti-ship Missiles",
+    "url": "https://news.usni.org/2026/06/05/ottawa-wants-future-canadian-army-himars-to-deploy-long-range-anti-ship-missiles",
+    "date": "2026-06-05T19:22:23Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Ottawa announced plans to procure over two dozen American missile launchers within four years to support the Canadian Army’s long-range strike and anti-shipping requirements. Procured to address “global security situations,” the $1.8 billion Long-range Precision Strike Land project will include muni"
+  },
+  {
+    "id": "edc3a948501e",
+    "title": "Washington National Guard Builds Counter-UAS Partnerships Ahead of World Cup 2026",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4509924/washington-national-guard-builds-counter-uas-partnerships-ahead-of-world-cup-20/",
+    "date": "2026-06-05T17:36:33Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "As unmanned aerial systems continue to evolve from recreational tools into potential threats to public safety, critical infrastructure and major public events, the Washington National Guard is positioning itself at the forefront of counter-UAS training and readiness."
+  },
+  {
+    "id": "5127e9a6f8a3",
+    "title": "Maine Air National Guard Surges Support for Operation Epic Fury",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4509935/maine-air-national-guard-surges-support-for-operation-epic-fury/",
+    "date": "2026-06-05T17:07:12Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Air Transportation Function airmen assigned to the Maine Air National Guard's 101st Air Refueling Wing helped move more than 747,000 pounds of cargo and 312 passengers since the start of Operation Epic Fury."
+  },
+  {
     "id": "de95c4c3a577",
     "title": "Explosive Ordnance Disposal conducts field training exercise",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4509257/explosive-ordnance-disposal-conducts-field-training-exercise/",
@@ -598,36 +628,6 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "The U.S. and Japan will hold two exercises in Japan in late June, Resolute Dragon 26 and the Japan segment of Valiant Shield 2026, according to releases by the Japanese military on Friday. Valiant Shield see the deployment of the containerized Typhon missile system in Japan and in contrast to last y"
-  },
-  {
-    "id": "83b2c91395b1",
-    "title": "Report to Congress on China’s Nuclear and Missile Proliferation",
-    "url": "https://news.usni.org/2026/05/25/report-to-congress-on-chinas-nuclear-and-missile-proliferation-2",
-    "date": "2026-05-25T10:44:07Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The following is the May 19, 2026, Congressional Research Service in focus report, China: Nuclear and Missile Proliferation. From the Report The U.S. government for decades has expressed concerns about China&#8217;s proliferation of nuclear- and missile-related technologies to other countries, with"
-  },
-  {
-    "id": "05f1eb147870",
-    "title": "Hegseth Tells West Point Cadets They Are Ready to Lead",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4499909/hegseth-tells-west-point-cadets-they-are-ready-to-lead/",
-    "date": "2026-05-23T19:22:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Speaking at Michie Stadium in West Point, N.Y., Secretary of War Pete Hegseth assured the 2026 U.S. Military Academy graduates that they have both his and the president's trust."
-  },
-  {
-    "id": "44608b5a06dc",
-    "title": "Navy Selects 7 MUSV Designs to Enter Prototype Phase",
-    "url": "https://news.usni.org/2026/05/22/navy-selects-7-musv-designs-to-enter-prototype-phase",
-    "date": "2026-05-22T21:13:00Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Seven designs have been tapped by the Navy to develop medium unmanned surface vessel prototypes as part of the sea service’s foray into robotic systems, USNI News has learned. Out of about two dozen options submitted for the MUSV marketplace, the unspecified shipbuilders will develop vessels that wi"
   },
   {
     "id": "a48977378ce9",
