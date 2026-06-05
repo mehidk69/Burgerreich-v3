@@ -1,5 +1,25 @@
 [
   {
+    "id": "de95c4c3a577",
+    "title": "Explosive Ordnance Disposal conducts field training exercise",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4509257/explosive-ordnance-disposal-conducts-field-training-exercise/",
+    "date": "2026-06-04T21:33:13Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "Physically demanding scenarios helped EOD Airmen build the endurance, teamwork, and decision-making skills necessary to execute missions and recover personnel under challenging conditions.<br />\n<img alt=\"Explosive Ordnance Disposal field training exercise\" src=\"https://media.defense.gov/2026/Jun/04"
+  },
+  {
+    "id": "cfd31517bac6",
+    "title": "House Authorizers Adopt Amendment for Navy Battleship Study",
+    "url": "https://news.usni.org/2026/06/04/house-authorizers-adopt-amendment-for-navy-battleship-study",
+    "date": "2026-06-04T20:48:26Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "House authorizers want a Navy study that assesses how pursuing the nuclear-powered Trump-class battleship program could affect the shipbuilding and nuclear industrial base. The House Armed Services Committee adopted an amendment from Rep. Joe Courtney (D-Conn.) that would require both the Secretary"
+  },
+  {
     "id": "3c4fe72fde95",
     "title": "Two Men Killed in Strike On Suspected Drug Boat, First in June",
     "url": "https://news.usni.org/2026/06/04/two-men-killed-in-strike-on-suspected-drug-boat-first-in-june",
@@ -608,16 +628,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Seven designs have been tapped by the Navy to develop medium unmanned surface vessel prototypes as part of the sea service’s foray into robotic systems, USNI News has learned. Out of about two dozen options submitted for the MUSV marketplace, the unspecified shipbuilders will develop vessels that wi"
-  },
-  {
-    "id": "731519c89cef",
-    "title": "Russian Crude Exports Increase as Strait of Hormuz Transits Remain Low",
-    "url": "https://news.usni.org/2026/05/22/russian-crude-exports-increase-as-other-strait-of-hormuz-transits-remain-low",
-    "date": "2026-05-22T21:08:06Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Russia is expanding its oil business while the traffic through the Strait of Hormuz is still slow, analysts said this week. Moscow’s crude oil exports have increased since March as the U.S. waived some sanctions on Russian crude in floating storage until June, Lloyd’s List editor-in-chief Richard Me"
   },
   {
     "id": "a48977378ce9",
@@ -1488,15 +1498,5 @@
     "cocom": "centcom",
     "tag": "posture",
     "summary": "The 355th Wing launched a welcome basket initiative to provide essential household items to incoming dorm Airmen, helping them settle into their rooms and feel welcomed upon arrival to their first duty station.<br />\n<img alt=\"Welcome Basket Initiative\" src=\"https://media.defense.gov/2026/Mar/17/200"
-  },
-  {
-    "id": "cef19d598de0",
-    "title": "Pharmacy services relocate to BX during Davis-Monthan clinic renovation",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4434818/pharmacy-services-relocate-to-bx-during-davis-monthan-clinic-renovation/",
-    "date": "2026-03-13T21:46:44Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "posture",
-    "summary": "DAVIS-MONTHAN AIR FORCE BASE, Ariz. – Due to an ongoing renovation project, the 355th Medical Group’s main pharmacy, located at the clinic at Davis-Monthan Air Force Base, Arizona, was closed March 2, 2026, with all services now offered exclusively at the satellite campus inside the Base Exchange.<b"
   }
 ]
