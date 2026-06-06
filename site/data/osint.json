@@ -1,5 +1,15 @@
 [
   {
+    "id": "28c3439f906f",
+    "title": "Hegseth Commemorates 82nd Anniversary of WWII Allied Invasion at Normandy",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4510064/hegseth-commemorates-82nd-anniversary-of-wwii-allied-invasion-at-normandy/",
+    "date": "2026-06-06T12:06:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Secretary of War Pete Hegseth traveled to the Normandy American Cemetery in France for the second consecutive year, where he delivered remarks honoring the approximately 160,000 Allied troops — 73,000 of them Americans — who landed at Normandy on June 6, 1944."
+  },
+  {
     "id": "15e1a5355641",
     "title": "U.S. Forces Interdict Ship Connected to Iran in Indian Ocean, Iranian Oil Exports See Decrease",
     "url": "https://news.usni.org/2026/06/05/u-s-forces-interdict-ship-connected-to-iran-in-indian-ocean-iranian-oil-exports-see-decrease",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "South Korea will build a new class of nuclear-powered attack boats to counter North Korea’s growing missile submarine threat, Seoul announced Tuesday. The nuclear submarines “will be developed and constructed entirely within the Republic of Korea,” reads a Ministry of National Defense document publi"
-  },
-  {
-    "id": "6a7ef482e88b",
-    "title": "Gold Star Spouse Turns Grief Into Advocacy",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4500140/gold-star-spouse-turns-grief-into-advocacy/",
-    "date": "2026-05-25T22:11:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "At Charlotte, N.C., Motor Speedway, the Coca-Cola 600 was everything it is supposed to be: horsepower, heat, noise and 600 miles of punishment. It was also remembrance, with each car carrying the name of a fallen service member."
   }
 ]
