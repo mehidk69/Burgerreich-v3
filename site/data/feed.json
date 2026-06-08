@@ -1,5 +1,35 @@
 [
   {
+    "id": "c4eb5b39881f",
+    "title": "104th Fighter Wing Strengthens Regional Medical Readiness With Multiday Emergency Decontamination Course",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4511269/104th-fighter-wing-strengthens-regional-medical-readiness-with-multiday-emergen/",
+    "date": "2026-06-08T17:51:26Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The Massachusetts National Guard's 104th Fighter Wing Medical Group enhanced regional medical readiness by hosting the Air Combat Command Emergency Decontamination Course at Barnes Air National Guard Base, the first time the Air National Guard has hosted a remote training team for the course."
+  },
+  {
+    "id": "b319618cddf6",
+    "title": "USNI News Fleet and Marine Tracker: June 8, 2026",
+    "url": "https://news.usni.org/2026/06/08/usni-news-fleet-and-marine-tracker-june-8-2026",
+    "date": "2026-06-08T17:48:30Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 8, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
+  },
+  {
+    "id": "3075b5e4e54e",
+    "title": "UPDATED: Navy IDs Sailor Killed in Saturday Shooting Aboard Carrier JFK",
+    "url": "https://news.usni.org/2026/06/08/sailor-dead-after-shooting-board-carrier-jfk-one-sailor-in-custody",
+    "date": "2026-06-08T15:56:28Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "This post has been identified with the sailor who died on Saturday. One sailor is dead and a second sailor is in pre-trial confinement after an early morning Saturday shooting aboard carrier John F. Kennedy (CVN-79), USNI News has learned. Boatswain’s Mate Seaman Jesse Braswell of Colorado was kille"
+  },
+  {
     "id": "24172a4000f8",
     "title": "Sailor Dead After Shooting Aboard Carrier JFK, One Sailor in Custody",
     "url": "https://news.usni.org/2026/06/08/sailor-dead-after-shooting-board-carrier-jfk-one-sailor-in-custody",
@@ -598,36 +628,6 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "House authorizers want additional funding for the Navy to buy a second guided-missile destroyer in the next fiscal year, according to new legislation. The bill, released Tuesday, authorizes $500 million in incremental funding for the Navy to buy another Flight III Arleigh Burke-class destroyer, acco"
-  },
-  {
-    "id": "e2a861f2a2ca",
-    "title": "Pennsylvania Guard Shapes Army's Extended Basic Leader Course",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4500707/pennsylvania-guard-shapes-armys-extended-basic-leader-course/",
-    "date": "2026-05-26T19:19:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "National Guardsmen assigned to Fort Indiantown Gap, Pa., are leading the validation effort for the Army's expanded basic leader course, refining the curriculum before it is implemented forcewide later this year."
-  },
-  {
-    "id": "914ac9c9da4f",
-    "title": "Chinese Carrier Liaoning Near Philippines, USS George Washington Leaves Yokosuka Ahead of Spring Patrol",
-    "url": "https://news.usni.org/2026/05/26/chinese-carrier-liaoning-near-philippines-uss-george-washington-leaves-yokosuka-ahead-of-spring-patrol",
-    "date": "2026-05-26T19:13:55Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The People’s Liberation Army Navy&#8217;s Liaoning Carrier Strike Group is operating in the Philippine Sea east of Luzon, Japan’s Joint Staff Office said Tuesday. The Liaoning Carrier Strike Group was spotted Monday around 880 kilometers southwest of Okinotori Island, Japan’s southernmost territory."
-  },
-  {
-    "id": "51ec323e7e0b",
-    "title": "District of Columbia National Guard Unveils Freedom 250 Patch",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4500601/district-of-columbia-national-guard-unveils-freedom-250-patch/",
-    "date": "2026-05-26T17:47:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "District of Columbia National Guard leaders introduced a new assignment patch, honoring America's 250th birthday and recognizing the National Guard's support of key events in the nation's capital."
   },
   {
     "id": "a48977378ce9",
