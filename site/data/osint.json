@@ -1,5 +1,15 @@
 [
   {
+    "id": "24172a4000f8",
+    "title": "Sailor Dead After Shooting Aboard Carrier JFK, One Sailor in Custody",
+    "url": "https://news.usni.org/2026/06/08/sailor-dead-after-shooting-board-carrier-jfk-one-sailor-in-custody",
+    "date": "2026-06-08T15:56:28Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "This post will be updated as more information becomes available. One sailor is dead and a second sailor is in pre-trial confinement after a Saturday shooting aboard carrier John F. Kennedy (CVN-79), USNI News has learned. “A sailor has been placed in pretrial confinement in connection with the death"
+  },
+  {
     "id": "a0c5523a33ae",
     "title": "Navy Establishes NSA Stirling in Australia",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4511044/navy-establishes-nsa-stirling-in-australia/",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "District of Columbia National Guard leaders introduced a new assignment patch, honoring America's 250th birthday and recognizing the National Guard's support of key events in the nation's capital."
-  },
-  {
-    "id": "cb750c666547",
-    "title": "USNI News Fleet and Marine Tracker: May 26, 2026",
-    "url": "https://news.usni.org/2026/05/26/usni-news-fleet-and-marine-tracker-may-26-2026",
-    "date": "2026-05-26T17:21:50Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 26, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
   }
 ]
