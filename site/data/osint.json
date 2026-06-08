@@ -1,5 +1,15 @@
 [
   {
+    "id": "a0c5523a33ae",
+    "title": "Navy Establishes NSA Stirling in Australia",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4511044/navy-establishes-nsa-stirling-in-australia/",
+    "date": "2026-06-08T14:26:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy established Naval Support Activity Stirling in Perth, Australia, to provide essential services and community infrastructure for American personnel and families stationed there as part of the trilateral AUKUS security partnership."
+  },
+  {
     "id": "28c3439f906f",
     "title": "Hegseth Commemorates 82nd Anniversary of WWII Allied Invasion at Normandy",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4510064/hegseth-commemorates-82nd-anniversary-of-wwii-allied-invasion-at-normandy/",
@@ -43,7 +53,7 @@
     "id": "edc3a948501e",
     "title": "Washington National Guard Builds Counter-UAS Partnerships Ahead of World Cup 2026",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4509924/washington-national-guard-builds-counter-uas-partnerships-ahead-of-world-cup-20/",
-    "date": "2026-06-05T17:36:33Z",
+    "date": "2026-06-05T17:36:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "exercise",
@@ -53,7 +63,7 @@
     "id": "5127e9a6f8a3",
     "title": "Maine Air National Guard Surges Support for Operation Epic Fury",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4509935/maine-air-national-guard-surges-support-for-operation-epic-fury/",
-    "date": "2026-06-05T17:07:12Z",
+    "date": "2026-06-05T17:07:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 26, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
-  },
-  {
-    "id": "8fd6763a9f18",
-    "title": "South Korea Announces Plan to Build Domestic Nuclear Attack Boat",
-    "url": "https://news.usni.org/2026/05/26/south-korea-announces-plan-to-build-domestic-nuclear-attack-boat",
-    "date": "2026-05-26T16:46:37Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "South Korea will build a new class of nuclear-powered attack boats to counter North Korea’s growing missile submarine threat, Seoul announced Tuesday. The nuclear submarines “will be developed and constructed entirely within the Republic of Korea,” reads a Ministry of National Defense document publi"
   }
 ]
