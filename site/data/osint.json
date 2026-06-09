@@ -1,5 +1,25 @@
 [
   {
+    "id": "c2c3efdddb63",
+    "title": "BREAKING: Norfolk Sailor Sentenced to 43 Years in Prison for Murder of Fellow Sailor",
+    "url": "https://news.usni.org/2026/06/09/breaking-norfolk-sailor-sentenced-to-43-years-in-prison-for-murder-of-fellow-sailor",
+    "date": "2026-06-09T16:44:21Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "NAVAL STATION NORFOLK, Va. — A Norfolk sailor was sentenced on Tuesday to serve 43 years in federal prison for the murder of a fellow sailor in May 2025. Culinary Specialist 3rd Class Jermiah Copeland will serve the more than four-decade-long sentence at Leavenworth Federal Prison for strangling CS3"
+  },
+  {
+    "id": "c582fffd07f0",
+    "title": "New 3rd Fleet Commander, Joint Staff Director Nominated",
+    "url": "https://news.usni.org/2026/06/09/new-3rd-fleet-commander-joint-staff-director-nominated",
+    "date": "2026-06-09T16:35:03Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Four Navy flag officers have been nominated for three-star assignments, according to a Monday Pentagon announcement. Vice Adm. Scott Gray, current commander of Navy Installations Command, has been renominated for a third star to be the deputy chief of Naval Operations for Sustainment, N4, Office of"
+  },
+  {
     "id": "6e61026f9cba",
     "title": "War Department Leaders Observe Kansas City's Counter-Drone Preparations Ahead of World Cup",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4511924/war-department-leaders-observe-kansas-citys-counter-drone-preparations-ahead-of/",
@@ -53,7 +73,7 @@
     "id": "c4eb5b39881f",
     "title": "104th Fighter Wing Strengthens Regional Medical Readiness With Multiday Emergency Decontamination Course",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4511269/104th-fighter-wing-strengthens-regional-medical-readiness-with-multiday-emergen/",
-    "date": "2026-06-08T17:51:26Z",
+    "date": "2026-06-08T17:51:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "exercise",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "Following an earlier version of this post, Joint Task Force Southern Spear announced USS Fort Lauderdale would continue to support Operation Southern Spear. USS Iwo Jima (LHD-7) and the 22nd Marine Expeditionary Unit are heading home after nearly 10 months in U.S. Southern Command, the Marines annou"
-  },
-  {
-    "id": "1c1e157a7ae0",
-    "title": "Iwo Jima ARG, 22nd MEU are Heading Home After 10 Months",
-    "url": "https://news.usni.org/2026/05/27/iwo-jima-arg-22nd-meu-are-heading-home-after-10-months",
-    "date": "2026-05-27T18:02:32Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "USS Iwo Jima (LHD-7), USS Fort Lauderdale (LPD-28) and the 22nd Marine Expeditionary Unit are heading home after nearly 10 months in U.S. Southern Command, the Marines announced on Wednesday. The Iwo Jima Amphibious Ready Group and the 22nd MEU deployed in August and headed to the Caribbean, where t"
-  },
-  {
-    "id": "351cdbab5453",
-    "title": "Chinese Use Electronic Warfare Attacks on Dutch Warship in South China Sea, Says PLA",
-    "url": "https://news.usni.org/2026/05/27/chinese-use-electronic-warfare-attacks-on-dutch-warship-in-south-china-sea-says-pla",
-    "date": "2026-05-27T15:45:14Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Chinese naval and air forces drove off a Dutch air defense frigate near a disputed archipelago using warnings and electronic interference, Beijing’s South China Sea command said Wednesday. According to the People’s Liberation Army’s Southern Theater Command (PLA STC), the HNLMS De Ruyter (F804) and"
   }
 ]
