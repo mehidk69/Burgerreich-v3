@@ -1,5 +1,35 @@
 [
   {
+    "id": "9aa6a9ceb0fa",
+    "title": "Norfolk Sailor Pleads Guilty to Murder of Fellow Sailor",
+    "url": "https://news.usni.org/2026/06/08/norfolk-sailor-pleads-guilty-to-murder-of-fellow-sailor",
+    "date": "2026-06-08T22:06:23Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "NAVAL STATION NORFOLK, Va. — A Norfolk sailor pleaded guilty Monday to murdering a fellow sailor in May 2025 as part of a plea agreement that will see him sentenced to a minimum of 40 years in a federal prison. Culinary Specialist 3rd Class Jeremiah Copeland appeared before a military judge for a ge"
+  },
+  {
+    "id": "bd5a5e890bcb",
+    "title": "Chinese Flotilla Surges East of Taiwan Amid Spat with the Philippines, Japan",
+    "url": "https://news.usni.org/2026/06/08/chinese-flotilla-surges-east-of-taiwan-amid-spat-with-the-philippines-japan",
+    "date": "2026-06-08T21:10:09Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "China deployed six cutters and patrol ships east of the Luzon Strait in its second “special maritime law enforcement operation” following a diplomatic row with the Philippines and Japan. On Saturday, China&#8217;s Ministry of Transport led a mission involving the Fujian and Guangdong regional mariti"
+  },
+  {
+    "id": "50b90a616515",
+    "title": "Carrier USS Theodore Roosevelt to Lead 2026 Rim of the Pacific Exercise",
+    "url": "https://news.usni.org/2026/06/08/carrier-uss-theodore-roosevelt-to-lead-2026-rim-of-the-pacific-exercise",
+    "date": "2026-06-08T20:31:00Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Aircraft carrier USS Theodore Roosevelt (CVN-71) will lead the U.S. participation in this year’s Rim of the Pacific (RIMPAC) 2026 exercise, the service announced. Held from June 24 to July 31 in and around the Hawaiian Islands, RIMPAC will include a total of 32 surface ships, five submarines with 31"
+  },
+  {
     "id": "c4eb5b39881f",
     "title": "104th Fighter Wing Strengthens Regional Medical Readiness With Multiday Emergency Decontamination Course",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4511269/104th-fighter-wing-strengthens-regional-medical-readiness-with-multiday-emergen/",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "A new Department of the Navy official was tapped by Acting Secretary of the Navy Hung Cao to perform the duties of the Navy and Marine Corps top weapons buyer, USNI News has learned. William Mahan, who joined the department as former Secretary of the Navy John Phelan’s chief of staff, will now overs"
-  },
-  {
-    "id": "3d368bdeb536",
-    "title": "Coast Guard Commissions 62nd Fast Response Cutter Honoring 9/11 Hero",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4500908/coast-guard-commissions-62nd-fast-response-cutter-honoring-911-hero/",
-    "date": "2026-05-26T21:39:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Coast Guard commissioned its newest fast response cutter, the Vincent Danz, for official entry into its service fleet during a ceremony in New York City."
-  },
-  {
-    "id": "b69b161edf20",
-    "title": "2 Naval Aviators Safe After T-45C Goshawk Crashes in Mississippi, Some Training Flights Paused",
-    "url": "https://news.usni.org/2026/05/26/2-naval-aviators-safe-after-t-45c-goshawk-crashes-in-mississippi-some-training-flights-paused",
-    "date": "2026-05-26T21:36:22Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "Two naval aviators are safe after their U.S. Navy T-45C Goshawk crashed around 12:30 p.m. Central in Mississippi. The aviators ejected safely and are being evaluated at a local medical center, according to a release from Chief of Naval Air Training. The aviators are assigned to Training Air Wing 1."
-  },
-  {
-    "id": "68d09daf096f",
-    "title": "House Wants Funding for a Second Arleigh Burke Destroyer in Next Fiscal Year",
-    "url": "https://news.usni.org/2026/05/26/house-wants-funding-for-a-second-arleigh-burke-destroyer-in-next-fiscal-year",
-    "date": "2026-05-26T21:06:14Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "House authorizers want additional funding for the Navy to buy a second guided-missile destroyer in the next fiscal year, according to new legislation. The bill, released Tuesday, authorizes $500 million in incremental funding for the Navy to buy another Flight III Arleigh Burke-class destroyer, acco"
   }
 ]
