@@ -1,5 +1,25 @@
 [
   {
+    "id": "6e61026f9cba",
+    "title": "War Department Leaders Observe Kansas City's Counter-Drone Preparations Ahead of World Cup",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4511924/war-department-leaders-observe-kansas-citys-counter-drone-preparations-ahead-of/",
+    "date": "2026-06-09T13:19:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Joint Interagency Task Force 401 continues to share knowledge and best practices with World Cup host cities for countering illicit unmanned aircraft systems."
+  },
+  {
+    "id": "df9e240b34ff",
+    "title": "Report to Congress on Defense of Taiwan",
+    "url": "https://news.usni.org/2026/06/09/report-to-congress-on-defense-of-taiwan",
+    "date": "2026-06-09T11:42:51Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the June 4, 2026, Congressional Research Service report, Taiwan: Defense and Military Issues. From the report Taiwan, (which formally calls itself the Republic of China, or ROC) is a self-governing democracy of 23.3 million people located across the Taiwan Strait from mainland China"
+  },
+  {
     "id": "9aa6a9ceb0fa",
     "title": "Norfolk Sailor Pleads Guilty to Murder of Fellow Sailor",
     "url": "https://news.usni.org/2026/06/08/norfolk-sailor-pleads-guilty-to-murder-of-fellow-sailor",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Chinese naval and air forces drove off a Dutch air defense frigate near a disputed archipelago using warnings and electronic interference, Beijing’s South China Sea command said Wednesday. According to the People’s Liberation Army’s Southern Theater Command (PLA STC), the HNLMS De Ruyter (F804) and"
-  },
-  {
-    "id": "cb1fa93c8a29",
-    "title": "Republic of Korea’s Nuclear-powered Submarine Initiative",
-    "url": "https://news.usni.org/2026/05/27/republic-of-koreas-nuclear-powered-submarine-initiative",
-    "date": "2026-05-27T14:21:13Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The following is the Republic of Korea’s Nuclear-powered Submarine Initiative, published May 26, 2026, by the Republic of Korea’s Ministry of National Defense. The Chang Bogo N Project, named after the country’s first submarine, plans to get the first nuclear attack boat in the water by the mid-2030"
-  },
-  {
-    "id": "8f2e51a9a9a6",
-    "title": "New Top Navy Acquisition Official Named",
-    "url": "https://news.usni.org/2026/05/26/new-top-navy-acquisition-official-named",
-    "date": "2026-05-26T23:23:41Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A new Department of the Navy official was tapped by Acting Secretary of the Navy Hung Cao to perform the duties of the Navy and Marine Corps top weapons buyer, USNI News has learned. William Mahan, who joined the department as former Secretary of the Navy John Phelan’s chief of staff, will now overs"
   }
 ]
