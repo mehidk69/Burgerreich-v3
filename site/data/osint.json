@@ -1,5 +1,35 @@
 [
   {
+    "id": "466932a2f6d7",
+    "title": "Sailors Involved in JFK Shooting Were Part of Carrier’s In-Port Security Force",
+    "url": "https://news.usni.org/2026/06/10/sailors-involved-in-jfk-shooting-were-part-of-carriers-in-port-security-force",
+    "date": "2026-06-10T19:27:53Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The two sailors involved in a fatal shooting Saturday aboard future aircraft carrier John F. Kennedy (CVN-79) were part of the ship’s armed security forces, USNI News has learned. Boatswain’s Mate Seaman Jesse Braswell, of Colorado, was killed in the shooting, which took place around 5:15 a.m on Sat"
+  },
+  {
+    "id": "da602d72126c",
+    "title": "33rd Maintenance Squadron Refurbishes Khobar Towers Memorial Sword",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4513525/33rd-maintenance-squadron-refurbishes-khobar-towers-memorial-sword/",
+    "date": "2026-06-10T18:37:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Airmen assigned to the 33rd Maintenance Squadron revitalized the flaming sword centered on the 33rd Fighter Wing's Khobar Towers Memorial by modifying it to keep the flame burning without environmental disruption."
+  },
+  {
+    "id": "9d2382603ea4",
+    "title": "Army Astronaut Selected for NASA's Historic Artemis III Mission",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4513395/army-astronaut-selected-for-nasas-historic-artemis-iii-mission/",
+    "date": "2026-06-10T16:58:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Army Col. Frank Rubio, assigned to the U.S. Army Space and Missile Defense Command, will serve as a mission specialist on an upcoming NASA Artemis III mission."
+  },
+  {
     "id": "d229bc1d7a32",
     "title": "GAO Report to Congress on the Department of Homeland Security Acquisition",
     "url": "https://news.usni.org/2026/06/10/gao-report-to-congress-on-the-department-of-homeland-security-acquisition",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "Two men were killed Wednesday in a strike on a suspected narco boat in the Eastern Pacific, U.S. Southern Command announced. The vessel, allegedly operated by an unidentified designated terrorist organization, is said to have been traveling along known narco-trafficking routes, USSOUTHCOM said. The"
-  },
-  {
-    "id": "b12cdf55bb30",
-    "title": "Personal Property Activity Expands PCS Support Across Joint Force",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4501024/personal-property-activity-expands-pcs-support-across-joint-force/",
-    "date": "2026-05-28T11:56:42Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "Now that peak permanent change of station season is underway, the Personal Property Activity is providing tips and operating a 24/7 call center until Sept. 15 to ensure support is available for service members and their families preparing for a PCS."
-  },
-  {
-    "id": "4922df6e0f7d",
-    "title": "North Korea Tests New Lightweight Launch System and Tactical Cruise Missiles",
-    "url": "https://news.usni.org/2026/05/27/north-korea-tests-new-lightweight-launch-system-and-tactical-cruise-missiles",
-    "date": "2026-05-27T19:55:47Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "North Korea test fired a newly-developed lightweight multi-purpose missile launching system and multiple tactical cruise missile weapons systems on Tuesday, state media Korean Central News Agency reported. North Korea’s Missile Administration and the Academy of Defense Science trialled the new missi"
-  },
-  {
-    "id": "00338c2a0adf",
-    "title": "Moody Air Force Base Installs Refueling Probe, Improves Efficiency",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4502026/moody-air-force-base-installs-refueling-probe-improves-efficiency/",
-    "date": "2026-05-27T19:44:11Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Airmen assigned to Moody Air Force Base, Ga., installed the base's first air refueling probe on an A-10C Thunderbolt II subsonic attack aircraft, enhancing its ability to support combat search and rescue and close-air support operations."
   }
 ]
