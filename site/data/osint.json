@@ -1,5 +1,25 @@
 [
   {
+    "id": "9f13c4afc912",
+    "title": "Upcoming U.S. Depot in the Philippines to Support Fueling of Navy Destroyers, Combat Logistics Force Ships",
+    "url": "https://news.usni.org/2026/06/09/upcoming-u-s-depot-in-the-philippines-to-support-fueling-of-navy-destroyers-combat-logistics-force-ships",
+    "date": "2026-06-09T21:31:22Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Pentagon’s planned energy depot in the Philippines will be able to refuel the U.S. Navy’s guided-missile destroyers and Combat Logistics Force ships, according to new documents. Amendments to the Defense Logistics Agency’s solicitation from last summer have expanded, requiring the bidder to prov"
+  },
+  {
+    "id": "e74bc3ad1306",
+    "title": "UPDATED: Norfolk Sailor Sentenced to 43 Years in Prison for Murder of Fellow Sailor",
+    "url": "https://news.usni.org/2026/06/09/breaking-norfolk-sailor-sentenced-to-43-years-in-prison-for-murder-of-fellow-sailor",
+    "date": "2026-06-09T16:44:21Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "This post has been updated with additional information. This post contains details of a violent crime that may disturb some readers. NAVAL STATION NORFOLK, Va. — Esmeralda Castle told a courtroom on Monday she was scared when her daughter, Culinary Specialist 3rd Class Angelina Resendiz, told her th"
+  },
+  {
     "id": "c2c3efdddb63",
     "title": "BREAKING: Norfolk Sailor Sentenced to 43 Years in Prison for Murder of Fellow Sailor",
     "url": "https://news.usni.org/2026/06/09/breaking-norfolk-sailor-sentenced-to-43-years-in-prison-for-murder-of-fellow-sailor",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "Secretary of War Pete Hegseth praised recent efforts the U.S. military has made to counter the Islamic State and its ongoing murder of Christians in Nigeria."
-  },
-  {
-    "id": "32780cabde7c",
-    "title": "Sword 26: Cyber Defenders Train in Estonia, Secure Critical Infrastructure",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4501896/sword-26-cyber-defenders-train-in-estonia-secure-critical-infrastructure/",
-    "date": "2026-05-27T18:37:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "U.S. soldiers and National Guard cyber professionals trained with members of the Estonian Defense Forces to defend the networks that modern societies rely on daily during a Sword 26 simulated exercise."
-  },
-  {
-    "id": "5dcca98dd0fa",
-    "title": "Iwo Jima, 22nd MEU are Heading Home After 10 Months",
-    "url": "https://news.usni.org/2026/05/27/iwo-jima-arg-22nd-meu-are-heading-home-after-10-months",
-    "date": "2026-05-27T18:02:32Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Following an earlier version of this post, Joint Task Force Southern Spear announced USS Fort Lauderdale would continue to support Operation Southern Spear. USS Iwo Jima (LHD-7) and the 22nd Marine Expeditionary Unit are heading home after nearly 10 months in U.S. Southern Command, the Marines annou"
   }
 ]
