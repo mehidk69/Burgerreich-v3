@@ -1,5 +1,15 @@
 [
   {
+    "id": "d229bc1d7a32",
+    "title": "GAO Report to Congress on the Department of Homeland Security Acquisition",
+    "url": "https://news.usni.org/2026/06/10/gao-report-to-congress-on-the-department-of-homeland-security-acquisition",
+    "date": "2026-06-10T13:58:58Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The following is the 2026 Government Accountability Office annual report to Congress on the Department of Homeland Security acquisition programs.  From the report What GAO Found The U.S. Department of Homeland Security (DHS) and its components spend billions annually on programs to acquire systems a"
+  },
+  {
     "id": "9f13c4afc912",
     "title": "Upcoming U.S. Depot in the Philippines to Support Fueling of Navy Destroyers, Combat Logistics Force Ships",
     "url": "https://news.usni.org/2026/06/09/upcoming-u-s-depot-in-the-philippines-to-support-fueling-of-navy-destroyers-combat-logistics-force-ships",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "Airmen assigned to Moody Air Force Base, Ga., installed the base's first air refueling probe on an A-10C Thunderbolt II subsonic attack aircraft, enhancing its ability to support combat search and rescue and close-air support operations."
-  },
-  {
-    "id": "37e7fe9072de",
-    "title": "Hegseth Praises U.S. Military Efforts to Protect Nigerian Christians From ISIS",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4501996/hegseth-praises-us-military-efforts-to-protect-nigerian-christians-from-isis/",
-    "date": "2026-05-27T18:52:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Secretary of War Pete Hegseth praised recent efforts the U.S. military has made to counter the Islamic State and its ongoing murder of Christians in Nigeria."
   }
 ]
