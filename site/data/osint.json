@@ -1,5 +1,15 @@
 [
   {
+    "id": "3dbdb8fbc96d",
+    "title": "Report to Congress on U.S.-South Korea Alliance",
+    "url": "https://news.usni.org/2026/06/11/report-to-congress-on-u-s-south-korea-alliance-2",
+    "date": "2026-06-11T14:11:48Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the June 9, 2026, Congressional Research Service report, The U.S.-South Korea Alliance. From the Report The U.S.-South Korea (Republic of Korea, or ROK) alliance dates to the 1950-1953 Korean War, during which more than 36,000 Americans died in-theater helping South Korea repel an i"
+  },
+  {
     "id": "2d805de1bf1e",
     "title": "U.S. Plans Major Strikes on Iran, Hegseth Says",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4514093/us-plans-major-strikes-on-iran-hegseth-says/",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "Soldiers assigned to the XVIII Airborne Corps' 44th Medical Brigade are expanding battlefield medical support capabilities by integrating unmanned aircraft systems into medical resupply operations."
-  },
-  {
-    "id": "b8aada224dd7",
-    "title": "USNI News Western Pacific Pulse: May 29, 2026",
-    "url": "https://news.usni.org/2026/05/29/usni-news-western-pacific-pulse-may-29-2026",
-    "date": "2026-05-29T16:53:46Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Singapore The International Institute of Strategic Studies Shangri-La Dialogue began Friday and runs through Sunday at the Shangri-La Hotel in Singapore. The annual summit gathers defens"
   }
 ]
