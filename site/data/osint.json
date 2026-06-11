@@ -1,5 +1,45 @@
 [
   {
+    "id": "2d805de1bf1e",
+    "title": "U.S. Plans Major Strikes on Iran, Hegseth Says",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4514093/us-plans-major-strikes-on-iran-hegseth-says/",
+    "date": "2026-06-10T23:29:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "After a busy morning visiting troops in Guantanamo Bay, Cuba, Secretary of War Pete Hegseth traveled back to the U.S. to MacDill Air Force Base, Fla., for a meeting with U.S. Central Command leadership, where discussion centered on, among other things, operations planned for Iran."
+  },
+  {
+    "id": "7ea67987427d",
+    "title": "Taiwanese Forces Deploy American-made Attack Drones Against Maritime Targets",
+    "url": "https://news.usni.org/2026/06/10/taiwanese-forces-deploy-american-made-attack-drones-against-maritime-targets",
+    "date": "2026-06-10T22:14:43Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Taiwan&#8217;s newly acquired American attack drones struck maritime targets for the first time last week along the island’s west coast during live-fire drills designed to validate long-range strike systems that would play a crucial role in a potential invasion of the self-governing island. Accordin"
+  },
+  {
+    "id": "20916624c8b0",
+    "title": "BALTOPS 2026 Exercise Begins",
+    "url": "https://news.usni.org/2026/06/10/baltops-2026-exercise-begins",
+    "date": "2026-06-10T21:14:40Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "NATO kicked off maritime exercise Baltic Operations (BALTOPS) 2026 this week with 20 ships and 6,000 personnel from 15 NATO nations – fewer than BALTOPS 2025 owing to the NATO naval assets wrapped up in the Middle East. U.S. Sixth Fleet, which leads the exercise, said in a press release that, for th"
+  },
+  {
+    "id": "8dbebd536fb5",
+    "title": "U.S. Prepared for Anything, Hegseth Tells Troops at Guantanamo Bay",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4513916/us-prepared-for-anything-hegseth-tells-troops-at-guantanamo-bay/",
+    "date": "2026-06-10T20:22:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "At Naval Station Guantanamo Bay, Cuba, Secretary of War Pete Hegseth met with service members for a morning physical training session and also discussed readiness with mission leaders at the installation."
+  },
+  {
     "id": "466932a2f6d7",
     "title": "Sailors Involved in JFK Shooting Were Part of Carrier’s In-Port Security Force",
     "url": "https://news.usni.org/2026/06/10/sailors-involved-in-jfk-shooting-were-part-of-carriers-in-port-security-force",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Singapore The International Institute of Strategic Studies Shangri-La Dialogue began Friday and runs through Sunday at the Shangri-La Hotel in Singapore. The annual summit gathers defens"
-  },
-  {
-    "id": "ef74c9933b6c",
-    "title": "War Department Signs $9.7B Technology Deal With Dell for Microsoft Services",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4502292/war-department-signs-97b-technology-deal-with-dell-for-microsoft-services/",
-    "date": "2026-05-28T21:03:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The War Department signed a $9.7 billion, five-year enterprisewide contract to purchase Microsoft Services, a move expected to save the department an initial $422 million annually."
-  },
-  {
-    "id": "bf31b543ccb8",
-    "title": "U.K. Mine Countermeasures Mothership Leaves Gibraltar for Potential Strait of Hormuz Mission",
-    "url": "https://news.usni.org/2026/05/28/u-k-mine-countermeasures-mothership-leaves-gibraltar-for-potential-strait-of-hormuz-mission",
-    "date": "2026-05-28T19:18:15Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Royal Navy’s mine countermeasures mothership RFA Lyme Bay (L3007) departed Tuesday from Gibraltar as the U.K. and France prepare to launch a multinational military mission to ensure freedom of navigation through the strait. More than 100 minehunting personnel from the Royal Navy’s diving and thr"
-  },
-  {
-    "id": "d8df77296c66",
-    "title": "South Korean Attack Boat Arrives in Canada Ahead of Submarine Program Decision",
-    "url": "https://news.usni.org/2026/05/28/south-korean-attack-boat-arrives-in-canada-ahead-of-submarine-program-decision",
-    "date": "2026-05-28T15:45:22Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A South Korean attack boat arrived Sunday at Canada&#8217;s Pacific Fleet naval base ahead of Ottawa’s procurement decision for its next class of submarines. The Republic of Korea Navy’s ROKS Dosan Ahn Chang-ho (SS-083) over the weekend pulled into Victoria, Canada, concluding the longest voyage of"
-  },
-  {
-    "id": "c2bc3f320ba0",
-    "title": "2 Killed in Eastern Pacific Strike on Suspected Narco Boat",
-    "url": "https://news.usni.org/2026/05/28/2-killed-in-eastern-pacific-strike-on-suspected-narco-boat-2",
-    "date": "2026-05-28T15:01:09Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Two men were killed Wednesday in a strike on a suspected narco boat in the Eastern Pacific, U.S. Southern Command announced. The vessel, allegedly operated by an unidentified designated terrorist organization, is said to have been traveling along known narco-trafficking routes, USSOUTHCOM said. The"
   }
 ]
