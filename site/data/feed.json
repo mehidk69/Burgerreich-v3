@@ -1,5 +1,35 @@
 [
   {
+    "id": "1ac78611aec5",
+    "title": "Carrying the Torch: 815th Airlift Squadron Assumes Airlift Mission in Africa",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4514671/carrying-the-torch-815th-airlift-squadron-assumes-airlift-mission-in-africa/",
+    "date": "2026-06-11T18:18:16Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Airmen assigned to the Minnesota Air National Guard 133rd Airlift Wing concluded a historic deployment to Africa, as airmen assigned to the Air Force Reserve 815th Airlift Squadron, known as the Flying Jennies, are carrying the torch for the next rotation."
+  },
+  {
+    "id": "5c10f819539b",
+    "title": "U.S. Navy Stands Up 2 Australian Commands in Support of American, U.K. Subs",
+    "url": "https://news.usni.org/2026/06/11/u-s-navy-stands-up-2-australian-commands-in-support-of-american-u-k-subs",
+    "date": "2026-06-11T17:48:34Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. Navy recently stood up two new commands to operate at the Royal Australian Navy’s HMAS Stirling naval base in Western Australia in support of Submarine Rotational Force-West. Submarine Squadron 3 (CSS-3), which previously operated out of Hawaii, was re-established Wednesday at HMAS Stirling"
+  },
+  {
+    "id": "3d9e9f219c33",
+    "title": "Task Force Civil Affairs Team Conducts Subject Matter Expert Exchange in Libya",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4514495/task-force-civil-affairs-team-conducts-subject-matter-expert-exchange-in-libya/",
+    "date": "2026-06-11T16:33:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "U.S. Army civil affairs soldiers conducted a military-to-military subject matter expert exchange with representatives of the Libyan National Army and the Government of National Unity in Benghazi, Libya."
+  },
+  {
     "id": "3dbdb8fbc96d",
     "title": "Report to Congress on U.S.-South Korea Alliance",
     "url": "https://news.usni.org/2026/06/11/report-to-congress-on-u-s-south-korea-alliance-2",
@@ -598,36 +628,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Seven companies have been identified by the Navy as supporting the first round of medium unmanned surface vessel prototyping, the service said on Friday. The announcement of the companies follows Navy acknowledgement of the selection of the first seven designs for the MUSV marketplace, USNI News rep"
-  },
-  {
-    "id": "ff029a0aef60",
-    "title": "Texas Military Department Partners With Civilian Agencies for 2026 SAREX",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4504346/texas-military-department-partners-with-civilian-agencies-for-2026-sarex/",
-    "date": "2026-05-29T20:58:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Texas Military Department participated in the 2026 Search and Rescue Exercise in San Antonio, May 18-21, 2026, marking 12 years of interagency partnership for this effort."
-  },
-  {
-    "id": "bccb228abb90",
-    "title": "Specialized Group of 1,300 Marines, Sailors Take Over SOUTHCOM Duties As 22nd MEU Heads Home",
-    "url": "https://news.usni.org/2026/05/29/specialized-group-of-1300-marines-sailors-take-over-southcom-duties-as-22nd-meu-heads-home",
-    "date": "2026-05-29T20:02:52Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A specialized group of Marines operating in SOUTHCOM will now support Operation Southern Spear, the U.S. campaign to stop maritime drug trafficking, as the 22nd Marine Expeditionary Unit heads home. The 24th Marine Expeditionary Unit will operate as Littoral Combat Force-24, providing a Marine Air-G"
-  },
-  {
-    "id": "7a190d965631",
-    "title": "44th Medical Brigade Integrates Drones Into Medical Resupply Operations",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4503788/44th-medical-brigade-integrates-drones-into-medical-resupply-operations/",
-    "date": "2026-05-29T18:12:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Soldiers assigned to the XVIII Airborne Corps' 44th Medical Brigade are expanding battlefield medical support capabilities by integrating unmanned aircraft systems into medical resupply operations."
   },
   {
     "id": "d63fb48ffaab",
