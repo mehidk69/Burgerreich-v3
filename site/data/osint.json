@@ -1,5 +1,25 @@
 [
   {
+    "id": "dd7e46f0bbdf",
+    "title": "Taiwan Tests HIMARS Missiles on Island’s West Coast in Major Live-fire Drills",
+    "url": "https://news.usni.org/2026/06/11/taiwan-tests-himars-missiles-on-islands-west-coast-in-major-live-fire-drills",
+    "date": "2026-06-11T22:21:54Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Taipei showcased its new American missile launchers through numerous live-fire salvos in a drill this week that Taiwanese troops claimed demonstrated the system’s mobility and long-range strike capabilities. The Republic of China Army fired its recently procured M142 High Mobility Rocket Artillery S"
+  },
+  {
+    "id": "a23ae6643637",
+    "title": "U.S. Disables 3 Tankers As Part of Iranian Blockade, 3 Mariners Killed in Tuesday Strike",
+    "url": "https://news.usni.org/2026/06/11/u-s-disables-3-tankers-as-part-of-iranian-blockade-3-mariners-killed-in-tuesday-strike",
+    "date": "2026-06-11T22:13:36Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "American forces disabled three merchant ships in the Gulf of Oman this week that were allegedly violating a U.S. naval blockade of Iran, Central Command officials said. Strikes on a ship on Tuesday resulted in the deaths of three Indian merchant mariners, according to a statement from the union repr"
+  },
+  {
     "id": "1ac78611aec5",
     "title": "Carrying the Torch: 815th Airlift Squadron Assumes Airlift Mission in Africa",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4514671/carrying-the-torch-815th-airlift-squadron-assumes-airlift-mission-in-africa/",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "The head of the Pentagon called on U.S. Western Pacific allies to maintain military strength and called on China not to disrupt the regional equilibrium while praising the current state of affairs between Washington and Beijing. Speaking on Saturday in Singapore, Defense Secretary Pete Hegseth warne"
-  },
-  {
-    "id": "99f82888a2cb",
-    "title": "Hegseth Outlines U.S. Vision For Indo-Pacific at Annual Asia Defense Summit",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4504672/hegseth-outlines-us-vision-for-indo-pacific-at-annual-asia-defense-summit/",
-    "date": "2026-05-30T02:54:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Secretary of War Pete Hegseth discussed the strategic vision for the Indo-Pacific region, as it relates to the new National Defense Strategy, during remarks at the annual International Institute for Strategic Studies Shangri-La Dialogue 2026 in Singapore."
-  },
-  {
-    "id": "69daa2a8d26c",
-    "title": "HII, Saronic Included in First MUSV Navy Prototype Tests",
-    "url": "https://news.usni.org/2026/05/29/hii-saronic-included-in-first-musv-navy-prototype-tests",
-    "date": "2026-05-29T21:10:53Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Seven companies have been identified by the Navy as supporting the first round of medium unmanned surface vessel prototyping, the service said on Friday. The announcement of the companies follows Navy acknowledgement of the selection of the first seven designs for the MUSV marketplace, USNI News rep"
   }
 ]
