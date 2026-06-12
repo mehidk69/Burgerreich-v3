@@ -1,5 +1,55 @@
 [
   {
+    "id": "a4271082dce3",
+    "title": "USNI News Western Pacific Pulse: June 12, 2026",
+    "url": "https://news.usni.org/2026/06/12/usni-news-western-pacific-pulse-june-12-2026",
+    "date": "2026-06-12T19:08:47Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Philippine Sea Aircraft carrier USS George Washington (CVN-73) is operating in the Philippine Sea as part of its spring patrol. The carrier conducted a fueling-at-sea evolution with fle"
+  },
+  {
+    "id": "27b9bd204978",
+    "title": "1-40th Cavalry Regiment Prepares for Final Transformation During Exercise Red Flag",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4515949/1-40th-cavalry-regiment-prepares-for-final-transformation-during-exercise-red-f/",
+    "date": "2026-06-12T19:00:09Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Soldiers assigned to the 2nd Infantry Brigade Combat Team, 11th Airborne Division, at Joint Base Elmendorf-Richardson, Alaska, demonstrated the Army's commitment to transformation, readiness and joint lethality during Exercise Red Flag-Alaska 26-2."
+  },
+  {
+    "id": "adb3cb91bed8",
+    "title": "Naval Research Laboratory Receives Space Force Antenna, Expanding Joint Space Capabilities",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4515861/naval-research-laboratory-receives-space-force-antenna-expanding-joint-space-ca/",
+    "date": "2026-06-12T18:11:33Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The U.S. Naval Research Laboratory received a transportable satellite tracking antenna system from Space Systems Command's System Delta 81 to expand joint space testing, training and operational support capabilities at the laboratory's Blossom Point Tracking Facility in Welcome, Md."
+  },
+  {
+    "id": "9a660222a37c",
+    "title": "Michigan Army National Guard Uses UAS to Train for Tomorrow's Battlefield",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4515749/michigan-army-national-guard-uses-uas-to-train-for-tomorrows-battlefield/",
+    "date": "2026-06-12T17:26:18Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Nine soldiers assigned to the 3rd Battalion, 126th Infantry Regiment, participated in a two-week unmanned aerial system program, as the Michigan National Guard expands its drone training initiative."
+  },
+  {
+    "id": "127bfb1976d7",
+    "title": "Navy Wants Sailors to Do Less Supplemental Work on USS Harry S. Truman Overhaul",
+    "url": "https://news.usni.org/2026/06/12/navy-wants-sailors-to-do-less-supplemental-work-on-uss-harry-s-truman-overhaul",
+    "date": "2026-06-12T15:14:07Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy is turning to commercial contractors for more duties during the upcoming refueling and complex overhaul of USS Harry S. Truman (CVN-75) in order to free up more time for sailors, USNI News has learned. Previously, sailors assigned to a ship in RCOH would be assigned supplementary, non-rate"
+  },
+  {
     "id": "dd7e46f0bbdf",
     "title": "Taiwan Tests HIMARS Missiles on Island’s West Coast in Major Live-fire Drills",
     "url": "https://news.usni.org/2026/06/11/taiwan-tests-himars-missiles-on-islands-west-coast-in-major-live-fire-drills",
@@ -548,55 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "At least 200 people have been killed in U.S. strikes on suspected drug boats after forces with Joint Task Force &#8211; Operation Southern Spear hit two boats over the weekend. The U.S. struck two boats in the Eastern Pacific – one on Friday and one on Saturday – killing three men in each strike. Th"
-  },
-  {
-    "id": "671f943cff46",
-    "title": "U.S. Will Sell 3 In-service Virginia Subs to Australia Instead of 1 New, 2 In-service",
-    "url": "https://news.usni.org/2026/06/01/u-s-will-sell-3-in-service-virginia-subs-to-australia-instead-of-1-new-2-in-service",
-    "date": "2026-06-01T18:52:44Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. will sell Australia three in-service Virginia-class submarines, pivoting from the planned acquisition of one new and two in-service Virginias, the countries announced Saturday. U.S. Defense Secretary Pete Hegseth, Australian Defense Minister Richard Marles and U.K. Defense Secretary John He"
-  },
-  {
-    "id": "d5d21588525a",
-    "title": "USNI News Fleet and Marine Tracker: June 1, 2026",
-    "url": "https://news.usni.org/2026/06/01/usni-news-fleet-and-marine-tracker-june-1-2026",
-    "date": "2026-06-01T17:16:11Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 1, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
-  },
-  {
-    "id": "9ec3c5fba031",
-    "title": "2026 MHS Conference Keynote Speaker Thanks Military Medicine for His Recovery",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4505223/2026-mhs-conference-keynote-speaker-thanks-military-medicine-for-his-recovery/",
-    "date": "2026-06-01T15:42:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Medal of Honor recipient retired Army Capt. Florent Groberg shared his powerful story of combat survival, mental health recovery and leadership at the 2026 Military Health System Conference in Dallas."
-  },
-  {
-    "id": "8102d73c03ab",
-    "title": "U.S. Coast Guard Patrols Near Scarborough Shoal with Philippine Forces Amid Concerns of Potential Chinese Build-Up",
-    "url": "https://news.usni.org/2026/05/31/u-s-coast-guard-patrols-near-scarborough-shoal-with-philippine-forces-amid-concerns-of-potential-chinese-build-up",
-    "date": "2026-05-31T22:04:06Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A U.S.-Philippine patrol near Scarborough Shoal this week amid Manila’s concerns of potential structures placed by Beijing at the South China Sea hotspot. The exercise from May 26 to 30 was the first time a U.S. Coast Guard vessel joined Philippine forces for a maritime cooperative activity. Also kn"
-  },
-  {
-    "id": "2b6e13acb5d1",
-    "title": "Shangri-La: Hegseth Calls on Western Pacific Allies to Maintain Military Strength, ‘We Need Partners, Not Protectorates’",
-    "url": "https://news.usni.org/2026/05/30/shangri-la-hegseth-calls-on-western-pacific-allies-to-maintain-military-strength-we-need-partners-not-protectorates",
-    "date": "2026-05-30T22:39:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The head of the Pentagon called on U.S. Western Pacific allies to maintain military strength and called on China not to disrupt the regional equilibrium while praising the current state of affairs between Washington and Beijing. Speaking on Saturday in Singapore, Defense Secretary Pete Hegseth warne"
   }
 ]
