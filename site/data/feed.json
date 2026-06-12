@@ -1,5 +1,15 @@
 [
   {
+    "id": "19f71e1d50d3",
+    "title": "Coast Guard, Eastern Shipbuilding Terminate Offshore Patrol Cutter Contract; Rick Scott Ends Promotion Holds",
+    "url": "https://news.usni.org/2026/06/12/coast-guard-eastern-shipbuilding-terminate-offshore-patrol-cutter-contract-rick-scott-ends-promotion-holds",
+    "date": "2026-06-12T20:49:35Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Coast Guard and Eastern Shipbuilding have reached an agreement to terminate a 10-year-old agreement to build the service’s Offshore Patrol Cutters, USNI News has learned. “The Coast Guard has reached an agreement with the Offshore Patrol Cutter (OPC) Stage 1 shipbuilder to close out the contract"
+  },
+  {
     "id": "a4271082dce3",
     "title": "USNI News Western Pacific Pulse: June 12, 2026",
     "url": "https://news.usni.org/2026/06/12/usni-news-western-pacific-pulse-june-12-2026",
@@ -33,7 +43,7 @@
     "id": "9a660222a37c",
     "title": "Michigan Army National Guard Uses UAS to Train for Tomorrow's Battlefield",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4515749/michigan-army-national-guard-uses-uas-to-train-for-tomorrows-battlefield/",
-    "date": "2026-06-12T17:26:18Z",
+    "date": "2026-06-12T17:26:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "ground",
@@ -618,16 +628,6 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "Lawmakers want the Army to examine the use of unmanned surface vessels to escort its watercraft against threats the ground branch may face during contested logistics, according to new legislation. The House Armed Services Committee forwarded the recommendation last Tuesday to the Army to meet concer"
-  },
-  {
-    "id": "5cab6c1c085a",
-    "title": "At Least 200 People Killed in U.S. Strikes on Suspected Drug Boats",
-    "url": "https://news.usni.org/2026/06/01/at-least-200-people-killed-in-u-s-strikes-on-suspected-drug-boats",
-    "date": "2026-06-01T19:54:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "At least 200 people have been killed in U.S. strikes on suspected drug boats after forces with Joint Task Force &#8211; Operation Southern Spear hit two boats over the weekend. The U.S. struck two boats in the Eastern Pacific – one on Friday and one on Saturday – killing three men in each strike. Th"
   },
   {
     "id": "d63fb48ffaab",
