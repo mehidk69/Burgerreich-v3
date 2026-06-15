@@ -1,5 +1,25 @@
 [
   {
+    "id": "99d1f18a6d60",
+    "title": "USNI News Fleet and Marine Tracker: June 15, 2026",
+    "url": "https://news.usni.org/2026/06/15/usni-news-fleet-and-marine-tracker-june-15-2026",
+    "date": "2026-06-15T17:03:39Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 15, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
+  },
+  {
+    "id": "3fb7c75a274e",
+    "title": "Hegseth, Italian Counterpart Meet at Pentagon",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4517216/hegseth-italian-counterpart-meet-at-pentagon/",
+    "date": "2026-06-15T16:55:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Secretary of War Pete Hegseth hosted Italian Defense Minister Guido Crosetto during a bilateral engagement at the Pentagon."
+  },
+  {
     "id": "19f71e1d50d3",
     "title": "Coast Guard, Eastern Shipbuilding Terminate Offshore Patrol Cutter Contract; Rick Scott Ends Promotion Holds",
     "url": "https://news.usni.org/2026/06/12/coast-guard-eastern-shipbuilding-terminate-offshore-patrol-cutter-contract-rick-scott-ends-promotion-holds",
@@ -608,26 +628,6 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "The following is the May 26, 2026, Congressional Research Service report, U.S. Foreign Policy in the Western Hemisphere: Issues for Congress. From the Report Summary Historically, many U.S. policymakers have regarded the Western Hemisphere as a U.S. sphere of influence, vital to U.S. interests, or b"
-  },
-  {
-    "id": "9ebdb3764cb8",
-    "title": "Walter Reed, Other Military Hospitals Get 'A' Grade for Patient Care",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4505921/walter-reed-other-military-hospitals-get-a-grade-for-patient-care/",
-    "date": "2026-06-01T22:10:03Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Walter Reed National Military Medical Center earned an \"A\" hospital safety grade from Leapfrog Group for spring 2026, the fifth consecutive six-month cycle it has earned the grade."
-  },
-  {
-    "id": "715fd717393e",
-    "title": "House Wants the Army to Consider Sea Drones for Watercraft Escort Missions",
-    "url": "https://news.usni.org/2026/06/01/house-wants-the-army-to-consider-sea-drones-for-watercraft-escort-missions",
-    "date": "2026-06-01T20:30:23Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Lawmakers want the Army to examine the use of unmanned surface vessels to escort its watercraft against threats the ground branch may face during contested logistics, according to new legislation. The House Armed Services Committee forwarded the recommendation last Tuesday to the Army to meet concer"
   },
   {
     "id": "d63fb48ffaab",
