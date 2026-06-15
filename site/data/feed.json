@@ -1,5 +1,15 @@
 [
   {
+    "id": "40813e6fb5ec",
+    "title": "U.K. Forces Seize Russian Shadow Tanker in English Channel",
+    "url": "https://news.usni.org/2026/06/15/u-k-forces-seize-russian-shadow-tanker-in-english-channel",
+    "date": "2026-06-15T18:27:08Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.K. forces interdicted a Russian shadow tanker on Sunday in the English Channel, marking the country’s first seizure since announcing in March that the U.K. military had been given authority to interdict and board shadow fleet ships. MT Smyrtos was boarded by Royal Marine Commandos and law enforcem"
+  },
+  {
     "id": "99d1f18a6d60",
     "title": "USNI News Fleet and Marine Tracker: June 15, 2026",
     "url": "https://news.usni.org/2026/06/15/usni-news-fleet-and-marine-tracker-june-15-2026",
@@ -17,7 +27,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "air",
-    "summary": "Secretary of War Pete Hegseth hosted Italian Defense Minister Guido Crosetto during a bilateral engagement at the Pentagon."
+    "summary": "Secretary of War Pete Hegseth hosted Italy's Defense Minister Guido Crosetto during a bilateral engagement at the Pentagon."
   },
   {
     "id": "19f71e1d50d3",
@@ -618,16 +628,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The U.S. Coast Guard and the Armed Forces of the Philippines partnered for a joint maritime exercise to strengthen regional cooperation and support a free and open Indo-Pacific."
-  },
-  {
-    "id": "c3c782c3d0c6",
-    "title": "Report to Congress on U.S. Foreign Policy in the Western Hemisphere",
-    "url": "https://news.usni.org/2026/06/02/report-to-congress-on-u-s-foreign-policy-in-the-western-hemisphere",
-    "date": "2026-06-02T13:40:58Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the May 26, 2026, Congressional Research Service report, U.S. Foreign Policy in the Western Hemisphere: Issues for Congress. From the Report Summary Historically, many U.S. policymakers have regarded the Western Hemisphere as a U.S. sphere of influence, vital to U.S. interests, or b"
   },
   {
     "id": "d63fb48ffaab",
