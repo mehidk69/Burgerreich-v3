@@ -1,5 +1,25 @@
 [
   {
+    "id": "47fbfbc987a9",
+    "title": "Naval Blockade to Remain In Effect Until Official Agreement is Signed by Iran, U.S.",
+    "url": "https://news.usni.org/2026/06/15/naval-blockade-to-remain-in-effect-until-official-agreement-is-signed-by-iran-u-s",
+    "date": "2026-06-15T21:23:10Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. blockade of Iranian ports will remain in effect until Friday when the agreement between the U.S. and Iran to end hostilities will be signed by representatives from the two countries. Ships that are attempting to visit Iranian ports should comply with orders from the U.S. Navy, reads a Joint"
+  },
+  {
+    "id": "f7cdb160573a",
+    "title": "Hegseth Welcomes Ecuadorian President to War Department",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4517604/hegseth-welcomes-ecuadorian-president-to-war-department/",
+    "date": "2026-06-15T20:42:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Secretary of War Pete Hegseth welcomed Ecuadorian President Daniel Noboa to the Pentagon to discuss the bonds of defense-based cooperation between their respective countries."
+  },
+  {
     "id": "40813e6fb5ec",
     "title": "U.K. Forces Seize Russian Shadow Tanker in English Channel",
     "url": "https://news.usni.org/2026/06/15/u-k-forces-seize-russian-shadow-tanker-in-english-channel",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "The 101st Airborne Division transferred authority of the Joint Task Force Southern Border mission to the 1st Armored Division during a ceremony at Fort Huachuca, Ariz."
-  },
-  {
-    "id": "b49d5cb5ed77",
-    "title": "Chinese Carrier Strike Group Conducts 170 Sorties During Drills in Philippine Sea",
-    "url": "https://news.usni.org/2026/06/02/chinese-carrier-strike-group-conducts-170-sorties-during-drills-in-philippine-sea",
-    "date": "2026-06-02T16:00:00Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The People’s Liberation Army Navy (PLAN) Liaoning Carrier Strike Group has conducted 170 sorties in the past week as the group trains in the Philippine Sea east of Luzon while shadowed by the Japan Maritime Self-Defense Force. Embarked fighter aircraft and helicopters were observed doing 80 take off"
-  },
-  {
-    "id": "345ea8afe60d",
-    "title": "Philippine, U.S. Forces Conduct Maritime Cooperative Activity",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4506406/philippine-us-forces-conduct-maritime-cooperative-activity/",
-    "date": "2026-06-02T15:43:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. Coast Guard and the Armed Forces of the Philippines partnered for a joint maritime exercise to strengthen regional cooperation and support a free and open Indo-Pacific."
   }
 ]

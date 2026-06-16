@@ -1,5 +1,35 @@
 [
   {
+    "id": "102eca3509b2",
+    "title": "Freedom Fest 2026",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4517943/freedom-fest-2026/",
+    "date": "2026-06-15T23:36:03Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "naval",
+    "summary": "Fireworks burst over Freedom Fest at Davis-Monthan Air Force Base, Arizona, June 12, 2026. Freedom<br />\n<img alt=\"Fireworks burst over Freedom Fest at Davis-Monthan Air Force Base, Arizona, June 12, 2026. Freedom Fest brought together members of Team Davis-Monthan for an evening dedicated to commun"
+  },
+  {
+    "id": "47fbfbc987a9",
+    "title": "Naval Blockade to Remain In Effect Until Official Agreement is Signed by Iran, U.S.",
+    "url": "https://news.usni.org/2026/06/15/naval-blockade-to-remain-in-effect-until-official-agreement-is-signed-by-iran-u-s",
+    "date": "2026-06-15T21:23:10Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. blockade of Iranian ports will remain in effect until Friday when the agreement between the U.S. and Iran to end hostilities will be signed by representatives from the two countries. Ships that are attempting to visit Iranian ports should comply with orders from the U.S. Navy, reads a Joint"
+  },
+  {
+    "id": "f7cdb160573a",
+    "title": "Hegseth Welcomes Ecuadorian President to War Department",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4517604/hegseth-welcomes-ecuadorian-president-to-war-department/",
+    "date": "2026-06-15T20:42:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Secretary of War Pete Hegseth welcomed Ecuadorian President Daniel Noboa to the Pentagon to discuss the bonds of defense-based cooperation between their respective countries."
+  },
+  {
     "id": "40813e6fb5ec",
     "title": "U.K. Forces Seize Russian Shadow Tanker in English Channel",
     "url": "https://news.usni.org/2026/06/15/u-k-forces-seize-russian-shadow-tanker-in-english-channel",
@@ -608,26 +638,6 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "The 101st Airborne Division transferred authority of the Joint Task Force Southern Border mission to the 1st Armored Division during a ceremony at Fort Huachuca, Ariz."
-  },
-  {
-    "id": "b49d5cb5ed77",
-    "title": "Chinese Carrier Strike Group Conducts 170 Sorties During Drills in Philippine Sea",
-    "url": "https://news.usni.org/2026/06/02/chinese-carrier-strike-group-conducts-170-sorties-during-drills-in-philippine-sea",
-    "date": "2026-06-02T16:00:00Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The People’s Liberation Army Navy (PLAN) Liaoning Carrier Strike Group has conducted 170 sorties in the past week as the group trains in the Philippine Sea east of Luzon while shadowed by the Japan Maritime Self-Defense Force. Embarked fighter aircraft and helicopters were observed doing 80 take off"
-  },
-  {
-    "id": "345ea8afe60d",
-    "title": "Philippine, U.S. Forces Conduct Maritime Cooperative Activity",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4506406/philippine-us-forces-conduct-maritime-cooperative-activity/",
-    "date": "2026-06-02T15:43:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. Coast Guard and the Armed Forces of the Philippines partnered for a joint maritime exercise to strengthen regional cooperation and support a free and open Indo-Pacific."
   },
   {
     "id": "d63fb48ffaab",
@@ -1488,15 +1498,5 @@
     "cocom": "centcom",
     "tag": "air",
     "summary": "A-10C Thunderbolt II aircraft from Davis-Monthan Air Force Base performed a combat arms demonstration at the Luke Days Air Show at Luke AFB, Arizona, March 22, 2026–marking their final Luke Days appearance as the aircraft divests and pilots transition to the F-35A Lightning II and other Air Force as"
-  },
-  {
-    "id": "86de9ba739af",
-    "title": "Final A-10 MQT",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4439805/final-a-10-mqt/",
-    "date": "2026-03-20T17:28:13Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "exercise",
-    "summary": "U.S. Air Force 1st Lt. Hunter Mason, a 357th Fighter Squadron A-10C Thunderbolt II pilot, performs<br />\n<img alt=\"U.S. Air Force 1st Lt. Hunter Mason, a 357th Fighter Squadron A-10C Thunderbolt II pilot, performs preflight checks prior to the final training exercise on Davis-Monthan Air Force Base,"
   }
 ]
