@@ -1,5 +1,25 @@
 [
   {
+    "id": "38f9a4eb9c11",
+    "title": "Marine Corps Opens 2026 Warrior Games With Strong Showing",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4518325/marine-corps-opens-2026-warrior-games-with-strong-showing/",
+    "date": "2026-06-16T16:04:39Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Team Marine Corps opened the 2026 Warrior Games with a strong showing in powerlifting and an exhibition pickleball competition, earning 10 medals and setting the tone for the week ahead."
+  },
+  {
+    "id": "9e73628019ef",
+    "title": "Senate, House Defense Bills Propose Restrictions on U.S. Warships Built in Foreign Yards; Legislation Limits Navy Secretary’s Ability to Rename Ships",
+    "url": "https://news.usni.org/2026/06/16/senate-house-defense-bills-propose-restrictions-on-u-s-warships-built-in-foreign-yards-legislation-limits-navy-secretarys-ability-to-rename-ships",
+    "date": "2026-06-16T15:20:25Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "WASHINGTON, D.C. — Congressional defense committees voted to pump the brakes on the Trump administration’s push to buy foreign-built warships, USNI News has learned. House and Senate authorizers and House appropriators are placing limitations on the executive’s ability to pursue foreign warship desi"
+  },
+  {
     "id": "102eca3509b2",
     "title": "Freedom Fest 2026",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4517943/freedom-fest-2026/",
@@ -618,26 +638,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Airmen participated in a counter-small unmanned aircraft systems firing qualification in partnership with Joint Interagency Task Force 401 at Camp Guernsey Joint Training Center, Wyo."
-  },
-  {
-    "id": "b4ce17b1ec92",
-    "title": "Ankara’s Ambition",
-    "url": "https://news.usni.org/2026/06/02/ankaras-ambition",
-    "date": "2026-06-02T19:57:27Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "DOĞANBEY TRAINING AREA, TURKEY — Two-thousand-pound bombs, artillery shells and naval bombardments sent shockwaves through the valley in Turkey where the Aegean Army focused its firepower last month. Every explosion captured the attention of Turkish Armed Forces commanders, international observers a"
-  },
-  {
-    "id": "30de1fdf4bd9",
-    "title": "Joint Task Force Southern Border Holds Transfer of Authority",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4506508/joint-task-force-southern-border-holds-transfer-of-authority/",
-    "date": "2026-06-02T16:28:30Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The 101st Airborne Division transferred authority of the Joint Task Force Southern Border mission to the 1st Armored Division during a ceremony at Fort Huachuca, Ariz."
   },
   {
     "id": "d63fb48ffaab",
