@@ -1,5 +1,45 @@
 [
   {
+    "id": "2f921cbb1b30",
+    "title": "GAO Report to Congress on the Navy’s Robotic Autonomous Systems",
+    "url": "https://news.usni.org/2026/06/16/gao-report-to-congress-on-the-navys-robotic-autonomous-systems",
+    "date": "2026-06-16T18:14:32Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is the June 15, 2026, Government Accountability Office report to Congress on Robotic Autonomous Systems: Navy Needs to Address Leadership and Organizational Challenges to Meet Urgent Needs. The report was given to the Senate Armed Services Committee and the House Armed Services Committ"
+  },
+  {
+    "id": "22c307141504",
+    "title": "SASC Bill Authorizes $1.5B for Security Aid for Taiwan, the Philippines",
+    "url": "https://news.usni.org/2026/06/16/sasc-bill-authorizes-1-5b-for-security-aid-for-taiwan-the-philippines",
+    "date": "2026-06-16T17:37:58Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Senators want to bolster security assistance to Taiwan and the Philippines through a reorganization of existing efforts, the formation of a war reserve stockpile and a strategy for crisis management in the South China Sea. The Senate Armed Services Committee’s markup for the 2027 National Defense Au"
+  },
+  {
+    "id": "909f4245044a",
+    "title": "U.S. 2nd Fleet, International Partners Commence Fleet Exercise 250",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4518474/us-2nd-fleet-international-partners-commence-fleet-exercise-250/",
+    "date": "2026-06-16T17:01:54Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Ships from 17 allied and partner nations arrived at Naval Station Norfolk, Va., to prepare for Fleet Exercise 250, a multinational maritime training event designed to enhance interoperability and test the integrated forces in a dynamic environment."
+  },
+  {
+    "id": "ea1612923d33",
+    "title": "U.S.-funded Project Expanding Drone and Fighter Capacity at Philippine Air Base",
+    "url": "https://news.usni.org/2026/06/16/u-s-funded-project-expanding-drone-and-fighter-capacity-at-philippine-air-base",
+    "date": "2026-06-16T16:58:00Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Efforts are underway to expand U.S. aircraft and drone capacity at a Philippine air base used by Washington to monitor the South China Sea and assist Manila’s defensive needs, USNI News has learned. The Airbus commercial satellite imagery, publicly shared on Google Earth, shows a clearing has been m"
+  },
+  {
     "id": "38f9a4eb9c11",
     "title": "Marine Corps Opens 2026 Warrior Games With Strong Showing",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4518325/marine-corps-opens-2026-warrior-games-with-strong-showing/",
@@ -598,46 +638,6 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "The following is the May 29, 2026, Congressional Research Service report, North Korea’s Nuclear Weapons and Missile Programs. From the Report Over the past decade, the Democratic People&#8217;s Republic of Korea (DPRK, or North Korea) has advanced its nuclear weapons and ballistic missile programs,"
-  },
-  {
-    "id": "82eaccaacf8f",
-    "title": "French Navy Seizes Sanctioned Russian Tanker, 4th Since September",
-    "url": "https://news.usni.org/2026/06/03/french-navy-seizes-sanctioned-russian-tanker-4th-since-september",
-    "date": "2026-06-03T16:02:00Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The French Navy seized sanctioned tanker MT Tagor on Sunday while it operated in the Atlantic, marking the service’s fourth shadow fleet seizure since September. The tanker was seized on suspicion of flying a false Cameroonian flag and diverted to France, arriving Tuesday in Douarnenez Bay where the"
-  },
-  {
-    "id": "df683e47de7b",
-    "title": "Navy Forecasters Keep Typhoon Watch Around the Clock",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4507331/navy-forecasters-keep-typhoon-watch-around-the-clock/",
-    "date": "2026-06-03T14:08:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Naval Oceanography Antisubmarine Warfare Center in Yokosuka, Japan, provides around-the-clock weather tracking and forecasting to protect Navy ships and military communities from unpredictable Pacific typhoons."
-  },
-  {
-    "id": "34c5d250025a",
-    "title": "Wrenches to Wings: The Artisan Hands Behind Every Test Flight",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4507298/wrenches-to-wings-the-artisan-hands-behind-every-test-flight/",
-    "date": "2026-06-03T13:41:40Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "The 10th Flight Test Squadron pilots test newly rebuilt, non-airworthy aircraft to ensure they are battle-ready before returning them to active service."
-  },
-  {
-    "id": "2de2a14e2ea8",
-    "title": "Joint Interagency Task Force 401 Conducts Multicommand Counter-UAS Qualification",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4507000/joint-interagency-task-force-401-conducts-multicommand-counter-uas-qualification/",
-    "date": "2026-06-03T11:34:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Airmen participated in a counter-small unmanned aircraft systems firing qualification in partnership with Joint Interagency Task Force 401 at Camp Guernsey Joint Training Center, Wyo."
   },
   {
     "id": "d63fb48ffaab",
