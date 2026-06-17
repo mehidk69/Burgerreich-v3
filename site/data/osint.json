@@ -1,5 +1,55 @@
 [
   {
+    "id": "1346bfaeb686",
+    "title": "Destroyer USS Mitscher Returns Home From 11-month Deployment",
+    "url": "https://news.usni.org/2026/06/17/destroyer-uss-mitscher-returns-home-from-11-month-deployment",
+    "date": "2026-06-17T19:47:03Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Destroyer USS Mitscher (DDG-57) returned Tuesday to Naval Station Norfolk, Va., following a historic 11-month deployment. During Mitscher’s 327-day deployment, the destroyer integrated with the Gerald R. Ford and Abraham Lincoln carrier strike groups, as well as the U.K. Prince of Wales strike group"
+  },
+  {
+    "id": "6d0e5df250da",
+    "title": "USV Swarm Demonstrates Maritime Security Capabilities During Exercise Salaknib 26",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4519923/usv-swarm-demonstrates-maritime-security-capabilities-during-exercise-salaknib/",
+    "date": "2026-06-17T18:42:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Soldiers assigned to the 25th Infantry Division partnered with Philippine Army forces and industry representatives during Exercise Salaknib 2026 to demonstrate how autonomous maritime systems can enhance security and protect critical transportation operations in contested environments."
+  },
+  {
+    "id": "9f7fa7f22b40",
+    "title": "Joint Task Force Southern Spear Strikes Suspected Drug Boat in Eastern Pacific",
+    "url": "https://news.usni.org/2026/06/17/joint-task-force-southern-spear-strikes-suspected-drug-boat-in-eastern-pacific",
+    "date": "2026-06-17T18:15:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Forces with Joint Task Force Southern Spear struck a suspected drug boat late Tuesday, U.S. Southern Command announced.  The strike killed one man and left two survivors. U.S. Coast Guard activated search and rescue operations, but the SOUTHCOM post did not include an update on the men’s status.  Th"
+  },
+  {
+    "id": "97217591f400",
+    "title": "George Washington Carrier Strike Group in Guam for First Port Call of Spring Patrol",
+    "url": "https://news.usni.org/2026/06/17/george-washington-carrier-strike-group-in-guam-for-first-port-call-of-spring-patrol",
+    "date": "2026-06-17T18:02:35Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The George Washington Carrier Strike Group pulled into Guam on Tuesday marking the strike group’s first port visit of its spring patrol. The George Washington CSG, which includes aircraft carrier USS George Washington (CVN-73) with embarked Carrier Air Wing (CVW) 5, cruiser USS Robert Smalls (CG-62)"
+  },
+  {
+    "id": "2de8642287a4",
+    "title": "Team Army Opens 2026 Warrior Games With Eight Powerlifting Medals",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4519929/team-army-opens-2026-warrior-games-with-eight-powerlifting-medals/",
+    "date": "2026-06-17T17:36:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Team Army earned eight medals in powerlifting on the first day of competition during the 2026 Warrior Games in San Antonio, while demonstrating that the greatest victories often extend far beyond the podium."
+  },
+  {
     "id": "bec5ace139f6",
     "title": "Report to Congress on Russian Military Activities in Asia",
     "url": "https://news.usni.org/2026/06/17/report-to-congress-on-russian-military-activities-in-asia",
@@ -43,7 +93,7 @@
     "id": "909f4245044a",
     "title": "U.S. 2nd Fleet, International Partners Commence Fleet Exercise 250",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4518474/us-2nd-fleet-international-partners-commence-fleet-exercise-250/",
-    "date": "2026-06-16T17:01:54Z",
+    "date": "2026-06-16T17:01:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -548,55 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "U.S. forces with Joint Task Force-Southern Spear conducted the first strike on a suspected drug boat in June, killing two men on board. The Wednesday strike, ordered by U.S. Southern Command Commander Gen. Francis Donovan, was on a vessel in the Eastern Pacific allegedly carrying illicit narcotics."
-  },
-  {
-    "id": "039b7c89a776",
-    "title": "Exercise Red Flag-Alaska Launches Multinational Air Combat Training",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4508737/exercise-red-flag-alaska-launches-multinational-air-combat-training/",
-    "date": "2026-06-04T16:45:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Exercise Red Flag-Alaska 26-2 brought together more than 2,100 service members from the U.S. and partner nations for realistic air combat training at Eielson Air Force Base and Joint Base Elmendorf-Richardson, Alaska."
-  },
-  {
-    "id": "fdcf6449b2cc",
-    "title": "Leaders of U.S. Navy’s Ship Maintenance Facility in Japan Removed from Command",
-    "url": "https://news.usni.org/2026/06/04/leaders-of-u-s-navys-ship-maintenance-facility-in-japan-removed-from-command",
-    "date": "2026-06-04T16:44:16Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The leadership of the Navy’s primary ship maintenance facility in Japan was removed from command this week, the service announced Wednesday. U.S. Naval Ship Repair Facility and Japan Regional Maintenance Center (SRF-JRMC) commander Capt. Wendel Penetrante, executive officer Capt. Edwin Catubig and M"
-  },
-  {
-    "id": "f4ef0266b545",
-    "title": "Marine Expeditionary Unit Concludes 10-Month Southcom Deployment",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4508722/marine-expeditionary-unit-concludes-10-month-southcom-deployment/",
-    "date": "2026-06-04T16:23:13Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "Marines and sailors assigned to the 22nd Marine Expeditionary Unit returned to Camp Lejeune, N.C., after a 10-month U.S. Southern Command deployment."
-  },
-  {
-    "id": "d6339173e250",
-    "title": "Task Force Ashland Returns to California from 4-month Indo-Pacific Deployment",
-    "url": "https://news.usni.org/2026/06/04/task-force-ashland-returns-to-california-from-4-month-indo-pacific-deployment",
-    "date": "2026-06-04T15:50:44Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Specialized Marine Air-Ground Task Force Ashland recently completed a four-month deployment to the Indo-Pacific, returning to California in the past week. The Marine Corps element of TF Ashland returned Friday to Camp Pendleton, disembarking from amphibious dock landing ship USS Ashland (LSD-48). Th"
-  },
-  {
-    "id": "f7da184c00ba",
-    "title": "Navy Pilot Programs Aim to Expand Sailor Food Options At Galleys",
-    "url": "https://news.usni.org/2026/06/03/navy-pilot-programs-aim-to-expand-sailor-food-options-at-galleys",
-    "date": "2026-06-03T21:48:22Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "Sailors stationed at Naval Base Kitsap, Wash., and Naval Construction Battalion Center Gulfport, Miss., will now have access to a wider variety of food options as part of the Navy’s efforts to improve sailor quality of life. Two food-centered pilot programs under the Navy Installations Command (CNIC"
   }
 ]
