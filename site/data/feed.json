@@ -1,5 +1,25 @@
 [
   {
+    "id": "01c5fa2c7f20",
+    "title": "Project Patriot Pipeline Crafting Avenues of Service for Skilled Workers",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4519056/project-patriot-pipeline-crafting-avenues-of-service-for-skilled-workers/",
+    "date": "2026-06-16T22:19:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The War Department's Project Patriot Pipeline is an initiative designed to provide a flow of skilled workers to meet the department's needs, while simultaneously supporting the defense industrial base."
+  },
+  {
+    "id": "af7f8c911a31",
+    "title": "Nutrition and Hydration Critical to Airman Readiness in the Summer Heat",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4519032/nutrition-and-hydration-critical-to-airman-readiness-in-the-summer-heat/",
+    "date": "2026-06-16T22:00:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "As temperatures across the installation regularly exceed 100 degrees Fahrenheit during the summer months, health officials at Davis-Monthan are reinforcing a foundational aspect of Airman readiness: proper nutrition and hydration.<br />\n<img alt=\"U.S. Air Force 1st Lt. Kevin Liu, financial operation"
+  },
+  {
     "id": "2f921cbb1b30",
     "title": "GAO Report to Congress on the Navy’s Robotic Autonomous Systems",
     "url": "https://news.usni.org/2026/06/16/gao-report-to-congress-on-the-navys-robotic-autonomous-systems",
@@ -628,16 +648,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The Philippines is set to receive transfers of American and Japanese vessels to bolster its Coast Guard and Navy fleets operating in the South China Sea. American and Japanese defense officials pledged to reinforce Manila’s fleet with recently and soon-to-be decommissioned vessels over the weekend f"
-  },
-  {
-    "id": "ac03a94d0cfd",
-    "title": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs",
-    "url": "https://news.usni.org/2026/06/03/report-to-congress-on-north-koreas-nuclear-weapons-and-missile-programs-4",
-    "date": "2026-06-03T17:38:06Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The following is the May 29, 2026, Congressional Research Service report, North Korea’s Nuclear Weapons and Missile Programs. From the Report Over the past decade, the Democratic People&#8217;s Republic of Korea (DPRK, or North Korea) has advanced its nuclear weapons and ballistic missile programs,"
   },
   {
     "id": "d63fb48ffaab",
@@ -1488,15 +1498,5 @@
     "cocom": "centcom",
     "tag": "naval",
     "summary": "The 355th Wing hosted a Professional Enhancement Seminar to prepare newly selected senior master sergeants for the transition into one of the Air Force’s most demanding leadership roles March 25–27, 2026.<br />\n<img alt=\"DM hosts a Senior Selects Professional Enhancement Seminar\" src=\"https://media."
-  },
-  {
-    "id": "94a6f9f38ea8",
-    "title": "A-10 Makes Final Luke Days Appearance",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4444478/a-10-makes-final-luke-days-appearance/",
-    "date": "2026-03-25T21:07:14Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "air",
-    "summary": "A-10C Thunderbolt II aircraft from Davis-Monthan Air Force Base performed a combat arms demonstration at the Luke Days Air Show at Luke AFB, Arizona, March 22, 2026–marking their final Luke Days appearance as the aircraft divests and pilots transition to the F-35A Lightning II and other Air Force as"
   }
 ]
