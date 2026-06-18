@@ -1,5 +1,15 @@
 [
   {
+    "id": "18045a5b8f9a",
+    "title": "Drone Dominance Program Receives First Order, Gauntlet II Gets Underway",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4520698/drone-dominance-program-receives-first-order-gauntlet-ii-gets-underway/",
+    "date": "2026-06-17T21:48:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Drone Dominance Program Gauntlet Phase II qualifiers concluded, a critical test for a battlefield that is evolving at an unprecedented pace, as the War Department gears up to order 60,000 more high-performing drones in September."
+  },
+  {
     "id": "1346bfaeb686",
     "title": "Destroyer USS Mitscher Returns Home From 11-month Deployment",
     "url": "https://news.usni.org/2026/06/17/destroyer-uss-mitscher-returns-home-from-11-month-deployment",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "House authorizers want a Navy study that assesses how pursuing the nuclear-powered Trump-class battleship program could affect the shipbuilding and nuclear industrial base. The House Armed Services Committee adopted an amendment from Rep. Joe Courtney (D-Conn.) that would require both the Secretary"
-  },
-  {
-    "id": "3c4fe72fde95",
-    "title": "Two Men Killed in Strike On Suspected Drug Boat, First in June",
-    "url": "https://news.usni.org/2026/06/04/two-men-killed-in-strike-on-suspected-drug-boat-first-in-june",
-    "date": "2026-06-04T18:37:30Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "U.S. forces with Joint Task Force-Southern Spear conducted the first strike on a suspected drug boat in June, killing two men on board. The Wednesday strike, ordered by U.S. Southern Command Commander Gen. Francis Donovan, was on a vessel in the Eastern Pacific allegedly carrying illicit narcotics."
   }
 ]
