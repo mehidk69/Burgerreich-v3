@@ -1,5 +1,75 @@
 [
   {
+    "id": "78997e67807f",
+    "title": "SASC Wants Navy to Develop New DDG(X) Destroyer in Tandem with Trump Battleship",
+    "url": "https://news.usni.org/2026/06/18/sasc-wants-navy-to-develop-new-ddgx-destroyer-in-tandem-with-trump-battleship",
+    "date": "2026-06-18T19:44:51Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Senate authorizers want the Navy to continue pursuing the next-generation destroyer, in addition to the new Trump-class battleship, USNI News has learned. The Senate Armed Services Committee thinks the Navy must keep developing DDG(X) as planned to follow the Arleigh Burke-class Flight III destroyer"
+  },
+  {
+    "id": "01cabc1d7eac",
+    "title": "Monsoon Safety",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4521630/monsoon-safety/",
+    "date": "2026-06-18T18:35:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "Airmen at Davis-Monthan Air Force Base are encouraged to remain weather-aware and prepared as Arizona’s monsoon season brings rapidly changing and potentially hazardous conditions.<br />\n<img alt=\"U.S. Air Force graphic depicting Monsoon Safety kit essentials. Davis-Monthan Air Force base is remindi"
+  },
+  {
+    "id": "16c3652a436a",
+    "title": "U.S. Army Uses Drone Boats to Escort Logistics Craft in Philippine Drill",
+    "url": "https://news.usni.org/2026/06/18/u-s-army-uses-drone-boats-to-escort-logistics-craft-in-philippine-drill",
+    "date": "2026-06-18T17:59:58Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The U.S. Army is deploying drone boats to guard its logistics vessels in the Philippines as the service trains to sustain forces in the first island chain. Fielded during this year’s army-to-army Salaknib exercise, the use of these unmanned vessels comes under the service’s broader efforts in the We"
+  },
+  {
+    "id": "84f178c92839",
+    "title": "War Department Review to Ensure 'NATO 3.0' Becomes Europe-Led Defense Alliance",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4521330/war-department-review-to-ensure-nato-30-becomes-europe-led-defense-alliance/",
+    "date": "2026-06-18T16:35:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The War Department plans a review of its posture and footprint in Europe to determine how the U.S. is supporting NATO, how partners are supporting NATO and whether what's happening on the ground reflects what President Donald J. Trump and Secretary of War Pete Hegseth believe the alliance should be."
+  },
+  {
+    "id": "54b907b86243",
+    "title": "U.S. Marines Kick Off Kamandag 10 Exercise in the Philippines",
+    "url": "https://news.usni.org/2026/06/18/u-s-marines-kick-off-kamandag-10-exercise-in-the-philippines",
+    "date": "2026-06-18T16:31:18Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "U.S. Marines joined Philippine, Japanese and South Korean forces on Monday for the start of Exercise Kaagapay ng mga Mandirigma ng Dagat 10 – or Kamandag 10 – across the Philippine archipelago. Marine Rotational Force-Darwin (MRF-D), Marine Rotational Force-South East Asia (MRF-SEA) and 3rd Marine L"
+  },
+  {
+    "id": "c36bd9afa0b8",
+    "title": "Davis-Monthan hosts PJ Immersion Day for Special Warfare candidates",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4521373/davis-monthan-hosts-pj-immersion-day-for-special-warfare-candidates/",
+    "date": "2026-06-18T16:10:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "Air Force Special Warfare recruiters partnered with the 306th Rescue Squadron to host a Pararescue Immersion Day  providing prospective candidates an opportunity to experience the demands and mission of the career field firsthand at Davis-Monthan Air Force Base, Arizona, June 15th, 2026.<br />\n<img"
+  },
+  {
+    "id": "d0375796bfec",
+    "title": "Report Accompanying the Senate Armed Service’s Committee’s Draft of FY27 NDAA",
+    "url": "https://news.usni.org/2026/06/18/report-accompanying-the-senate-armed-services-committees-draft-of-fy27-ndaa",
+    "date": "2026-06-18T14:56:10Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the report accompanying the Senate Armed Service&#8217;s Committee&#8217;s Draft of the Fiscal Year 2027 National Defense Authorization Act, published June 17, 2026. From the Report Purpose of the Bill This bill would: (1) Authorize appropriations for (a) procurement, (b) research,"
+  },
+  {
     "id": "18045a5b8f9a",
     "title": "Drone Dominance Program Receives First Order, Gauntlet II Gets Underway",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4520698/drone-dominance-program-receives-first-order-gauntlet-ii-gets-underway/",
@@ -7,7 +77,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "air",
-    "summary": "Drone Dominance Program Gauntlet Phase II qualifiers concluded, a critical test for a battlefield that is evolving at an unprecedented pace, as the War Department gears up to order 60,000 more high-performing drones in September."
+    "summary": "Drone Dominance Program Gauntlet Phase II, a critical test for a battlefield that is evolving at an unprecedented pace, will kick off as the War Department gears up to order 60,000 more high-performing drones in September."
   },
   {
     "id": "1346bfaeb686",
@@ -600,46 +670,6 @@
     "summary": "U.S. Indo-Pacific Command forces interdicted and boarded a stateless vessel in the Indian Ocean late Thursday as part of the expanded U.S. blockade of Iranian ports, the combatant command posted on social media site X. The INDOPACOM post did not indicate whether the U.S. took possession of MT Davina"
   },
   {
-    "id": "692b6c2bfb7b",
-    "title": "USNI News Western Pacific Pulse: June 5, 2026",
-    "url": "https://news.usni.org/2026/06/05/usni-news-western-pacific-pulse-june-5-2026",
-    "date": "2026-06-05T21:41:02Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Philippine Sea Aircraft carrier USS George Washington (CVN-73) is on patrol in the Philippine Sea. George Washington and its fixed wing squadrons completed carrier qualification train"
-  },
-  {
-    "id": "a7d8a5d437f9",
-    "title": "Ottawa Wants Future Canadian Army HIMARS to Deploy Long-range Anti-ship Missiles",
-    "url": "https://news.usni.org/2026/06/05/ottawa-wants-future-canadian-army-himars-to-deploy-long-range-anti-ship-missiles",
-    "date": "2026-06-05T19:22:23Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Ottawa announced plans to procure over two dozen American missile launchers within four years to support the Canadian Army’s long-range strike and anti-shipping requirements. Procured to address “global security situations,” the $1.8 billion Long-range Precision Strike Land project will include muni"
-  },
-  {
-    "id": "edc3a948501e",
-    "title": "Washington National Guard Builds Counter-UAS Partnerships Ahead of World Cup 2026",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4509924/washington-national-guard-builds-counter-uas-partnerships-ahead-of-world-cup-20/",
-    "date": "2026-06-05T17:36:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "As unmanned aerial systems continue to evolve from recreational tools into potential threats to public safety, critical infrastructure and major public events, the Washington National Guard is positioning itself at the forefront of counter-UAS training and readiness."
-  },
-  {
-    "id": "5127e9a6f8a3",
-    "title": "Maine Air National Guard Surges Support for Operation Epic Fury",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4509935/maine-air-national-guard-surges-support-for-operation-epic-fury/",
-    "date": "2026-06-05T17:07:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Air Transportation Function airmen assigned to the Maine Air National Guard's 101st Air Refueling Wing helped move more than 747,000 pounds of cargo and 312 passengers since the start of Operation Epic Fury."
-  },
-  {
     "id": "de95c4c3a577",
     "title": "Explosive Ordnance Disposal conducts field training exercise",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4509257/explosive-ordnance-disposal-conducts-field-training-exercise/",
@@ -648,16 +678,6 @@
     "cocom": "centcom",
     "tag": "exercise",
     "summary": "Physically demanding scenarios helped EOD Airmen build the endurance, teamwork, and decision-making skills necessary to execute missions and recover personnel under challenging conditions.<br />\n<img alt=\"Explosive Ordnance Disposal field training exercise\" src=\"https://media.defense.gov/2026/Jun/04"
-  },
-  {
-    "id": "cfd31517bac6",
-    "title": "House Authorizers Adopt Amendment for Navy Battleship Study",
-    "url": "https://news.usni.org/2026/06/04/house-authorizers-adopt-amendment-for-navy-battleship-study",
-    "date": "2026-06-04T20:48:26Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "House authorizers want a Navy study that assesses how pursuing the nuclear-powered Trump-class battleship program could affect the shipbuilding and nuclear industrial base. The House Armed Services Committee adopted an amendment from Rep. Joe Courtney (D-Conn.) that would require both the Secretary"
   },
   {
     "id": "d63fb48ffaab",
@@ -1478,25 +1498,5 @@
     "cocom": "centcom",
     "tag": "alert",
     "summary": "A U.S. Air Force Pararescueman assigned to the 68th Rescue Squadron searches for potential casualties during the Combat Leader Course confined space rescue scenario at the Titan Missile Museum in Green Valley, Arizona, March 31, 2026. Each area was methodically cleared to ensure no casualties were o"
-  },
-  {
-    "id": "d24e90a13163",
-    "title": "New Mission Ready Airmen program strengthens deployment readiness",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4450999/new-mission-ready-airmen-program-strengthens-deployment-readiness/",
-    "date": "2026-04-02T21:02:07Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "exercise",
-    "summary": "DAVIS-MONTHAN AIR FORCE BASE, Ariz. — U.S. Airmen at Davis-Monthan Air Force Base are expanding their deployment readiness through the Mission Ready Airmen program, an initiative designed to prepare service members for the challenges they may face in deployed environments.<br />\n<img alt=\"U.S. Air F"
-  },
-  {
-    "id": "7f38cc660f1a",
-    "title": "355th Wing commanders explore leadership lessons during offsite In Gardner Canyon",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4447275/355th-wing-commanders-explore-leadership-lessons-during-offsite-in-gardner-cany/",
-    "date": "2026-03-30T16:50:00Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "naval",
-    "summary": "DAVIS-MONTHAN AIR FORCE BASE, Ariz. -- Leaders from across Davis-Monthan Air Force Base’s 355th Wing gathered for an offsite focused on strengthening relationships, building morale and preparing for future challenges in Gardner Canyon, Arizona, March 23-24, 2026.<br />\n<img alt=\"U.S. Air Force Senio"
   }
 ]
