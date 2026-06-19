@@ -1,5 +1,25 @@
 [
   {
+    "id": "3cb5c581810f",
+    "title": "USNI News Western Pacific Pulse: June 19, 2026",
+    "url": "https://news.usni.org/2026/06/19/usni-news-western-pacific-pulse-june-19-2026",
+    "date": "2026-06-19T14:51:28Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. En route to Hawaii Ships from various nations are transiting the Western Pacific en route to the U.S. Navy’s Rim of the Pacific 2026 exercise, which will be held in Hawaii from Jun. 24-Jul. 12"
+  },
+  {
+    "id": "734d1e47966d",
+    "title": "Three Killed in Latest U.S. Strike on Suspected Drug Boat",
+    "url": "https://news.usni.org/2026/06/19/three-killed-in-latest-u-s-strike-on-suspected-drug-boat",
+    "date": "2026-06-19T14:44:57Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Forces with Joint Task Force Southern Spear struck an alleged drug boat in the Eastern Pacific, killing three men, on Thursday. The strike was the 65th since President Donald Trump announced the first ones in September 2025. At least 208 people have been killed, including the three men from Thursday"
+  },
+  {
     "id": "703a0c01c71b",
     "title": "A Simple Prayer and a Blasted Bridge: Marine John Ripley Receives Posthumous Medal of Honor",
     "url": "https://news.usni.org/2026/06/19/a-simple-prayer-and-a-blasted-bridge-marine-john-ripley-receives-posthumous-medal-of-honor",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 8, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
-  },
-  {
-    "id": "3075b5e4e54e",
-    "title": "UPDATED: Navy IDs Sailor Killed in Saturday Shooting Aboard Carrier JFK",
-    "url": "https://news.usni.org/2026/06/08/sailor-dead-after-shooting-board-carrier-jfk-one-sailor-in-custody",
-    "date": "2026-06-08T15:56:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "This post has been identified with the sailor who died on Saturday. One sailor is dead and a second sailor is in pre-trial confinement after an early morning Saturday shooting aboard carrier John F. Kennedy (CVN-79), USNI News has learned. Boatswain’s Mate Seaman Jesse Braswell of Colorado was kille"
-  },
-  {
-    "id": "24172a4000f8",
-    "title": "Sailor Dead After Shooting Aboard Carrier JFK, One Sailor in Custody",
-    "url": "https://news.usni.org/2026/06/08/sailor-dead-after-shooting-board-carrier-jfk-one-sailor-in-custody",
-    "date": "2026-06-08T15:56:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "This post will be updated as more information becomes available. One sailor is dead and a second sailor is in pre-trial confinement after a Saturday shooting aboard carrier John F. Kennedy (CVN-79), USNI News has learned. “A sailor has been placed in pretrial confinement in connection with the death"
   }
 ]
