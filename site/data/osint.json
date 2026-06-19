@@ -1,5 +1,15 @@
 [
   {
+    "id": "703a0c01c71b",
+    "title": "A Simple Prayer and a Blasted Bridge: Marine John Ripley Receives Posthumous Medal of Honor",
+    "url": "https://news.usni.org/2026/06/19/a-simple-prayer-and-a-blasted-bridge-marine-john-ripley-receives-posthumous-medal-of-honor",
+    "date": "2026-06-19T11:56:02Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "For decades, young midshipmen at the U.S. Naval Academy have walked by &#8220;Ripley at the Bridge,&#8221; a dramatic diorama within the Memorial Hall foyer in Bancroft Hall featuring Marine Capt. John Ripley dangling from a girder over the Cua Viet River. On Thursday, 54 years after his actions in"
+  },
+  {
     "id": "9b35339380b1",
     "title": "U.S. Ends Naval Blockade of Iran",
     "url": "https://news.usni.org/2026/06/18/u-s-ends-naval-blockade-of-iran",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "This post will be updated as more information becomes available. One sailor is dead and a second sailor is in pre-trial confinement after a Saturday shooting aboard carrier John F. Kennedy (CVN-79), USNI News has learned. “A sailor has been placed in pretrial confinement in connection with the death"
-  },
-  {
-    "id": "a0c5523a33ae",
-    "title": "Navy Establishes NSA Stirling in Australia",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4511044/navy-establishes-nsa-stirling-in-australia/",
-    "date": "2026-06-08T14:26:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Navy established Naval Support Activity Stirling in Perth, Australia, to provide essential services and community infrastructure for American personnel and families stationed there as part of the trilateral AUKUS security partnership."
   }
 ]
