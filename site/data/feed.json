@@ -1,5 +1,25 @@
 [
   {
+    "id": "9b35339380b1",
+    "title": "U.S. Ends Naval Blockade of Iran",
+    "url": "https://news.usni.org/2026/06/18/u-s-ends-naval-blockade-of-iran",
+    "date": "2026-06-18T22:30:53Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The United States has lifted the naval blockade against Iranian ports and coastlines, U.S. Central Command announced via social media site X. The lifting of the blockade comes as Washington and Tehran sign a 60-day memorandum of understanding between the two the U.S. and Iran, ending hostilities whi"
+  },
+  {
+    "id": "c43899f3a6a4",
+    "title": "Sailor Involved in JFK Shooting Released From Pre-trial Confinement",
+    "url": "https://news.usni.org/2026/06/18/sailor-involved-in-jfk-shooting-released-from-pre-trial-confinement",
+    "date": "2026-06-18T20:58:37Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A sailor involved in a shooting on future aircraft carrier John F. Kennedy (CVN-79) was released from pre-trial confinement, USNI News has learned. A sailor, whose name has not been released, was initially taken into pre-trial confinement following the fatal shooting of Boatswain’s Mate Seaman Jesse"
+  },
+  {
     "id": "78997e67807f",
     "title": "SASC Wants Navy to Develop New DDG(X) Destroyer in Tandem with Trump Battleship",
     "url": "https://news.usni.org/2026/06/18/sasc-wants-navy-to-develop-new-ddgx-destroyer-in-tandem-with-trump-battleship",
@@ -648,26 +668,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The Navy established Naval Support Activity Stirling in Perth, Australia, to provide essential services and community infrastructure for American personnel and families stationed there as part of the trilateral AUKUS security partnership."
-  },
-  {
-    "id": "28c3439f906f",
-    "title": "Hegseth Commemorates 82nd Anniversary of WWII Allied Invasion at Normandy",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4510064/hegseth-commemorates-82nd-anniversary-of-wwii-allied-invasion-at-normandy/",
-    "date": "2026-06-06T12:06:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Secretary of War Pete Hegseth traveled to the Normandy American Cemetery in France for the second consecutive year, where he delivered remarks honoring the approximately 160,000 Allied troops — 73,000 of them Americans — who landed at Normandy on June 6, 1944."
-  },
-  {
-    "id": "15e1a5355641",
-    "title": "U.S. Forces Interdict Ship Connected to Iran in Indian Ocean, Iranian Oil Exports See Decrease",
-    "url": "https://news.usni.org/2026/06/05/u-s-forces-interdict-ship-connected-to-iran-in-indian-ocean-iranian-oil-exports-see-decrease",
-    "date": "2026-06-05T21:57:22Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.S. Indo-Pacific Command forces interdicted and boarded a stateless vessel in the Indian Ocean late Thursday as part of the expanded U.S. blockade of Iranian ports, the combatant command posted on social media site X. The INDOPACOM post did not indicate whether the U.S. took possession of MT Davina"
   },
   {
     "id": "de95c4c3a577",
