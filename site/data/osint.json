@@ -1,5 +1,15 @@
 [
   {
+    "id": "be832f456b03",
+    "title": "Trump, Hegseth Praise Three New Medal of Honor Recipients",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4522219/trump-hegseth-praise-three-new-medal-of-honor-recipients/",
+    "date": "2026-06-19T22:13:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "President Donald J. Trump and Secretary of War Pete Hegseth lauded the intrepid valor of three servicemen whom the commander in chief awarded the Medal of Honor to at a White House ceremony."
+  },
+  {
     "id": "3cb5c581810f",
     "title": "USNI News Western Pacific Pulse: June 19, 2026",
     "url": "https://news.usni.org/2026/06/19/usni-news-western-pacific-pulse-june-19-2026",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "The Massachusetts National Guard's 104th Fighter Wing Medical Group enhanced regional medical readiness by hosting the Air Combat Command Emergency Decontamination Course at Barnes Air National Guard Base, the first time the Air National Guard has hosted a remote training team for the course."
-  },
-  {
-    "id": "b319618cddf6",
-    "title": "USNI News Fleet and Marine Tracker: June 8, 2026",
-    "url": "https://news.usni.org/2026/06/08/usni-news-fleet-and-marine-tracker-june-8-2026",
-    "date": "2026-06-08T17:48:30Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 8, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
   }
 ]
