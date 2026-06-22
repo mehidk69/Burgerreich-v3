@@ -1,9 +1,39 @@
 [
   {
+    "id": "a96bd7a58956",
+    "title": "Two Men Killed in U.S. Strike on Suspected Drug Boat in the Caribbean",
+    "url": "https://news.usni.org/2026/06/22/two-men-killed-in-u-s-strike-on-suspected-drug-boat-in-the-caribbean",
+    "date": "2026-06-22T20:10:41Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The U.S. struck a suspected drug boat in the Caribbean on Sunday, the first strike in the area since early May. The strike, conducted by the Joint Task Force Southern Spear, killed two men. Another six men survived the initial strike, with U.S. Coast Guard activating search and rescue operations. Re"
+  },
+  {
+    "id": "2055b5e964e9",
+    "title": "China’s Liaoning Carrier Strike Group Concludes 40-day Deployment to South China, Philippine Seas",
+    "url": "https://news.usni.org/2026/06/22/chinas-liaoning-carrier-strike-group-concludes-40-day-deployment-to-south-china-philippine-seas",
+    "date": "2026-06-22T19:44:26Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "China’s Liaoning Carrier Strike Group returned Monday to its homeport of Qingdao, concluding a 40-day deployment to the South China Sea and Philippine Sea, the People’s Liberation Army Navy announced. “Back to Port: A Chinese PLA Navy’s task force led by aircraft carrier Liaoning (Hull 16) completed"
+  },
+  {
+    "id": "04d53007faf5",
+    "title": "USNI News Fleet and Marine Tracker: June 22, 2026",
+    "url": "https://news.usni.org/2026/06/22/usni-news-fleet-and-marine-tracker-june-22-2026",
+    "date": "2026-06-22T18:46:33Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 22, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
+  },
+  {
     "id": "61664420d7d6",
     "title": "NASCAR San Diego Weekend Connects Sailors, Community for Navy 250",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4522864/nascar-san-diego-weekend-connects-sailors-community-for-navy-250/",
-    "date": "2026-06-22T17:03:46Z",
+    "date": "2026-06-22T17:03:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "This post has been updated with additional information. This post contains details of a violent crime that may disturb some readers. NAVAL STATION NORFOLK, Va. — Esmeralda Castle told a courtroom on Monday she was scared when her daughter, Culinary Specialist 3rd Class Angelina Resendiz, told her th"
-  },
-  {
-    "id": "c2c3efdddb63",
-    "title": "BREAKING: Norfolk Sailor Sentenced to 43 Years in Prison for Murder of Fellow Sailor",
-    "url": "https://news.usni.org/2026/06/09/breaking-norfolk-sailor-sentenced-to-43-years-in-prison-for-murder-of-fellow-sailor",
-    "date": "2026-06-09T16:44:21Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "NAVAL STATION NORFOLK, Va. — A Norfolk sailor was sentenced on Tuesday to serve 43 years in federal prison for the murder of a fellow sailor in May 2025. Culinary Specialist 3rd Class Jermiah Copeland will serve the more than four-decade-long sentence at Leavenworth Federal Prison for strangling CS3"
-  },
-  {
-    "id": "c582fffd07f0",
-    "title": "New 3rd Fleet Commander, Joint Staff Director Nominated",
-    "url": "https://news.usni.org/2026/06/09/new-3rd-fleet-commander-joint-staff-director-nominated",
-    "date": "2026-06-09T16:35:03Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Four Navy flag officers have been nominated for three-star assignments, according to a Monday Pentagon announcement. Vice Adm. Scott Gray, current commander of Navy Installations Command, has been renominated for a third star to be the deputy chief of Naval Operations for Sustainment, N4, Office of"
-  },
-  {
-    "id": "6e61026f9cba",
-    "title": "War Department Leaders Observe Kansas City's Counter-Drone Preparations Ahead of World Cup",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4511924/war-department-leaders-observe-kansas-citys-counter-drone-preparations-ahead-of/",
-    "date": "2026-06-09T13:19:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Joint Interagency Task Force 401 continues to share knowledge and best practices with World Cup host cities for countering illicit unmanned aircraft systems."
   }
 ]
