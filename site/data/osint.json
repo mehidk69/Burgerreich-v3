@@ -1,5 +1,35 @@
 [
   {
+    "id": "cca9d89cb6cf",
+    "title": "Allies Come Together in the Indo-Pacific for Exercise Valiant Shield 26",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4522795/allies-come-together-in-the-indo-pacific-for-exercise-valiant-shield-26/",
+    "date": "2026-06-22T15:53:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "U.S. Pacific Command joint forces, along with allied and partner forces, kicked off Exercise Valiant Shield 2026 in the Indo-Pacific region to strengthen the joint and combined force through training in precise, lethal and overwhelming scenarios."
+  },
+  {
+    "id": "3168135653be",
+    "title": "U.S. Army Stands Up New Command to Counter China’s Area Denial Strategy with Lethal Drones, Long-Range Missiles",
+    "url": "https://news.usni.org/2026/06/22/u-s-army-stands-up-new-command-to-counter-chinas-area-denial-strategy-with-lethal-drones-long-range-missiles",
+    "date": "2026-06-22T14:21:55Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "U.S. Army Pacific has created a new command that will link Stryker brigades, long-range missile launchers, unmanned vessels and attack drones to break adversary area denial networks, such as those fielded by China. Combining the Stryker Brigade Combat Teams of the 7th Infantry Division with the long"
+  },
+  {
+    "id": "1ec1cce2eb78",
+    "title": "Ceremony Brings New Name, Transformation to 7th Infantry Division",
+    "url": "https://www.army.mil/article-amp/293387/7th_id_conducts_redesignation_ceremony",
+    "date": "2026-06-22T14:11:05Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The 7th Infantry Division (Multi-Domain Command-Pacific) is the Army's newest theater-enabling command, built to integrate maneuver, fires, air defense, cyber, space, electronic warfare, intelligence, unmanned systems, sustainment and command and control to support the joint force across the Pacific"
+  },
+  {
     "id": "f403918cbdc6",
     "title": "Trump, Hegseth Praise New Medal of Honor Recipients",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4522219/trump-hegseth-praise-new-medal-of-honor-recipients/",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "The following is the June 4, 2026, Congressional Research Service report, Taiwan: Defense and Military Issues. From the report Taiwan, (which formally calls itself the Republic of China, or ROC) is a self-governing democracy of 23.3 million people located across the Taiwan Strait from mainland China"
-  },
-  {
-    "id": "9aa6a9ceb0fa",
-    "title": "Norfolk Sailor Pleads Guilty to Murder of Fellow Sailor",
-    "url": "https://news.usni.org/2026/06/08/norfolk-sailor-pleads-guilty-to-murder-of-fellow-sailor",
-    "date": "2026-06-08T22:06:23Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "NAVAL STATION NORFOLK, Va. — A Norfolk sailor pleaded guilty Monday to murdering a fellow sailor in May 2025 as part of a plea agreement that will see him sentenced to a minimum of 40 years in a federal prison. Culinary Specialist 3rd Class Jeremiah Copeland appeared before a military judge for a ge"
-  },
-  {
-    "id": "bd5a5e890bcb",
-    "title": "Chinese Flotilla Surges East of Taiwan Amid Spat with the Philippines, Japan",
-    "url": "https://news.usni.org/2026/06/08/chinese-flotilla-surges-east-of-taiwan-amid-spat-with-the-philippines-japan",
-    "date": "2026-06-08T21:10:09Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "China deployed six cutters and patrol ships east of the Luzon Strait in its second “special maritime law enforcement operation” following a diplomatic row with the Philippines and Japan. On Saturday, China&#8217;s Ministry of Transport led a mission involving the Fujian and Guangdong regional mariti"
-  },
-  {
-    "id": "50b90a616515",
-    "title": "Carrier USS Theodore Roosevelt to Lead 2026 Rim of the Pacific Exercise",
-    "url": "https://news.usni.org/2026/06/08/carrier-uss-theodore-roosevelt-to-lead-2026-rim-of-the-pacific-exercise",
-    "date": "2026-06-08T20:31:00Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Aircraft carrier USS Theodore Roosevelt (CVN-71) will lead the U.S. participation in this year’s Rim of the Pacific (RIMPAC) 2026 exercise, the service announced. Held from June 24 to July 31 in and around the Hawaiian Islands, RIMPAC will include a total of 32 surface ships, five submarines with 31"
   }
 ]
