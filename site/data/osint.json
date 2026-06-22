@@ -1,5 +1,15 @@
 [
   {
+    "id": "61664420d7d6",
+    "title": "NASCAR San Diego Weekend Connects Sailors, Community for Navy 250",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4522864/nascar-san-diego-weekend-connects-sailors-community-for-navy-250/",
+    "date": "2026-06-22T17:03:46Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Naval Base Coronado welcomed more than 100,000 visitors, race fans, service members, military families and community partners during the inaugural NASCAR San Diego Weekend, which celebrated the service's enduring connection to the American people."
+  },
+  {
     "id": "cca9d89cb6cf",
     "title": "Allies Come Together in the Indo-Pacific for Exercise Valiant Shield 26",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4522795/allies-come-together-in-the-indo-pacific-for-exercise-valiant-shield-26/",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "Joint Interagency Task Force 401 continues to share knowledge and best practices with World Cup host cities for countering illicit unmanned aircraft systems."
-  },
-  {
-    "id": "df9e240b34ff",
-    "title": "Report to Congress on Defense of Taiwan",
-    "url": "https://news.usni.org/2026/06/09/report-to-congress-on-defense-of-taiwan",
-    "date": "2026-06-09T11:42:51Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the June 4, 2026, Congressional Research Service report, Taiwan: Defense and Military Issues. From the report Taiwan, (which formally calls itself the Republic of China, or ROC) is a self-governing democracy of 23.3 million people located across the Taiwan Strait from mainland China"
   }
 ]
