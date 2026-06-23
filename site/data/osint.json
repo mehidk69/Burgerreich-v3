@@ -1,5 +1,75 @@
 [
   {
+    "id": "2b7ff8599d90",
+    "title": "The Navy’s Big 3-D Printing Bet",
+    "url": "https://news.usni.org/2026/06/23/the-navys-big-3-d-printing-bet",
+    "date": "2026-06-23T18:47:00Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "DANVILLE, Va. — Dozens of miles from an interstate or a major airport, a tiny mill town in the Virginia piedmont is the crucible for next-generation manufacturing for the Navy. At the height of the 600-ship Navy shipbuilding boom in the 1980s there were more than 2,000 casting and forging businesses"
+  },
+  {
+    "id": "035498fe42b1",
+    "title": "National Guard Counterdrug Program Adapts to Evolving Criminal Threats",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4524222/national-guard-counterdrug-program-adapts-to-evolving-criminal-threats/",
+    "date": "2026-06-23T18:37:51Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The National Guard Counterdrug Program helps law enforcement connect investigations and share intelligence to stop sophisticated drug trafficking networks across the country."
+  },
+  {
+    "id": "17e6d92d3629",
+    "title": "U.S. Kicks Off Western Pacific Exercises Valiant Shield, Resolute Dragon",
+    "url": "https://news.usni.org/2026/06/23/u-s-kicks-off-western-pacific-exercises-valiant-shield-resolute-dragon",
+    "date": "2026-06-23T17:34:07Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The U.S. kicked off this week multinational exercise Valiant Shield 2026 and Marine Corps-Japan Ground Self-Defense Force exercise Resolute Dragon 26, two major Western Pacific exercises. Led by U.S. Indo-Pacific Command, Valiant Shield 2026 began Monday and will run through July 1, taking place in"
+  },
+  {
+    "id": "1bc6a52df4f5",
+    "title": "A Historic First: Marine Corps Reserve Integrates Multidomain Assets During Exercise",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4524108/a-historic-first-marine-corps-reserve-integrates-multidomain-assets-during-exer/",
+    "date": "2026-06-23T17:05:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The Marine Corps Reserve is actively deploying multidomain collection assets during an integration course for the first time in its history, marking a technological milestone that ensures the service remains an agile force prepared to dominate in complex, data-driven conflicts."
+  },
+  {
+    "id": "43d79c1f2e8c",
+    "title": "U.S. Asymmetric Aid Program Transfers Unmanned Vessels to the Philippines, Plans Attack Drone Transfer by 2027",
+    "url": "https://news.usni.org/2026/06/23/u-s-asymmetric-aid-program-transfers-unmanned-vessels-to-the-philippines-plans-attack-drone-transfer-by-2027",
+    "date": "2026-06-23T15:42:24Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "MANILA, PHILIPPINES – The latest tranche of American-made and funded drones were formerly received by Philippine forces this week ahead of Washington’s larger plans to equip the Southeast Asian ally with asymmetric capabilities that could prove crucial in monitoring and deterring Beijing in the Sout"
+  },
+  {
+    "id": "397a767d828b",
+    "title": "Hegseth: Defense and Fiscal Hawks, Unite!",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4523963/hegseth-defense-and-fiscal-hawks-unite/",
+    "date": "2026-06-23T14:58:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Urgency, speed, efficiency, competition and lethality are the new guiding principles of the War Department, Secretary of War Pete Hegseth writes. This moment requires defense hawks and fiscal hawks to pull together."
+  },
+  {
+    "id": "0b8f14e32e9f",
+    "title": "GAO Report on Countering China",
+    "url": "https://news.usni.org/2026/06/23/gao-report-on-countering-china",
+    "date": "2026-06-23T14:48:47Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the June 17, 2026, Government Accountability Office report, Countering China: Agencies Provided Over $1 Billion but Have Not Assessed Overall Results of Projects. From the Report China and the U.S. are competing for global economic and geopolitical influence—from mining critical min"
+  },
+  {
     "id": "41ce24d47bbd",
     "title": "Coast Guard Helicopter Crashes in Alaska, 4 Transported to Hospital",
     "url": "https://news.usni.org/2026/06/22/coast-guard-helicopter-crashes-in-alaska-4-transported-to-hospital",
@@ -528,75 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "Taiwan&#8217;s newly acquired American attack drones struck maritime targets for the first time last week along the island’s west coast during live-fire drills designed to validate long-range strike systems that would play a crucial role in a potential invasion of the self-governing island. Accordin"
-  },
-  {
-    "id": "20916624c8b0",
-    "title": "BALTOPS 2026 Exercise Begins",
-    "url": "https://news.usni.org/2026/06/10/baltops-2026-exercise-begins",
-    "date": "2026-06-10T21:14:40Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "NATO kicked off maritime exercise Baltic Operations (BALTOPS) 2026 this week with 20 ships and 6,000 personnel from 15 NATO nations – fewer than BALTOPS 2025 owing to the NATO naval assets wrapped up in the Middle East. U.S. Sixth Fleet, which leads the exercise, said in a press release that, for th"
-  },
-  {
-    "id": "8dbebd536fb5",
-    "title": "U.S. Prepared for Anything, Hegseth Tells Troops at Guantanamo Bay",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4513916/us-prepared-for-anything-hegseth-tells-troops-at-guantanamo-bay/",
-    "date": "2026-06-10T20:22:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "At Naval Station Guantanamo Bay, Cuba, Secretary of War Pete Hegseth met with service members for a morning physical training session and also discussed readiness with mission leaders at the installation."
-  },
-  {
-    "id": "466932a2f6d7",
-    "title": "Sailors Involved in JFK Shooting Were Part of Carrier’s In-Port Security Force",
-    "url": "https://news.usni.org/2026/06/10/sailors-involved-in-jfk-shooting-were-part-of-carriers-in-port-security-force",
-    "date": "2026-06-10T19:27:53Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The two sailors involved in a fatal shooting Saturday aboard future aircraft carrier John F. Kennedy (CVN-79) were part of the ship’s armed security forces, USNI News has learned. Boatswain’s Mate Seaman Jesse Braswell, of Colorado, was killed in the shooting, which took place around 5:15 a.m on Sat"
-  },
-  {
-    "id": "da602d72126c",
-    "title": "33rd Maintenance Squadron Refurbishes Khobar Towers Memorial Sword",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4513525/33rd-maintenance-squadron-refurbishes-khobar-towers-memorial-sword/",
-    "date": "2026-06-10T18:37:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Airmen assigned to the 33rd Maintenance Squadron revitalized the flaming sword centered on the 33rd Fighter Wing's Khobar Towers Memorial by modifying it to keep the flame burning without environmental disruption."
-  },
-  {
-    "id": "9d2382603ea4",
-    "title": "Army Astronaut Selected for NASA's Historic Artemis III Mission",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4513395/army-astronaut-selected-for-nasas-historic-artemis-iii-mission/",
-    "date": "2026-06-10T16:58:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Army Col. Frank Rubio, assigned to the U.S. Army Space and Missile Defense Command, will serve as a mission specialist on an upcoming NASA Artemis III mission."
-  },
-  {
-    "id": "d229bc1d7a32",
-    "title": "GAO Report to Congress on the Department of Homeland Security Acquisition",
-    "url": "https://news.usni.org/2026/06/10/gao-report-to-congress-on-the-department-of-homeland-security-acquisition",
-    "date": "2026-06-10T13:58:58Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The following is the 2026 Government Accountability Office annual report to Congress on the Department of Homeland Security acquisition programs.  From the report What GAO Found The U.S. Department of Homeland Security (DHS) and its components spend billions annually on programs to acquire systems a"
-  },
-  {
-    "id": "9f13c4afc912",
-    "title": "Upcoming U.S. Depot in the Philippines to Support Fueling of Navy Destroyers, Combat Logistics Force Ships",
-    "url": "https://news.usni.org/2026/06/09/upcoming-u-s-depot-in-the-philippines-to-support-fueling-of-navy-destroyers-combat-logistics-force-ships",
-    "date": "2026-06-09T21:31:22Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Pentagon’s planned energy depot in the Philippines will be able to refuel the U.S. Navy’s guided-missile destroyers and Combat Logistics Force ships, according to new documents. Amendments to the Defense Logistics Agency’s solicitation from last summer have expanded, requiring the bidder to prov"
   }
 ]
