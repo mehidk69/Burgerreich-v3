@@ -1,5 +1,55 @@
 [
   {
+    "id": "c21a2b09f0ae",
+    "title": "North Korea Commissions First-in-class Destroyer Choe Hyon",
+    "url": "https://news.usni.org/2026/06/24/north-korea-commissions-first-in-class-destroyer-choe-hyon",
+    "date": "2026-06-24T17:25:39Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "North Korea commissioned its largest warship to date, the 5,000-ton destroyer Choe Hyon (51), in a ceremony Tuesday in the port city Nampho. The first-in-class Choe Hyon was built at Nampho Shipyard and launched on April 25, 2025. Prior to its commissioning, Choe Hyon conducted a number of sea trial"
+  },
+  {
+    "id": "56614b073ff2",
+    "title": "Air Force Rescue Squadron Deploys Jolly Green II Helicopters to East Africa",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4525318/air-force-rescue-squadron-deploys-jolly-green-ii-helicopters-to-east-africa/",
+    "date": "2026-06-24T16:51:51Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The 56th Expeditionary Rescue Squadron arrived at Camp Lemonnier, Djibouti, setting a milestone by deploying HH-60W Jolly Green II helicopters and establishing a critical rotary-wing rescue capability in East Africa to support regional response efforts."
+  },
+  {
+    "id": "b729343fdf16",
+    "title": "Army Armaments Center Develops New Counter-UAS Capability",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4525223/army-armaments-center-develops-new-counter-uas-capability/",
+    "date": "2026-06-24T15:57:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "A new effort led by the U.S. Army Combat Capabilities Development Command Armaments Center demonstrated advancements developed for fire control, enabling the ability to engage and defeat drones with a common remotely operated weapon station while shooting on the move."
+  },
+  {
+    "id": "a2d8424244b5",
+    "title": "Taiwan Budget Calls for $6.6B for Attack Drones, Unmanned Surface Vessels",
+    "url": "https://news.usni.org/2026/06/24/taiwan-budget-calls-for-6-6b-for-attack-drones-unmanned-surface-vessels",
+    "date": "2026-06-24T15:11:48Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Taiwan’s executive branch pitched a $6.6 billion budget last week for the procurement of more than 200,000 domestically-made unmanned systems designed to defend the island’s shores. The proposal will cover up to 208,200 one-way attack drones, 1,446 reconnaissance drones and 1,320 unmanned surface ve"
+  },
+  {
+    "id": "880737e0f768",
+    "title": "Report to Congress on U.S.-Panama Relations",
+    "url": "https://news.usni.org/2026/06/24/report-to-congress-on-u-s-panama-relations",
+    "date": "2026-06-24T14:06:43Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The following is the June 16, 2026, Congressional Research Service report U.S.-Panama Relations: Overview and Issues for Congress. From the Report The United States and Panama generally have maintained close relations since Panama&#8217;s independence in 1903. Close bilateral ties are largely rooted"
+  },
+  {
     "id": "2b7ff8599d90",
     "title": "The Navy’s Big 3-D Printing Bet",
     "url": "https://news.usni.org/2026/06/23/the-navys-big-3-d-printing-bet",
@@ -610,46 +660,6 @@
     "summary": "Airmen assigned to the Minnesota Air National Guard 133rd Airlift Wing concluded a historic deployment to Africa, as airmen assigned to the Air Force Reserve 815th Airlift Squadron, known as the Flying Jennies, are carrying the torch for the next rotation."
   },
   {
-    "id": "5c10f819539b",
-    "title": "U.S. Navy Stands Up 2 Australian Commands in Support of American, U.K. Subs",
-    "url": "https://news.usni.org/2026/06/11/u-s-navy-stands-up-2-australian-commands-in-support-of-american-u-k-subs",
-    "date": "2026-06-11T17:48:34Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. Navy recently stood up two new commands to operate at the Royal Australian Navy’s HMAS Stirling naval base in Western Australia in support of Submarine Rotational Force-West. Submarine Squadron 3 (CSS-3), which previously operated out of Hawaii, was re-established Wednesday at HMAS Stirling"
-  },
-  {
-    "id": "3d9e9f219c33",
-    "title": "Task Force Civil Affairs Team Conducts Subject Matter Expert Exchange in Libya",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4514495/task-force-civil-affairs-team-conducts-subject-matter-expert-exchange-in-libya/",
-    "date": "2026-06-11T16:33:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "U.S. Army civil affairs soldiers conducted a military-to-military subject matter expert exchange with representatives of the Libyan National Army and the Government of National Unity in Benghazi, Libya."
-  },
-  {
-    "id": "3dbdb8fbc96d",
-    "title": "Report to Congress on U.S.-South Korea Alliance",
-    "url": "https://news.usni.org/2026/06/11/report-to-congress-on-u-s-south-korea-alliance-2",
-    "date": "2026-06-11T14:11:48Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the June 9, 2026, Congressional Research Service report, The U.S.-South Korea Alliance. From the Report The U.S.-South Korea (Republic of Korea, or ROK) alliance dates to the 1950-1953 Korean War, during which more than 36,000 Americans died in-theater helping South Korea repel an i"
-  },
-  {
-    "id": "2d805de1bf1e",
-    "title": "U.S. Plans Major Strikes on Iran, Hegseth Says",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4514093/us-plans-major-strikes-on-iran-hegseth-says/",
-    "date": "2026-06-10T23:29:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "After a busy morning visiting troops in Guantanamo Bay, Cuba, Secretary of War Pete Hegseth traveled back to the U.S. to MacDill Air Force Base, Fla., for a meeting with U.S. Central Command leadership, where discussion centered on, among other things, operations planned for Iran."
-  },
-  {
     "id": "c07ba523bd0c",
     "title": "Davis-Monthan fire personnel and lifeguards train for water emergencies",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4514090/davis-monthan-fire-personnel-and-lifeguards-train-for-water-emergencies/",
@@ -658,16 +668,6 @@
     "cocom": "centcom",
     "tag": "posture",
     "summary": "Davis-Monthan Fire Department personnel and base lifeguards trained together at the base pool to strengthen water emergency response, improve coordination and encourage families to practice water safety before the summer swimming season.<br />\n<img alt=\"Emergency personnel at Davis-Monthan train in"
-  },
-  {
-    "id": "7ea67987427d",
-    "title": "Taiwanese Forces Deploy American-made Attack Drones Against Maritime Targets",
-    "url": "https://news.usni.org/2026/06/10/taiwanese-forces-deploy-american-made-attack-drones-against-maritime-targets",
-    "date": "2026-06-10T22:14:43Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Taiwan&#8217;s newly acquired American attack drones struck maritime targets for the first time last week along the island’s west coast during live-fire drills designed to validate long-range strike systems that would play a crucial role in a potential invasion of the self-governing island. Accordin"
   },
   {
     "id": "1a13a68a5a9d",
