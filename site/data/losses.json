@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "6a92f2c565d5",
+      "type": "THAAD",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-06-25T12:13:50Z",
+      "headline": "Report to Congress on THAAD System",
+      "context": "Report to Congress on THAAD System The following is the June 23, 2026, Congressional Research Service In Focus report, The Terminal High Altitude Area Defense (THAAD) Syste",
+      "url": "https://news.usni.org/2026/06/25/report-to-congress-on-thaad-system"
+    },
+    {
+      "id": "f5541dbe7da7",
+      "type": "Patriot",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-06-25T12:13:50Z",
+      "headline": "Report to Congress on THAAD System",
+      "context": "ges of 150–200 kilometers (km). THAAD covers the BMD middle tier and defends a larger area than the Patriot Air and Missile Defense System. It complements the Patriot, the Navy’s AEGIS Missile Defense",
+      "url": "https://news.usni.org/2026/06/25/report-to-congress-on-thaad-system"
+    },
+    {
       "id": "686e4040bf15",
       "type": "Destroyer",
       "qty": 1,
@@ -51,5 +71,5 @@
       "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
     }
   ],
-  "updated": "2026-06-25T08:47:09Z"
+  "updated": "2026-06-25T14:02:35Z"
 }

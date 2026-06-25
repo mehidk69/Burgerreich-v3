@@ -1,5 +1,15 @@
 [
   {
+    "id": "d1c913e303fd",
+    "title": "Report to Congress on THAAD System",
+    "url": "https://news.usni.org/2026/06/25/report-to-congress-on-thaad-system",
+    "date": "2026-06-25T12:13:50Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the June 23, 2026, Congressional Research Service In Focus report, The Terminal High Altitude Area Defense (THAAD) System. From the report The Terminal High Altitude Area Defense (THAAD) system is a key element of U.S. ballistic missile defense (BMD). THAAD employs interceptor missi"
+  },
+  {
     "id": "c21a2b09f0ae",
     "title": "North Korea Commissions First-in-class Destroyer Choe Hyon",
     "url": "https://news.usni.org/2026/06/24/north-korea-commissions-first-in-class-destroyer-choe-hyon",
@@ -13,7 +23,7 @@
     "id": "56614b073ff2",
     "title": "Air Force Rescue Squadron Deploys Jolly Green II Helicopters to East Africa",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4525318/air-force-rescue-squadron-deploys-jolly-green-ii-helicopters-to-east-africa/",
-    "date": "2026-06-24T16:51:51Z",
+    "date": "2026-06-24T16:51:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "posture",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "American forces disabled three merchant ships in the Gulf of Oman this week that were allegedly violating a U.S. naval blockade of Iran, Central Command officials said. Strikes on a ship on Tuesday resulted in the deaths of three Indian merchant mariners, according to a statement from the union repr"
-  },
-  {
-    "id": "1ac78611aec5",
-    "title": "Carrying the Torch: 815th Airlift Squadron Assumes Airlift Mission in Africa",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4514671/carrying-the-torch-815th-airlift-squadron-assumes-airlift-mission-in-africa/",
-    "date": "2026-06-11T18:18:16Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "Airmen assigned to the Minnesota Air National Guard 133rd Airlift Wing concluded a historic deployment to Africa, as airmen assigned to the Air Force Reserve 815th Airlift Squadron, known as the Flying Jennies, are carrying the torch for the next rotation."
   }
 ]
