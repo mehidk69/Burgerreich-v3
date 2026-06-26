@@ -1,5 +1,25 @@
 [
   {
+    "id": "e2e9deef7565",
+    "title": "Southern Command Moves Quickly to Support Venezuela Earthquake Relief",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4527843/southern-command-moves-quickly-to-support-venezuela-earthquake-relief/",
+    "date": "2026-06-26T16:28:10Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "As directed by the War Department, U.S. Southern Command is working with the State Department to support U.S. government relief operations in Venezuela in response to devastating earthquakes."
+  },
+  {
+    "id": "b1f86975db18",
+    "title": "French Seizes 5th Russian Shadow Fleet Tanker",
+    "url": "https://news.usni.org/2026/06/26/french-seizes-5th-russian-shadow-fleet-tanker",
+    "date": "2026-06-26T14:02:28Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The French Navy boarded and diverted a suspected Russian shadow fleet tanker in the Mediterranean off Sicily, officials announced on Thursday. In a social media post on Thursday, French President Emmanuel Macron stated that the French Navy intercepted tanker MT Deliver on Tuesday as it transited off"
+  },
+  {
     "id": "22a498143e39",
     "title": "Amphib USS Fort Lauderdale, LCS USS Billings Headed to Venezuela",
     "url": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela",
@@ -18,6 +38,16 @@
     "cocom": "osint",
     "tag": "posture",
     "summary": "The following is the June 25, 2026, Congressional Research Service In Focus report, Artemis: NASA’s Program to Return Humans to the Moon. From the report Orion and the Space Launch System The Artemis program has evolved from plans initiated in the NASA Authorization Act of 2010 (P.L. 111-267). The a"
+  },
+  {
+    "id": "485fca765856",
+    "title": "National Guard Says Domestic Missions Improving Troop Readiness",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4527133/national-guard-says-domestic-missions-improving-troop-readiness/",
+    "date": "2026-06-25T21:08:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Domestic missions like the D.C. Safe and Beautiful Task Force are helping build troop readiness rather than detracting from it, Army Maj. Gen. Ronald Burkett II said during a media roundtable discussion."
   },
   {
     "id": "d302199359ec",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The U.S. blockade of Iranian ports will remain in effect until Friday when the agreement between the U.S. and Iran to end hostilities will be signed by representatives from the two countries. Ships that are attempting to visit Iranian ports should comply with orders from the U.S. Navy, reads a Joint"
-  },
-  {
-    "id": "f7cdb160573a",
-    "title": "Hegseth Welcomes Ecuadorian President to War Department",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4517604/hegseth-welcomes-ecuadorian-president-to-war-department/",
-    "date": "2026-06-15T20:42:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Secretary of War Pete Hegseth welcomed Ecuadorian President Daniel Noboa to the Pentagon to discuss the bonds of defense-based cooperation between their respective countries."
-  },
-  {
-    "id": "40813e6fb5ec",
-    "title": "U.K. Forces Seize Russian Shadow Tanker in English Channel",
-    "url": "https://news.usni.org/2026/06/15/u-k-forces-seize-russian-shadow-tanker-in-english-channel",
-    "date": "2026-06-15T18:27:08Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.K. forces interdicted a Russian shadow tanker on Sunday in the English Channel, marking the country’s first seizure since announcing in March that the U.K. military had been given authority to interdict and board shadow fleet ships. MT Smyrtos was boarded by Royal Marine Commandos and law enforcem"
-  },
-  {
-    "id": "99d1f18a6d60",
-    "title": "USNI News Fleet and Marine Tracker: June 15, 2026",
-    "url": "https://news.usni.org/2026/06/15/usni-news-fleet-and-marine-tracker-june-15-2026",
-    "date": "2026-06-15T17:03:39Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 15, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
   }
 ]
