@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "3abef54a3d93",
+      "type": "C-17 Globemaster III",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-06-26T12:56:01Z",
+      "headline": "Amphib USS Fort Lauderdale, LCS USS Billings Headed to Venezuela",
+      "context": "ort Lauderdale (LPD-28) and the Littoral Combat Ship USS Billings (LCS-15) in addition to Air Force C-17 Globemaster and C-130 Hercules cargo aircraft, the command said in a statement late Thursday. “",
+      "url": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela"
+    },
+    {
+      "id": "9d9bda7d2154",
+      "type": "C-130 Hercules",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-06-26T12:56:01Z",
+      "headline": "Amphib USS Fort Lauderdale, LCS USS Billings Headed to Venezuela",
+      "context": "8) and the Littoral Combat Ship USS Billings (LCS-15) in addition to Air Force C-17 Globemaster and C-130 Hercules cargo aircraft, the command said in a statement late Thursday. “These forces will pro",
+      "url": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela"
+    },
+    {
+      "id": "302bed397162",
+      "type": "Littoral Combat Ship",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-06-26T12:56:01Z",
+      "headline": "Amphib USS Fort Lauderdale, LCS USS Billings Headed to Venezuela",
+      "context": "Amphib USS Fort Lauderdale, LCS USS Billings Headed to Venezuela Two U.S. warships and Air Force cargo aircraft are headed to Venezuela to support a U.S. State Department relief",
+      "url": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela"
+    },
+    {
       "id": "d16323d83bf3",
       "type": "Littoral Combat Ship",
       "qty": 1,
@@ -81,5 +111,5 @@
       "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
     }
   ],
-  "updated": "2026-06-26T08:50:13Z"
+  "updated": "2026-06-26T14:02:01Z"
 }

@@ -1,9 +1,29 @@
 [
   {
+    "id": "22a498143e39",
+    "title": "Amphib USS Fort Lauderdale, LCS USS Billings Headed to Venezuela",
+    "url": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela",
+    "date": "2026-06-26T12:56:01Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Two U.S. warships and Air Force cargo aircraft are headed to Venezuela to support a U.S. State Department relief mission following two earthquakes on Wednesday. U.S. Southern Command is dispatching USS Fort Lauderdale (LPD-28) and the Littoral Combat Ship USS Billings (LCS-15) in addition to Air For"
+  },
+  {
+    "id": "63608e7f082e",
+    "title": "Report to Congress on Returning Humans to the Moon",
+    "url": "https://news.usni.org/2026/06/26/report-to-congress-on-returning-humans-to-the-moon",
+    "date": "2026-06-26T10:55:36Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The following is the June 25, 2026, Congressional Research Service In Focus report, Artemis: NASA’s Program to Return Humans to the Moon. From the report Orion and the Space Launch System The Artemis program has evolved from plans initiated in the NASA Authorization Act of 2010 (P.L. 111-267). The a"
+  },
+  {
     "id": "d302199359ec",
     "title": "National Guard Leader Says Domestic Missions Improving Troop Readiness",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4527133/national-guard-leader-says-domestic-missions-improving-troop-readiness/",
-    "date": "2026-06-25T21:08:35Z",
+    "date": "2026-06-25T21:08:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "ground",
@@ -23,7 +43,7 @@
     "id": "da4585a06cfc",
     "title": "Families of Vietnam War Missing Gather to Hear Updates, Share Stories",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4527088/families-of-vietnam-war-missing-gather-to-hear-updates-share-stories/",
-    "date": "2026-06-25T20:47:28Z",
+    "date": "2026-06-25T20:47:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 15, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
-  },
-  {
-    "id": "3fb7c75a274e",
-    "title": "Hegseth, Italian Counterpart Meet at Pentagon",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4517216/hegseth-italian-counterpart-meet-at-pentagon/",
-    "date": "2026-06-15T16:55:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Secretary of War Pete Hegseth hosted Italy's Defense Minister Guido Crosetto during a bilateral engagement at the Pentagon."
-  },
-  {
-    "id": "19f71e1d50d3",
-    "title": "Coast Guard, Eastern Shipbuilding Terminate Offshore Patrol Cutter Contract; Rick Scott Ends Promotion Holds",
-    "url": "https://news.usni.org/2026/06/12/coast-guard-eastern-shipbuilding-terminate-offshore-patrol-cutter-contract-rick-scott-ends-promotion-holds",
-    "date": "2026-06-12T20:49:35Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Coast Guard and Eastern Shipbuilding have reached an agreement to terminate a 10-year-old agreement to build the service’s Offshore Patrol Cutters, USNI News has learned. “The Coast Guard has reached an agreement with the Offshore Patrol Cutter (OPC) Stage 1 shipbuilder to close out the contract"
   }
 ]
