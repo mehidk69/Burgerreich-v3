@@ -1,5 +1,25 @@
 [
   {
+    "id": "0c856d8f9296",
+    "title": "USNI News Western Pacific Pulse: June 26, 2026",
+    "url": "https://news.usni.org/2026/06/26/usni-news-western-pacific-pulse-june-26-2026",
+    "date": "2026-06-26T20:58:14Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Valiant Shield Exercise Valiant Shield 2026 (VS26) began on Monday, taking place taking place in the Commonwealth of the Northern Mariana Islands, Guam, Japan, and at sea around the Mariana"
+  },
+  {
+    "id": "5824aef894c7",
+    "title": "Joint Task Force Southern Border Conducts Medevac in Arizona Mountains",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4528171/joint-task-force-southern-border-conducts-medevac-in-arizona-mountains/",
+    "date": "2026-06-26T19:37:24Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Service members assigned to Joint Task Force Southern Border conducted an aeromedical evacuation after receiving a request to assist a civilian who was experiencing a medical emergency in a remote mountainous area of Arizona."
+  },
+  {
     "id": "2d38d2d3d4bd",
     "title": "Davis-Monthan Hosts Final A-10 Range Day",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4528097/davis-monthan-hosts-final-a-10-range-day/",
@@ -640,16 +660,6 @@
     "summary": "Team Marine Corps opened the 2026 Warrior Games with a strong showing in powerlifting and an exhibition pickleball competition, earning 10 medals and setting the tone for the week ahead."
   },
   {
-    "id": "9e73628019ef",
-    "title": "Senate, House Defense Bills Propose Restrictions on U.S. Warships Built in Foreign Yards; Legislation Limits Navy Secretary’s Ability to Rename Ships",
-    "url": "https://news.usni.org/2026/06/16/senate-house-defense-bills-propose-restrictions-on-u-s-warships-built-in-foreign-yards-legislation-limits-navy-secretarys-ability-to-rename-ships",
-    "date": "2026-06-16T15:20:25Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "WASHINGTON, D.C. — Congressional defense committees voted to pump the brakes on the Trump administration’s push to buy foreign-built warships, USNI News has learned. House and Senate authorizers and House appropriators are placing limitations on the executive’s ability to pursue foreign warship desi"
-  },
-  {
     "id": "102eca3509b2",
     "title": "Freedom Fest 2026",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4517943/freedom-fest-2026/",
@@ -658,16 +668,6 @@
     "cocom": "centcom",
     "tag": "naval",
     "summary": "Fireworks burst over Freedom Fest at Davis-Monthan Air Force Base, Arizona, June 12, 2026. Freedom<br />\n<img alt=\"Fireworks burst over Freedom Fest at Davis-Monthan Air Force Base, Arizona, June 12, 2026. Freedom Fest brought together members of Team Davis-Monthan for an evening dedicated to commun"
-  },
-  {
-    "id": "47fbfbc987a9",
-    "title": "Naval Blockade to Remain In Effect Until Official Agreement is Signed by Iran, U.S.",
-    "url": "https://news.usni.org/2026/06/15/naval-blockade-to-remain-in-effect-until-official-agreement-is-signed-by-iran-u-s",
-    "date": "2026-06-15T21:23:10Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. blockade of Iranian ports will remain in effect until Friday when the agreement between the U.S. and Iran to end hostilities will be signed by representatives from the two countries. Ships that are attempting to visit Iranian ports should comply with orders from the U.S. Navy, reads a Joint"
   },
   {
     "id": "c07ba523bd0c",
