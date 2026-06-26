@@ -1,5 +1,35 @@
 [
   {
+    "id": "d302199359ec",
+    "title": "National Guard Leader Says Domestic Missions Improving Troop Readiness",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4527133/national-guard-leader-says-domestic-missions-improving-troop-readiness/",
+    "date": "2026-06-25T21:08:35Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Domestic missions like the D.C. Safe and Beautiful Task Force are helping build troop readiness rather than detracting from it, Army Maj. Gen. Ronald Burkett II said during a media roundtable discussion."
+  },
+  {
+    "id": "5f9cbe3077ba",
+    "title": "RIMPAC 2026 Kicks off in Hawaii",
+    "url": "https://news.usni.org/2026/06/25/rimpac-2026-kicks-off-in-hawaii",
+    "date": "2026-06-25T21:04:59Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S.-led Rim of the Pacific (RIMPAC) 2026 exercise began on Thursday in Hawaii. Thirty-one surface ships, five submarines, 197 aircraft and 30,000 personnel, including 1100 landing forces will take part in the drills, said Vice Adm. Jeff Jablon, RIMPAC 2026 Commander, Combined Task Forces (CCTF)"
+  },
+  {
+    "id": "da4585a06cfc",
+    "title": "Families of Vietnam War Missing Gather to Hear Updates, Share Stories",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4527088/families-of-vietnam-war-missing-gather-to-hear-updates-share-stories/",
+    "date": "2026-06-25T20:47:28Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "War Department officials pledged to continue searching for the 1,565 service members still missing from the Vietnam War during a meeting with grieving families in Arlington, Va."
+  },
+  {
     "id": "c954c6cd6a27",
     "title": "Air Force Wants New 1,000-Nautical Mile Range Missile for Air, Sea Targets",
     "url": "https://news.usni.org/2026/06/25/air-force-wants-new-1000-nautical-mile-range-missile-for-air-sea-targets",
@@ -23,7 +53,7 @@
     "id": "e2bd58b3224a",
     "title": "USVDIV-32 Advances Unmanned Operations With NATO During BALTOPS 2026",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4526512/usvdiv-32-advances-unmanned-operations-with-nato-during-baltops-2026/",
-    "date": "2026-06-25T16:27:01Z",
+    "date": "2026-06-25T16:27:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -628,36 +658,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The Coast Guard and Eastern Shipbuilding have reached an agreement to terminate a 10-year-old agreement to build the service’s Offshore Patrol Cutters, USNI News has learned. “The Coast Guard has reached an agreement with the Offshore Patrol Cutter (OPC) Stage 1 shipbuilder to close out the contract"
-  },
-  {
-    "id": "a4271082dce3",
-    "title": "USNI News Western Pacific Pulse: June 12, 2026",
-    "url": "https://news.usni.org/2026/06/12/usni-news-western-pacific-pulse-june-12-2026",
-    "date": "2026-06-12T19:08:47Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Philippine Sea Aircraft carrier USS George Washington (CVN-73) is operating in the Philippine Sea as part of its spring patrol. The carrier conducted a fueling-at-sea evolution with fle"
-  },
-  {
-    "id": "27b9bd204978",
-    "title": "1-40th Cavalry Regiment Prepares for Final Transformation During Exercise Red Flag",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4515949/1-40th-cavalry-regiment-prepares-for-final-transformation-during-exercise-red-f/",
-    "date": "2026-06-12T19:00:09Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Soldiers assigned to the 2nd Infantry Brigade Combat Team, 11th Airborne Division, at Joint Base Elmendorf-Richardson, Alaska, demonstrated the Army's commitment to transformation, readiness and joint lethality during Exercise Red Flag-Alaska 26-2."
-  },
-  {
-    "id": "adb3cb91bed8",
-    "title": "Naval Research Laboratory Receives Space Force Antenna, Expanding Joint Space Capabilities",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4515861/naval-research-laboratory-receives-space-force-antenna-expanding-joint-space-ca/",
-    "date": "2026-06-12T18:11:33Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The U.S. Naval Research Laboratory received a transportable satellite tracking antenna system from Space Systems Command's System Delta 81 to expand joint space testing, training and operational support capabilities at the laboratory's Blossom Point Tracking Facility in Welcome, Md."
   },
   {
     "id": "c07ba523bd0c",
