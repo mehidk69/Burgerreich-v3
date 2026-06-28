@@ -40,6 +40,16 @@
     "summary": "The French Navy boarded and diverted a suspected Russian shadow fleet tanker in the Mediterranean off Sicily, officials announced on Thursday. In a social media post on Thursday, French President Emmanuel Macron stated that the French Navy intercepted tanker MT Deliver on Tuesday as it transited off"
   },
   {
+    "id": "61016e9d634b",
+    "title": "UPDATED: U.S. Warships, Marines Arrive to Assist with Relief Efforts in Venezuela",
+    "url": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela",
+    "date": "2026-06-26T12:56:01Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Two U.S. warships, Air Force cargo aircraft and Marines aircraft are now in Venezuela to support a U.S. State Department relief mission following two earthquakes on Wednesday. U.S. Southern Command dispatched USS Fort Lauderdale (LPD-28) and the Littoral Combat Ship USS Billings (LCS-15) in addition"
+  },
+  {
     "id": "22a498143e39",
     "title": "Amphib USS Fort Lauderdale, LCS USS Billings Headed to Venezuela",
     "url": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "Efforts are underway to expand U.S. aircraft and drone capacity at a Philippine air base used by Washington to monitor the South China Sea and assist Manila’s defensive needs, USNI News has learned. The Airbus commercial satellite imagery, publicly shared on Google Earth, shows a clearing has been m"
-  },
-  {
-    "id": "38f9a4eb9c11",
-    "title": "Marine Corps Opens 2026 Warrior Games With Strong Showing",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4518325/marine-corps-opens-2026-warrior-games-with-strong-showing/",
-    "date": "2026-06-16T16:04:39Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Team Marine Corps opened the 2026 Warrior Games with a strong showing in powerlifting and an exhibition pickleball competition, earning 10 medals and setting the tone for the week ahead."
   }
 ]

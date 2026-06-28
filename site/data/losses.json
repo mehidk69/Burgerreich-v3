@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "e011e02036f6",
+      "type": "C-17 Globemaster III",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-06-26T12:56:01Z",
+      "headline": "UPDATED: U.S. Warships, Marines Arrive to Assist with Relief Efforts in Venezuela",
+      "context": "ort Lauderdale (LPD-28) and the Littoral Combat Ship USS Billings (LCS-15) in addition to Air Force C-17 Globemaster and C-130 Hercules cargo aircraft, the command said. “These forces will provide spe",
+      "url": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela"
+    },
+    {
+      "id": "31a05cc271f2",
+      "type": "C-130 Hercules",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-06-26T12:56:01Z",
+      "headline": "UPDATED: U.S. Warships, Marines Arrive to Assist with Relief Efforts in Venezuela",
+      "context": "8) and the Littoral Combat Ship USS Billings (LCS-15) in addition to Air Force C-17 Globemaster and C-130 Hercules cargo aircraft, the command said. “These forces will provide specialized mobility ser",
+      "url": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela"
+    },
+    {
+      "id": "2c7f278c47ea",
+      "type": "Littoral Combat Ship",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-06-26T12:56:01Z",
+      "headline": "UPDATED: U.S. Warships, Marines Arrive to Assist with Relief Efforts in Venezuela",
+      "context": "Southern Command dispatched USS Fort Lauderdale (LPD-28) and the Littoral Combat Ship USS Billings (LCS-15) in addition to Air Force C-17 Globemaster and C-130 Hercules cargo aircraft, the command sai",
+      "url": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela"
+    },
+    {
       "id": "3abef54a3d93",
       "type": "C-17 Globemaster III",
       "qty": 1,
@@ -111,5 +141,5 @@
       "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
     }
   ],
-  "updated": "2026-06-28T13:14:44Z"
+  "updated": "2026-06-28T19:01:58Z"
 }
