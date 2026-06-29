@@ -1,5 +1,15 @@
 [
   {
+    "id": "ca8376c4ecd1",
+    "title": "Former U.S. Amphib Sunk in Pacific Maritime Strike Drills",
+    "url": "https://news.usni.org/2026/06/29/former-u-s-amphib-sunk-in-pacific-maritime-strike-drills",
+    "date": "2026-06-29T15:56:32Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Decommissioned amphibious transport dock USS Juneau (LPD-10) was sunk by the U.S. and partner nations on Saturday in the Philippine Sea during the ongoing Valiant Shield 2026 exercise. Juneau was sunk more than 200 nautical miles off the coast in the Mariana Islands Range Complex during a sinking ex"
+  },
+  {
     "id": "0c856d8f9296",
     "title": "USNI News Western Pacific Pulse: June 26, 2026",
     "url": "https://news.usni.org/2026/06/26/usni-news-western-pacific-pulse-june-26-2026",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "Senators want to bolster security assistance to Taiwan and the Philippines through a reorganization of existing efforts, the formation of a war reserve stockpile and a strategy for crisis management in the South China Sea. The Senate Armed Services Committee’s markup for the 2027 National Defense Au"
-  },
-  {
-    "id": "909f4245044a",
-    "title": "U.S. 2nd Fleet, International Partners Commence Fleet Exercise 250",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4518474/us-2nd-fleet-international-partners-commence-fleet-exercise-250/",
-    "date": "2026-06-16T17:01:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Ships from 17 allied and partner nations arrived at Naval Station Norfolk, Va., to prepare for Fleet Exercise 250, a multinational maritime training event designed to enhance interoperability and test the integrated forces in a dynamic environment."
   }
 ]
