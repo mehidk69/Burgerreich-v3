@@ -1,5 +1,55 @@
 [
   {
+    "id": "9810fc83268d",
+    "title": "World War II Wreck Hunter RV Petrel Reborn as Navy Survey Ship Sarah Lynn",
+    "url": "https://news.usni.org/2026/06/29/world-war-ii-wreck-hunter-rv-petrel-reborn-as-navy-survey-ship-sarah-lynn",
+    "date": "2026-06-29T18:13:31Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A billionaire’s ship designed to find the most famous lost ships of World War II has reemerged as a U.S. Navy survey ship, USNI News has learned. Service officials confirmed to USNI News that MV Sarah Lynn, which earlier this year operated off the coast of Alaska, is the former RV Petrel, the late P"
+  },
+  {
+    "id": "4862aced9695",
+    "title": "USNI News Fleet and Marine Tracker: June 29, 2026",
+    "url": "https://news.usni.org/2026/06/29/usni-news-fleet-and-marine-tracker-june-29-2026",
+    "date": "2026-06-29T17:00:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 29, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
+  },
+  {
+    "id": "69e63c450a28",
+    "title": "Coast Guard Interdicts Over $63 Million in Illicit Drugs",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4529028/coast-guard-interdicts-over-63-million-in-illicit-drugs/",
+    "date": "2026-06-29T16:55:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The crew aboard the Coast Guard cutter Bear offloaded approximately 7,720 pounds of cocaine and 4,000 pounds of marijuana worth more than $63 million at Port Everglades, Fla."
+  },
+  {
+    "id": "aa8f7a66d24f",
+    "title": "Marine Missing from USS Anchorage Declared Lost at Sea",
+    "url": "https://news.usni.org/2026/06/29/marine-missing-from-uss-anchorage-declared-lost-at-sea",
+    "date": "2026-06-29T16:45:59Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A 21 year-old Marine from Minnesota died after going missing at sea off the California coast, the service announced Monday. Lance Cpl. Armando Ortiz Canseco was attached to San Antonio-class amphibious transport dock USS Anchorage (LPD-23) when he went missing on Thursday, according to a Marine Corp"
+  },
+  {
+    "id": "7b39b9386122",
+    "title": "Small Creatures, Big Mission: Bugapalooza Connects Science to Military Readiness",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4528907/small-creatures-big-mission-bugapalooza-connects-science-to-military-readiness/",
+    "date": "2026-06-29T16:38:39Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Nearly 400 visitors attended the National Museum of Health and Medicine's Bugapalooza to learn how insects affect health, support the environment and affect military readiness."
+  },
+  {
     "id": "ca8376c4ecd1",
     "title": "Former U.S. Amphib Sunk in Pacific Maritime Strike Drills",
     "url": "https://news.usni.org/2026/06/29/former-u-s-amphib-sunk-in-pacific-maritime-strike-drills",
@@ -548,55 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The George Washington Carrier Strike Group pulled into Guam on Tuesday marking the strike group’s first port visit of its spring patrol. The George Washington CSG, which includes aircraft carrier USS George Washington (CVN-73) with embarked Carrier Air Wing (CVW) 5, cruiser USS Robert Smalls (CG-62)"
-  },
-  {
-    "id": "2de8642287a4",
-    "title": "Team Army Opens 2026 Warrior Games With Eight Powerlifting Medals",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4519929/team-army-opens-2026-warrior-games-with-eight-powerlifting-medals/",
-    "date": "2026-06-17T17:36:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Team Army earned eight medals in powerlifting on the first day of competition during the 2026 Warrior Games in San Antonio, while demonstrating that the greatest victories often extend far beyond the podium."
-  },
-  {
-    "id": "bec5ace139f6",
-    "title": "Report to Congress on Russian Military Activities in Asia",
-    "url": "https://news.usni.org/2026/06/17/report-to-congress-on-russian-military-activities-in-asia",
-    "date": "2026-06-17T14:40:54Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is the June 9, 2026, Congressional Research Service report Russian Military Activities in Asia: Combined Military Exercises and Patrols.  From the Report Introduction and Issues for Congress Russia has multifaceted diplomatic, economic, and security interests in Asia, including with re"
-  },
-  {
-    "id": "01c5fa2c7f20",
-    "title": "Project Patriot Pipeline Crafting Avenues of Service for Skilled Workers",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4519056/project-patriot-pipeline-crafting-avenues-of-service-for-skilled-workers/",
-    "date": "2026-06-16T22:19:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The War Department's Project Patriot Pipeline is an initiative designed to provide a flow of skilled workers to meet the department's needs, while simultaneously supporting the defense industrial base."
-  },
-  {
-    "id": "2f921cbb1b30",
-    "title": "GAO Report to Congress on the Navy’s Robotic Autonomous Systems",
-    "url": "https://news.usni.org/2026/06/16/gao-report-to-congress-on-the-navys-robotic-autonomous-systems",
-    "date": "2026-06-16T18:14:32Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is the June 15, 2026, Government Accountability Office report to Congress on Robotic Autonomous Systems: Navy Needs to Address Leadership and Organizational Challenges to Meet Urgent Needs. The report was given to the Senate Armed Services Committee and the House Armed Services Committ"
-  },
-  {
-    "id": "22c307141504",
-    "title": "SASC Bill Authorizes $1.5B for Security Aid for Taiwan, the Philippines",
-    "url": "https://news.usni.org/2026/06/16/sasc-bill-authorizes-1-5b-for-security-aid-for-taiwan-the-philippines",
-    "date": "2026-06-16T17:37:58Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Senators want to bolster security assistance to Taiwan and the Philippines through a reorganization of existing efforts, the formation of a war reserve stockpile and a strategy for crisis management in the South China Sea. The Senate Armed Services Committee’s markup for the 2027 National Defense Au"
   }
 ]
