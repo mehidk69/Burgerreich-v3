@@ -40,6 +40,16 @@
     "summary": "As directed by the War Department, U.S. Southern Command is working with the State Department to support U.S. government relief operations in Venezuela in response to devastating earthquakes."
   },
   {
+    "id": "b15090053894",
+    "title": "France Seizes 5th Russian Shadow Fleet Tanker",
+    "url": "https://news.usni.org/2026/06/26/french-seizes-5th-russian-shadow-fleet-tanker",
+    "date": "2026-06-26T14:02:28Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The French Navy boarded and diverted a suspected Russian shadow fleet tanker in the Mediterranean off Sicily, officials announced on Thursday. In a social media post on Thursday, French President Emmanuel Macron stated that the French Navy intercepted tanker MT Deliver on Tuesday as it transited off"
+  },
+  {
     "id": "b1f86975db18",
     "title": "French Seizes 5th Russian Shadow Fleet Tanker",
     "url": "https://news.usni.org/2026/06/26/french-seizes-5th-russian-shadow-fleet-tanker",
@@ -648,16 +658,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Ships from 17 allied and partner nations arrived at Naval Station Norfolk, Va., to prepare for Fleet Exercise 250, a multinational maritime training event designed to enhance interoperability and test the integrated forces in a dynamic environment."
-  },
-  {
-    "id": "ea1612923d33",
-    "title": "U.S.-funded Project Expanding Drone and Fighter Capacity at Philippine Air Base",
-    "url": "https://news.usni.org/2026/06/16/u-s-funded-project-expanding-drone-and-fighter-capacity-at-philippine-air-base",
-    "date": "2026-06-16T16:58:00Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Efforts are underway to expand U.S. aircraft and drone capacity at a Philippine air base used by Washington to monitor the South China Sea and assist Manila’s defensive needs, USNI News has learned. The Airbus commercial satellite imagery, publicly shared on Google Earth, shows a clearing has been m"
   },
   {
     "id": "102eca3509b2",
