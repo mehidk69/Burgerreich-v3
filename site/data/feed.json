@@ -1,5 +1,35 @@
 [
   {
+    "id": "1888ad147346",
+    "title": "JIATF 401 Leaders Visit Whiteman Air Force Base to Strengthen Counter-Drone Operations",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4530680/jiatf-401-leaders-visit-whiteman-air-force-base-to-strengthen-counter-drone-ope/",
+    "date": "2026-06-30T20:50:39Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Joint Interagency Task Force 401 leaders visited Whiteman Air Force Base, Mo., to learn about the installation's counter-unmanned aerial systems operations and initiatives in advance of the upcoming directed energy pilot program."
+  },
+  {
+    "id": "0d54880cfec8",
+    "title": "Sinking Exercise Demonstrates Capabilities of Joint Force",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4530604/sinking-exercise-demonstrates-capabilities-of-joint-force/",
+    "date": "2026-06-30T20:46:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.S. Pacific Command joint forces, along with allied and partner forces, successfully carried out a live-fire sinking exercise during Valiant Shield 2026, targeting the decommissioned amphibious transport dock USS Juneau off the coast of Guam."
+  },
+  {
+    "id": "52e3500e9d81",
+    "title": "USS San Antonio Leaves Norfolk for Deployment",
+    "url": "https://news.usni.org/2026/06/30/uss-san-antonio-leaves-norfolk-for-deployment",
+    "date": "2026-06-30T20:13:03Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "USS San Antonio (LPD-17) on June 29, 2026, shortly before deploying from Naval Station Norfolk, Va. USNI News photo Amphibious warship USS San Antonio (LPD-17) departed Naval Station Norfolk, Va., on Monday as part of an extended deployment after a brief maintenance period, USNI News has learned. A"
+  },
+  {
     "id": "7ffef3d25f96",
     "title": "Russia, China Fly Joint Bomber Missions Near Japan, South Korea",
     "url": "https://news.usni.org/2026/06/30/russia-china-fly-joint-bomber-missions-near-japan-south-korea",
@@ -600,16 +630,6 @@
     "summary": "The War Department plans a review of its posture and footprint in Europe to determine how the U.S. is supporting NATO, how partners are supporting NATO and whether what's happening on the ground reflects what President Donald J. Trump and Secretary of War Pete Hegseth believe the alliance should be."
   },
   {
-    "id": "54b907b86243",
-    "title": "U.S. Marines Kick Off Kamandag 10 Exercise in the Philippines",
-    "url": "https://news.usni.org/2026/06/18/u-s-marines-kick-off-kamandag-10-exercise-in-the-philippines",
-    "date": "2026-06-18T16:31:18Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "U.S. Marines joined Philippine, Japanese and South Korean forces on Monday for the start of Exercise Kaagapay ng mga Mandirigma ng Dagat 10 – or Kamandag 10 – across the Philippine archipelago. Marine Rotational Force-Darwin (MRF-D), Marine Rotational Force-South East Asia (MRF-SEA) and 3rd Marine L"
-  },
-  {
     "id": "c36bd9afa0b8",
     "title": "Davis-Monthan hosts PJ Immersion Day for Special Warfare candidates",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4521373/davis-monthan-hosts-pj-immersion-day-for-special-warfare-candidates/",
@@ -618,26 +638,6 @@
     "cocom": "centcom",
     "tag": "exercise",
     "summary": "Air Force Special Warfare recruiters partnered with the 306th Rescue Squadron to host a Pararescue Immersion Day  providing prospective candidates an opportunity to experience the demands and mission of the career field firsthand at Davis-Monthan Air Force Base, Arizona, June 15th, 2026.<br />\n<img"
-  },
-  {
-    "id": "d0375796bfec",
-    "title": "Report Accompanying the Senate Armed Service’s Committee’s Draft of FY27 NDAA",
-    "url": "https://news.usni.org/2026/06/18/report-accompanying-the-senate-armed-services-committees-draft-of-fy27-ndaa",
-    "date": "2026-06-18T14:56:10Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the report accompanying the Senate Armed Service&#8217;s Committee&#8217;s Draft of the Fiscal Year 2027 National Defense Authorization Act, published June 17, 2026. From the Report Purpose of the Bill This bill would: (1) Authorize appropriations for (a) procurement, (b) research,"
-  },
-  {
-    "id": "18045a5b8f9a",
-    "title": "Drone Dominance Program Receives First Order, Gauntlet II Gets Underway",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4520698/drone-dominance-program-receives-first-order-gauntlet-ii-gets-underway/",
-    "date": "2026-06-17T21:48:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Drone Dominance Program Gauntlet Phase II, a critical test for a battlefield that is evolving at an unprecedented pace, will kick off as the War Department gears up to order 60,000 more high-performing drones in September."
   },
   {
     "id": "0c0b4c0f10b5",
