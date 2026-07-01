@@ -1,5 +1,55 @@
 [
   {
+    "id": "6ae9d46df053",
+    "title": "U.S., Partners Wrap Exercise Valiant Shield",
+    "url": "https://news.usni.org/2026/07/01/u-s-partners-wrap-exercise-valiant-shield",
+    "date": "2026-07-01T19:18:45Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. and partner nations on Wednesday wrapped up Exercise Valiant Shield 2026, which involved 10 days of training that saw anti-submarine warfare, cutting edge drone testing and a multinational maritime strike. “What we promised in preparation, we proved in execution,” said Rear Adm. Jay Clark,"
+  },
+  {
+    "id": "3002d6ae17af",
+    "title": "U.S. Participates in Fifth Iteration of Chilean-Hosted Exercise",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4531600/us-participates-in-fifth-iteration-of-chilean-hosted-exercise/",
+    "date": "2026-07-01T18:33:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Aircraft, crews and support personnel from across the Americas converged at Cerro Moreno Air Base in Antofagasta, Chile, for the kickoff of Exercise Resolute Sentinel - Salitre 2026."
+  },
+  {
+    "id": "de7cb142f050",
+    "title": "Sailor Missing After Helo Assigned to USS George H.W. Bush Ditches in Arabian Sea",
+    "url": "https://news.usni.org/2026/07/01/sailor-missing-after-helo-assigned-to-uss-george-h-w-bush-ditches-in-arabian-sea",
+    "date": "2026-07-01T17:59:42Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "One aircrewman is missing after an MH-60S helicopter assigned to USS George H.W. Bush (CVN-77) made an emergency landing on Wednesday in the Arabian Sea. The helicopter went down at 3:30 a.m. Eastern Time with four crew members on board, the U.S. 5th Fleet said on social media platform X. Three of t"
+  },
+  {
+    "id": "a9fcc48b3bc6",
+    "title": "New Pentagon Unmanned Czar Will Oversee Most Drone Programs, Memo Reads",
+    "url": "https://news.usni.org/2026/07/01/new-pentagon-unmanned-czar-will-oversee-most-drone-programs-memo-reads",
+    "date": "2026-07-01T16:45:26Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "This post has been updated to include a statement from the Pentagon. The Pentagon has established a new office to oversee tens of billions of dollars in drone programs across the entire military, according to a memo obtained Wednesday by USNI News. The new office, known as the Direct Reporting Portf"
+  },
+  {
+    "id": "ef11520ef185",
+    "title": "Testimony on the F-35 Aircraft Program",
+    "url": "https://news.usni.org/2026/07/01/testimony-on-the-f-35-aircraft-program",
+    "date": "2026-07-01T14:32:14Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The following is testimony provided June 23, 2026, on the F-35 aircraft program presented to the U.S. Senate Armed Services Committee’s Subcommittee on Airland. From the Report The March 24, 2026, hearing saw testimony from U.S. Marine Corps Lt. Gen. Gregory Masiello, Program Executive Officer F-35"
+  },
+  {
     "id": "1888ad147346",
     "title": "JIATF 401 Leaders Visit Whiteman Air Force Base to Strengthen Counter-Drone Operations",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4530680/jiatf-401-leaders-visit-whiteman-air-force-base-to-strengthen-counter-drone-ope/",
@@ -27,7 +77,7 @@
     "source": "USNI News",
     "cocom": "osint",
     "tag": "naval",
-    "summary": "USS San Antonio (LPD-17) on June 29, 2026, shortly before deploying from Naval Station Norfolk, Va. USNI News photo Amphibious warship USS San Antonio (LPD-17) departed Naval Station Norfolk, Va., on Monday as part of an extended deployment after a brief maintenance period, USNI News has learned. A"
+    "summary": "Amphibious warship USS San Antonio (LPD-17) departed Naval Station Norfolk, Va., on Monday as part of an extended deployment after a brief maintenance period, USNI News has learned. A U.S. 2nd Fleet spokesperson confirmed San Antonio left Norfolk for a deployment but did not provide additional detai"
   },
   {
     "id": "7ffef3d25f96",
@@ -548,55 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "For decades, young midshipmen at the U.S. Naval Academy have walked by &#8220;Ripley at the Bridge,&#8221; a dramatic diorama within the Memorial Hall foyer in Bancroft Hall featuring Marine Capt. John Ripley dangling from a girder over the Cua Viet River. On Thursday, 54 years after his actions in"
-  },
-  {
-    "id": "9b35339380b1",
-    "title": "U.S. Ends Naval Blockade of Iran",
-    "url": "https://news.usni.org/2026/06/18/u-s-ends-naval-blockade-of-iran",
-    "date": "2026-06-18T22:30:53Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The United States has lifted the naval blockade against Iranian ports and coastlines, U.S. Central Command announced via social media site X. The lifting of the blockade comes as Washington and Tehran sign a 60-day memorandum of understanding between the two the U.S. and Iran, ending hostilities whi"
-  },
-  {
-    "id": "c43899f3a6a4",
-    "title": "Sailor Involved in JFK Shooting Released From Pre-trial Confinement",
-    "url": "https://news.usni.org/2026/06/18/sailor-involved-in-jfk-shooting-released-from-pre-trial-confinement",
-    "date": "2026-06-18T20:58:37Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A sailor involved in a shooting on future aircraft carrier John F. Kennedy (CVN-79) was released from pre-trial confinement, USNI News has learned. A sailor, whose name has not been released, was initially taken into pre-trial confinement following the fatal shooting of Boatswain’s Mate Seaman Jesse"
-  },
-  {
-    "id": "78997e67807f",
-    "title": "SASC Wants Navy to Develop New DDG(X) Destroyer in Tandem with Trump Battleship",
-    "url": "https://news.usni.org/2026/06/18/sasc-wants-navy-to-develop-new-ddgx-destroyer-in-tandem-with-trump-battleship",
-    "date": "2026-06-18T19:44:51Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Senate authorizers want the Navy to continue pursuing the next-generation destroyer, in addition to the new Trump-class battleship, USNI News has learned. The Senate Armed Services Committee thinks the Navy must keep developing DDG(X) as planned to follow the Arleigh Burke-class Flight III destroyer"
-  },
-  {
-    "id": "16c3652a436a",
-    "title": "U.S. Army Uses Drone Boats to Escort Logistics Craft in Philippine Drill",
-    "url": "https://news.usni.org/2026/06/18/u-s-army-uses-drone-boats-to-escort-logistics-craft-in-philippine-drill",
-    "date": "2026-06-18T17:59:58Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The U.S. Army is deploying drone boats to guard its logistics vessels in the Philippines as the service trains to sustain forces in the first island chain. Fielded during this year’s army-to-army Salaknib exercise, the use of these unmanned vessels comes under the service’s broader efforts in the We"
-  },
-  {
-    "id": "84f178c92839",
-    "title": "War Department Review to Ensure 'NATO 3.0' Becomes Europe-Led Defense Alliance",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4521330/war-department-review-to-ensure-nato-30-becomes-europe-led-defense-alliance/",
-    "date": "2026-06-18T16:35:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The War Department plans a review of its posture and footprint in Europe to determine how the U.S. is supporting NATO, how partners are supporting NATO and whether what's happening on the ground reflects what President Donald J. Trump and Secretary of War Pete Hegseth believe the alliance should be."
   }
 ]

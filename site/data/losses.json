@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "2fe53badb1dc",
+      "type": "Aircraft Carrier",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-07-01T17:59:42Z",
+      "headline": "Sailor Missing After Helo Assigned to USS George H.W. Bush Ditches in Arabian Sea",
+      "context": "Arabian Sea One aircrewman is missing after an MH-60S helicopter assigned to USS George H.W. Bush (CVN-77) made an emergency landing on Wednesday in the Arabian Sea. The helicopter went down at 3:30 a",
+      "url": "https://news.usni.org/2026/07/01/sailor-missing-after-helo-assigned-to-uss-george-h-w-bush-ditches-in-arabian-sea"
+    },
+    {
       "id": "e011e02036f6",
       "type": "C-17 Globemaster III",
       "qty": 1,
@@ -141,5 +151,5 @@
       "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
     }
   ],
-  "updated": "2026-07-01T14:06:58Z"
+  "updated": "2026-07-01T19:29:58Z"
 }
