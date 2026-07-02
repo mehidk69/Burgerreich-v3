@@ -1,5 +1,45 @@
 [
   {
+    "id": "ed6ab93bd9c9",
+    "title": "Vietnam Veteran Receives Purple Heart 57 Years Later",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4532583/vietnam-veteran-receives-purple-heart-57-years-later/",
+    "date": "2026-07-02T17:43:25Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "After 57 years, a Vietnam veteran received his long-overdue recognition thanks to a dedicated Army Reserve officer."
+  },
+  {
+    "id": "6308a42e7429",
+    "title": "Hegseth Thanks National Guard for D.C. Mission Ahead of Nation's 250th",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4532675/hegseth-thanks-national-guard-for-dc-mission-ahead-of-nations-250th/",
+    "date": "2026-07-02T17:29:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Secretary of War Pete Hegseth praised National Guardsmen in Washington for reducing city crime ahead of America's 250th birthday celebration."
+  },
+  {
+    "id": "6cb751a4535e",
+    "title": "Marines Deploy Iron Dome Air Defense Systems to the Western Pacific",
+    "url": "https://news.usni.org/2026/07/02/marines-deploy-iron-dome-air-defense-systems-to-the-western-pacific",
+    "date": "2026-07-02T16:42:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Forward-deployed Marines in Japan recently received advanced air defense systems to counter cruise missile and drone threats that the service may face during a potential conflict with China in the Western Pacific. “The [Medium-Range Intercept Capability] system provides a decisive competitive advant"
+  },
+  {
+    "id": "51b40ebff3bc",
+    "title": "Defense Department Memo Establishing the Direct Reporting Portfolio Manager for Unmanned Systems",
+    "url": "https://news.usni.org/2026/07/02/defense-department-memo-establishing-the-direct-reporting-portfolio-manager-for-unmanned-systems",
+    "date": "2026-07-02T14:42:18Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The following is the memorandum &#8220;Establishment of the Direct Reporting Portfolio Manager for Unmanned Systems,” released July 1, 2026, by the Defense Department. From the Report Department of War Establishes Direct Reporting Portfolio Manager for Unmanned Systems to Ensure American Drone Domin"
+  },
+  {
     "id": "3f192c831f55",
     "title": "U.S. Military Supports Venezuela Earthquake Response",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4531605/us-military-supports-venezuela-earthquake-response/",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "The 7th Infantry Division (Multi-Domain Command-Pacific) is the Army's newest theater-enabling command, built to integrate maneuver, fires, air defense, cyber, space, electronic warfare, intelligence, unmanned systems, sustainment and command and control to support the joint force across the Pacific"
-  },
-  {
-    "id": "f403918cbdc6",
-    "title": "Trump, Hegseth Praise New Medal of Honor Recipients",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4522219/trump-hegseth-praise-new-medal-of-honor-recipients/",
-    "date": "2026-06-19T22:13:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "President Donald J. Trump and Secretary of War Pete Hegseth lauded the intrepid valor of three servicemen whom the commander in chief awarded the Medal of Honor to at a White House ceremony."
-  },
-  {
-    "id": "be832f456b03",
-    "title": "Trump, Hegseth Praise Three New Medal of Honor Recipients",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4522219/trump-hegseth-praise-three-new-medal-of-honor-recipients/",
-    "date": "2026-06-19T22:13:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "President Donald J. Trump and Secretary of War Pete Hegseth lauded the intrepid valor of three servicemen whom the commander in chief awarded the Medal of Honor to at a White House ceremony."
-  },
-  {
-    "id": "3cb5c581810f",
-    "title": "USNI News Western Pacific Pulse: June 19, 2026",
-    "url": "https://news.usni.org/2026/06/19/usni-news-western-pacific-pulse-june-19-2026",
-    "date": "2026-06-19T14:51:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. En route to Hawaii Ships from various nations are transiting the Western Pacific en route to the U.S. Navy’s Rim of the Pacific 2026 exercise, which will be held in Hawaii from Jun. 24-Jul. 12"
-  },
-  {
-    "id": "734d1e47966d",
-    "title": "Three Killed in Latest U.S. Strike on Suspected Drug Boat",
-    "url": "https://news.usni.org/2026/06/19/three-killed-in-latest-u-s-strike-on-suspected-drug-boat",
-    "date": "2026-06-19T14:44:57Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Forces with Joint Task Force Southern Spear struck an alleged drug boat in the Eastern Pacific, killing three men, on Thursday. The strike was the 65th since President Donald Trump announced the first ones in September 2025. At least 208 people have been killed, including the three men from Thursday"
   }
 ]
