@@ -1,5 +1,15 @@
 [
   {
+    "id": "3f192c831f55",
+    "title": "U.S. Military Supports Venezuela Earthquake Response",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4531605/us-military-supports-venezuela-earthquake-response/",
+    "date": "2026-07-01T20:03:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "U.S. service members are on the ground in Venezuela, delivering assistance where it is needed most following two devastating earthquakes June 24."
+  },
+  {
     "id": "6ae9d46df053",
     "title": "U.S., Partners Wrap Exercise Valiant Shield",
     "url": "https://news.usni.org/2026/07/01/u-s-partners-wrap-exercise-valiant-shield",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "Forces with Joint Task Force Southern Spear struck an alleged drug boat in the Eastern Pacific, killing three men, on Thursday. The strike was the 65th since President Donald Trump announced the first ones in September 2025. At least 208 people have been killed, including the three men from Thursday"
-  },
-  {
-    "id": "703a0c01c71b",
-    "title": "A Simple Prayer and a Blasted Bridge: Marine John Ripley Receives Posthumous Medal of Honor",
-    "url": "https://news.usni.org/2026/06/19/a-simple-prayer-and-a-blasted-bridge-marine-john-ripley-receives-posthumous-medal-of-honor",
-    "date": "2026-06-19T11:56:02Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "For decades, young midshipmen at the U.S. Naval Academy have walked by &#8220;Ripley at the Bridge,&#8221; a dramatic diorama within the Memorial Hall foyer in Bancroft Hall featuring Marine Capt. John Ripley dangling from a girder over the Cua Viet River. On Thursday, 54 years after his actions in"
   }
 ]
