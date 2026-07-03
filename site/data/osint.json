@@ -1,5 +1,25 @@
 [
   {
+    "id": "c67468f9cda2",
+    "title": "USS Nimitz: An Aircraft Carrier’s Final Journey",
+    "url": "https://news.usni.org/2026/07/03/uss-nimitz-an-aircraft-carriers-final-journey",
+    "date": "2026-07-03T12:57:35Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "ABOARD USS NIMITZ UNDERWAY IN THE ATLANTIC ― Approximately 100 miles off the coast of North Carolina, a 14-nation armada converged in the blue waters of the Atlantic. Twenty-six ships from every corner of the world – including the U.S., Norway, Brazil, Morocco, Turkey and South Korea – synchronized"
+  },
+  {
+    "id": "65369158e613",
+    "title": "USNI News Western Pacific Pulse: July 3 2026",
+    "url": "https://news.usni.org/2026/07/03/usni-news-western-pacific-pulse-july-3-2026",
+    "date": "2026-07-03T12:08:23Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Exercise Valiant Shield Exercise Valiant Shield 2026 (VS26) concluded on Wednesday following 10 days of exercises across the Commonwealth of the Northern Mariana Islands, Guam, Japan and at se"
+  },
+  {
     "id": "50f67275db68",
     "title": "FLEETEX250: ‘They’re Here, We Might as Well Train’",
     "url": "https://news.usni.org/2026/07/02/theyre-here-we-might-as-well-train",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "The U.S. struck a suspected drug boat in the Caribbean on Sunday, the first strike in the area since early May. The strike, conducted by the Joint Task Force Southern Spear, killed two men. Another six men survived the initial strike, with U.S. Coast Guard activating search and rescue operations. Re"
-  },
-  {
-    "id": "2055b5e964e9",
-    "title": "China’s Liaoning Carrier Strike Group Concludes 40-day Deployment to South China, Philippine Seas",
-    "url": "https://news.usni.org/2026/06/22/chinas-liaoning-carrier-strike-group-concludes-40-day-deployment-to-south-china-philippine-seas",
-    "date": "2026-06-22T19:44:26Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "China’s Liaoning Carrier Strike Group returned Monday to its homeport of Qingdao, concluding a 40-day deployment to the South China Sea and Philippine Sea, the People’s Liberation Army Navy announced. “Back to Port: A Chinese PLA Navy’s task force led by aircraft carrier Liaoning (Hull 16) completed"
-  },
-  {
-    "id": "04d53007faf5",
-    "title": "USNI News Fleet and Marine Tracker: June 22, 2026",
-    "url": "https://news.usni.org/2026/06/22/usni-news-fleet-and-marine-tracker-june-22-2026",
-    "date": "2026-06-22T18:46:33Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 22, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
   }
 ]
