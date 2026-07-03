@@ -1,5 +1,15 @@
 [
   {
+    "id": "d0974c1a5601",
+    "title": "America’s Navy at 250: A Naval History and Heritage Command Publication",
+    "url": "https://news.usni.org/2026/07/03/americas-navy-at-250-a-naval-history-and-heritage-command-publication",
+    "date": "2026-07-03T13:30:51Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is “America’s Navy at 250,” a Naval History and Heritage Command publication, released June 30, 2026. From the Report America&#8217;s Navy at 250: The Historic Collections of Naval History and Heritage Command honors the Navy and Nation 250 by showcasing 250 artifacts, artworks, and su"
+  },
+  {
     "id": "c67468f9cda2",
     "title": "USS Nimitz: An Aircraft Carrier’s Final Journey",
     "url": "https://news.usni.org/2026/07/03/uss-nimitz-an-aircraft-carriers-final-journey",
@@ -618,16 +628,6 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "Four people have been taken to the hospital after a Coast Guard helicopter crashed on Monday in southeast Alaska, the service announced. The MH-60 Jayhawk was on a training flight originating at Coast Guard Air Station Sitka before going down near Harbor Mountain around 10:07 a.m. local time. “Rescu"
-  },
-  {
-    "id": "a96bd7a58956",
-    "title": "Two Men Killed in U.S. Strike on Suspected Drug Boat in the Caribbean",
-    "url": "https://news.usni.org/2026/06/22/two-men-killed-in-u-s-strike-on-suspected-drug-boat-in-the-caribbean",
-    "date": "2026-06-22T20:10:41Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The U.S. struck a suspected drug boat in the Caribbean on Sunday, the first strike in the area since early May. The strike, conducted by the Joint Task Force Southern Spear, killed two men. Another six men survived the initial strike, with U.S. Coast Guard activating search and rescue operations. Re"
   },
   {
     "id": "01cabc1d7eac",
