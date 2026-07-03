@@ -1,5 +1,45 @@
 [
   {
+    "id": "50f67275db68",
+    "title": "FLEETEX250: ‘They’re Here, We Might as Well Train’",
+    "url": "https://news.usni.org/2026/07/02/theyre-here-we-might-as-well-train",
+    "date": "2026-07-03T01:28:00Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": ""
+  },
+  {
+    "id": "3638f9e0facf",
+    "title": "Build Freedom Initiative Launches With Big Contract to Skilled Trades Champion",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4532933/build-freedom-initiative-launches-with-big-contract-to-skilled-trades-champion/",
+    "date": "2026-07-02T20:36:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Michael Duffey, undersecretary of war for acquisition and sustainment, and Michael Cadenazzi, assistant secretary of war for industrial base policy, presented television host Mike Rowe with a $10 million check at the Pentagon to formally launch the Build Freedom Initiative."
+  },
+  {
+    "id": "538ee5645605",
+    "title": "Pennsylvania Army National Guard Conducts 'Ghillie Wash' Training Event",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4532841/pennsylvania-army-national-guard-conducts-ghillie-wash-training-event/",
+    "date": "2026-07-02T20:03:40Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Pennsylvania National Guard soldiers participated in a ghillie wash training exercise at Fort Indiantown Gap, Pa., in which they were put through intense physical training in ghillie suits, a garment designed to resemble heavy foliage, grass or terrain."
+  },
+  {
+    "id": "a54baff6afcd",
+    "title": "Bollinger Quietly Cut Steel for First Arctic Security Cutter in April Ahead of $2.2B Award",
+    "url": "https://news.usni.org/2026/07/02/bollinger-quietly-cut-steel-for-first-arctic-security-cutter-in-april-ahead-of-2-2b-award",
+    "date": "2026-07-02T19:47:32Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The network of Bollinger shipyards in Louisiana wasted no time starting work on their Coast Arctic Security Cutter, beginning fabrication of the first planned U.S. hull two months ahead of the finalized contract, Bollinger president Ben Bordelon told USNI News this week. This week, the Coast Guard f"
+  },
+  {
     "id": "ed6ab93bd9c9",
     "title": "Vietnam Veteran Receives Purple Heart 57 Years Later",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4532583/vietnam-veteran-receives-purple-heart-57-years-later/",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 22, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
-  },
-  {
-    "id": "61664420d7d6",
-    "title": "NASCAR San Diego Weekend Connects Sailors, Community for Navy 250",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4522864/nascar-san-diego-weekend-connects-sailors-community-for-navy-250/",
-    "date": "2026-06-22T17:03:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Naval Base Coronado welcomed more than 100,000 visitors, race fans, service members, military families and community partners during the inaugural NASCAR San Diego Weekend, which celebrated the service's enduring connection to the American people."
-  },
-  {
-    "id": "cca9d89cb6cf",
-    "title": "Allies Come Together in the Indo-Pacific for Exercise Valiant Shield 26",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4522795/allies-come-together-in-the-indo-pacific-for-exercise-valiant-shield-26/",
-    "date": "2026-06-22T15:53:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "U.S. Pacific Command joint forces, along with allied and partner forces, kicked off Exercise Valiant Shield 2026 in the Indo-Pacific region to strengthen the joint and combined force through training in precise, lethal and overwhelming scenarios."
-  },
-  {
-    "id": "3168135653be",
-    "title": "U.S. Army Stands Up New Command to Counter China’s Area Denial Strategy with Lethal Drones, Long-Range Missiles",
-    "url": "https://news.usni.org/2026/06/22/u-s-army-stands-up-new-command-to-counter-chinas-area-denial-strategy-with-lethal-drones-long-range-missiles",
-    "date": "2026-06-22T14:21:55Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "U.S. Army Pacific has created a new command that will link Stryker brigades, long-range missile launchers, unmanned vessels and attack drones to break adversary area denial networks, such as those fielded by China. Combining the Stryker Brigade Combat Teams of the 7th Infantry Division with the long"
-  },
-  {
-    "id": "1ec1cce2eb78",
-    "title": "Ceremony Brings New Name, Transformation to 7th Infantry Division",
-    "url": "https://www.army.mil/article-amp/293387/7th_id_conducts_redesignation_ceremony",
-    "date": "2026-06-22T14:11:05Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The 7th Infantry Division (Multi-Domain Command-Pacific) is the Army's newest theater-enabling command, built to integrate maneuver, fires, air defense, cyber, space, electronic warfare, intelligence, unmanned systems, sustainment and command and control to support the joint force across the Pacific"
   }
 ]
