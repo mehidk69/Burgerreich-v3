@@ -1,5 +1,15 @@
 [
   {
+    "id": "68ed0b681d25",
+    "title": "President, Vice President Address Nation in Celebration of America's 250th Birthday",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4533279/president-vice-president-address-nation-in-celebration-of-americas-250th-birthd/",
+    "date": "2026-07-05T05:41:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "President Donald J. Trump addressed the nation during a \"Salute to America\" celebration on the National Mall to commemorate America's 250th birthday, while Vice President JD Vance made public comments in New York City earlier in the day."
+  },
+  {
     "id": "d0974c1a5601",
     "title": "America’s Navy at 250: A Naval History and Heritage Command Publication",
     "url": "https://news.usni.org/2026/07/03/americas-navy-at-250-a-naval-history-and-heritage-command-publication",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "The following is the June 17, 2026, Government Accountability Office report, Countering China: Agencies Provided Over $1 Billion but Have Not Assessed Overall Results of Projects. From the Report China and the U.S. are competing for global economic and geopolitical influence—from mining critical min"
-  },
-  {
-    "id": "41ce24d47bbd",
-    "title": "Coast Guard Helicopter Crashes in Alaska, 4 Transported to Hospital",
-    "url": "https://news.usni.org/2026/06/22/coast-guard-helicopter-crashes-in-alaska-4-transported-to-hospital",
-    "date": "2026-06-22T21:07:21Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Four people have been taken to the hospital after a Coast Guard helicopter crashed on Monday in southeast Alaska, the service announced. The MH-60 Jayhawk was on a training flight originating at Coast Guard Air Station Sitka before going down near Harbor Mountain around 10:07 a.m. local time. “Rescu"
   }
 ]
