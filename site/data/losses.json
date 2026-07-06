@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "8181eb21acd4",
+      "type": "Aircraft Carrier",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-07-06T18:36:59Z",
+      "headline": "Navy Ends Search for Missing George H.W. Bush Sailor in Arabian Sea",
+      "context": "e search for a sailor who went missing after an MH-60S helicopter assigned to USS George H.W. Bush (CVN-77) ditched in the Arabian Sea last week. The sea service called off the search at 2 p.m. EST Su",
+      "url": "https://news.usni.org/2026/07/06/navy-ends-search-for-missing-george-h-w-bush-sailor-in-arabian-sea"
+    },
+    {
+      "id": "226ac604e8fb",
+      "type": "Destroyer",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-07-06T18:36:59Z",
+      "headline": "Navy Ends Search for Missing George H.W. Bush Sailor in Arabian Sea",
+      "context": "ts from the U.S. Air Force, George H.W. Bush, USS Abraham Lincoln (CVN-72) and destroyers USS Ross (DDG-71), USS Donald Cook (DDG-75), USS",
+      "url": "https://news.usni.org/2026/07/06/navy-ends-search-for-missing-george-h-w-bush-sailor-in-arabian-sea"
+    },
+    {
       "id": "2fe53badb1dc",
       "type": "Aircraft Carrier",
       "qty": 1,
@@ -151,5 +171,5 @@
       "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
     }
   ],
-  "updated": "2026-07-06T16:34:20Z"
+  "updated": "2026-07-06T19:40:31Z"
 }

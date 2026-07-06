@@ -1,5 +1,55 @@
 [
   {
+    "id": "607b46d7c1b0",
+    "title": "621st Contingency Response Wing Responds to Accelerate Earthquake Disaster Relief in Venezuela",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4533672/621st-contingency-response-wing-responds-to-accelerate-earthquake-disaster-reli/",
+    "date": "2026-07-06T19:21:53Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The 621st Contingency Response Wing deployed a 110-airman contingency response element to Simón Bolívar International Airport in Maiquetía, Vargas, Venezuela, to work with local authorities and other disaster relief teams to safely expand the intake of humanitarian aid by air transport."
+  },
+  {
+    "id": "13c81315ffef",
+    "title": "Navy Ends Search for Missing George H.W. Bush Sailor in Arabian Sea",
+    "url": "https://news.usni.org/2026/07/06/navy-ends-search-for-missing-george-h-w-bush-sailor-in-arabian-sea",
+    "date": "2026-07-06T18:36:59Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy has called off the search for a sailor who went missing after an MH-60S helicopter assigned to USS George H.W. Bush (CVN-77) ditched in the Arabian Sea last week. The sea service called off the search at 2 p.m. EST Sunday, four days after the sailor went missing, according to a U.S. 5th Fle"
+  },
+  {
+    "id": "d0f3cb354848",
+    "title": "America's 250th: Fireworks, Freedom & Festivities",
+    "url": "https://www.war.gov/Multimedia/Photo-Collections/20072/",
+    "date": "2026-07-06T18:35:16Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "From explosive firework displays and vibrant parades to moving naturalization ceremonies, service members, military families and citizens united across the country to celebrate America's historic 250th anniversary. The national events commemorated 250 years since the signing of the Declaration of In"
+  },
+  {
+    "id": "2a1e683d695c",
+    "title": "Navy Plans to Homeport 9 LSMs at Pearl Harbor",
+    "url": "https://news.usni.org/2026/07/06/navy-plans-to-homeport-9-lsms-at-pearl-harbor",
+    "date": "2026-07-06T17:47:23Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. Navy plans to homeport up to nine McClung-class medium landing ships at Pearl Harbor, Hawaii, to support the Marine Corps’ area denial and sensing operations across the Pacific. According to an environmental impact statement released last month by the sea service, the proposed homeporting f"
+  },
+  {
+    "id": "e13b4f5d327b",
+    "title": "Retired Submariner Commemorates Both Bicentennial, Semiquincentennial in Guam",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4533546/retired-submariner-commemorates-both-bicentennial-semiquincentennial-in-guam/",
+    "date": "2026-07-06T16:54:55Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Fifty years after raising the national colors in Guam for America's bicentennial, retired Navy Cmdr. Allan Riggs returned to the island to commemorate the nation's 250th birthday alongside a new generation of submariners."
+  },
+  {
     "id": "2115074092eb",
     "title": "GAO Weapon Systems Annual Assessment to Congress",
     "url": "https://news.usni.org/2026/07/06/gao-weapon-systems-annual-assessment-to-congress",
@@ -578,56 +628,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "DANVILLE, Va. — Dozens of miles from an interstate or a major airport, a tiny mill town in the Virginia piedmont is the crucible for next-generation manufacturing for the Navy. At the height of the 600-ship Navy shipbuilding boom in the 1980s there were more than 2,000 casting and forging businesses"
-  },
-  {
-    "id": "035498fe42b1",
-    "title": "National Guard Counterdrug Program Adapts to Evolving Criminal Threats",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4524222/national-guard-counterdrug-program-adapts-to-evolving-criminal-threats/",
-    "date": "2026-06-23T18:37:51Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The National Guard Counterdrug Program helps law enforcement connect investigations and share intelligence to stop sophisticated drug trafficking networks across the country."
-  },
-  {
-    "id": "17e6d92d3629",
-    "title": "U.S. Kicks Off Western Pacific Exercises Valiant Shield, Resolute Dragon",
-    "url": "https://news.usni.org/2026/06/23/u-s-kicks-off-western-pacific-exercises-valiant-shield-resolute-dragon",
-    "date": "2026-06-23T17:34:07Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The U.S. kicked off this week multinational exercise Valiant Shield 2026 and Marine Corps-Japan Ground Self-Defense Force exercise Resolute Dragon 26, two major Western Pacific exercises. Led by U.S. Indo-Pacific Command, Valiant Shield 2026 began Monday and will run through July 1, taking place in"
-  },
-  {
-    "id": "1bc6a52df4f5",
-    "title": "A Historic First: Marine Corps Reserve Integrates Multidomain Assets During Exercise",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4524108/a-historic-first-marine-corps-reserve-integrates-multidomain-assets-during-exer/",
-    "date": "2026-06-23T17:05:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The Marine Corps Reserve is actively deploying multidomain collection assets during an integration course for the first time in its history, marking a technological milestone that ensures the service remains an agile force prepared to dominate in complex, data-driven conflicts."
-  },
-  {
-    "id": "43d79c1f2e8c",
-    "title": "U.S. Asymmetric Aid Program Transfers Unmanned Vessels to the Philippines, Plans Attack Drone Transfer by 2027",
-    "url": "https://news.usni.org/2026/06/23/u-s-asymmetric-aid-program-transfers-unmanned-vessels-to-the-philippines-plans-attack-drone-transfer-by-2027",
-    "date": "2026-06-23T15:42:24Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "MANILA, PHILIPPINES – The latest tranche of American-made and funded drones were formally received by Philippine forces this week ahead of Washington’s larger plans to equip the Southeast Asian ally with asymmetric capabilities that could prove crucial in monitoring and deterring Beijing in the Sout"
-  },
-  {
-    "id": "397a767d828b",
-    "title": "Hegseth: Defense and Fiscal Hawks, Unite!",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4523963/hegseth-defense-and-fiscal-hawks-unite/",
-    "date": "2026-06-23T14:58:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Urgency, speed, efficiency, competition and lethality are the new guiding principles of the War Department, Secretary of War Pete Hegseth writes. This moment requires defense hawks and fiscal hawks to pull together."
   },
   {
     "id": "01cabc1d7eac",
