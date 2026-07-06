@@ -1,5 +1,15 @@
 [
   {
+    "id": "2115074092eb",
+    "title": "GAO Weapon Systems Annual Assessment to Congress",
+    "url": "https://news.usni.org/2026/07/06/gao-weapon-systems-annual-assessment-to-congress",
+    "date": "2026-07-06T16:19:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the July 2, 2026, Government Accountability Office report, Weapon Systems Annual Assessment: Requiring Mature Technologies Could Enable Shift to Rapid Delivery.  From the Report DOD is again working to reform its acquisition processes to help deliver innovative weapons rapidly. But"
+  },
+  {
     "id": "68ed0b681d25",
     "title": "President, Vice President Address Nation in Celebration of America's 250th Birthday",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4533279/president-vice-president-address-nation-in-celebration-of-americas-250th-birthd/",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "Urgency, speed, efficiency, competition and lethality are the new guiding principles of the War Department, Secretary of War Pete Hegseth writes. This moment requires defense hawks and fiscal hawks to pull together."
-  },
-  {
-    "id": "0b8f14e32e9f",
-    "title": "GAO Report on Countering China",
-    "url": "https://news.usni.org/2026/06/23/gao-report-on-countering-china",
-    "date": "2026-06-23T14:48:47Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the June 17, 2026, Government Accountability Office report, Countering China: Agencies Provided Over $1 Billion but Have Not Assessed Overall Results of Projects. From the Report China and the U.S. are competing for global economic and geopolitical influence—from mining critical min"
   }
 ]
