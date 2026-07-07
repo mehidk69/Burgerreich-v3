@@ -1,9 +1,19 @@
 [
   {
+    "id": "f15a411e5575",
+    "title": "China Tests Submarine-launched Ballistic Missile, Kicks Off Annual Exercise With Russia",
+    "url": "https://news.usni.org/2026/07/06/china-tests-submarine-launched-ballistic-missile-kicks-off-annual-exercise-with-russia",
+    "date": "2026-07-06T20:25:53Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The People’s Liberation Army Navy test fired a submarine-launched ballistic missile from the South China Sea to the Pacific Ocean on Monday, coinciding with the start of an annual naval drill with Russia. The Chinese strategic nuclear submarine launched the missile carrying a training dummy warhead"
+  },
+  {
     "id": "607b46d7c1b0",
     "title": "621st Contingency Response Wing Responds to Accelerate Earthquake Disaster Relief in Venezuela",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4533672/621st-contingency-response-wing-responds-to-accelerate-earthquake-disaster-reli/",
-    "date": "2026-07-06T19:21:53Z",
+    "date": "2026-07-06T19:21:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "posture",
@@ -23,7 +33,7 @@
     "id": "d0f3cb354848",
     "title": "America's 250th: Fireworks, Freedom & Festivities",
     "url": "https://www.war.gov/Multimedia/Photo-Collections/20072/",
-    "date": "2026-07-06T18:35:16Z",
+    "date": "2026-07-06T18:35:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
@@ -618,16 +628,6 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "The following is the June 16, 2026, Congressional Research Service report U.S.-Panama Relations: Overview and Issues for Congress. From the Report The United States and Panama generally have maintained close relations since Panama&#8217;s independence in 1903. Close bilateral ties are largely rooted"
-  },
-  {
-    "id": "2b7ff8599d90",
-    "title": "The Navy’s Big 3-D Printing Bet",
-    "url": "https://news.usni.org/2026/06/23/the-navys-big-3-d-printing-bet",
-    "date": "2026-06-23T18:47:00Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "DANVILLE, Va. — Dozens of miles from an interstate or a major airport, a tiny mill town in the Virginia piedmont is the crucible for next-generation manufacturing for the Navy. At the height of the 600-ship Navy shipbuilding boom in the 1980s there were more than 2,000 casting and forging businesses"
   },
   {
     "id": "01cabc1d7eac",
