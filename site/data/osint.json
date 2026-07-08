@@ -1,5 +1,15 @@
 [
   {
+    "id": "60056b75e3e8",
+    "title": "Report to Congress on Issues for NATO at the Ankara Summit",
+    "url": "https://news.usni.org/2026/07/08/report-to-congress-on-issues-for-nato-at-the-ankara-summit",
+    "date": "2026-07-08T13:19:06Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the July 2, 2026, Congressional Research Service report, NATO: Issues for the July 2026 Ankara Summit. From the Report Heads of state and government from the North Atlantic Treaty Organization&#8217;s (NATO&#8217;s) 32 members are scheduled to meet for a summit in Ankara, Turkey, on"
+  },
+  {
     "id": "6676d0b04f15",
     "title": "Navy Meets Recruiting Goal Ahead of Schedule",
     "url": "https://news.usni.org/2026/07/07/navy-meets-recruiting-goal-ahead-of-schedule",
@@ -23,7 +33,7 @@
     "id": "b3f8de192189",
     "title": "Preserving Japan's Aviation Heritage: Yokota Air Base Returns Historic Aircraft Artifacts",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4534617/preserving-japans-aviation-heritage-yokota-air-base-returns-historic-aircraft-a/",
-    "date": "2026-07-07T17:14:19Z",
+    "date": "2026-07-07T17:14:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "air",
@@ -33,7 +43,7 @@
     "id": "ed96df570ae9",
     "title": "The USS Constitution Navigates Future",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4534454/the-uss-constitution-navigates-future/",
-    "date": "2026-07-07T15:59:49Z",
+    "date": "2026-07-07T15:59:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The Littoral Combat Ship USS Indianapolis (LCS-17) suffered an in-port fire on Wednesday while in port at Naval Station Mayport, Fla., USNI News has learned. Seven sailors were taken to area hospitals, treated for minor injuries and released. “All have since been released and cleared to return to th"
-  },
-  {
-    "id": "d1c913e303fd",
-    "title": "Report to Congress on THAAD System",
-    "url": "https://news.usni.org/2026/06/25/report-to-congress-on-thaad-system",
-    "date": "2026-06-25T12:13:50Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The following is the June 23, 2026, Congressional Research Service In Focus report, The Terminal High Altitude Area Defense (THAAD) System. From the report The Terminal High Altitude Area Defense (THAAD) system is a key element of U.S. ballistic missile defense (BMD). THAAD employs interceptor missi"
   }
 ]
