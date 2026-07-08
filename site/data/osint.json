@@ -1,5 +1,45 @@
 [
   {
+    "id": "0ad524ce0553",
+    "title": "Graduates of Navy's Surface Navigation Course Steer Fleet",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4538171/graduates-of-navys-surface-navigation-course-steer-fleet/",
+    "date": "2026-07-08T18:05:43Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy's Surface Navigator course teaches sailors traditional celestial skills alongside modern systems to build confident bridge teams who can safely navigate without GPS."
+  },
+  {
+    "id": "4231ccc392fb",
+    "title": "Joint Interagency Task Force 401 Publishes Counter-Drone Handbook",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4538032/joint-interagency-task-force-401-publishes-counter-drone-handbook/",
+    "date": "2026-07-08T17:37:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Joint Interagency Task Force 401 published a practical handbook designed to aid audiences across government, industry and academia in building a shared understanding of the drone threat and the basic principles of protecting against illicit drones."
+  },
+  {
+    "id": "f6a71c9a50c5",
+    "title": "Royal Navy Intercepts Russian Patrol Aircraft in Norwegian Sea",
+    "url": "https://news.usni.org/2026/07/08/royal-navy-intercepts-russian-patrol-aircraft-in-norwegian-sea",
+    "date": "2026-07-08T16:33:39Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Two Royal Navy F-35B Lightning II fighters intercepted a Russian Tu-142 Bear F Maritime Patrol Aircraft over the Norwegian Sea after it repeatedly approached aircraft carrier HMS Prince of Wales (R09), the U.K Ministry of Defence announced Monday. “The aircraft flew unnecessarily close to HMS Prince"
+  },
+  {
+    "id": "268f7493e419",
+    "title": "Navy Identifies Helicopter Squadron Commander As Missing Sailor in Arabian Sea",
+    "url": "https://news.usni.org/2026/07/08/navy-identifies-helicopter-squadron-commander-as-missing-sailor-in-arabian-sea",
+    "date": "2026-07-08T15:21:01Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Cmdr. Gabriel Edwards, commanding officer of Helicopter Sea Squadron 5, embarked on USS George H.W. Bush (CVN-77), died July 1 after his helicopter ditched into the Arabian Sea, the Navy announced late Tuesday. Edwards was one of four sailors aboard the MH-60S helicopter when it landed in the water."
+  },
+  {
     "id": "60056b75e3e8",
     "title": "Report to Congress on Issues for NATO at the Ankara Summit",
     "url": "https://news.usni.org/2026/07/08/report-to-congress-on-issues-for-nato-at-the-ankara-summit",
@@ -17,7 +57,7 @@
     "source": "USNI News",
     "cocom": "osint",
     "tag": "naval",
-    "summary": "The Navy met its recruiting goal for Fiscal Year 2026 three months before the fall deadline, the sea service announced last week. The Navy brought in 45,000 new recruits, according to a Thursday news release, marking the third year in a row the sea service met its goals. Unlike the previous two fisc"
+    "summary": "This story has been updated to clarify end strength numbers.  The Navy met its recruiting goal for Fiscal Year 2026 three months before the fall deadline, the sea service announced last week. The Navy brought in 45,000 new recruits, according to a Thursday news release, marking the third year in a r"
   },
   {
     "id": "caa6df889507",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "War Department officials pledged to continue searching for the 1,565 service members still missing from the Vietnam War during a meeting with grieving families in Arlington, Va."
-  },
-  {
-    "id": "c954c6cd6a27",
-    "title": "Air Force Wants New 1,000-Nautical Mile Range Missile for Air, Sea Targets",
-    "url": "https://news.usni.org/2026/06/25/air-force-wants-new-1000-nautical-mile-range-missile-for-air-sea-targets",
-    "date": "2026-06-25T19:00:42Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The Air Force wants a family of next-generation long-range missiles to strike targets out to ranges of at least 1,000 nautical miles to support the service’s plans to counter Chinese air and naval forces in a potential conflict. The Air Force Long Range Weapon program plans to field air-to-air and a"
-  },
-  {
-    "id": "84a1d5c29bb0",
-    "title": "Trump Accounts Lay Solid Financial Foundation for Military Children",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4526712/trump-accounts-lay-solid-financial-foundation-for-military-children/",
-    "date": "2026-06-25T17:31:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Thanks to newly available Trump Accounts, military families can lay the foundation to ensure each of their children has a head start on a retirement plan. The program opens for financial contributions July 4."
-  },
-  {
-    "id": "e2bd58b3224a",
-    "title": "USVDIV-32 Advances Unmanned Operations With NATO During BALTOPS 2026",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4526512/usvdiv-32-advances-unmanned-operations-with-nato-during-baltops-2026/",
-    "date": "2026-06-25T16:27:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Sailors assigned to the Unmanned Surface Vessel Division 32 are at the forefront of the Navy's fleet during Exercise Baltic Operation, delivering realistic counter-unmanned surface vessel training against unmanned vessels to NATO allies."
-  },
-  {
-    "id": "188d2798bfb8",
-    "title": "USS Indianapolis Suffers Fire, 7 Sailors Treated for Minor Injuries",
-    "url": "https://news.usni.org/2026/06/25/uss-indianapolis-suffers-fire-7-sailors-treated-for-minor-injuries",
-    "date": "2026-06-25T14:31:32Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Littoral Combat Ship USS Indianapolis (LCS-17) suffered an in-port fire on Wednesday while in port at Naval Station Mayport, Fla., USNI News has learned. Seven sailors were taken to area hospitals, treated for minor injuries and released. “All have since been released and cleared to return to th"
   }
 ]

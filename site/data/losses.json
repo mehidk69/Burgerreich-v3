@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "6b2308f3ca23",
+      "type": "F-35 Lightning II",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-07-08T16:33:39Z",
+      "headline": "Royal Navy Intercepts Russian Patrol Aircraft in Norwegian Sea",
+      "context": "Royal Navy Intercepts Russian Patrol Aircraft in Norwegian Sea Two Royal Navy F-35B Lightning II fighters intercepted a Russian Tu-142 Bear F Maritime Patrol Aircraft over the Norwegian Sea after it r",
+      "url": "https://news.usni.org/2026/07/08/royal-navy-intercepts-russian-patrol-aircraft-in-norwegian-sea"
+    },
+    {
+      "id": "1c5d46604edd",
+      "type": "Aircraft Carrier",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-07-08T15:21:01Z",
+      "headline": "Navy Identifies Helicopter Squadron Commander As Missing Sailor in Arabian Sea",
+      "context": "Gabriel Edwards, commanding officer of Helicopter Sea Squadron 5, embarked on USS George H.W. Bush (CVN-77), died July 1 after his helicopter ditched into the Arabian Sea, the Navy announced late Tues",
+      "url": "https://news.usni.org/2026/07/08/navy-identifies-helicopter-squadron-commander-as-missing-sailor-in-arabian-sea"
+    },
+    {
       "id": "8181eb21acd4",
       "type": "Aircraft Carrier",
       "qty": 1,
@@ -171,5 +191,5 @@
       "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
     }
   ],
-  "updated": "2026-07-08T13:29:26Z"
+  "updated": "2026-07-08T19:06:08Z"
 }
