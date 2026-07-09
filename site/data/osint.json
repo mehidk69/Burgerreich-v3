@@ -1,5 +1,15 @@
 [
   {
+    "id": "1f92f603d118",
+    "title": "U.K., Partners Commit to ‘Persistent Maritime Presence’ to Counter Russia in High North",
+    "url": "https://news.usni.org/2026/07/09/u-k-partners-commit-to-persistent-maritime-presence-to-counter-russia-in-high-north",
+    "date": "2026-07-09T18:38:32Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.K.-led Joint Expeditionary Force will advance its integrated maritime enterprise and commit to a persistent maritime presence in the High North, North Atlantic and Baltic to counter Russia’s increasing activities in the region, the Royal Navy announced Thursday. The 10 countries in the JEF rec"
+  },
+  {
     "id": "f9af60140942",
     "title": "Report to Congress on FY 2027 Defense Funding for Selected Weapon Systems",
     "url": "https://news.usni.org/2026/07/09/report-to-congress-on-fy-2027-defense-funding-for-selected-weapon-systems",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "posture",
     "summary": "The following is the June 25, 2026, Congressional Research Service In Focus report, Artemis: NASA’s Program to Return Humans to the Moon. From the report Orion and the Space Launch System The Artemis program has evolved from plans initiated in the NASA Authorization Act of 2010 (P.L. 111-267). The a"
-  },
-  {
-    "id": "485fca765856",
-    "title": "National Guard Says Domestic Missions Improving Troop Readiness",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4527133/national-guard-says-domestic-missions-improving-troop-readiness/",
-    "date": "2026-06-25T21:08:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Domestic missions like the D.C. Safe and Beautiful Task Force are helping build troop readiness rather than detracting from it, Army Maj. Gen. Ronald Burkett II said during a media roundtable discussion."
   }
 ]
