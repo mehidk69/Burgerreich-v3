@@ -1,5 +1,15 @@
 [
   {
+    "id": "f9af60140942",
+    "title": "Report to Congress on FY 2027 Defense Funding for Selected Weapon Systems",
+    "url": "https://news.usni.org/2026/07/09/report-to-congress-on-fy-2027-defense-funding-for-selected-weapon-systems",
+    "date": "2026-07-09T14:26:18Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the July 7, 2026, Congressional Research Service report, FY2027 Defense Budget: Funding for Selected Weapon Systems. From the Report The second Trump Administration&#8217;s Department of Defense (DOD) budget request for FY2027 included $1.1 trillion in discretionary funding and $350"
+  },
+  {
     "id": "f565f183c594",
     "title": "Canada Selects German Firm to Build 12 Attack Boats for Royal Canadian Navy",
     "url": "https://news.usni.org/2026/07/08/canada-selects-german-firm-to-build-12-attack-boats-for-royal-canadian-navy",
@@ -23,7 +33,7 @@
     "id": "0ad524ce0553",
     "title": "Graduates of Navy's Surface Navigation Course Steer Fleet",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4538171/graduates-of-navys-surface-navigation-course-steer-fleet/",
-    "date": "2026-07-08T18:05:43Z",
+    "date": "2026-07-08T18:05:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -613,16 +623,6 @@
     "id": "485fca765856",
     "title": "National Guard Says Domestic Missions Improving Troop Readiness",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4527133/national-guard-says-domestic-missions-improving-troop-readiness/",
-    "date": "2026-06-25T21:08:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Domestic missions like the D.C. Safe and Beautiful Task Force are helping build troop readiness rather than detracting from it, Army Maj. Gen. Ronald Burkett II said during a media roundtable discussion."
-  },
-  {
-    "id": "d302199359ec",
-    "title": "National Guard Leader Says Domestic Missions Improving Troop Readiness",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4527133/national-guard-leader-says-domestic-missions-improving-troop-readiness/",
     "date": "2026-06-25T21:08:00Z",
     "source": "DoD News",
     "cocom": "osint",
