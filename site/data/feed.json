@@ -1,5 +1,25 @@
 [
   {
+    "id": "f565f183c594",
+    "title": "Canada Selects German Firm to Build 12 Attack Boats for Royal Canadian Navy",
+    "url": "https://news.usni.org/2026/07/08/canada-selects-german-firm-to-build-12-attack-boats-for-royal-canadian-navy",
+    "date": "2026-07-08T20:40:10Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Canada announced this week that it will purchase up to 12 attack boats from Germany following an intense bidding competition between Seoul and Berlin for the next-generation of Royal Canadian Navy (RCN) submarines.  “This will be the largest defense procurement in Canadian history, and it will equip"
+  },
+  {
+    "id": "e32968bb2857",
+    "title": "Securing the Border: Soldiers Transport Critical Tech",
+    "url": "https://www.war.gov/Multimedia/Photo-Collections/20073/securing-the-border-soldiers-transport-critical-tech",
+    "date": "2026-07-08T20:00:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Soldiers assigned to Joint Task Force Southern Border transported a telecommunications network system during Operation Muleskinner Trailblazer III in Big Bend, Texas, helping the the U.S. Border Patrol boost joint-agency communication capabilities across the region's austere environments."
+  },
+  {
     "id": "0ad524ce0553",
     "title": "Graduates of Navy's Surface Navigation Course Steer Fleet",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4538171/graduates-of-navys-surface-navigation-course-steer-fleet/",
@@ -608,26 +628,6 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "Domestic missions like the D.C. Safe and Beautiful Task Force are helping build troop readiness rather than detracting from it, Army Maj. Gen. Ronald Burkett II said during a media roundtable discussion."
-  },
-  {
-    "id": "5f9cbe3077ba",
-    "title": "RIMPAC 2026 Kicks off in Hawaii",
-    "url": "https://news.usni.org/2026/06/25/rimpac-2026-kicks-off-in-hawaii",
-    "date": "2026-06-25T21:04:59Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S.-led Rim of the Pacific (RIMPAC) 2026 exercise began on Thursday in Hawaii. Thirty-one surface ships, five submarines, 197 aircraft and 30,000 personnel, including 1100 landing forces will take part in the drills, said Vice Adm. Jeff Jablon, RIMPAC 2026 Commander, Combined Task Forces (CCTF)"
-  },
-  {
-    "id": "da4585a06cfc",
-    "title": "Families of Vietnam War Missing Gather to Hear Updates, Share Stories",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4527088/families-of-vietnam-war-missing-gather-to-hear-updates-share-stories/",
-    "date": "2026-06-25T20:47:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "War Department officials pledged to continue searching for the 1,565 service members still missing from the Vietnam War during a meeting with grieving families in Arlington, Va."
   },
   {
     "id": "01cabc1d7eac",
