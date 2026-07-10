@@ -1,5 +1,35 @@
 [
   {
+    "id": "cdf4dac59c6f",
+    "title": "Hormuz Sees Traffic Bump Despite Ongoing Iranian Attacks",
+    "url": "https://news.usni.org/2026/07/10/hormuz-sees-traffic-bump-despite-ongoing-iranian-attacks",
+    "date": "2026-07-10T21:08:41Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Transits through the Strait of Hormuz more than doubled between May and June, as the shipping industry attempts to navigate the volatile waterway. Analysts with London-based Lloyd’s List Intelligence tracked at least 576 transits through the strait in June, up from 233 in May. However, strait transi"
+  },
+  {
+    "id": "dae36ff3f243",
+    "title": "Report to Congress on U.S. Extended Deterrence and Regional Nuclear Capabilities",
+    "url": "https://news.usni.org/2026/07/10/report-to-congress-on-u-s-extended-deterrence-and-regional-nuclear-capabilities-2",
+    "date": "2026-07-10T20:55:42Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the July 10, 2026, Congressional Research Service report, U.S. Extended Deterrence and Regional Nuclear Capabilities.  From the Report One of the stated goals of U.S. nuclear weapons policy has been to extend deterrence to over 30 U.S. &#8220;allies and partners&#8221; and assure th"
+  },
+  {
+    "id": "53240ff72257",
+    "title": "USNI News Western Pacific Pulse: July 10, 2026",
+    "url": "https://news.usni.org/2026/07/10/usni-news-western-pacific-pulse-july-10-2026",
+    "date": "2026-07-10T19:34:50Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Hawaii The U.S. Navy-led Rim of the Pacific (RIMPAC) 2026 exercise is now in its at-sea phase with ships and unmanned surface vessels departing from Joint Base Pearl Harbor – Hickam in s"
+  },
+  {
     "id": "a1849db1320c",
     "title": "Alaska National Guard Rescues 4 People in 2 Days",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4540150/alaska-national-guard-rescues-4-people-in-2-days/",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "Service members assigned to Joint Task Force Southern Border conducted an aeromedical evacuation after receiving a request to assist a civilian who was experiencing a medical emergency in a remote mountainous area of Arizona."
-  },
-  {
-    "id": "e2e9deef7565",
-    "title": "Southern Command Moves Quickly to Support Venezuela Earthquake Relief",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4527843/southern-command-moves-quickly-to-support-venezuela-earthquake-relief/",
-    "date": "2026-06-26T16:28:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "As directed by the War Department, U.S. Southern Command is working with the State Department to support U.S. government relief operations in Venezuela in response to devastating earthquakes."
-  },
-  {
-    "id": "b15090053894",
-    "title": "France Seizes 5th Russian Shadow Fleet Tanker",
-    "url": "https://news.usni.org/2026/06/26/french-seizes-5th-russian-shadow-fleet-tanker",
-    "date": "2026-06-26T14:02:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The French Navy boarded and diverted a suspected Russian shadow fleet tanker in the Mediterranean off Sicily, officials announced on Thursday. In a social media post on Thursday, French President Emmanuel Macron stated that the French Navy intercepted tanker MT Deliver on Tuesday as it transited off"
-  },
-  {
-    "id": "b1f86975db18",
-    "title": "French Seizes 5th Russian Shadow Fleet Tanker",
-    "url": "https://news.usni.org/2026/06/26/french-seizes-5th-russian-shadow-fleet-tanker",
-    "date": "2026-06-26T14:02:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The French Navy boarded and diverted a suspected Russian shadow fleet tanker in the Mediterranean off Sicily, officials announced on Thursday. In a social media post on Thursday, French President Emmanuel Macron stated that the French Navy intercepted tanker MT Deliver on Tuesday as it transited off"
   }
 ]
