@@ -1,5 +1,25 @@
 [
   {
+    "id": "bc3ec2564aba",
+    "title": "New Navy Policy Limits Medical Shaving Waivers to One Year",
+    "url": "https://news.usni.org/2026/07/09/new-navy-policy-limits-medical-shaving-waivers-to-one-year",
+    "date": "2026-07-09T21:49:03Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Sailors who cannot shave due to medical reasons now have one year before they could face separation over their inability to go clean shaven, according to a Navy policy released Tuesday. Under the most recent Navy administrative message, the sea service will offer shaving waivers for men who are unab"
+  },
+  {
+    "id": "3478ca8c7247",
+    "title": "USS Nimitz Arrives in Norfolk for Homeport Shift",
+    "url": "https://news.usni.org/2026/07/09/uss-nimitz-arrives-in-norfolk-for-homeport-shift",
+    "date": "2026-07-09T20:44:06Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy’s oldest in-service aircraft carrier pulled into Norfolk, Va., on Thursday ahead of its final homeport shift, according to ship spotters. USS Nimitz (CVN-68) reached Virginia after participating in the International Naval Review in New York City over the Fourth of July, which coincided with"
+  },
+  {
     "id": "1f92f603d118",
     "title": "U.K., Partners Commit to ‘Persistent Maritime Presence’ to Counter Russia in High North",
     "url": "https://news.usni.org/2026/07/09/u-k-partners-commit-to-persistent-maritime-presence-to-counter-russia-in-high-north",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Two U.S. warships, Air Force cargo aircraft and Marines aircraft are now in Venezuela to support a U.S. State Department relief mission following two earthquakes on Wednesday. U.S. Southern Command dispatched USS Fort Lauderdale (LPD-28) and the Littoral Combat Ship USS Billings (LCS-15) in addition"
-  },
-  {
-    "id": "22a498143e39",
-    "title": "Amphib USS Fort Lauderdale, LCS USS Billings Headed to Venezuela",
-    "url": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela",
-    "date": "2026-06-26T12:56:01Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Two U.S. warships and Air Force cargo aircraft are headed to Venezuela to support a U.S. State Department relief mission following two earthquakes on Wednesday. U.S. Southern Command is dispatching USS Fort Lauderdale (LPD-28) and the Littoral Combat Ship USS Billings (LCS-15) in addition to Air For"
-  },
-  {
-    "id": "63608e7f082e",
-    "title": "Report to Congress on Returning Humans to the Moon",
-    "url": "https://news.usni.org/2026/06/26/report-to-congress-on-returning-humans-to-the-moon",
-    "date": "2026-06-26T10:55:36Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The following is the June 25, 2026, Congressional Research Service In Focus report, Artemis: NASA’s Program to Return Humans to the Moon. From the report Orion and the Space Launch System The Artemis program has evolved from plans initiated in the NASA Authorization Act of 2010 (P.L. 111-267). The a"
   }
 ]
