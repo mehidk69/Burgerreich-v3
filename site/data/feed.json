@@ -1,5 +1,15 @@
 [
   {
+    "id": "a1849db1320c",
+    "title": "Alaska National Guard Rescues 4 People in 2 Days",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4540150/alaska-national-guard-rescues-4-people-in-2-days/",
+    "date": "2026-07-10T16:08:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Soldiers and airmen assigned to the Alaska National Guard executed four missions to save four people in the Alaska wilderness before the July Fourth holiday weekend."
+  },
+  {
     "id": "bc3ec2564aba",
     "title": "New Navy Policy Limits Medical Shaving Waivers to One Year",
     "url": "https://news.usni.org/2026/07/09/new-navy-policy-limits-medical-shaving-waivers-to-one-year",
@@ -628,16 +638,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The French Navy boarded and diverted a suspected Russian shadow fleet tanker in the Mediterranean off Sicily, officials announced on Thursday. In a social media post on Thursday, French President Emmanuel Macron stated that the French Navy intercepted tanker MT Deliver on Tuesday as it transited off"
-  },
-  {
-    "id": "61016e9d634b",
-    "title": "UPDATED: U.S. Warships, Marines Arrive to Assist with Relief Efforts in Venezuela",
-    "url": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela",
-    "date": "2026-06-26T12:56:01Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Two U.S. warships, Air Force cargo aircraft and Marines aircraft are now in Venezuela to support a U.S. State Department relief mission following two earthquakes on Wednesday. U.S. Southern Command dispatched USS Fort Lauderdale (LPD-28) and the Littoral Combat Ship USS Billings (LCS-15) in addition"
   },
   {
     "id": "01cabc1d7eac",
