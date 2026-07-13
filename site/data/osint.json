@@ -1,5 +1,45 @@
 [
   {
+    "id": "046b938a6b77",
+    "title": "USNI News Fleet and Marine Tracker: July 13, 2026",
+    "url": "https://news.usni.org/2026/07/13/usni-news-fleet-and-marine-tracker-july-13-2026",
+    "date": "2026-07-13T17:51:07Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of July 13, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
+  },
+  {
+    "id": "d1723c0fecf8",
+    "title": "VIDEO: 3 Lethal U.S. Drones Attack Iranian Sub, Port Facility",
+    "url": "https://news.usni.org/2026/07/13/video-3-lethal-u-s-drones-attack-iranian-sub-port-facility",
+    "date": "2026-07-13T17:10:12Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Three Saronic Corsair unmanned surface craft were used in a Sunday attack on an Iranian port, U.S. Central Command announced on social media. In the 25-second video posted Monday on X, the Corsairs approach an Iranian pier at Bandar Abbas near the Strait of Hormuz with what appears to be a Ghadir-cl"
+  },
+  {
+    "id": "472f7901e96d",
+    "title": "USS San Antonio Assumes Relief Mission in Venezuela",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4541480/uss-san-antonio-assumes-relief-mission-in-venezuela/",
+    "date": "2026-07-13T16:30:25Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Supporting ongoing disaster relief efforts, the amphibious transport dock USS San Antonio arrived at the port in La Guaira, Venezuela, to relieve the USS Fort Lauderdale as the primary maritime component of the State Department-led humanitarian assistance mission following earthquakes."
+  },
+  {
+    "id": "ca805d74a680",
+    "title": "Reduction Expected for Japan Cost-of-Living Allowance Rates",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4541542/reduction-expected-for-japan-cost-of-living-allowance-rates/",
+    "date": "2026-07-13T16:30:10Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Service members based in Japan will likely see a reduction in their overseas cost-of-living allowance because of a long-term drop in the value of the Japanese yen and a corresponding increase in the value of the dollar."
+  },
+  {
     "id": "525b85d4f252",
     "title": "Specialized U.S. Marine Corps Group Trains to Defend the Northern Philippines",
     "url": "https://news.usni.org/2026/07/13/specialized-u-s-marine-corps-group-trains-to-defend-the-northern-philippines",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 29, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
-  },
-  {
-    "id": "69e63c450a28",
-    "title": "Coast Guard Interdicts Over $63 Million in Illicit Drugs",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4529028/coast-guard-interdicts-over-63-million-in-illicit-drugs/",
-    "date": "2026-06-29T16:55:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The crew aboard the Coast Guard cutter Bear offloaded approximately 7,720 pounds of cocaine and 4,000 pounds of marijuana worth more than $63 million at Port Everglades, Fla."
-  },
-  {
-    "id": "aa8f7a66d24f",
-    "title": "Marine Missing from USS Anchorage Declared Lost at Sea",
-    "url": "https://news.usni.org/2026/06/29/marine-missing-from-uss-anchorage-declared-lost-at-sea",
-    "date": "2026-06-29T16:45:59Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A 21 year-old Marine from Minnesota died after going missing at sea off the California coast, the service announced Monday. Lance Cpl. Armando Ortiz Canseco was attached to San Antonio-class amphibious transport dock USS Anchorage (LPD-23) when he went missing on Thursday, according to a Marine Corp"
-  },
-  {
-    "id": "7b39b9386122",
-    "title": "Small Creatures, Big Mission: Bugapalooza Connects Science to Military Readiness",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4528907/small-creatures-big-mission-bugapalooza-connects-science-to-military-readiness/",
-    "date": "2026-06-29T16:38:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Nearly 400 visitors attended the National Museum of Health and Medicine's Bugapalooza to learn how insects affect health, support the environment and affect military readiness."
-  },
-  {
-    "id": "ca8376c4ecd1",
-    "title": "Former U.S. Amphib Sunk in Pacific Maritime Strike Drills",
-    "url": "https://news.usni.org/2026/06/29/former-u-s-amphib-sunk-in-pacific-maritime-strike-drills",
-    "date": "2026-06-29T15:56:32Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Decommissioned amphibious transport dock USS Juneau (LPD-10) was sunk by the U.S. and partner nations on Saturday in the Philippine Sea during the ongoing Valiant Shield 2026 exercise. Juneau was sunk more than 200 nautical miles off the coast in the Mariana Islands Range Complex during a sinking ex"
   }
 ]
