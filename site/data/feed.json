@@ -1,5 +1,15 @@
 [
   {
+    "id": "d3e4cc78e064",
+    "title": "Centcom Completes Another Wave of Strikes Against Iran",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4541171/centcom-completes-another-wave-of-strikes-against-iran/",
+    "date": "2026-07-13T13:03:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "U.S. Central Command completed a new wave of offensive strikes against Iran, hitting dozens of targets at multiple locations with precision munitions."
+  },
+  {
     "id": "cdf4dac59c6f",
     "title": "Hormuz Sees Traffic Bump Despite Ongoing Iranian Attacks",
     "url": "https://news.usni.org/2026/07/10/hormuz-sees-traffic-bump-despite-ongoing-iranian-attacks",
@@ -618,16 +628,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Valiant Shield Exercise Valiant Shield 2026 (VS26) began on Monday, taking place taking place in the Commonwealth of the Northern Mariana Islands, Guam, Japan, and at sea around the Mariana"
-  },
-  {
-    "id": "5824aef894c7",
-    "title": "Joint Task Force Southern Border Conducts Medevac in Arizona Mountains",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4528171/joint-task-force-southern-border-conducts-medevac-in-arizona-mountains/",
-    "date": "2026-06-26T19:37:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Service members assigned to Joint Task Force Southern Border conducted an aeromedical evacuation after receiving a request to assist a civilian who was experiencing a medical emergency in a remote mountainous area of Arizona."
   },
   {
     "id": "2d38d2d3d4bd",
