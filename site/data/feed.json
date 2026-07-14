@@ -1,5 +1,45 @@
 [
   {
+    "id": "631ec76b8661",
+    "title": "USS Essex at the Center of Additive Manufacturing Trials During RIMPAC 26",
+    "url": "https://news.usni.org/2026/07/14/uss-essex-at-the-center-of-additive-manufacturing-trials-during-rimpac-26",
+    "date": "2026-07-14T18:54:21Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "USS Essex (LHD-2) is the centerpiece of large-scale additive manufacturing tests during Rim of the Pacific 2026 exercise, as the U.S. Navy and Marine Corps lean on modern machine-made parts to hone self-repair capabilities. RIMPAC 26, which is being held in Hawaii through July 31, brings together mi"
+  },
+  {
+    "id": "8f8ab8e5b723",
+    "title": "Carrier USS Gerald R. Ford Starts First Major Post-Deployment Maintenance Period",
+    "url": "https://news.usni.org/2026/07/14/carrier-uss-gerald-r-ford-starts-first-major-post-deployment-maintenance-period",
+    "date": "2026-07-14T18:12:16Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Aircraft carrier USS Gerald R. Ford (CVN-78) is now at Norfolk Naval Shipyard for a maintenance period following a nearly 11-month deployment. Ford, the Navy’s newest in-service carrier, arrived last week at Norfolk Naval Shipyard in Portsmouth, Va., for its planned incremental availability, or PIA,"
+  },
+  {
+    "id": "6fc20e0739e9",
+    "title": "Skyfall Simulation: NATO Partners Rehearse Downed Aircraft Response",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4544895/skyfall-simulation-nato-partners-rehearse-downed-aircraft-response/",
+    "date": "2026-07-14T16:12:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Kosovo Force Regional Command East's Task Force Aviation and multinational partners conducted a downed aircraft exercise near Camp Bondsteel, Kosovo, rehearsing search and rescue, medical evacuation and aircraft recovery procedures following a simulated UH-60 Black Hawk helicopter hard landing."
+  },
+  {
+    "id": "7a9307c6a104",
+    "title": "GAO Report on Funding for Southern Border Security",
+    "url": "https://news.usni.org/2026/07/14/gao-report-on-funding-for-southern-border-security",
+    "date": "2026-07-14T14:58:19Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the July 13, 2026, Government Accountability Office report, Southern Border Security: DOD Used Multiple Strategies to Fund Operations. From the Report Each year, millions of people enter the U.S. along its nearly 2,000-mile-long border with Mexico. But the border is also vulnerable"
+  },
+  {
     "id": "9a7a53974584",
     "title": "War Department Changes Cybersecurity Maturity Model Certification Requirements",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4542849/war-department-changes-cybersecurity-maturity-model-certification-requirements/",
@@ -578,46 +618,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "U.S. Pacific Command joint forces, along with allied and partner forces, successfully carried out a live-fire sinking exercise during Valiant Shield 2026, targeting the decommissioned amphibious transport dock USS Juneau off the coast of Guam."
-  },
-  {
-    "id": "52e3500e9d81",
-    "title": "USS San Antonio Leaves Norfolk for Deployment",
-    "url": "https://news.usni.org/2026/06/30/uss-san-antonio-leaves-norfolk-for-deployment",
-    "date": "2026-06-30T20:13:03Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Amphibious warship USS San Antonio (LPD-17) departed Naval Station Norfolk, Va., on Monday as part of an extended deployment after a brief maintenance period, USNI News has learned. A U.S. 2nd Fleet spokesperson confirmed San Antonio left Norfolk for a deployment but did not provide additional detai"
-  },
-  {
-    "id": "7ffef3d25f96",
-    "title": "Russia, China Fly Joint Bomber Missions Near Japan, South Korea",
-    "url": "https://news.usni.org/2026/06/30/russia-china-fly-joint-bomber-missions-near-japan-south-korea",
-    "date": "2026-06-30T19:14:58Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Russia and China conducted joint bomber patrol flights on Saturday for the first time this year, prompting Japan and South Korea to scramble fighter aircraft. Two Chinese H-6 bombers flew from the East China Sea into the Sea of Japan where they were joined by two Russian Tu-95 bombers and two Russia"
-  },
-  {
-    "id": "80390b2d0532",
-    "title": "Navy Tests Prototype Atmospheric Diving System",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4530146/navy-tests-prototype-atmospheric-diving-system/",
-    "date": "2026-06-30T16:08:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Naval Undersea Warfare Center Division hosted the first open water test of the Deep Sea Expeditionary with No Decompression suit in Liberty Bay, Wash."
-  },
-  {
-    "id": "137e99462c98",
-    "title": "U.S. Marines Use Commercial Ferries to Haul Anti-ship Missiles Across the Philippines",
-    "url": "https://news.usni.org/2026/06/30/u-s-marines-use-commercial-ferries-to-haul-anti-ship-missiles-across-the-philippines",
-    "date": "2026-06-30T16:02:59Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "MANILA, PHILIPPINES ― Marine anti-ship missile launchers and air defense rolled off contracted Philippine commercial transport vessels onto an island in the middle of the Luzon Strait near Taiwan during drills earlier this month. The 3rd Marine Littoral Regiment (MLR) worked with their Philippine co"
   },
   {
     "id": "4f243f21e29b",
