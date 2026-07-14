@@ -1,5 +1,35 @@
 [
   {
+    "id": "9a7a53974584",
+    "title": "War Department Changes Cybersecurity Maturity Model Certification Requirements",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4542849/war-department-changes-cybersecurity-maturity-model-certification-requirements/",
+    "date": "2026-07-13T22:30:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The War Department announced the suspension of the Cybersecurity Maturity Model Certification phase two requirements, initially scheduled to take effect in November, and launched a comprehensive review of the entire CMMC program."
+  },
+  {
+    "id": "822a1909e062",
+    "title": "Navy Awards TOTE $2.2B to Serve as Vessel Construction Manager for Landing Ship Medium",
+    "url": "https://news.usni.org/2026/07/13/navy-awards-tote-2-2b-to-serve-as-vessel-construction-manager-for-landing-ship-medium",
+    "date": "2026-07-13T22:00:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy on Monday issued TOTE Services a $2.2 billion contract to function as the vessel construction manager for the Marine Corps’ Landing Ship Medium program, according to a Defense Department contract announcement. The award is worth up to $2.6 billion with options for as many as eight McClung-c"
+  },
+  {
+    "id": "f142aabf5a92",
+    "title": "U.S. Reinstates Naval Blockade in Strait of Hormuz",
+    "url": "https://news.usni.org/2026/07/13/u-s-reinstates-naval-blockade-in-strait-of-hormuz",
+    "date": "2026-07-13T20:46:40Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The U.S. will resume its blockade of Iranian ports, coasts and ships, according to a Monday announcement from U.S. Central Command, signaling an end to the 60-day ceasefire between Iran and Washington. The U.S. lifted its blockade on June 18 as part of the memorandum of understanding between the two"
+  },
+  {
     "id": "046b938a6b77",
     "title": "USNI News Fleet and Marine Tracker: July 13, 2026",
     "url": "https://news.usni.org/2026/07/13/usni-news-fleet-and-marine-tracker-july-13-2026",
@@ -20,16 +50,6 @@
     "summary": "Three Saronic Corsair unmanned surface craft were used in a Sunday attack on an Iranian port, U.S. Central Command announced on social media. In the 25-second video posted Monday on X, the Corsairs approach an Iranian pier at Bandar Abbas near the Strait of Hormuz with what appears to be a Ghadir-cl"
   },
   {
-    "id": "472f7901e96d",
-    "title": "USS San Antonio Assumes Relief Mission in Venezuela",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4541480/uss-san-antonio-assumes-relief-mission-in-venezuela/",
-    "date": "2026-07-13T16:30:25Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Supporting ongoing disaster relief efforts, the amphibious transport dock USS San Antonio arrived at the port in La Guaira, Venezuela, to relieve the USS Fort Lauderdale as the primary maritime component of the State Department-led humanitarian assistance mission following earthquakes."
-  },
-  {
     "id": "ca805d74a680",
     "title": "Reduction Expected for Japan Cost-of-Living Allowance Rates",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4541542/reduction-expected-for-japan-cost-of-living-allowance-rates/",
@@ -38,6 +58,16 @@
     "cocom": "osint",
     "tag": "posture",
     "summary": "Service members based in Japan will likely see a reduction in their overseas cost-of-living allowance because of a long-term drop in the value of the Japanese yen and a corresponding increase in the value of the dollar."
+  },
+  {
+    "id": "472f7901e96d",
+    "title": "USS San Antonio Assumes Relief Mission in Venezuela",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4541480/uss-san-antonio-assumes-relief-mission-in-venezuela/",
+    "date": "2026-07-13T16:30:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Supporting ongoing disaster relief efforts, the amphibious transport dock USS San Antonio arrived at the port in La Guaira, Venezuela, to relieve the USS Fort Lauderdale as the primary maritime component of the State Department-led humanitarian assistance mission following earthquakes."
   },
   {
     "id": "525b85d4f252",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "MANILA, PHILIPPINES ― Marine anti-ship missile launchers and air defense rolled off contracted Philippine commercial transport vessels onto an island in the middle of the Luzon Strait near Taiwan during drills earlier this month. The 3rd Marine Littoral Regiment (MLR) worked with their Philippine co"
-  },
-  {
-    "id": "7fa2abe159e7",
-    "title": "GAO Report on Reorganization of the DoD’s Office of the Director, Operational Test and Evaluation",
-    "url": "https://news.usni.org/2026/06/30/gao-report-on-reorganization-of-the-dods-office-of-the-director-operational-test-and-evaluation",
-    "date": "2026-06-30T14:03:54Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the June 30, 2026, Government Accountability Office report, Weapon Systems Testing: Reorganization of DOD’s Office of the Director, Operational Test and Evaluation. From the Report What GAO Found In response to the Secretary of Defense’s direction in a May 2025 memorandum, the Depar"
-  },
-  {
-    "id": "9810fc83268d",
-    "title": "World War II Wreck Hunter RV Petrel Reborn as Navy Survey Ship Sarah Lynn",
-    "url": "https://news.usni.org/2026/06/29/world-war-ii-wreck-hunter-rv-petrel-reborn-as-navy-survey-ship-sarah-lynn",
-    "date": "2026-06-29T18:13:31Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A billionaire’s ship designed to find the most famous lost ships of World War II has reemerged as a U.S. Navy survey ship, USNI News has learned. Service officials confirmed to USNI News that MV Sarah Lynn, which earlier this year operated off the coast of Alaska, is the former RV Petrel, the late P"
-  },
-  {
-    "id": "4862aced9695",
-    "title": "USNI News Fleet and Marine Tracker: June 29, 2026",
-    "url": "https://news.usni.org/2026/06/29/usni-news-fleet-and-marine-tracker-june-29-2026",
-    "date": "2026-06-29T17:00:52Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 29, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
   }
 ]
