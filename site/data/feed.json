@@ -1,5 +1,15 @@
 [
   {
+    "id": "2d90fc7f2bd4",
+    "title": "MARAD Ship Suffers Fire in Baltimore",
+    "url": "https://news.usni.org/2026/07/14/marad-ship-suffers-fire-in-baltimore",
+    "date": "2026-07-14T19:50:57Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Two lifeboats aboard U.S. Maritime Administration’s Charles L. Gilliland caught fire Monday in the Port of Baltimore. Baltimore City Fire Department responded around 11 a.m. to the two-alarm fire, meaning additional resources were needed to control the flames. There were no injuries reported. The ca"
+  },
+  {
     "id": "631ec76b8661",
     "title": "USS Essex at the Center of Additive Manufacturing Trials During RIMPAC 26",
     "url": "https://news.usni.org/2026/07/14/uss-essex-at-the-center-of-additive-manufacturing-trials-during-rimpac-26",
@@ -608,16 +618,6 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "Joint Interagency Task Force 401 leaders visited Whiteman Air Force Base, Mo., to learn about the installation's counter-unmanned aerial systems operations and initiatives in advance of the upcoming directed energy pilot program."
-  },
-  {
-    "id": "0d54880cfec8",
-    "title": "Sinking Exercise Demonstrates Capabilities of Joint Force",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4530604/sinking-exercise-demonstrates-capabilities-of-joint-force/",
-    "date": "2026-06-30T20:46:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.S. Pacific Command joint forces, along with allied and partner forces, successfully carried out a live-fire sinking exercise during Valiant Shield 2026, targeting the decommissioned amphibious transport dock USS Juneau off the coast of Guam."
   },
   {
     "id": "4f243f21e29b",
