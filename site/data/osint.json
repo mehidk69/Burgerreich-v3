@@ -1,5 +1,25 @@
 [
   {
+    "id": "5edf407f3c6b",
+    "title": "Taiwan Mobilizes HIMARS, Anti-ship Missiles For Major Defense Drill",
+    "url": "https://news.usni.org/2026/07/15/taiwan-mobilizes-himars-anti-ship-missiles-for-major-defense-drill",
+    "date": "2026-07-15T16:25:37Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Taiwan’s most capable missile launchers are being deployed across the island for a five-day defense drill designed to enhance joint operations and develop concepts for targeting enemy aircraft and vessels. Newly procured American M142 High Mobility Rocket Artillery Systems (HIMARS) and domestically-"
+  },
+  {
+    "id": "567b5f6cefe0",
+    "title": "Report to Congress on Japan’s Evolving Defense Policy and the U.S.-Japan Alliance",
+    "url": "https://news.usni.org/2026/07/15/report-to-congress-on-japans-evolving-defense-policy-and-the-u-s-japan-alliance",
+    "date": "2026-07-15T13:37:08Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the July 14, 2026, Congressional Research Service report, Japan’s Evolving Defense Policy and the U.S.-Japan Alliance. From the Report In 2026, Japanese Prime Minister Sanae Takaichi has been implementing major changes to Japan&#8217;s security policies, with important implications"
+  },
+  {
     "id": "2d90fc7f2bd4",
     "title": "MARAD Ship Suffers Fire in Baltimore",
     "url": "https://news.usni.org/2026/07/14/marad-ship-suffers-fire-in-baltimore",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "This post has been updated to include a statement from the Pentagon. The Pentagon has established a new office to oversee tens of billions of dollars in drone programs across the entire military, according to a memo obtained Wednesday by USNI News. The new office, known as the Direct Reporting Portf"
-  },
-  {
-    "id": "ef11520ef185",
-    "title": "Testimony on the F-35 Aircraft Program",
-    "url": "https://news.usni.org/2026/07/01/testimony-on-the-f-35-aircraft-program",
-    "date": "2026-07-01T14:32:14Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "The following is testimony provided June 23, 2026, on the F-35 aircraft program presented to the U.S. Senate Armed Services Committee’s Subcommittee on Airland. From the Report The March 24, 2026, hearing saw testimony from U.S. Marine Corps Lt. Gen. Gregory Masiello, Program Executive Officer F-35"
-  },
-  {
-    "id": "1888ad147346",
-    "title": "JIATF 401 Leaders Visit Whiteman Air Force Base to Strengthen Counter-Drone Operations",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4530680/jiatf-401-leaders-visit-whiteman-air-force-base-to-strengthen-counter-drone-ope/",
-    "date": "2026-06-30T20:50:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Joint Interagency Task Force 401 leaders visited Whiteman Air Force Base, Mo., to learn about the installation's counter-unmanned aerial systems operations and initiatives in advance of the upcoming directed energy pilot program."
   }
 ]
