@@ -20,6 +20,16 @@
     "summary": "Vice Adm. Joe Cahill took over as the Navy’s top surface warfare officer earlier this month, USNI News has learned. Cahill, who most recently was the commander of Naval Surface Force Atlantic, took the helm of U.S. Naval Surface Force on July 3, according to a service news release. Cahill succeeds V"
   },
   {
+    "id": "da0d6345a1de",
+    "title": "U.S. Forces Continue Providing Disaster Relief Assistance in Venezuela",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4546192/us-forces-continue-providing-disaster-relief-assistance-in-venezuela/",
+    "date": "2026-07-15T18:38:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "U.S. armed forces are continuing to provide disaster relief assistance to the people of Venezuela in the aftermath of two devastating June 24 earthquakes."
+  },
+  {
     "id": "5edf407f3c6b",
     "title": "Taiwan Mobilizes HIMARS, Anti-ship Missiles For Major Defense Drill",
     "url": "https://news.usni.org/2026/07/15/taiwan-mobilizes-himars-anti-ship-missiles-for-major-defense-drill",
@@ -40,6 +50,26 @@
     "summary": "The following is the July 14, 2026, Congressional Research Service report, Japan’s Evolving Defense Policy and the U.S.-Japan Alliance. From the Report In 2026, Japanese Prime Minister Sanae Takaichi has been implementing major changes to Japan&#8217;s security policies, with important implications"
   },
   {
+    "id": "c0ff04cf0307",
+    "title": "Hegseth Hosts Iraqi Prime Minister at Pentagon",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4545548/hegseth-hosts-iraqi-prime-minister-at-pentagon/",
+    "date": "2026-07-14T23:09:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Secretary of War Pete Hegseth welcomed Iraqi Prime Minister Ali al-Zaidi to the Pentagon, where the two leaders met to discuss the Global Coalition to Defeat ISIS, the end of the Operation Inherent Resolve mission and the future of the U.S.-Iraq relationship."
+  },
+  {
+    "id": "5762442bc5bb",
+    "title": "DHA Partners With Marines to Refine Portable TBI Assessment Technology for Austere Battlefield",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4545273/dha-partners-with-marines-to-refine-portable-tbi-assessment-technology-for-aust/",
+    "date": "2026-07-14T22:51:58Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Team members assigned to the Defense Health Agency's Warfighter Readiness, Performance and Brain Health initiative hosted an end user touchpoint at Camp Lejeune, N.C., to assess new capabilities for evaluating traumatic brain injuries on the battlefield."
+  },
+  {
     "id": "2d90fc7f2bd4",
     "title": "MARAD Ship Suffers Fire in Baltimore",
     "url": "https://news.usni.org/2026/07/14/marad-ship-suffers-fire-in-baltimore",
@@ -58,6 +88,16 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "USS Essex (LHD-2) is the centerpiece of large-scale additive manufacturing tests during Rim of the Pacific 2026 exercise, as the U.S. Navy and Marine Corps lean on modern machine-made parts to hone self-repair capabilities. RIMPAC 26, which is being held in Hawaii through July 31, brings together mi"
+  },
+  {
+    "id": "117bfca83dac",
+    "title": "D.C. National Guard Boosts Homeland Defense With First Maritime Security Vessel",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4545141/dc-national-guard-boosts-homeland-defense-with-first-maritime-security-vessel/",
+    "date": "2026-07-14T18:35:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The District of Columbia National Guard's 260th Special Purpose Brigade commissioned its first maritime security vessel, boosting homeland defense and interagency coordination to protect the capital's waterways and critical infrastructure."
   },
   {
     "id": "8f8ab8e5b723",
@@ -543,11 +583,11 @@
     "id": "7dfd235ca354",
     "title": "Operation Slice & Ice",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4532741/operation-slice-ice/",
-    "date": "2026-07-02T18:20:59Z",
+    "date": "2026-07-02T18:20:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
-    "summary": "A DM50 member, hands shaved ice to an Airman at Davis-Monthan Air Force Base, Arizona, July 2, 2026.<br />\n<img alt=\"A DM50 member, hands shaved ice to an Airman at Davis-Monthan Air Force Base, Arizona, July 2, 2026. DM50, the Military Affairs Committee and base first sergeants aimed to boost moral"
+    "summary": "A Military Affairs Committee member, hands shaved ice to an Airman at Davis-Monthan Air Force Base,<br />\n<img alt=\"A DM50 member, hands shaved ice to an Airman at Davis-Monthan Air Force Base, Arizona, July 2, 2026. DM50, the Military Affairs Committee and base first sergeants aimed to boost morale"
   },
   {
     "id": "ed6ab93bd9c9",
@@ -578,46 +618,6 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "Forward-deployed Marines in Japan recently received advanced air defense systems to counter cruise missile and drone threats that the service may face during a potential conflict with China in the Western Pacific. “The [Medium-Range Intercept Capability] system provides a decisive competitive advant"
-  },
-  {
-    "id": "51b40ebff3bc",
-    "title": "Defense Department Memo Establishing the Direct Reporting Portfolio Manager for Unmanned Systems",
-    "url": "https://news.usni.org/2026/07/02/defense-department-memo-establishing-the-direct-reporting-portfolio-manager-for-unmanned-systems",
-    "date": "2026-07-02T14:42:18Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "The following is the memorandum &#8220;Establishment of the Direct Reporting Portfolio Manager for Unmanned Systems,” released July 1, 2026, by the Defense Department. From the Report Department of War Establishes Direct Reporting Portfolio Manager for Unmanned Systems to Ensure American Drone Domin"
-  },
-  {
-    "id": "3f192c831f55",
-    "title": "U.S. Military Supports Venezuela Earthquake Response",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4531605/us-military-supports-venezuela-earthquake-response/",
-    "date": "2026-07-01T20:03:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "U.S. service members are on the ground in Venezuela, delivering assistance where it is needed most following two devastating earthquakes June 24."
-  },
-  {
-    "id": "6ae9d46df053",
-    "title": "U.S., Partners Wrap Exercise Valiant Shield",
-    "url": "https://news.usni.org/2026/07/01/u-s-partners-wrap-exercise-valiant-shield",
-    "date": "2026-07-01T19:18:45Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. and partner nations on Wednesday wrapped up Exercise Valiant Shield 2026, which involved 10 days of training that saw anti-submarine warfare, cutting edge drone testing and a multinational maritime strike. “What we promised in preparation, we proved in execution,” said Rear Adm. Jay Clark,"
-  },
-  {
-    "id": "3002d6ae17af",
-    "title": "U.S. Participates in Fifth Iteration of Chilean-Hosted Exercise",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4531600/us-participates-in-fifth-iteration-of-chilean-hosted-exercise/",
-    "date": "2026-07-01T18:33:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Aircraft, crews and support personnel from across the Americas converged at Cerro Moreno Air Base in Antofagasta, Chile, for the kickoff of Exercise Resolute Sentinel - Salitre 2026."
   },
   {
     "id": "4f243f21e29b",
