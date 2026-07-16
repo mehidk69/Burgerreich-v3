@@ -1,5 +1,25 @@
 [
   {
+    "id": "80b259955d8c",
+    "title": "Blue Water Autonomy, Saildrone Sue Navy Over MUSV Rejection",
+    "url": "https://news.usni.org/2026/07/15/blue-water-autonomy-saildrone-sue-navy-over-musv-rejection",
+    "date": "2026-07-15T22:01:05Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Two companies that were passed over for the U.S. Navy’s Medium Unmanned Surface Vessel program are taking the service to court over the decision, USNI News has learned. Saildrone and Blue Water Autonomy filed suit in late June in the United States Court of Federal Claims in Washington, D.C., with tw"
+  },
+  {
+    "id": "14067f2a332c",
+    "title": "Cahill Takes Command of U.S. Naval Surface Force",
+    "url": "https://news.usni.org/2026/07/15/cahill-takes-command-of-u-s-naval-surface-force",
+    "date": "2026-07-15T20:44:34Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Vice Adm. Joe Cahill took over as the Navy’s top surface warfare officer earlier this month, USNI News has learned. Cahill, who most recently was the commander of Naval Surface Force Atlantic, took the helm of U.S. Naval Surface Force on July 3, according to a service news release. Cahill succeeds V"
+  },
+  {
     "id": "5edf407f3c6b",
     "title": "Taiwan Mobilizes HIMARS, Anti-ship Missiles For Major Defense Drill",
     "url": "https://news.usni.org/2026/07/15/taiwan-mobilizes-himars-anti-ship-missiles-for-major-defense-drill",
@@ -523,11 +543,11 @@
     "id": "7dfd235ca354",
     "title": "Operation Slice & Ice",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4532741/operation-slice-ice/",
-    "date": "2026-07-02T18:20:00Z",
+    "date": "2026-07-02T18:20:59Z",
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
-    "summary": "A Military Affairs Committee member, hands shaved ice to an Airman at Davis-Monthan Air Force Base,<br />\n<img alt=\"A DM50 member, hands shaved ice to an Airman at Davis-Monthan Air Force Base, Arizona, July 2, 2026. DM50, the Military Affairs Committee and base first sergeants aimed to boost morale"
+    "summary": "A DM50 member, hands shaved ice to an Airman at Davis-Monthan Air Force Base, Arizona, July 2, 2026.<br />\n<img alt=\"A DM50 member, hands shaved ice to an Airman at Davis-Monthan Air Force Base, Arizona, July 2, 2026. DM50, the Military Affairs Committee and base first sergeants aimed to boost moral"
   },
   {
     "id": "ed6ab93bd9c9",
@@ -598,26 +618,6 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "Aircraft, crews and support personnel from across the Americas converged at Cerro Moreno Air Base in Antofagasta, Chile, for the kickoff of Exercise Resolute Sentinel - Salitre 2026."
-  },
-  {
-    "id": "de7cb142f050",
-    "title": "Sailor Missing After Helo Assigned to USS George H.W. Bush Ditches in Arabian Sea",
-    "url": "https://news.usni.org/2026/07/01/sailor-missing-after-helo-assigned-to-uss-george-h-w-bush-ditches-in-arabian-sea",
-    "date": "2026-07-01T17:59:42Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "One aircrewman is missing after an MH-60S helicopter assigned to USS George H.W. Bush (CVN-77) made an emergency landing on Wednesday in the Arabian Sea. The helicopter went down at 3:30 a.m. Eastern Time with four crew members on board, the U.S. 5th Fleet said on social media platform X. Three of t"
-  },
-  {
-    "id": "a9fcc48b3bc6",
-    "title": "New Pentagon Unmanned Czar Will Oversee Most Drone Programs, Memo Reads",
-    "url": "https://news.usni.org/2026/07/01/new-pentagon-unmanned-czar-will-oversee-most-drone-programs-memo-reads",
-    "date": "2026-07-01T16:45:26Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "This post has been updated to include a statement from the Pentagon. The Pentagon has established a new office to oversee tens of billions of dollars in drone programs across the entire military, according to a memo obtained Wednesday by USNI News. The new office, known as the Direct Reporting Portf"
   },
   {
     "id": "4f243f21e29b",
