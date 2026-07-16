@@ -1,5 +1,15 @@
 [
   {
+    "id": "c0ff04cf0307",
+    "title": "Hegseth Hosts Iraqi Prime Minister at Pentagon",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4545548/hegseth-hosts-iraqi-prime-minister-at-pentagon/",
+    "date": "2026-07-16T11:30:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Secretary of War Pete Hegseth welcomed Iraqi Prime Minister Ali al-Zaidi to the Pentagon, where the two leaders met to discuss the Global Coalition to Defeat ISIS, the end of the Operation Inherent Resolve mission and the future of the U.S.-Iraq relationship."
+  },
+  {
     "id": "80b259955d8c",
     "title": "Blue Water Autonomy, Saildrone Sue Navy Over MUSV Rejection",
     "url": "https://news.usni.org/2026/07/15/blue-water-autonomy-saildrone-sue-navy-over-musv-rejection",
@@ -48,16 +58,6 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "The following is the July 14, 2026, Congressional Research Service report, Japan’s Evolving Defense Policy and the U.S.-Japan Alliance. From the Report In 2026, Japanese Prime Minister Sanae Takaichi has been implementing major changes to Japan&#8217;s security policies, with important implications"
-  },
-  {
-    "id": "c0ff04cf0307",
-    "title": "Hegseth Hosts Iraqi Prime Minister at Pentagon",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4545548/hegseth-hosts-iraqi-prime-minister-at-pentagon/",
-    "date": "2026-07-14T23:09:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Secretary of War Pete Hegseth welcomed Iraqi Prime Minister Ali al-Zaidi to the Pentagon, where the two leaders met to discuss the Global Coalition to Defeat ISIS, the end of the Operation Inherent Resolve mission and the future of the U.S.-Iraq relationship."
   },
   {
     "id": "5762442bc5bb",
