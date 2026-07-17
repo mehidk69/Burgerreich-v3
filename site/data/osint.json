@@ -1,5 +1,55 @@
 [
   {
+    "id": "e9e1f59e6268",
+    "title": "U.S. Disables Ship a Day Into Blockade, Strait of Hormuz Transits Hit Low As Risk Appetite Falls",
+    "url": "https://news.usni.org/2026/07/17/u-s-disables-ship-a-day-into-blockade-strait-of-hormuz-transits-hit-low-as-risk-appetite-falls",
+    "date": "2026-07-17T18:33:30Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "U.S. Central Command forces disabled an oil tanker, shooting Hellfire missiles in the ship’s smokestacks, just one day after the U.S. reinstated the blockade of all Iranian ports and coastline. MT Belma (IMO: 9289491) was allegedly sailing toward Iran when CENTCOM forces said it ignored multiple war"
+  },
+  {
+    "id": "a76d37877ac8",
+    "title": "U.S., Canadian, Thai Navies Sharpen Maritime Capabilities During Exercise CARAT Thailand",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4549082/us-canadian-thai-navies-sharpen-maritime-capabilities-during-exercise-carat-tha/",
+    "date": "2026-07-17T18:03:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The United States, Thailand and Canada successfully concluded the Cooperation Afloat Readiness and Training Thailand maritime exercise in Sattahip, enhancing combined naval capabilities and reinforcing a shared commitment to a free and secure Pacific region."
+  },
+  {
+    "id": "944b737e6433",
+    "title": "Medal of Honor Recipient Welcomes Newest Student Naval Aviators",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4548874/medal-of-honor-recipient-welcomes-newest-student-naval-aviators/",
+    "date": "2026-07-17T16:19:51Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Retired Navy Capt. E. Royce Williams, the oldest living Medal of Honor recipient, returned to the base where he earned his gold wings, joining Naval Aviation Schools Command in congratulating 29 student naval aviators who completed their introductory flight evaluation training."
+  },
+  {
+    "id": "5f0cbf3664ce",
+    "title": "Spanish Navy to Lead NATO’s Atlantic Task Force Until June 2027",
+    "url": "https://news.usni.org/2026/07/17/spanish-navy-to-lead-natos-atlantic-task-force-until-june-2027",
+    "date": "2026-07-17T15:18:23Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Spanish Navy has assumed command of NATO’s naval force dedicated to patrolling the North Atlantic and will lead the force for the next year, NATO announced Tuesday. From July of 2026 to June of 2027, NATO’s Commander Task Force Atlantic (CTF-AT) will be led by five Spanish ships, the Spanish Mar"
+  },
+  {
+    "id": "0765b2bd2cad",
+    "title": "U.S. Air Force Increases Stealthy Cruise, Anti-ship Missile Production",
+    "url": "https://news.usni.org/2026/07/17/u-s-air-force-increases-stealthy-cruise-anti-ship-missile-production",
+    "date": "2026-07-17T13:49:01Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The U.S. Air Force will expand its procurement of stealthy air-launched cruise and anti-ship missiles, according to contract documents released Wednesday. Two contracts for the procurement of Lockheed Martin-designed AGM-158 Joint Air-to-Surface Standoff Missiles and AGM-158C Long-Range Anti-Ship Mi"
+  },
+  {
     "id": "b6c25f00a58a",
     "title": "USS Fort Lauderdale Returns from 11-month Deployment to the Caribbean",
     "url": "https://news.usni.org/2026/07/16/uss-fort-lauderdale-returns-from-11-month-deployment-to-the-caribbean",
@@ -23,7 +73,7 @@
     "id": "f105adec4e3a",
     "title": "Wyoming Air Guardsmen Activate for Wildland Firefighting in Western U.S.",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4547749/wyoming-air-guardsmen-activate-for-wildland-firefighting-in-western-us/",
-    "date": "2026-07-16T20:00:12Z",
+    "date": "2026-07-16T20:00:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "air",
@@ -33,7 +83,7 @@
     "id": "942c78fae90c",
     "title": "AI-Powered Chatbot Helps Streamline Recruiting",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4547957/ai-powered-chatbot-helps-streamline-recruiting/",
-    "date": "2026-07-16T19:38:33Z",
+    "date": "2026-07-16T19:38:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "ground",
@@ -53,7 +103,7 @@
     "id": "fd7c29e3aab4",
     "title": "DHA Official Says TRICARE Pharmacy Ensuring Essential Medication Delivery Worldwide",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4547265/dha-official-says-tricare-pharmacy-ensuring-essential-medication-delivery-world/",
-    "date": "2026-07-16T16:44:47Z",
+    "date": "2026-07-16T16:44:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
@@ -548,55 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The Navy has called off the search for a sailor who went missing after an MH-60S helicopter assigned to USS George H.W. Bush (CVN-77) ditched in the Arabian Sea last week. The sea service called off the search at 2 p.m. EST Sunday, four days after the sailor went missing, according to a U.S. 5th Fle"
-  },
-  {
-    "id": "d0f3cb354848",
-    "title": "America's 250th: Fireworks, Freedom & Festivities",
-    "url": "https://www.war.gov/Multimedia/Photo-Collections/20072/",
-    "date": "2026-07-06T18:35:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "From explosive firework displays and vibrant parades to moving naturalization ceremonies, service members, military families and citizens united across the country to celebrate America's historic 250th anniversary. The national events commemorated 250 years since the signing of the Declaration of In"
-  },
-  {
-    "id": "2a1e683d695c",
-    "title": "Navy Plans to Homeport 9 LSMs at Pearl Harbor",
-    "url": "https://news.usni.org/2026/07/06/navy-plans-to-homeport-9-lsms-at-pearl-harbor",
-    "date": "2026-07-06T17:47:23Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. Navy plans to homeport up to nine McClung-class medium landing ships at Pearl Harbor, Hawaii, to support the Marine Corps’ area denial and sensing operations across the Pacific. According to an environmental impact statement released last month by the sea service, the proposed homeporting f"
-  },
-  {
-    "id": "e13b4f5d327b",
-    "title": "Retired Submariner Commemorates Both Bicentennial, Semiquincentennial in Guam",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4533546/retired-submariner-commemorates-both-bicentennial-semiquincentennial-in-guam/",
-    "date": "2026-07-06T16:54:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Fifty years after raising the national colors in Guam for America's bicentennial, retired Navy Cmdr. Allan Riggs returned to the island to commemorate the nation's 250th birthday alongside a new generation of submariners."
-  },
-  {
-    "id": "2115074092eb",
-    "title": "GAO Weapon Systems Annual Assessment to Congress",
-    "url": "https://news.usni.org/2026/07/06/gao-weapon-systems-annual-assessment-to-congress",
-    "date": "2026-07-06T16:19:44Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the July 2, 2026, Government Accountability Office report, Weapon Systems Annual Assessment: Requiring Mature Technologies Could Enable Shift to Rapid Delivery.  From the Report DOD is again working to reform its acquisition processes to help deliver innovative weapons rapidly. But"
-  },
-  {
-    "id": "68ed0b681d25",
-    "title": "President, Vice President Address Nation in Celebration of America's 250th Birthday",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4533279/president-vice-president-address-nation-in-celebration-of-americas-250th-birthd/",
-    "date": "2026-07-05T05:41:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "President Donald J. Trump addressed the nation during a \"Salute to America\" celebration on the National Mall to commemorate America's 250th birthday, while Vice President JD Vance made public comments in New York City earlier in the day."
   }
 ]
