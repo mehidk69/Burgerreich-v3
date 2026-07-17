@@ -1,5 +1,55 @@
 [
   {
+    "id": "b6c25f00a58a",
+    "title": "USS Fort Lauderdale Returns from 11-month Deployment to the Caribbean",
+    "url": "https://news.usni.org/2026/07/16/uss-fort-lauderdale-returns-from-11-month-deployment-to-the-caribbean",
+    "date": "2026-07-16T21:45:04Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Amphibious transport dock USS Fort Lauderdale (LPD-28) pulled into Naval Station Norfolk on Thursday, capping off a nearly year-long deployment in the Caribbean, the Navy announced. The ship originally deployed as part of the Iwo Jima Amphibious Ready Group and supported missions ranging from the ea"
+  },
+  {
+    "id": "22b26c71f78d",
+    "title": "Coast Guard Ends Middle East Mission, Moves Cutter Squadron to Western Pacific",
+    "url": "https://news.usni.org/2026/07/16/coast-guard-ends-middle-east-mission-moves-cutter-squadron-to-western-pacific",
+    "date": "2026-07-16T20:49:40Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The U.S. Coast Guard is transitioning its Patrol Forces Southwest Asia (PATFORSWA) to the Western Pacific, ending a more than 20-year forward-deployed mission in the Middle East. The Coast Guard’s Expeditionary Cutter Squadron that makes up PATFORSWA, which was previously forward deployed to Bahrain"
+  },
+  {
+    "id": "f105adec4e3a",
+    "title": "Wyoming Air Guardsmen Activate for Wildland Firefighting in Western U.S.",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4547749/wyoming-air-guardsmen-activate-for-wildland-firefighting-in-western-us/",
+    "date": "2026-07-16T20:00:12Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The Wyoming Air National Guard's 153rd Airlift Wing was activated to support wildland firefighting operations in the western United States, with significant fire activity in the Southwest, Great Basin, Rocky Mountain and Northwest geographic areas."
+  },
+  {
+    "id": "942c78fae90c",
+    "title": "AI-Powered Chatbot Helps Streamline Recruiting",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4547957/ai-powered-chatbot-helps-streamline-recruiting/",
+    "date": "2026-07-16T19:38:33Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "To help Army recruiters get information fast, enabling them to do their jobs at speed and with more authoritative resources, the Army developed Staff Sgt. Star, an artificial intelligence-powered chatbot."
+  },
+  {
+    "id": "1dcefafe2892",
+    "title": "Saronic Announces Texas Site for New $3.2B Shipyard",
+    "url": "https://news.usni.org/2026/07/16/saronic-announces-texas-site-for-new-3-2b-shipyard",
+    "date": "2026-07-16T19:34:19Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Robot boat builder Saronic Technologies has tapped a site in Brownsville, Texas, for its ambitious Port Alpha $3.2 billion shipyard after securing a tax abatement deal from the local government. The 835-acre site in Cameron County is in the Port of Brownsville, home to the majority of the country’s"
+  },
+  {
     "id": "fd7c29e3aab4",
     "title": "DHA Official Says TRICARE Pharmacy Ensuring Essential Medication Delivery Worldwide",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4547265/dha-official-says-tricare-pharmacy-ensuring-essential-medication-delivery-world/",
@@ -8,6 +58,16 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "The War Department delivers one of the most comprehensive health benefits, through TRICARE, including an exceptional prescription drug benefit program, said David J. Smith, Defense Health Agency deputy director, during a hearing in Washington."
+  },
+  {
+    "id": "021254186dbc",
+    "title": "UPDATED: Blue Angels Flight Debrief Complete: ‘No Problem’ Says Acting SECNAV",
+    "url": "https://news.usni.org/2026/07/16/blue-angels-low-altitude-pass-leads-to-safety-review",
+    "date": "2026-07-16T16:36:12Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "No one from the Blue Angels flight demonstration team will be reprimanded or face punishment after Acting Secretary of the Navy Hung Cao said there was “no problem” with a low-altitude pass made Wednesday above Pensacola Beach, Fla. “Flight debrief complete. No reprimands. No firings. No problem. Th"
   },
   {
     "id": "931f0c09eed6",
@@ -538,65 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "President Donald J. Trump addressed the nation during a \"Salute to America\" celebration on the National Mall to commemorate America's 250th birthday, while Vice President JD Vance made public comments in New York City earlier in the day."
-  },
-  {
-    "id": "d0974c1a5601",
-    "title": "America’s Navy at 250: A Naval History and Heritage Command Publication",
-    "url": "https://news.usni.org/2026/07/03/americas-navy-at-250-a-naval-history-and-heritage-command-publication",
-    "date": "2026-07-03T13:30:51Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is “America’s Navy at 250,” a Naval History and Heritage Command publication, released June 30, 2026. From the Report America&#8217;s Navy at 250: The Historic Collections of Naval History and Heritage Command honors the Navy and Nation 250 by showcasing 250 artifacts, artworks, and su"
-  },
-  {
-    "id": "c67468f9cda2",
-    "title": "USS Nimitz: An Aircraft Carrier’s Final Journey",
-    "url": "https://news.usni.org/2026/07/03/uss-nimitz-an-aircraft-carriers-final-journey",
-    "date": "2026-07-03T12:57:35Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "ABOARD USS NIMITZ UNDERWAY IN THE ATLANTIC ― Approximately 100 miles off the coast of North Carolina, a 14-nation armada converged in the blue waters of the Atlantic. Twenty-six ships from every corner of the world – including the U.S., Norway, Brazil, Morocco, Turkey and South Korea – synchronized"
-  },
-  {
-    "id": "65369158e613",
-    "title": "USNI News Western Pacific Pulse: July 3 2026",
-    "url": "https://news.usni.org/2026/07/03/usni-news-western-pacific-pulse-july-3-2026",
-    "date": "2026-07-03T12:08:23Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Exercise Valiant Shield Exercise Valiant Shield 2026 (VS26) concluded on Wednesday following 10 days of exercises across the Commonwealth of the Northern Mariana Islands, Guam, Japan and at se"
-  },
-  {
-    "id": "50f67275db68",
-    "title": "FLEETEX250: ‘They’re Here, We Might as Well Train’",
-    "url": "https://news.usni.org/2026/07/02/theyre-here-we-might-as-well-train",
-    "date": "2026-07-03T01:28:00Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": ""
-  },
-  {
-    "id": "3638f9e0facf",
-    "title": "Build Freedom Initiative Launches With Big Contract to Skilled Trades Champion",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4532933/build-freedom-initiative-launches-with-big-contract-to-skilled-trades-champion/",
-    "date": "2026-07-02T20:36:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Michael Duffey, undersecretary of war for acquisition and sustainment, and Michael Cadenazzi, assistant secretary of war for industrial base policy, presented television host Mike Rowe with a $10 million check at the Pentagon to formally launch the Build Freedom Initiative."
-  },
-  {
-    "id": "538ee5645605",
-    "title": "Pennsylvania Army National Guard Conducts 'Ghillie Wash' Training Event",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4532841/pennsylvania-army-national-guard-conducts-ghillie-wash-training-event/",
-    "date": "2026-07-02T20:03:40Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Pennsylvania National Guard soldiers participated in a ghillie wash training exercise at Fort Indiantown Gap, Pa., in which they were put through intense physical training in ghillie suits, a garment designed to resemble heavy foliage, grass or terrain."
   }
 ]
