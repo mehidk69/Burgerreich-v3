@@ -1,5 +1,35 @@
 [
   {
+    "id": "4feb3b5c7613",
+    "title": "Minnesota National Guard, Croatia Celebrate 30 Years of Partnership",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4550271/minnesota-national-guard-croatia-celebrate-30-years-of-partnership/",
+    "date": "2026-07-20T18:01:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Minnesota and Croatia celebrated the 30th anniversary of their partnership through the National Guard Bureau's State Partnership Program during Exercise Combat Power 26, near Slunj, Croatia."
+  },
+  {
+    "id": "65c3cb4b9e53",
+    "title": "Coast Guard Monitors Chinese Vessels in the Arctic",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4550235/coast-guard-monitors-chinese-vessels-in-the-arctic/",
+    "date": "2026-07-20T17:29:45Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Coast Guard recently monitored two Chinese research ships as they transited north through the U.S. exclusive economic zone and over the U.S. extended continental shelf in the Bering Sea."
+  },
+  {
+    "id": "227841a044bc",
+    "title": "New Navy PAE Maritime Shipbuilding Office Reaches IOC",
+    "url": "https://news.usni.org/2026/07/20/new-navy-pae-maritime-shipbuilding-office-reaches-ioc",
+    "date": "2026-07-20T17:24:28Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The new organization that will oversee surface shipbuilding for the U.S. Navy and one Coast Guard program has reached its initial operational capability overseeing major surface ship and aircraft carrier construction, according to a July 16 memo obtained by USNI News. Portfolio Acquisition Executive"
+  },
+  {
     "id": "557c561ad367",
     "title": "Philippine Sailor Injured in Violent Clash with China Coast Guard off Second Thomas Shoal",
     "url": "https://news.usni.org/2026/07/20/philippine-sailor-injured-in-violent-clash-with-china-coast-guard-off-second-thomas-shoal",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "This story has been updated to clarify end strength numbers.  The Navy met its recruiting goal for Fiscal Year 2026 three months before the fall deadline, the sea service announced last week. The Navy brought in 45,000 new recruits, according to a Thursday news release, marking the third year in a r"
-  },
-  {
-    "id": "caa6df889507",
-    "title": "USNI News Fleet and Marine Tracker: July 7, 2026",
-    "url": "https://news.usni.org/2026/07/07/usni-news-fleet-and-marine-tracker-july-7-2026",
-    "date": "2026-07-07T19:10:30Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of July 7, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capi"
-  },
-  {
-    "id": "b3f8de192189",
-    "title": "Preserving Japan's Aviation Heritage: Yokota Air Base Returns Historic Aircraft Artifacts",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4534617/preserving-japans-aviation-heritage-yokota-air-base-returns-historic-aircraft-a/",
-    "date": "2026-07-07T17:14:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "The 374th Civil Engineer Squadron at Yokota Air Base, Japan, returned rare, WWII-era Imperial Japanese Army aircraft artifacts to the Japanese government after uncovering them during a base construction project."
-  },
-  {
-    "id": "ed96df570ae9",
-    "title": "The USS Constitution Navigates Future",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4534454/the-uss-constitution-navigates-future/",
-    "date": "2026-07-07T15:59:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "For more than two centuries, the USS Constitution has relied on stars, the sea and paper charts to navigate. But as the vessel prepares for nine America 250 events, Old Ironsides is receiving a digital navigation upgrade courtesy of Naval Surface Warfare Center, Philadelphia Division."
   }
 ]
