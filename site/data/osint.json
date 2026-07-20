@@ -1,5 +1,25 @@
 [
   {
+    "id": "557c561ad367",
+    "title": "Philippine Sailor Injured in Violent Clash with China Coast Guard off Second Thomas Shoal",
+    "url": "https://news.usni.org/2026/07/20/philippine-sailor-injured-in-violent-clash-with-china-coast-guard-off-second-thomas-shoal",
+    "date": "2026-07-20T12:06:55Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "MANILA, PHILIPPINES – A Philippine sailor was injured today at Second Thomas Shoal following a clash with a Chinese small boat at the contested South China Sea maritime feature. The melee resulted in a blow to the head of a Philippine service member, according to photos and video released from the i"
+  },
+  {
+    "id": "ad82f61aeb04",
+    "title": "Oiler USNS Kanawha Receives Presidential Unit Citation for Unprecedented Middle East Deployment",
+    "url": "https://news.usni.org/2026/07/20/oiler-usns-kanawha-receives-presidential-unit-citation-for-unprecidented-middle-east-deployment",
+    "date": "2026-07-20T09:15:21Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "ABOARD FLEET OILER USNS KANAWHA — In a ceremony overseen by the highest-ranking admiral in Norfolk, the crew members of a 35-year-old fleet oiler were honored for excelling at a mission they were never supposed to be on. U.S. Fleet Forces commander Adm. Karl Thomas presented the Presidential Unit Ci"
+  },
+  {
     "id": "3271ac7f6000",
     "title": "Philly Shipyard to Build ‘Golden Defender’ Ship as part of New Missile Defense Program",
     "url": "https://news.usni.org/2026/07/17/philly-shipyard-to-build-golden-defender-ship-as-part-of-new-missile-defense-program",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "For more than two centuries, the USS Constitution has relied on stars, the sea and paper charts to navigate. But as the vessel prepares for nine America 250 events, Old Ironsides is receiving a digital navigation upgrade courtesy of Naval Surface Warfare Center, Philadelphia Division."
-  },
-  {
-    "id": "396a56e47905",
-    "title": "U.S. Marines Demonstrate Dual MEF Strategy in Western Pacific Drills",
-    "url": "https://news.usni.org/2026/07/07/u-s-marines-demonstrate-dual-mef-strategy-in-western-pacific-drills",
-    "date": "2026-07-07T14:36:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The U.S. Marine Corps concluded two bilateral exercises last week in the first island chain, which overlapped to demonstrate the service’s “Two MEFs Abreast” strategy. Resolute Dragon 2026, a U.S. Marine Corps exercise with Japan Ground Self-Defense Force, began June 20 in southwest Japan and wrappe"
-  },
-  {
-    "id": "f15a411e5575",
-    "title": "China Tests Submarine-launched Ballistic Missile, Kicks Off Annual Exercise With Russia",
-    "url": "https://news.usni.org/2026/07/06/china-tests-submarine-launched-ballistic-missile-kicks-off-annual-exercise-with-russia",
-    "date": "2026-07-06T20:25:53Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The People’s Liberation Army Navy test fired a submarine-launched ballistic missile from the South China Sea to the Pacific Ocean on Monday, coinciding with the start of an annual naval drill with Russia. The Chinese strategic nuclear submarine launched the missile carrying a training dummy warhead"
   }
 ]
