@@ -1,5 +1,15 @@
 [
   {
+    "id": "19eae2245821",
+    "title": "USNI News Fleet and Marine Tracker: July 20, 2026",
+    "url": "https://news.usni.org/2026/07/20/usni-news-fleet-and-marine-tracker-july-20-2026",
+    "date": "2026-07-20T19:35:42Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of July 20, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
+  },
+  {
     "id": "4feb3b5c7613",
     "title": "Minnesota National Guard, Croatia Celebrate 30 Years of Partnership",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4550271/minnesota-national-guard-croatia-celebrate-30-years-of-partnership/",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "The following is the July 2, 2026, Congressional Research Service report, NATO: Issues for the July 2026 Ankara Summit. From the Report Heads of state and government from the North Atlantic Treaty Organization&#8217;s (NATO&#8217;s) 32 members are scheduled to meet for a summit in Ankara, Turkey, on"
-  },
-  {
-    "id": "6676d0b04f15",
-    "title": "Navy Meets Recruiting Goal Ahead of Schedule",
-    "url": "https://news.usni.org/2026/07/07/navy-meets-recruiting-goal-ahead-of-schedule",
-    "date": "2026-07-07T20:27:33Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "This story has been updated to clarify end strength numbers.  The Navy met its recruiting goal for Fiscal Year 2026 three months before the fall deadline, the sea service announced last week. The Navy brought in 45,000 new recruits, according to a Thursday news release, marking the third year in a r"
   }
 ]
