@@ -1,5 +1,45 @@
 [
   {
+    "id": "b241436f2f6f",
+    "title": "Hegseth, Caine Testify in Support of Supplemental Budget Request",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4551668/hegseth-caine-testify-in-support-of-supplemental-budget-request/",
+    "date": "2026-07-21T22:09:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Secretary of War Pet Hegseth and Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, appeared before the Senate Appropriations Committee on Capitol Hill, where the two leaders spoke in support of President Donald J. Trump's supplemental budget request to Congress."
+  },
+  {
+    "id": "6950fb42dfc4",
+    "title": "Large-Scale Cybersecurity Exercise Focuses on Operational Technology",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4551823/large-scale-cybersecurity-exercise-focuses-on-operational-technology/",
+    "date": "2026-07-21T21:50:09Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "This year's iteration of the War Department's longest-running unclassified cyber defense exercise, Cyber Shield 2026, is largely focused on operational technology, military cyber professionals said during a virtual media roundtable."
+  },
+  {
+    "id": "dda3c2567fc8",
+    "title": "Basic Cadet Training Prepares New Cadets for Academy Life",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4551636/basic-cadet-training-prepares-new-cadets-for-academy-life/",
+    "date": "2026-07-21T20:26:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Every summer, the U.S. Air Force Academy in Colorado Springs, Colo., introduces its newest basic cadets to military life through basic cadet training."
+  },
+  {
+    "id": "ed0221fe9e1e",
+    "title": "Army Contracting Support Enables Marine Operations Along Southern Border",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4551425/army-contracting-support-enables-marine-operations-along-southern-border/",
+    "date": "2026-07-21T20:07:17Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Army contracting support is essential for the Marine Corps' mission at the U.S. southern border. By walking the ground alongside the warfighters, the contracting team is better positioned to deliver the right capabilities, at the right time, in the right place."
+  },
+  {
     "id": "4a9d75c4d994",
     "title": "Multinational Crews Fly on U.S. Navy Poseidon’s for RIMPAC",
     "url": "https://news.usni.org/2026/07/21/multinational-crews-fly-on-u-s-navy-poseidons-for-rimpac",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The Navy’s oldest in-service aircraft carrier pulled into Norfolk, Va., on Thursday ahead of its final homeport shift, according to ship spotters. USS Nimitz (CVN-68) reached Virginia after participating in the International Naval Review in New York City over the Fourth of July, which coincided with"
-  },
-  {
-    "id": "1f92f603d118",
-    "title": "U.K., Partners Commit to ‘Persistent Maritime Presence’ to Counter Russia in High North",
-    "url": "https://news.usni.org/2026/07/09/u-k-partners-commit-to-persistent-maritime-presence-to-counter-russia-in-high-north",
-    "date": "2026-07-09T18:38:32Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.K.-led Joint Expeditionary Force will advance its integrated maritime enterprise and commit to a persistent maritime presence in the High North, North Atlantic and Baltic to counter Russia’s increasing activities in the region, the Royal Navy announced Thursday. The 10 countries in the JEF rec"
-  },
-  {
-    "id": "f9af60140942",
-    "title": "Report to Congress on FY 2027 Defense Funding for Selected Weapon Systems",
-    "url": "https://news.usni.org/2026/07/09/report-to-congress-on-fy-2027-defense-funding-for-selected-weapon-systems",
-    "date": "2026-07-09T14:26:18Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the July 7, 2026, Congressional Research Service report, FY2027 Defense Budget: Funding for Selected Weapon Systems. From the Report The second Trump Administration&#8217;s Department of Defense (DOD) budget request for FY2027 included $1.1 trillion in discretionary funding and $350"
-  },
-  {
-    "id": "f565f183c594",
-    "title": "Canada Selects German Firm to Build 12 Attack Boats for Royal Canadian Navy",
-    "url": "https://news.usni.org/2026/07/08/canada-selects-german-firm-to-build-12-attack-boats-for-royal-canadian-navy",
-    "date": "2026-07-08T20:40:10Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Canada announced this week that it will purchase up to 12 attack boats from Germany following an intense bidding competition between Seoul and Berlin for the next-generation of Royal Canadian Navy (RCN) submarines.  “This will be the largest defense procurement in Canadian history, and it will equip"
-  },
-  {
-    "id": "e32968bb2857",
-    "title": "Securing the Border: Soldiers Transport Critical Tech",
-    "url": "https://www.war.gov/Multimedia/Photo-Collections/20073/securing-the-border-soldiers-transport-critical-tech",
-    "date": "2026-07-08T20:00:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Soldiers assigned to Joint Task Force Southern Border transported a telecommunications network system during Operation Muleskinner Trailblazer III in Big Bend, Texas, helping the the U.S. Border Patrol boost joint-agency communication capabilities across the region's austere environments."
   }
 ]
