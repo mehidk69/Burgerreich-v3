@@ -1,5 +1,45 @@
 [
   {
+    "id": "ddc5179893ea",
+    "title": "U.S. Army Deploys Hypersonic Missiles in Range of China During Exercise",
+    "url": "https://news.usni.org/2026/07/22/u-s-army-deploys-hypersonic-missiles-in-range-of-china-during-exercise",
+    "date": "2026-07-22T18:22:28Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The U.S. Army deployed its Dark Eagle hypersonic missiles for a multinational warfighting exercise last month in the Western Pacific, according to recently released photos. Troops operating the long-range hypersonic weapon assigned to Multi-Domain Command &#8211; Pacific, the recent merge of the Was"
+  },
+  {
+    "id": "08919646f202",
+    "title": "Pentagon's Special Ops Office to Host Rapid Tech Innovation Event",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4552408/pentagons-special-ops-office-to-host-rapid-tech-innovation-event/",
+    "date": "2026-07-22T16:44:37Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "668625151b66",
+    "title": "Republican Senators Introduce Bill to Create Service Secretary for the Coast Guard",
+    "url": "https://news.usni.org/2026/07/22/republican-senators-introduce-bill-to-create-service-secretary-for-the-coast-guard",
+    "date": "2026-07-22T15:54:40Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A trio of Republican senators have introduced a bill to create Secretary of the Coast Guard and Undersecretary positions as the civilian head of the 43,000-member service, USNI News has learned. According to the draft ‘‘Coast Guard Leadership Modernization Act’’ obtained by USNI News, the new Secret"
+  },
+  {
+    "id": "7f5ae59e5245",
+    "title": "U.S. has Smuggled up to 500 Million Barrels of Oil Through Gulf of Oman, Hegseth says",
+    "url": "https://news.usni.org/2026/07/22/u-s-has-smuggled-up-to-500-million-barrels-of-oil-through-gulf-of-oman-hegseth-says",
+    "date": "2026-07-22T14:26:35Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A contentious Senate hearing on a supplemental budget request of nearly $88 billion, largely earmarked to cover the ongoing war on Iran, revealed new figures about the war&#8217;s cost to date and the effects of the military&#8217;s Project Freedom initiative to escort commercial ships through the S"
+  },
+  {
     "id": "b241436f2f6f",
     "title": "Hegseth, Caine Testify in Support of Supplemental Budget Request",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4551668/hegseth-caine-testify-in-support-of-supplemental-budget-request/",
@@ -38,6 +78,16 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": ""
+  },
+  {
+    "id": "a306512115cb",
+    "title": "Multinational Crews Fly on U.S. Navy Poseidons for RIMPAC",
+    "url": "https://news.usni.org/2026/07/21/multinational-crews-fly-on-u-s-navy-poseidons-for-rimpac",
+    "date": "2026-07-21T18:38:33Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Multinational crews are flying on U.S. Navy P-8A Poseidon Maritime Patrol Aircraft for first time during Rim of the Pacific 2026 exercise. U.S. Navy P-8As from the “Fighting Tigers” of Patrol and Reconnaissance Squadron (VP) 8 and the “Golden Eagles” of VP-9 are operating alongside a Japan Maritime"
   },
   {
     "id": "4a9d75c4d994",
@@ -558,56 +608,6 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "Transits through the Strait of Hormuz more than doubled between May and June, as the shipping industry attempts to navigate the volatile waterway. Analysts with London-based Lloyd’s List Intelligence tracked at least 576 transits through the strait in June, up from 233 in May. However, strait transi"
-  },
-  {
-    "id": "dae36ff3f243",
-    "title": "Report to Congress on U.S. Extended Deterrence and Regional Nuclear Capabilities",
-    "url": "https://news.usni.org/2026/07/10/report-to-congress-on-u-s-extended-deterrence-and-regional-nuclear-capabilities-2",
-    "date": "2026-07-10T20:55:42Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The following is the July 10, 2026, Congressional Research Service report, U.S. Extended Deterrence and Regional Nuclear Capabilities.  From the Report One of the stated goals of U.S. nuclear weapons policy has been to extend deterrence to over 30 U.S. &#8220;allies and partners&#8221; and assure th"
-  },
-  {
-    "id": "53240ff72257",
-    "title": "USNI News Western Pacific Pulse: July 10, 2026",
-    "url": "https://news.usni.org/2026/07/10/usni-news-western-pacific-pulse-july-10-2026",
-    "date": "2026-07-10T19:34:50Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Hawaii The U.S. Navy-led Rim of the Pacific (RIMPAC) 2026 exercise is now in its at-sea phase with ships and unmanned surface vessels departing from Joint Base Pearl Harbor – Hickam in s"
-  },
-  {
-    "id": "a1849db1320c",
-    "title": "Alaska National Guard Rescues 4 People in 2 Days",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4540150/alaska-national-guard-rescues-4-people-in-2-days/",
-    "date": "2026-07-10T16:08:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Soldiers and airmen assigned to the Alaska National Guard executed four missions to save four people in the Alaska wilderness before the July Fourth holiday weekend."
-  },
-  {
-    "id": "bc3ec2564aba",
-    "title": "New Navy Policy Limits Medical Shaving Waivers to One Year",
-    "url": "https://news.usni.org/2026/07/09/new-navy-policy-limits-medical-shaving-waivers-to-one-year",
-    "date": "2026-07-09T21:49:03Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Sailors who cannot shave due to medical reasons now have one year before they could face separation over their inability to go clean shaven, according to a Navy policy released Tuesday. Under the most recent Navy administrative message, the sea service will offer shaving waivers for men who are unab"
-  },
-  {
-    "id": "3478ca8c7247",
-    "title": "USS Nimitz Arrives in Norfolk for Homeport Shift",
-    "url": "https://news.usni.org/2026/07/09/uss-nimitz-arrives-in-norfolk-for-homeport-shift",
-    "date": "2026-07-09T20:44:06Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Navy’s oldest in-service aircraft carrier pulled into Norfolk, Va., on Thursday ahead of its final homeport shift, according to ship spotters. USS Nimitz (CVN-68) reached Virginia after participating in the International Naval Review in New York City over the Fourth of July, which coincided with"
   },
   {
     "id": "c4883cbc4b69",
