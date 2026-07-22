@@ -7,7 +7,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
-    "summary": "Secretary of War Pet Hegseth and Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, appeared before the Senate Appropriations Committee on Capitol Hill, where the two leaders spoke in support of President Donald J. Trump's supplemental budget request to Congress."
+    "summary": ""
   },
   {
     "id": "6950fb42dfc4",
@@ -17,7 +17,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "exercise",
-    "summary": "This year's iteration of the War Department's longest-running unclassified cyber defense exercise, Cyber Shield 2026, is largely focused on operational technology, military cyber professionals said during a virtual media roundtable."
+    "summary": ""
   },
   {
     "id": "dda3c2567fc8",
@@ -27,7 +27,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "exercise",
-    "summary": "Every summer, the U.S. Air Force Academy in Colorado Springs, Colo., introduces its newest basic cadets to military life through basic cadet training."
+    "summary": ""
   },
   {
     "id": "ed0221fe9e1e",
@@ -37,7 +37,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "ground",
-    "summary": "Army contracting support is essential for the Marine Corps' mission at the U.S. southern border. By walking the ground alongside the warfighters, the contracting team is better positioned to deliver the right capabilities, at the right time, in the right place."
+    "summary": ""
   },
   {
     "id": "4a9d75c4d994",
@@ -66,8 +66,8 @@
     "date": "2026-07-21T16:41:00Z",
     "source": "DoD News",
     "cocom": "osint",
-    "tag": "ground",
-    "summary": "The New York Air National Guard, New York Army National Guard and Greenland Airports are working together to improve living conditions for airmen by repairing a long-standing roof issue at a lodging facility in Kangerlussuaq, Greenland."
+    "tag": "general",
+    "summary": ""
   },
   {
     "id": "9f5cad4248b0",
@@ -107,7 +107,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
-    "summary": "Minnesota and Croatia celebrated the 30th anniversary of their partnership through the National Guard Bureau's State Partnership Program during Exercise Combat Power 26, near Slunj, Croatia."
+    "summary": ""
   },
   {
     "id": "65c3cb4b9e53",
@@ -116,8 +116,8 @@
     "date": "2026-07-20T17:29:45Z",
     "source": "DoD News",
     "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Coast Guard recently monitored two Chinese research ships as they transited north through the U.S. exclusive economic zone and over the U.S. extended continental shelf in the Bering Sea."
+    "tag": "general",
+    "summary": ""
   },
   {
     "id": "227841a044bc",
@@ -186,8 +186,8 @@
     "date": "2026-07-17T18:03:00Z",
     "source": "DoD News",
     "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The United States, Thailand and Canada successfully concluded the Cooperation Afloat Readiness and Training Thailand maritime exercise in Sattahip, enhancing combined naval capabilities and reinforcing a shared commitment to a free and secure Pacific region."
+    "tag": "naval",
+    "summary": ""
   },
   {
     "id": "944b737e6433",
@@ -196,8 +196,8 @@
     "date": "2026-07-17T16:19:00Z",
     "source": "DoD News",
     "cocom": "osint",
-    "tag": "naval",
-    "summary": "Retired Navy Capt. E. Royce Williams, the oldest living Medal of Honor recipient, returned to the base where he earned his gold wings, joining Naval Aviation Schools Command in congratulating 29 student naval aviators who completed their introductory flight evaluation training."
+    "tag": "general",
+    "summary": ""
   },
   {
     "id": "5f0cbf3664ce",
@@ -246,8 +246,8 @@
     "date": "2026-07-16T20:00:00Z",
     "source": "DoD News",
     "cocom": "osint",
-    "tag": "air",
-    "summary": "The Wyoming Air National Guard's 153rd Airlift Wing was activated to support wildland firefighting operations in the western United States, with significant fire activity in the Southwest, Great Basin, Rocky Mountain and Northwest geographic areas."
+    "tag": "general",
+    "summary": ""
   },
   {
     "id": "942c78fae90c",
@@ -256,8 +256,8 @@
     "date": "2026-07-16T19:38:00Z",
     "source": "DoD News",
     "cocom": "osint",
-    "tag": "ground",
-    "summary": "To help Army recruiters get information fast, enabling them to do their jobs at speed and with more authoritative resources, the Army developed Staff Sgt. Star, an artificial intelligence-powered chatbot."
+    "tag": "general",
+    "summary": ""
   },
   {
     "id": "1dcefafe2892",
@@ -277,7 +277,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
-    "summary": "The War Department delivers one of the most comprehensive health benefits, through TRICARE, including an exceptional prescription drug benefit program, said David J. Smith, Defense Health Agency deputy director, during a hearing in Washington."
+    "summary": ""
   },
   {
     "id": "021254186dbc",
@@ -317,7 +317,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
-    "summary": "President Donald J. Trump announced that the War Department will be investing roughly $10 billion in materiel production while in support of more than 4,000 defense industry jobs across Pennsylvania."
+    "summary": ""
   },
   {
     "id": "c0ff04cf0307",
@@ -326,8 +326,8 @@
     "date": "2026-07-16T11:30:00Z",
     "source": "DoD News",
     "cocom": "osint",
-    "tag": "naval",
-    "summary": "Secretary of War Pete Hegseth welcomed Iraqi Prime Minister Ali al-Zaidi to the Pentagon, where the two leaders met to discuss the Global Coalition to Defeat ISIS, the end of the Operation Inherent Resolve mission and the future of the U.S.-Iraq relationship."
+    "tag": "general",
+    "summary": ""
   },
   {
     "id": "80b259955d8c",
@@ -357,7 +357,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
-    "summary": "U.S. armed forces are continuing to provide disaster relief assistance to the people of Venezuela in the aftermath of two devastating June 24 earthquakes."
+    "summary": ""
   },
   {
     "id": "5edf407f3c6b",
@@ -386,8 +386,8 @@
     "date": "2026-07-14T22:51:58Z",
     "source": "DoD News",
     "cocom": "osint",
-    "tag": "air",
-    "summary": "Team members assigned to the Defense Health Agency's Warfighter Readiness, Performance and Brain Health initiative hosted an end user touchpoint at Camp Lejeune, N.C., to assess new capabilities for evaluating traumatic brain injuries on the battlefield."
+    "tag": "general",
+    "summary": ""
   },
   {
     "id": "2d90fc7f2bd4",
@@ -417,7 +417,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
-    "summary": "The District of Columbia National Guard's 260th Special Purpose Brigade commissioned its first maritime security vessel, boosting homeland defense and interagency coordination to protect the capital's waterways and critical infrastructure."
+    "summary": ""
   },
   {
     "id": "8f8ab8e5b723",
@@ -437,7 +437,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "air",
-    "summary": "Kosovo Force Regional Command East's Task Force Aviation and multinational partners conducted a downed aircraft exercise near Camp Bondsteel, Kosovo, rehearsing search and rescue, medical evacuation and aircraft recovery procedures following a simulated UH-60 Black Hawk helicopter hard landing."
+    "summary": ""
   },
   {
     "id": "7a9307c6a104",
@@ -457,7 +457,7 @@
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
-    "summary": "The War Department announced the suspension of the Cybersecurity Maturity Model Certification phase two requirements, initially scheduled to take effect in November, and launched a comprehensive review of the entire CMMC program."
+    "summary": ""
   },
   {
     "id": "822a1909e062",
@@ -506,8 +506,8 @@
     "date": "2026-07-13T16:30:10Z",
     "source": "DoD News",
     "cocom": "osint",
-    "tag": "posture",
-    "summary": "Service members based in Japan will likely see a reduction in their overseas cost-of-living allowance because of a long-term drop in the value of the Japanese yen and a corresponding increase in the value of the dollar."
+    "tag": "general",
+    "summary": ""
   },
   {
     "id": "472f7901e96d",
