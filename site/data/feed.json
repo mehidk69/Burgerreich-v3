@@ -1,5 +1,45 @@
 [
   {
+    "id": "a1b0d8ec10f3",
+    "title": "Taiwan Receives Latest Coast Guard Cutter from $1.3B Fleet Build-up Plan",
+    "url": "https://news.usni.org/2026/07/23/taiwan-receives-latest-coast-guard-cutter-from-1-3b-fleet-build-up-plan",
+    "date": "2026-07-23T18:43:41Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Taipei received its latest cutter this week from a $1.3 billion program initiated almost a decade ago to expand Taiwan’s white hull fleet to counter coercive Chinese activities. Taiwan’s Coast Guard Administration (CGA) took delivery of the 1,000-ton patrol ship Penghu (CG 1007) from the CSBC Corpor"
+  },
+  {
+    "id": "3dd2c524a2e0",
+    "title": "VIDEO: Decommissioned USS Mobile Bay, USS Peleliu Sunk in RIMPAC Drills",
+    "url": "https://news.usni.org/2026/07/23/video-decommissioned-uss-mobile-bay-uss-peleliu-sunk-in-rimpac-drills",
+    "date": "2026-07-23T18:11:09Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Two decommissioned warships, cruiser USS Mobile Bay (CG-53) amphibious assault ship USS Peleliu (LHA-5), were recently sunk off the coast of Hawaii as part of the U.S. Navy-led Rim of the Pacific 2026 exercise. Mobile Bay was sunk July 11 and Peleliu was sunk July 17 by forces from the U.S. and part"
+  },
+  {
+    "id": "2d9232bddefd",
+    "title": "Navy Nurse Awarded for Pediatric Trauma Care Research, Improvements",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4553507/navy-nurse-awarded-for-pediatric-trauma-care-research-improvements/",
+    "date": "2026-07-23T16:52:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": ""
+  },
+  {
+    "id": "af2ff15c555a",
+    "title": "Centcom Completes Latest Strikes Against Iran",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4553395/centcom-completes-latest-strikes-against-iran/",
+    "date": "2026-07-23T14:22:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": ""
+  },
+  {
     "id": "97b04e47ce10",
     "title": "Amphib USS Tripoli Wraps 6-month Indo-Pacific, Middle East Patrol",
     "url": "https://news.usni.org/2026/07/22/amphib-uss-tripoli-wraps-6-month-indo-pacific-middle-east-patrol",
@@ -568,46 +608,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The Navy on Monday issued TOTE Services a $2.2 billion contract to function as the vessel construction manager for the Marine Corps’ Landing Ship Medium program, according to a Defense Department contract announcement. The award is worth up to $2.6 billion with options for as many as eight McClung-c"
-  },
-  {
-    "id": "f142aabf5a92",
-    "title": "U.S. Reinstates Naval Blockade in Strait of Hormuz",
-    "url": "https://news.usni.org/2026/07/13/u-s-reinstates-naval-blockade-in-strait-of-hormuz",
-    "date": "2026-07-13T20:46:40Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The U.S. will resume its blockade of Iranian ports, coasts and ships, according to a Monday announcement from U.S. Central Command, signaling an end to the 60-day ceasefire between Iran and Washington. The U.S. lifted its blockade on June 18 as part of the memorandum of understanding between the two"
-  },
-  {
-    "id": "046b938a6b77",
-    "title": "USNI News Fleet and Marine Tracker: July 13, 2026",
-    "url": "https://news.usni.org/2026/07/13/usni-news-fleet-and-marine-tracker-july-13-2026",
-    "date": "2026-07-13T17:51:07Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of July 13, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
-  },
-  {
-    "id": "d1723c0fecf8",
-    "title": "VIDEO: 3 Lethal U.S. Drones Attack Iranian Sub, Port Facility",
-    "url": "https://news.usni.org/2026/07/13/video-3-lethal-u-s-drones-attack-iranian-sub-port-facility",
-    "date": "2026-07-13T17:10:12Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Three Saronic Corsair unmanned surface craft were used in a Sunday attack on an Iranian port, U.S. Central Command announced on social media. In the 25-second video posted Monday on X, the Corsairs approach an Iranian pier at Bandar Abbas near the Strait of Hormuz with what appears to be a Ghadir-cl"
-  },
-  {
-    "id": "ca805d74a680",
-    "title": "Reduction Expected for Japan Cost-of-Living Allowance Rates",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4541542/reduction-expected-for-japan-cost-of-living-allowance-rates/",
-    "date": "2026-07-13T16:30:10Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": ""
   },
   {
     "id": "c4883cbc4b69",
