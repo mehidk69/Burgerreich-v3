@@ -1,5 +1,35 @@
 [
   {
+    "id": "97b04e47ce10",
+    "title": "Amphib USS Tripoli Wraps 6-month Indo-Pacific, Middle East Patrol",
+    "url": "https://news.usni.org/2026/07/22/amphib-uss-tripoli-wraps-6-month-indo-pacific-middle-east-patrol",
+    "date": "2026-07-22T21:28:09Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Big deck amphibious ship USS Tripoli (LHA-7), lead ship of the Tripoli Amphibious Ready Group, wrapped up on Wednesday a six-month patrol that took the group to the Indo-Pacific and Middle East. Tripoli pulled into White Beach Naval Facility, Okinawa, on Wednesday to offload elements of the 31st Mar"
+  },
+  {
+    "id": "4452b3864094",
+    "title": "Japan Protests Chinese Destroyer’s Live-fire Drill Near Disputed Reef",
+    "url": "https://news.usni.org/2026/07/22/japan-protests-chinese-destroyers-live-fire-drill-near-disputed-reef",
+    "date": "2026-07-22T19:20:07Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A People’s Liberation Army Navy destroyer conducted a small caliber live-fire drill on Sunday within Japan’s Exclusive Economic Zone near Okinotori Island, the archipelago country’s southernmost island. Japan Defense Minister Shinjiro Koizumi revealed the live firing during his keynote address at th"
+  },
+  {
+    "id": "e4b5db41dcb8",
+    "title": "Nation's Leaders Honor the Fallen During Dignified Transfer",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4552653/nations-leaders-honor-the-fallen-during-dignified-transfer/",
+    "date": "2026-07-22T18:57:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": ""
+  },
+  {
     "id": "ddc5179893ea",
     "title": "U.S. Army Deploys Hypersonic Missiles in Range of China During Exercise",
     "url": "https://news.usni.org/2026/07/22/u-s-army-deploys-hypersonic-missiles-in-range-of-china-during-exercise",
@@ -13,7 +43,7 @@
     "id": "08919646f202",
     "title": "Pentagon's Special Ops Office to Host Rapid Tech Innovation Event",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4552408/pentagons-special-ops-office-to-host-rapid-tech-innovation-event/",
-    "date": "2026-07-22T16:44:37Z",
+    "date": "2026-07-22T16:44:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
@@ -28,6 +58,16 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "A trio of Republican senators have introduced a bill to create Secretary of the Coast Guard and Undersecretary positions as the civilian head of the 43,000-member service, USNI News has learned. According to the draft ‘‘Coast Guard Leadership Modernization Act’’ obtained by USNI News, the new Secret"
+  },
+  {
+    "id": "2d03ca41d6a7",
+    "title": "U.S. has Moved up to 500 Million Barrels of Oil Through Gulf of Oman, Hegseth says",
+    "url": "https://news.usni.org/2026/07/22/u-s-has-smuggled-up-to-500-million-barrels-of-oil-through-gulf-of-oman-hegseth-says",
+    "date": "2026-07-22T14:26:35Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "A contentious Senate hearing on a supplemental budget request of nearly $88 billion, largely earmarked to cover the ongoing war on Iran, revealed new figures about the war&#8217;s cost to date and the effects of the military&#8217;s Project Freedom initiative to escort commercial ships through the S"
   },
   {
     "id": "7f5ae59e5245",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": ""
-  },
-  {
-    "id": "472f7901e96d",
-    "title": "USS San Antonio Assumes Relief Mission in Venezuela",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4541480/uss-san-antonio-assumes-relief-mission-in-venezuela/",
-    "date": "2026-07-13T16:30:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Supporting ongoing disaster relief efforts, the amphibious transport dock USS San Antonio arrived at the port in La Guaira, Venezuela, to relieve the USS Fort Lauderdale as the primary maritime component of the State Department-led humanitarian assistance mission following earthquakes."
-  },
-  {
-    "id": "525b85d4f252",
-    "title": "Specialized U.S. Marine Corps Group Trains to Defend the Northern Philippines",
-    "url": "https://news.usni.org/2026/07/13/specialized-u-s-marine-corps-group-trains-to-defend-the-northern-philippines",
-    "date": "2026-07-13T15:55:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "MANILA, PHILIPPINES – A specialized contingent of Marines have operated in the Northern Philippines over the last three months, honing their ability to monitor maritime movements and lock down strategic waters with anti-ship missiles. The Hawaii-based 3rd Marine Littoral Regiment (MLR) mobilized acr"
-  },
-  {
-    "id": "d3e4cc78e064",
-    "title": "Centcom Completes Another Wave of Strikes Against Iran",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4541171/centcom-completes-another-wave-of-strikes-against-iran/",
-    "date": "2026-07-13T13:03:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "U.S. Central Command completed a new wave of offensive strikes against Iran, hitting dozens of targets at multiple locations with precision munitions."
-  },
-  {
-    "id": "cdf4dac59c6f",
-    "title": "Hormuz Sees Traffic Bump Despite Ongoing Iranian Attacks",
-    "url": "https://news.usni.org/2026/07/10/hormuz-sees-traffic-bump-despite-ongoing-iranian-attacks",
-    "date": "2026-07-10T21:08:41Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Transits through the Strait of Hormuz more than doubled between May and June, as the shipping industry attempts to navigate the volatile waterway. Analysts with London-based Lloyd’s List Intelligence tracked at least 576 transits through the strait in June, up from 233 in May. However, strait transi"
   }
 ]
