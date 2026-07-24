@@ -1,5 +1,15 @@
 [
   {
+    "id": "0bc19a9b89ac",
+    "title": "Marines Offered Early Separations to Meet Budget Constraints",
+    "url": "https://news.usni.org/2026/07/23/marines-offered-early-separations-to-meet-budget-constraints",
+    "date": "2026-07-23T19:31:56Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The Marine Corps is offering early separations in an effort to meet budget restraints that determine the size of the force, USNI News has learned. Under the Voluntary Enlisted Early Release Program, which was also offered in Fiscal Year 2025, first-term Marines who have separation dates on or before"
+  },
+  {
     "id": "a1b0d8ec10f3",
     "title": "Taiwan Receives Latest Coast Guard Cutter from $1.3B Fleet Build-up Plan",
     "url": "https://news.usni.org/2026/07/23/taiwan-receives-latest-coast-guard-cutter-from-1-3b-fleet-build-up-plan",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": ""
-  },
-  {
-    "id": "822a1909e062",
-    "title": "Navy Awards TOTE $2.2B to Serve as Vessel Construction Manager for Landing Ship Medium",
-    "url": "https://news.usni.org/2026/07/13/navy-awards-tote-2-2b-to-serve-as-vessel-construction-manager-for-landing-ship-medium",
-    "date": "2026-07-13T22:00:52Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Navy on Monday issued TOTE Services a $2.2 billion contract to function as the vessel construction manager for the Marine Corps’ Landing Ship Medium program, according to a Defense Department contract announcement. The award is worth up to $2.6 billion with options for as many as eight McClung-c"
   }
 ]
