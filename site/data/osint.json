@@ -1,5 +1,25 @@
 [
   {
+    "id": "c96fb873cee5",
+    "title": "Hormuz Transits Remain Low, Houthis Resume Attacks in Red Sea",
+    "url": "https://news.usni.org/2026/07/24/hormuz-transits-remain-low-houthis-resume-attacks-in-red-sea",
+    "date": "2026-07-24T21:34:36Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Houthis enacted a maritime blockade against Saudi Arabian-linked ships and ports, dealing another blow to shipping in the Middle East. Transits in the Strait of Hormuz were down this week compared to the previous week as the U.S. struck Iran for the 13th straight day. London-based Lloyd’s List I"
+  },
+  {
+    "id": "fd5006fea6b1",
+    "title": "USNI News Western Pacific Pulse: July 24, 2026",
+    "url": "https://news.usni.org/2026/07/24/usni-news-western-pacific-pulse-july-24-2026",
+    "date": "2026-07-24T20:27:18Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Hawaii U.S. and partner forces conducted a group sail Wednesday, with aircraft carrier USS Theodore Roosevelt (CVN-71) leading the flotilla of ships and submarines as part of the U.S. Na"
+  },
+  {
     "id": "a6cc84525947",
     "title": "Mission Marge Brings Legacy of America's 'Ace of Aces' to Guam Airmen",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4555222/mission-marge-brings-legacy-of-americas-ace-of-aces-to-guam-airmen/",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": ""
-  },
-  {
-    "id": "2d90fc7f2bd4",
-    "title": "MARAD Ship Suffers Fire in Baltimore",
-    "url": "https://news.usni.org/2026/07/14/marad-ship-suffers-fire-in-baltimore",
-    "date": "2026-07-14T19:50:57Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Two lifeboats aboard U.S. Maritime Administration’s Charles L. Gilliland caught fire Monday in the Port of Baltimore. Baltimore City Fire Department responded around 11 a.m. to the two-alarm fire, meaning additional resources were needed to control the flames. There were no injuries reported. The ca"
-  },
-  {
-    "id": "631ec76b8661",
-    "title": "USS Essex at the Center of Additive Manufacturing Trials During RIMPAC 26",
-    "url": "https://news.usni.org/2026/07/14/uss-essex-at-the-center-of-additive-manufacturing-trials-during-rimpac-26",
-    "date": "2026-07-14T18:54:21Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "USS Essex (LHD-2) is the centerpiece of large-scale additive manufacturing tests during Rim of the Pacific 2026 exercise, as the U.S. Navy and Marine Corps lean on modern machine-made parts to hone self-repair capabilities. RIMPAC 26, which is being held in Hawaii through July 31, brings together mi"
   }
 ]
