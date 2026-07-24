@@ -1,5 +1,55 @@
 [
   {
+    "id": "a6cc84525947",
+    "title": "Mission Marge Brings Legacy of America's 'Ace of Aces' to Guam Airmen",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4555222/mission-marge-brings-legacy-of-americas-ace-of-aces-to-guam-airmen/",
+    "date": "2026-07-24T18:01:37Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "d25d10498c2f",
+    "title": "Historic Multinational Medical Team Integrates Aboard the USS Essex",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4555204/historic-multinational-medical-team-integrates-aboard-the-uss-essex/",
+    "date": "2026-07-24T17:39:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": ""
+  },
+  {
+    "id": "5eb01c51d0d0",
+    "title": "U.S. Navy Orders Low-cost Missiles to Expand Fleet, Allied Long-Range Maritime Strike Capabilities",
+    "url": "https://news.usni.org/2026/07/24/u-s-navy-orders-low-cost-missiles-to-expand-fleet-allied-long-range-maritime-strike-capabilities",
+    "date": "2026-07-24T17:23:50Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. Navy is procuring a low-cost cruise missile to expand the fleet’s long-range precision strike capabilities and provide allies with affordable maritime strike munitions. CoAspire announced its selection for the Navy’s Coalition Heterogenous Affordable Offensive Strike (CHAOS) program this we"
+  },
+  {
+    "id": "d37d747e2e88",
+    "title": "White House Protests Congressional Block on Buying Foreign Warships for U.S. Navy",
+    "url": "https://news.usni.org/2026/07/24/white-house-protests-congressional-block-on-buying-foreign-warships-for-u-s-navy",
+    "date": "2026-07-24T16:07:58Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The White House is pushing back against a congressional proposal to restrict buying warships and auxiliaries from foreign shipyards, according to a memo released this week by the Office of Management and Budget. OMB opposed a section of the House’s version of the Fiscal Year 2027 National Defense Au"
+  },
+  {
+    "id": "961cedce4fcf",
+    "title": "U.S. Concludes 13th Night of Strikes on Iranian Military Targets",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4554671/us-concludes-13th-night-of-strikes-on-iranian-military-targets/",
+    "date": "2026-07-24T15:02:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": ""
+  },
+  {
     "id": "0bc19a9b89ac",
     "title": "Marines Offered Early Separations to Meet Budget Constraints",
     "url": "https://news.usni.org/2026/07/23/marines-offered-early-separations-to-meet-budget-constraints",
@@ -27,7 +77,7 @@
     "source": "USNI News",
     "cocom": "osint",
     "tag": "naval",
-    "summary": "Two decommissioned warships, cruiser USS Mobile Bay (CG-53) amphibious assault ship USS Peleliu (LHA-5), were recently sunk off the coast of Hawaii as part of the U.S. Navy-led Rim of the Pacific 2026 exercise. Mobile Bay was sunk July 11 and Peleliu was sunk July 17 by forces from the U.S. and part"
+    "summary": "This story has been updated with additional information that was released after publication.  Two decommissioned warships, cruiser USS Mobile Bay (CG-53) amphibious assault ship USS Peleliu (LHA-5), were recently sunk off the coast of Hawaii as part of the U.S. Navy-led Rim of the Pacific 2026 exerc"
   },
   {
     "id": "2d9232bddefd",
@@ -548,55 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "USS Essex (LHD-2) is the centerpiece of large-scale additive manufacturing tests during Rim of the Pacific 2026 exercise, as the U.S. Navy and Marine Corps lean on modern machine-made parts to hone self-repair capabilities. RIMPAC 26, which is being held in Hawaii through July 31, brings together mi"
-  },
-  {
-    "id": "117bfca83dac",
-    "title": "D.C. National Guard Boosts Homeland Defense With First Maritime Security Vessel",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4545141/dc-national-guard-boosts-homeland-defense-with-first-maritime-security-vessel/",
-    "date": "2026-07-14T18:35:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": ""
-  },
-  {
-    "id": "8f8ab8e5b723",
-    "title": "Carrier USS Gerald R. Ford Starts First Major Post-Deployment Maintenance Period",
-    "url": "https://news.usni.org/2026/07/14/carrier-uss-gerald-r-ford-starts-first-major-post-deployment-maintenance-period",
-    "date": "2026-07-14T18:12:16Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Aircraft carrier USS Gerald R. Ford (CVN-78) is now at Norfolk Naval Shipyard for a maintenance period following a nearly 11-month deployment. Ford, the Navy’s newest in-service carrier, arrived last week at Norfolk Naval Shipyard in Portsmouth, Va., for its planned incremental availability, or PIA,"
-  },
-  {
-    "id": "6fc20e0739e9",
-    "title": "Skyfall Simulation: NATO Partners Rehearse Downed Aircraft Response",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4544895/skyfall-simulation-nato-partners-rehearse-downed-aircraft-response/",
-    "date": "2026-07-14T16:12:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": ""
-  },
-  {
-    "id": "7a9307c6a104",
-    "title": "GAO Report on Funding for Southern Border Security",
-    "url": "https://news.usni.org/2026/07/14/gao-report-on-funding-for-southern-border-security",
-    "date": "2026-07-14T14:58:19Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the July 13, 2026, Government Accountability Office report, Southern Border Security: DOD Used Multiple Strategies to Fund Operations. From the Report Each year, millions of people enter the U.S. along its nearly 2,000-mile-long border with Mexico. But the border is also vulnerable"
-  },
-  {
-    "id": "9a7a53974584",
-    "title": "War Department Changes Cybersecurity Maturity Model Certification Requirements",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4542849/war-department-changes-cybersecurity-maturity-model-certification-requirements/",
-    "date": "2026-07-13T22:30:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": ""
   }
 ]
