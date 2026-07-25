@@ -1,5 +1,15 @@
 [
   {
+    "id": "14a3dd09c7cf",
+    "title": "Boys Nation Delegates Visit Pentagon, Lay Wreath at 9/11 Memorial",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4555637/boys-nation-delegates-visit-pentagon-lay-wreath-at-911-memorial/",
+    "date": "2026-07-25T00:00:18Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": ""
+  },
+  {
     "id": "c96fb873cee5",
     "title": "Hormuz Transits Remain Low, Houthis Resume Attacks in Red Sea",
     "url": "https://news.usni.org/2026/07/24/hormuz-transits-remain-low-houthis-resume-attacks-in-red-sea",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "The following is the July 14, 2026, Congressional Research Service report, Japan’s Evolving Defense Policy and the U.S.-Japan Alliance. From the Report In 2026, Japanese Prime Minister Sanae Takaichi has been implementing major changes to Japan&#8217;s security policies, with important implications"
-  },
-  {
-    "id": "5762442bc5bb",
-    "title": "DHA Partners With Marines to Refine Portable TBI Assessment Technology for Austere Battlefield",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4545273/dha-partners-with-marines-to-refine-portable-tbi-assessment-technology-for-aust/",
-    "date": "2026-07-14T22:51:58Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": ""
   }
 ]
