@@ -1,5 +1,35 @@
 [
   {
+    "id": "6bedae76aa14",
+    "title": "USNI News Fleet and Marine Tracker: July 27, 2026",
+    "url": "https://news.usni.org/2026/07/27/usni-news-fleet-and-marine-tracker-july-27-2026",
+    "date": "2026-07-27T17:16:06Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of July 27, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
+  },
+  {
+    "id": "328595a27463",
+    "title": "Air Force Wing Enhances Readiness, Resilience During Exercise Beverly Sentinel",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4556252/air-force-wing-enhances-readiness-resilience-during-exercise-beverly-sentinel/",
+    "date": "2026-07-27T16:33:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": ""
+  },
+  {
+    "id": "c4d7b40d0b5c",
+    "title": "Soldiers, College Football Players Forge Teamwork in Hawaii",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4556248/soldiers-college-football-players-forge-teamwork-in-hawaii/",
+    "date": "2026-07-27T16:19:32Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": ""
+  },
+  {
     "id": "083b2b0f27fb",
     "title": "George Washington CSG in the South China Sea After Philippine-Chinese Clashes",
     "url": "https://news.usni.org/2026/07/27/george-washington-csg-in-the-south-china-sea-after-philippine-chinese-clashes",
@@ -23,7 +53,7 @@
     "id": "14a3dd09c7cf",
     "title": "Boys Nation Delegates Visit Pentagon, Lay Wreath at 9/11 Memorial",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4555637/boys-nation-delegates-visit-pentagon-lay-wreath-at-911-memorial/",
-    "date": "2026-07-25T00:00:18Z",
+    "date": "2026-07-25T00:00:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
@@ -564,36 +594,6 @@
     "title": "Hegseth Hosts Iraqi Prime Minister at Pentagon",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4545548/hegseth-hosts-iraqi-prime-minister-at-pentagon/",
     "date": "2026-07-16T11:30:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "80b259955d8c",
-    "title": "Blue Water Autonomy, Saildrone Sue Navy Over MUSV Rejection",
-    "url": "https://news.usni.org/2026/07/15/blue-water-autonomy-saildrone-sue-navy-over-musv-rejection",
-    "date": "2026-07-15T22:01:05Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Two companies that were passed over for the U.S. Navy’s Medium Unmanned Surface Vessel program are taking the service to court over the decision, USNI News has learned. Saildrone and Blue Water Autonomy filed suit in late June in the United States Court of Federal Claims in Washington, D.C., with tw"
-  },
-  {
-    "id": "14067f2a332c",
-    "title": "Cahill Takes Command of U.S. Naval Surface Force",
-    "url": "https://news.usni.org/2026/07/15/cahill-takes-command-of-u-s-naval-surface-force",
-    "date": "2026-07-15T20:44:34Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Vice Adm. Joe Cahill took over as the Navy’s top surface warfare officer earlier this month, USNI News has learned. Cahill, who most recently was the commander of Naval Surface Force Atlantic, took the helm of U.S. Naval Surface Force on July 3, according to a service news release. Cahill succeeds V"
-  },
-  {
-    "id": "da0d6345a1de",
-    "title": "U.S. Forces Continue Providing Disaster Relief Assistance in Venezuela",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4546192/us-forces-continue-providing-disaster-relief-assistance-in-venezuela/",
-    "date": "2026-07-15T18:38:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
