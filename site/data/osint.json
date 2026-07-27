@@ -1,5 +1,25 @@
 [
   {
+    "id": "083b2b0f27fb",
+    "title": "George Washington CSG in the South China Sea After Philippine-Chinese Clashes",
+    "url": "https://news.usni.org/2026/07/27/george-washington-csg-in-the-south-china-sea-after-philippine-chinese-clashes",
+    "date": "2026-07-27T15:10:24Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "MANILA, PHILIPPINES – The U.S. Navy’s only forward-deployed aircraft carrier is steaming in the South China Sea following clashes this month between China and the Philippines across several disputed maritime features. The George Washington Carrier Strike Group – led by USS George Washington (CVN-73)"
+  },
+  {
+    "id": "8ee90ef278ba",
+    "title": "U.K., Spanish Navy Forces Wrap NATO’s Latest Neptune Strike Exercise",
+    "url": "https://news.usni.org/2026/07/27/u-k-spanish-navy-forces-wrap-natos-latest-neptune-strike-exercise",
+    "date": "2026-07-27T14:24:48Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.K. Carrier Strike Group and the Spanish Navy Expeditionary Strike Group on Thursday concluded Neptune Strike 26-3, the latest NATO enhanced Vigilance Activity that spanned the High North and North Atlantic. Neptune Strike 26-3 involved the U.K. CSG and the Spanish Navy Expeditionary Combat Gro"
+  },
+  {
     "id": "14a3dd09c7cf",
     "title": "Boys Nation Delegates Visit Pentagon, Lay Wreath at 9/11 Memorial",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4555637/boys-nation-delegates-visit-pentagon-lay-wreath-at-911-memorial/",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": ""
-  },
-  {
-    "id": "5edf407f3c6b",
-    "title": "Taiwan Mobilizes HIMARS, Anti-ship Missiles For Major Defense Drill",
-    "url": "https://news.usni.org/2026/07/15/taiwan-mobilizes-himars-anti-ship-missiles-for-major-defense-drill",
-    "date": "2026-07-15T16:25:37Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Taiwan’s most capable missile launchers are being deployed across the island for a five-day defense drill designed to enhance joint operations and develop concepts for targeting enemy aircraft and vessels. Newly procured American M142 High Mobility Rocket Artillery Systems (HIMARS) and domestically-"
-  },
-  {
-    "id": "567b5f6cefe0",
-    "title": "Report to Congress on Japan’s Evolving Defense Policy and the U.S.-Japan Alliance",
-    "url": "https://news.usni.org/2026/07/15/report-to-congress-on-japans-evolving-defense-policy-and-the-u-s-japan-alliance",
-    "date": "2026-07-15T13:37:08Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the July 14, 2026, Congressional Research Service report, Japan’s Evolving Defense Policy and the U.S.-Japan Alliance. From the Report In 2026, Japanese Prime Minister Sanae Takaichi has been implementing major changes to Japan&#8217;s security policies, with important implications"
   }
 ]
