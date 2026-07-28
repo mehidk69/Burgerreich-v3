@@ -1,5 +1,65 @@
 [
   {
+    "id": "12fb03155cc9",
+    "title": "Inside the EOC during Coyote Storm 26.1",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4556990/inside-the-eoc-during-coyote-storm-261/",
+    "date": "2026-07-27T23:33:20Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "374d307bd0b0",
+    "title": "Inside the DFAC during Coyote Storm 26.1",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4556974/inside-the-dfac-during-coyote-storm-261/",
+    "date": "2026-07-27T23:19:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "39c862347254",
+    "title": "Search and recovery training during Coyote Storm 26.1",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4556966/search-and-recovery-training-during-coyote-storm-261/",
+    "date": "2026-07-27T23:06:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": ""
+  },
+  {
+    "id": "1c00ee79ca69",
+    "title": "Flightline training during Coyote Storm 26.1",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4556959/flightline-training-during-coyote-storm-261/",
+    "date": "2026-07-27T22:52:03Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": ""
+  },
+  {
+    "id": "8fe7b1418a23",
+    "title": "Hegseth Presents Mexican Border Defense Medal to Service Members",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4556429/hegseth-presents-mexican-border-defense-medal-to-service-members/",
+    "date": "2026-07-27T20:34:03Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "e1d5a8ac4bb2",
+    "title": "Navy Requires Flu Vaccine for New Recruits, Officer Candidates",
+    "url": "https://news.usni.org/2026/07/27/navy-requires-flu-vaccine-for-new-recruits-officer-candidates",
+    "date": "2026-07-27T20:06:12Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Some Navy personnel will still be required to get the influenza vaccine this fall, according to the sea service’s updated flu guidance. Recruits going to boot camp, sailors in Officer Candidate School and other officer accession programs, Naval Academy midshipmen and those in the academy preparatory"
+  },
+  {
     "id": "6bedae76aa14",
     "title": "USNI News Fleet and Marine Tracker: July 27, 2026",
     "url": "https://news.usni.org/2026/07/27/usni-news-fleet-and-marine-tracker-july-27-2026",
@@ -588,26 +648,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The following is the Department of the Navy’s Strategy to Weaponize Data and Artificial Intelligence, published June 15, 2026. From the Report This strategy, signed by Acting Secretary of the Navy Hung Cao, establishes the Department’s roadmap for building a data-ready, AI-enabled force capable of a"
-  },
-  {
-    "id": "99e7a3e0b661",
-    "title": "Trump Announces $10B Investment in Defense Industry",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4546926/trump-announces-10b-investment-in-defense-industry/",
-    "date": "2026-07-16T13:32:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "c0ff04cf0307",
-    "title": "Hegseth Hosts Iraqi Prime Minister at Pentagon",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4545548/hegseth-hosts-iraqi-prime-minister-at-pentagon/",
-    "date": "2026-07-16T11:30:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": ""
   },
   {
     "id": "c4883cbc4b69",
@@ -1453,46 +1493,6 @@
     "id": "157641d1b07e",
     "title": "Office of the Foreign Policy Advisor",
     "url": "https://www.africom.mil/about-the-command/directorates-and-staff/office-of-the-foreign-policy-advisor",
-    "date": "2026-04-09T01:11:50Z",
-    "source": "AFRICOM",
-    "cocom": "africom",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "4f7e245c2bed",
-    "title": "Office of the Legal Counsel",
-    "url": "https://www.africom.mil/about-the-command/directorates-and-staff/office-of-the-legal-counsel",
-    "date": "2026-04-09T01:11:50Z",
-    "source": "AFRICOM",
-    "cocom": "africom",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "8b825b2bf239",
-    "title": "Office of the Inspector General",
-    "url": "https://www.africom.mil/about-the-command/directorates-and-staff/office-of-the-inspector-general",
-    "date": "2026-04-09T01:11:50Z",
-    "source": "AFRICOM",
-    "cocom": "africom",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "59955ca33400",
-    "title": "Office of Public Affairs and Communication Synchronization",
-    "url": "https://www.africom.mil/about-the-command/directorates-and-staff/office-of-public-affairs-and-communication-synchronization",
-    "date": "2026-04-09T01:11:50Z",
-    "source": "AFRICOM",
-    "cocom": "africom",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "9e5a6de3c441",
-    "title": "Interagency Staff",
-    "url": "https://www.africom.mil/about-the-command/directorates-and-staff/interagency-staff",
     "date": "2026-04-09T01:11:50Z",
     "source": "AFRICOM",
     "cocom": "africom",
