@@ -1,5 +1,55 @@
 [
   {
+    "id": "2ee7f5788eb0",
+    "title": "More than 35 Experiments Test Unmanned Systems, Emerging Technologies During RIMPAC",
+    "url": "https://news.usni.org/2026/07/29/more-than-35-experiments-test-unmanned-systems-emerging-technologies-during-rimpac",
+    "date": "2026-07-29T18:16:28Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.S. and partner forces conducted more than 35 experiments to test unmanned systems and emerging technologies, pushing interoperability among nations to new limits during the biennial Rim of the Pacific Exercise. “These efforts help us understand how new capabilities fit into the fight and give oper"
+  },
+  {
+    "id": "b1b28110f45e",
+    "title": "U.S. Reveals Coast Guard Cooperation with Taiwan",
+    "url": "https://news.usni.org/2026/07/29/u-s-reveals-coast-guard-cooperation-with-taiwan",
+    "date": "2026-07-29T16:30:40Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.S. and Taiwanese officials revealed this week that a joint exercise was held at an unspecified time between their respective Coast Guard agencies. Media from the American Institute in Taiwan and the Ocean Affairs Council show the U.S. Coast Guard Cutter USS Midgett (WMSL 757) sailing alongside the"
+  },
+  {
+    "id": "b72e4289a591",
+    "title": "From the First Call to the Final Shot: Air Force Police Squadron Builds Combat-Ready Defenders",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4558613/from-the-first-call-to-the-final-shot-air-force-police-squadron-builds-combat-r/",
+    "date": "2026-07-29T15:54:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Airmen participated in a field training exercise in Germany to test their ability to maintain operational security and execute mission objectives under high-stress conditions."
+  },
+  {
+    "id": "44bbd9c2f08c",
+    "title": "Report to Congress on the U.S. Marine Corps Ground Combat Element 2040 Initiative",
+    "url": "https://news.usni.org/2026/07/29/report-to-congress-on-the-u-s-marine-corps-ground-combat-element-2040-initiative",
+    "date": "2026-07-29T14:34:50Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The following is the July 28, 2026, Congressional Research Service report, U.S. Marine Corps Ground Combat Element (GCE) 2040 Initiative. From the Report In March 2020, the U.S. Marine Corps announced a major force design initiative it referred to as &#8220;Force Design 2030,&#8221; now known as &#8"
+  },
+  {
+    "id": "785b11ba2588",
+    "title": "DIA Headquarters Auditorium Renamed for Intelligence Pioneer",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4553618/dia-headquarters-auditorium-renamed-for-intelligence-pioneer/",
+    "date": "2026-07-29T14:05:33Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Secretary of War Pete Hegseth met recently with intelligence community professionals at Defense Intelligence Agency headquarters to thank them for their work and honor one of the earliest members of the community."
+  },
+  {
     "id": "aae92709ae9b",
     "title": "Final Bill for Inactivating, Scrapping Carrier Enterprise Now at $1.3B",
     "url": "https://news.usni.org/2026/07/28/final-bill-for-inactivating-scrapping-carrier-enterprise-now-at-1-3b",
@@ -600,26 +650,6 @@
     "summary": "Retired Navy Capt. E. Royce Williams, the oldest living Medal of Honor recipient, returned to the base where he earned his gold wings, joining Naval Aviation Schools Command in congratulating 29 student naval aviators who completed their introductory flight evaluation training."
   },
   {
-    "id": "5f0cbf3664ce",
-    "title": "Spanish Navy to Lead NATO’s Atlantic Task Force Until June 2027",
-    "url": "https://news.usni.org/2026/07/17/spanish-navy-to-lead-natos-atlantic-task-force-until-june-2027",
-    "date": "2026-07-17T15:18:23Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Spanish Navy has assumed command of NATO’s naval force dedicated to patrolling the North Atlantic and will lead the force for the next year, NATO announced Tuesday. From July of 2026 to June of 2027, NATO’s Commander Task Force Atlantic (CTF-AT) will be led by five Spanish ships, the Spanish Mar"
-  },
-  {
-    "id": "0765b2bd2cad",
-    "title": "U.S. Air Force Increases Stealthy Cruise, Anti-ship Missile Production",
-    "url": "https://news.usni.org/2026/07/17/u-s-air-force-increases-stealthy-cruise-anti-ship-missile-production",
-    "date": "2026-07-17T13:49:01Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The U.S. Air Force will expand its procurement of stealthy air-launched cruise and anti-ship missiles, according to contract documents released Wednesday. Two contracts for the procurement of Lockheed Martin-designed AGM-158 Joint Air-to-Surface Standoff Missiles and AGM-158C Long-Range Anti-Ship Mi"
-  },
-  {
     "id": "5d6b7670d351",
     "title": "Col. Porter Immersion Tour",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4548359/col-porter-immersion-tour/",
@@ -628,36 +658,6 @@
     "cocom": "centcom",
     "tag": "alert",
     "summary": "U.S. Air Force Col. Kyle Porter, 355th Wing deputy commander, and aircrew assigned to the 492nd<br />\n<img alt=\"U.S. Air Force Col. Kyle Porter, 355th Wing deputy commander, and aircrew assigned to the 492nd Special Operations Wing approach an OA-1K Skyraider II aircraft at Davis-Monthan Air Force B"
-  },
-  {
-    "id": "b6c25f00a58a",
-    "title": "USS Fort Lauderdale Returns from 11-month Deployment to the Caribbean",
-    "url": "https://news.usni.org/2026/07/16/uss-fort-lauderdale-returns-from-11-month-deployment-to-the-caribbean",
-    "date": "2026-07-16T21:45:04Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Amphibious transport dock USS Fort Lauderdale (LPD-28) pulled into Naval Station Norfolk on Thursday, capping off a nearly year-long deployment in the Caribbean, the Navy announced. The ship originally deployed as part of the Iwo Jima Amphibious Ready Group and supported missions ranging from the ea"
-  },
-  {
-    "id": "22b26c71f78d",
-    "title": "Coast Guard Ends Middle East Mission, Moves Cutter Squadron to Western Pacific",
-    "url": "https://news.usni.org/2026/07/16/coast-guard-ends-middle-east-mission-moves-cutter-squadron-to-western-pacific",
-    "date": "2026-07-16T20:49:40Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The U.S. Coast Guard is transitioning its Patrol Forces Southwest Asia (PATFORSWA) to the Western Pacific, ending a more than 20-year forward-deployed mission in the Middle East. The Coast Guard’s Expeditionary Cutter Squadron that makes up PATFORSWA, which was previously forward deployed to Bahrain"
-  },
-  {
-    "id": "f105adec4e3a",
-    "title": "Wyoming Air Guardsmen Activate for Wildland Firefighting in Western U.S.",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4547749/wyoming-air-guardsmen-activate-for-wildland-firefighting-in-western-us/",
-    "date": "2026-07-16T20:00:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": ""
   },
   {
     "id": "c4883cbc4b69",
