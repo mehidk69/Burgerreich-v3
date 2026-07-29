@@ -1,5 +1,25 @@
 [
   {
+    "id": "aae92709ae9b",
+    "title": "Final Bill for Inactivating, Scrapping Carrier Enterprise Now at $1.3B",
+    "url": "https://news.usni.org/2026/07/28/final-bill-for-inactivating-scrapping-carrier-enterprise-now-at-1-3b",
+    "date": "2026-07-28T21:25:27Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Scrapping “Big E” is costing big bucks. Recycling the Navy’s first nuclear aircraft carrier has cost the branch about $1.3 billion since the former USS Enterprise (CVN-65) was removed from active service in 2012. Earlier this month, NorthStar Maritime Dismantlement Services was awarded a $418.5 mill"
+  },
+  {
+    "id": "3cc27c9cc702",
+    "title": "DM Airmen Participate in Coyote Storm 26.1 to Reinforce AEW 2.0 Concepts",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4558005/dm-airmen-participate-in-coyote-storm-261-to-reinforce-aew-20-concepts/",
+    "date": "2026-07-28T20:56:47Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "U.S. Air Force Airmen from the 355th Wing strengthened their ability to operate in a contested environment during Coyote Storm 26.1, a training exercise focused on improving teamwork, flexibility and readiness through the Air Expeditionary Wing 2.0 concept at Tyndall Air Force Base, Florida, July 20"
+  },
+  {
     "id": "a2a6b40ded98",
     "title": "U.S. to Fund Philippine Coast Guard Base Expansion Near South China Sea",
     "url": "https://news.usni.org/2026/07/28/u-s-to-fund-philippine-coast-guard-base-expansion-near-south-china-sea",
@@ -634,16 +654,6 @@
     "title": "Wyoming Air Guardsmen Activate for Wildland Firefighting in Western U.S.",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4547749/wyoming-air-guardsmen-activate-for-wildland-firefighting-in-western-us/",
     "date": "2026-07-16T20:00:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "942c78fae90c",
-    "title": "AI-Powered Chatbot Helps Streamline Recruiting",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4547957/ai-powered-chatbot-helps-streamline-recruiting/",
-    "date": "2026-07-16T19:38:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
@@ -1483,16 +1493,6 @@
     "id": "5f76ea93556b",
     "title": "Office of the Command Surgeon",
     "url": "https://www.africom.mil/about-the-command/directorates-and-staff/office-of-the-command-surgeon",
-    "date": "2026-04-09T01:11:50Z",
-    "source": "AFRICOM",
-    "cocom": "africom",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "157641d1b07e",
-    "title": "Office of the Foreign Policy Advisor",
-    "url": "https://www.africom.mil/about-the-command/directorates-and-staff/office-of-the-foreign-policy-advisor",
     "date": "2026-04-09T01:11:50Z",
     "source": "AFRICOM",
     "cocom": "africom",
