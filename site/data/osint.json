@@ -1,5 +1,15 @@
 [
   {
+    "id": "34059dc4cede",
+    "title": "Vice Chairman Presents Purple Heart to Service Members Injured in Operation Iraqi Freedom Grenade Attack",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4559355/vice-chairman-presents-purple-heart-to-service-members-injured-in-operation-ira/",
+    "date": "2026-07-29T22:42:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Marine Corps Gen. Christopher J. Mahoney, vice chairman of the Joint Chiefs of Staff, presented the Purple Heart to six service members — four of them retired, one on active duty and one receiving it posthumously — during a ceremony in the Pentagon's Hall of Heroes."
+  },
+  {
     "id": "9568a78fc140",
     "title": "Vice Joint Chiefs Chairman Presents Purple Heart to Recipients of 2003 Operation Iraqi Freedom Grenade Attack",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4559355/vice-joint-chiefs-chairman-presents-purple-heart-to-recipients-of-2003-operatio/",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Hanwha Philly Shipyard will build a new missile-range instrumentation vessel for the U.S. Navy that will support the Trump administration&#8217;s Golden Dome effort, White House Office of Management and Budget Director Russ Vought announced Friday. Dubbed the “Golden Defender,” the ship is based on"
-  },
-  {
-    "id": "fba4c9367f50",
-    "title": "USNI News Western Pacific Pulse: July 17, 2026",
-    "url": "https://news.usni.org/2026/07/17/usni-news-western-pacific-pulse-july-17-2026",
-    "date": "2026-07-17T19:33:59Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Hawaii The U.S. Navy-led Rim of the Pacific (RIMPAC) 2026 exercise is currently in its at-sea phase. The exercise began June 24 and runs through July 31 and is taking place at installations"
   }
 ]
