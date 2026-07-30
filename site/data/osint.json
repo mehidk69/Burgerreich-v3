@@ -1,5 +1,15 @@
 [
   {
+    "id": "36e4b2d4f0fb",
+    "title": "USS George Washington Arrives in Da Nang, First Carrier Visit to Vietnam since 2023",
+    "url": "https://news.usni.org/2026/07/30/uss-george-washington-arrives-in-da-nang-first-carrier-visit-to-vietnam-since-2023",
+    "date": "2026-07-30T10:51:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Aircraft carrier USS George Washington (CVN 73) pulled into Da Nang today for a scheduled port visit, marking the first American aircraft carrier to Vietnam since 2023. George Washington and its two escorts &#8211; Ticonderoga-class cruiser USS Robert Smalls (CG-62) and Arleigh Burke-class destroyer"
+  },
+  {
     "id": "34059dc4cede",
     "title": "Vice Chairman Presents Purple Heart to Service Members Injured in Operation Iraqi Freedom Grenade Attack",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4559355/vice-chairman-presents-purple-heart-to-service-members-injured-in-operation-ira/",
@@ -33,7 +43,7 @@
     "id": "4685c58686b3",
     "title": "Fort Rucker's Unmanned Advanced Lethality Course Ramps Up Tactical Drone Training",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4559199/fort-ruckers-unmanned-advanced-lethality-course-ramps-up-tactical-drone-training/",
-    "date": "2026-07-29T20:47:50Z",
+    "date": "2026-07-29T20:47:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "air",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "ABOARD FLEET OILER USNS KANAWHA — In a ceremony overseen by the highest-ranking admiral in Norfolk, the crew members of a 35-year-old fleet oiler were honored for excelling at a mission they were never supposed to be on. U.S. Fleet Forces commander Adm. Karl Thomas presented the Presidential Unit Ci"
-  },
-  {
-    "id": "3271ac7f6000",
-    "title": "Philly Shipyard to Build ‘Golden Defender’ Ship as part of New Missile Defense Program",
-    "url": "https://news.usni.org/2026/07/17/philly-shipyard-to-build-golden-defender-ship-as-part-of-new-missile-defense-program",
-    "date": "2026-07-17T20:41:34Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Hanwha Philly Shipyard will build a new missile-range instrumentation vessel for the U.S. Navy that will support the Trump administration&#8217;s Golden Dome effort, White House Office of Management and Budget Director Russ Vought announced Friday. Dubbed the “Golden Defender,” the ship is based on"
   }
 ]
