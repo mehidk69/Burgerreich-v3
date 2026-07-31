@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "dc9d2b0e73b5",
+      "type": "F-35 Lightning II",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-07-31T18:48:17Z",
+      "headline": "BREAKING: F-35B Crashes Near Marine Corps Air Station Miramar",
+      "context": "BREAKING: F-35B Crashes Near Marine Corps Air Station Miramar A Marine Corps F-35B Joint Strike Fighter Lightning II crashed near Marine Corps Air Station Miram",
+      "url": "https://news.usni.org/2026/07/31/breaking-f-35b-crashes-near-marine-corps-air-station-miramar"
+    },
+    {
       "id": "c84d1956ef43",
       "type": "Littoral Combat Ship",
       "qty": 1,
@@ -201,5 +211,5 @@
       "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
     }
   ],
-  "updated": "2026-07-31T13:30:32Z"
+  "updated": "2026-07-31T19:07:59Z"
 }

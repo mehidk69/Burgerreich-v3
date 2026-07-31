@@ -1,9 +1,59 @@
 [
   {
+    "id": "dc8b77cfd816",
+    "title": "BREAKING: F-35B Crashes Near Marine Corps Air Station Miramar",
+    "url": "https://news.usni.org/2026/07/31/breaking-f-35b-crashes-near-marine-corps-air-station-miramar",
+    "date": "2026-07-31T18:48:17Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "A Marine Corps F-35B Joint Strike Fighter Lightning II crashed near Marine Corps Air Station Miramar in California on Friday, a service spokesperson confirmed to USNI News. The pilot ejected from the jet and is on their way to a hospital. “We can confirm a mishap involving a Marine Corps F-35B in th"
+  },
+  {
+    "id": "92894863d461",
+    "title": "USNI News Western Pacific Pulse: July 31, 2026",
+    "url": "https://news.usni.org/2026/07/31/usni-news-western-pacific-pulse-july-31-2026",
+    "date": "2026-07-31T16:59:54Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Hawaii The Rim of the Pacific (RIMPAC) 2026 exercise in Hawaii closed on Friday after more than a month of drills. Forces from 30 nations, comprising 30,000 personnel, 31 surface ships,"
+  },
+  {
+    "id": "a193aeeee36b",
+    "title": "USS Minnesota Completes First Forward-Deployment",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4561139/uss-minnesota-completes-first-forward-deployment/",
+    "date": "2026-07-31T16:37:54Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The submarine USS Minnesota returned to its home port at Naval Base Guam after completing its first deployment since becoming the Navy's first forward-deployed submarine."
+  },
+  {
+    "id": "dee3a84d5619",
+    "title": "Oregon Guard Aircrews Support State Wildfire Response",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4561168/oregon-guard-aircrews-support-state-wildfire-response/",
+    "date": "2026-07-31T16:16:47Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Oregon Army National Guard members began water bucket operations in support of wildland firefighting efforts in Umatilla County, part of a broader National Guard response to the state's wildfire season."
+  },
+  {
+    "id": "0d2c5c292bd2",
+    "title": "Chinese Navy Showcases Hypersonic Anti-ship Capability Aboard Destroyers",
+    "url": "https://news.usni.org/2026/07/31/chinese-navy-showcases-hypersonic-anti-ship-capability-aboard-destroyers",
+    "date": "2026-07-31T14:37:48Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The Chinese Navy’s most numerous class of guided-missile destroyers can launch long-range hypersonic anti-ship missiles, state military media announced this week. A trailer released on Wednesday for a docuseries showcased the launch of a YJ-20 hypersonic anti-ship missile from a People’s Liberation"
+  },
+  {
     "id": "c7b3a9c51ad6",
     "title": "Freedom Haulers Initiative to Help Veterans Get Commercial Driver's Licenses, Better Jobs",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4560661/freedom-haulers-initiative-to-help-veterans-get-commercial-drivers-licenses-bet/",
-    "date": "2026-07-30T23:03:22Z",
+    "date": "2026-07-30T23:03:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "general",
@@ -610,56 +660,6 @@
     "summary": "Every summer, the U.S. Air Force Academy in Colorado Springs, Colo., introduces its newest basic cadets to military life through basic cadet training."
   },
   {
-    "id": "ed0221fe9e1e",
-    "title": "Army Contracting Support Enables Marine Operations Along Southern Border",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4551425/army-contracting-support-enables-marine-operations-along-southern-border/",
-    "date": "2026-07-21T20:07:17Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Army contracting support is essential for the Marine Corps' mission at the U.S. southern border. By walking the ground alongside the warfighters, the contracting team is better positioned to deliver the right capabilities, at the right time, in the right place."
-  },
-  {
-    "id": "a306512115cb",
-    "title": "Multinational Crews Fly on U.S. Navy Poseidons for RIMPAC",
-    "url": "https://news.usni.org/2026/07/21/multinational-crews-fly-on-u-s-navy-poseidons-for-rimpac",
-    "date": "2026-07-21T18:38:33Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Multinational crews are flying on U.S. Navy P-8A Poseidon Maritime Patrol Aircraft for first time during Rim of the Pacific 2026 exercise. U.S. Navy P-8As from the “Fighting Tigers” of Patrol and Reconnaissance Squadron (VP) 8 and the “Golden Eagles” of VP-9 are operating alongside a Japan Maritime"
-  },
-  {
-    "id": "4a9d75c4d994",
-    "title": "Multinational Crews Fly on U.S. Navy Poseidon’s for RIMPAC",
-    "url": "https://news.usni.org/2026/07/21/multinational-crews-fly-on-u-s-navy-poseidons-for-rimpac",
-    "date": "2026-07-21T18:38:33Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Multinational crews are flying on U.S. Navy P-8A Poseidon Maritime Patrol Aircraft for first time during Rim of the Pacific 2026 exercise. U.S. Navy P-8As from the “Fighting Tigers” of Patrol and Reconnaissance Squadron (VP) 8 and the “Golden Eagles” of VP-9 are operating alongside a Japan Maritime"
-  },
-  {
-    "id": "60be72fd2565",
-    "title": "OMB Wants Battleship, Aircraft Carrier Funding Anomalies in Latest Continuing Resolution Proposal",
-    "url": "https://news.usni.org/2026/07/21/omb-wants-battleship-aircraft-carrier-funding-anomalies-in-latest-continuing-resolution-proposal",
-    "date": "2026-07-21T17:29:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Office of Management and Budget wants Congress to allow the Navy to start work on the Trump-class battleship program, buy more on critical munitions and fund long lead materials for future aircraft carrier William J. Clinton (CVN-82) in response to a House Continuing Resolution proposal to keep"
-  },
-  {
-    "id": "71ed3a694f2b",
-    "title": "New York Guardsmen, Greenland Airports Partner to Improve Lodging Facility",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4551325/new-york-guardsmen-greenland-airports-partner-to-improve-lodging-facility/",
-    "date": "2026-07-21T16:41:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The New York Air National Guard, New York Army National Guard and Greenland Airports are working together to improve living conditions for airmen by repairing a long-standing roof issue at a lodging facility in Kangerlussuaq, Greenland."
-  },
-  {
     "id": "5d6b7670d351",
     "title": "Col. Porter Immersion Tour",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4548359/col-porter-immersion-tour/",
@@ -856,8 +856,8 @@
     "date": "2026-05-14T21:01:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "posture",
+    "summary": "U.S. Air Force Col. Charles Redmond, 355th Wing deputy commander, sits in a bath of green water at<br />\n<img alt=\"U.S. Air Force Col. Charles Redmond, 355th Wing deputy commander, sits in a bath of green water at Davis-Monthan Air Force Base, Arizona, May 12, 2026. Redmond was dunked in a bath of g"
   },
   {
     "id": "c6ebe423a253",
@@ -866,8 +866,8 @@
     "date": "2026-05-14T04:46:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "posture",
+    "summary": "Airmen with the 355th Wing tested their ability to deploy as a cohesive, self-sustaining combat force under the Air Expeditionary Wing 2.0 model during the Mosaic Lightning 26-2 exercise at Davis-Monthan Air Force Base, Arizona, May 7-15.\n\n<br />\n<img alt=\"Mosaic Lightning 26-2 Concrete Pour\" src=\"h"
   },
   {
     "id": "aa5fd8033a14",
@@ -876,8 +876,8 @@
     "date": "2026-05-13T23:19:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "exercise",
+    "summary": "Airmen assigned to the 355th Security Forces Squadron and 355 Civil Engineer Squadron explosive ordnance disposal flight respond to a reported abandoned vehicle during Mosaic Lightning 26-2 at Davis-Monthan Air Force Base, Arizona, May 8, 2026. <br />\n<img alt=\"A T7 robotic platform is utilized to r"
   },
   {
     "id": "89dbd4ff1815",
@@ -886,8 +886,8 @@
     "date": "2026-05-13T16:43:29Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "naval",
+    "summary": "355th Wing leadership attend the 355th Maintenance Group change of command ceremony at Davis-Monthan Air Force Base, Arizona, May 8, 2026. Change of command ceremonies symbolize the formal transfer of authority, responsibility and accountability from one commander to another. <br />\n<img alt=\"355th"
   },
   {
     "id": "9fe79dbe1541",
@@ -897,7 +897,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "air",
-    "summary": ""
+    "summary": "From the high-desert heat of Twentynine Palms to the maritime environment of San Clemente Island, the “Dragons” of the 357th Fighter Squadron recently pushed the A-10C Thunderbolt II aircraft to its limits during a high-intensity, two-week temporary duty (TDY) assignment.<br />\n<img alt=\"357th Fight"
   },
   {
     "id": "c00f4a3d8256",
@@ -906,8 +906,8 @@
     "date": "2026-05-11T17:00:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "exercise",
-    "summary": ""
+    "tag": "air",
+    "summary": "355th Wing Drone Innovation Cell Airmen conducted a small unmanned aircraft system exercise that simulated a chemical, biological, radiological and nuclear (CBRN) attack on a military installation during Mosaic Lightning 26-2 at Davis-Monthan Air Force Base, May 8, 2026.<br />\n<img alt=\"CBRN sUAS ex"
   },
   {
     "id": "666220536fba",
