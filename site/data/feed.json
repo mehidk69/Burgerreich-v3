@@ -1,5 +1,25 @@
 [
   {
+    "id": "c7b3a9c51ad6",
+    "title": "Freedom Haulers Initiative to Help Veterans Get Commercial Driver's Licenses, Better Jobs",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4560661/freedom-haulers-initiative-to-help-veterans-get-commercial-drivers-licenses-bet/",
+    "date": "2026-07-30T23:03:22Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "President Donald J. Trump announced the kickoff of the Freedom Haulers campaign, a new effort to help military veterans find good-paying jobs as commercial drivers following their military service by establishing a military-to-commercial driver's license pipeline."
+  },
+  {
+    "id": "2d3c761fa51c",
+    "title": "USS Georgia Completes Final Patrol Ahead of Inactivation, LCS Fort Worth Decommissions",
+    "url": "https://news.usni.org/2026/07/30/uss-georgia-completes-final-patrol-ahead-of-inactivation-lcs-fort-worth-decommissions",
+    "date": "2026-07-30T19:42:36Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Two warships have ended their service with the Navy this week, a 42-year-old nuclear guided-missile submarine and one of the first Littoral Combat Ships, the service announced. USS Georgia (SSGN-729) returned Monday from its final deployment to Submarine Base Kings Bay, Ga., and is set to leave the"
+  },
+  {
     "id": "7276c89af376",
     "title": "Japanese Destroyer Launches Tomahawk for the First Time in Drill with U.S. Navy",
     "url": "https://news.usni.org/2026/07/30/japanese-destroyer-launches-tomahawk-for-the-first-time-in-drill-with-u-s-navy",
@@ -8,6 +28,36 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "Japanese destroyer JS Chokai (DDG-176) launched a Tomahawk cruise missile for the first time on Wednesday, a major milestone as the archipelago country’s military works alongside the U.S. Navy to expand its capabilities. Chokai conducted a live-fire test of a Tomahawk missile in the Pacific Ocean on"
+  },
+  {
+    "id": "860207119ee2",
+    "title": "Walter Reed's Skull Base Team Performs Innovative Brain Surgery",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4560184/walter-reeds-skull-base-team-performs-innovative-brain-surgery/",
+    "date": "2026-07-30T18:26:52Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Surgeons at Walter Reed National Military Medical Center recently removed a Marine's massive brain tumor through his nose and reconstructed his skull base. Two days later, there were no visible signs that Marine Corps Staff Sgt. Andy Archer had undergone major brain surgery and his vision had starte"
+  },
+  {
+    "id": "5e88b3b31692",
+    "title": "U.S., U.K. Air Forces Conduct Fighter Weapons Certification During Exercise Combat Archer",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4560115/us-uk-air-forces-conduct-fighter-weapons-certification-during-exercise-combat-a/",
+    "date": "2026-07-30T17:59:38Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "U.S. Air Force units stationed in England achieved combat certifications after completing two weeks of high-end, tactical air and missile training during Exercise Combat Archer U.K. 26."
+  },
+  {
+    "id": "3adf70cbaf70",
+    "title": "Army Chaplain Corps Celebrates 251 Years",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4560080/army-chaplain-corps-celebrates-251-years/",
+    "date": "2026-07-30T17:56:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "For 251 years, the Army Chaplain Corps provided faith-based, intentional support aimed at serving each soldier wholly, helping them find strength during difficult circumstances, build resilience for the challenges of battle and prepare to thrive in life beyond military service."
   },
   {
     "id": "573121dad1b5",
@@ -610,64 +660,14 @@
     "summary": "The New York Air National Guard, New York Army National Guard and Greenland Airports are working together to improve living conditions for airmen by repairing a long-standing roof issue at a lodging facility in Kangerlussuaq, Greenland."
   },
   {
-    "id": "9f5cad4248b0",
-    "title": "Taiwan President Pushes $6.6B Attack Drone Plan",
-    "url": "https://news.usni.org/2026/07/21/taiwan-president-pushes-6-6b-attack-drone-plan",
-    "date": "2026-07-21T15:34:25Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Taiwan President Lai Ching-te reviewed domestic drone industrial efforts last week ahead of his administration’s push for a $6.6 billion attack drone plan to enhance the island’s defense against Chinese aggression. On Friday, Lai and members of the Taiwan Cabinet visited the National Chung-Shan Inst"
-  },
-  {
-    "id": "a5e89fbfb412",
-    "title": "GAO Report on Hypersonic Missiles on Navy Warships",
-    "url": "https://news.usni.org/2026/07/21/gao-report-on-hypersonic-missiles-on-navy-warships",
-    "date": "2026-07-21T15:13:13Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is the July 17, 2026, Government Accountability Office report, Navy Ship Modernization: DoD Needs Comprehensive Strategy to Field Hypersonic Missile Capability. From the report What GAO Found The Navy is currently 24 months behind in its efforts to modernize three DDG 1000 Zumwalt-clas"
-  },
-  {
-    "id": "19eae2245821",
-    "title": "USNI News Fleet and Marine Tracker: July 20, 2026",
-    "url": "https://news.usni.org/2026/07/20/usni-news-fleet-and-marine-tracker-july-20-2026",
-    "date": "2026-07-20T19:35:42Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of July 20, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
-  },
-  {
-    "id": "4feb3b5c7613",
-    "title": "Minnesota National Guard, Croatia Celebrate 30 Years of Partnership",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4550271/minnesota-national-guard-croatia-celebrate-30-years-of-partnership/",
-    "date": "2026-07-20T18:01:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Minnesota and Croatia celebrated the 30th anniversary of their partnership through the National Guard Bureau's State Partnership Program during Exercise Combat Power 26, near Slunj, Croatia."
-  },
-  {
-    "id": "65c3cb4b9e53",
-    "title": "Coast Guard Monitors Chinese Vessels in the Arctic",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4550235/coast-guard-monitors-chinese-vessels-in-the-arctic/",
-    "date": "2026-07-20T17:29:45Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Coast Guard recently monitored two Chinese research ships as they transited north through the U.S. exclusive economic zone and over the U.S. extended continental shelf in the Bering Sea."
-  },
-  {
     "id": "5d6b7670d351",
     "title": "Col. Porter Immersion Tour",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4548359/col-porter-immersion-tour/",
     "date": "2026-07-16T23:15:09Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "alert",
+    "summary": "U.S. Air Force Col. Kyle Porter, 355th Wing deputy commander, and aircrew assigned to the 492nd<br />\n<img alt=\"U.S. Air Force Col. Kyle Porter, 355th Wing deputy commander, and aircrew assigned to the 492nd Special Operations Wing approach an OA-1K Skyraider II aircraft at Davis-Monthan Air Force B"
   },
   {
     "id": "c4883cbc4b69",
@@ -677,7 +677,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
-    "summary": ""
+    "summary": "Recognizing that the return from a deployment is just the beginning of a new mission, Air Combat Command is introducing a comprehensive framework to strengthen home station reintegration.<br />\n<img alt=\"The ACC Shield.\" src=\"https://media.defense.gov/2025/Apr/11/2003959494/150/150/0/250411-F-DP387-"
   },
   {
     "id": "7dfd235ca354",
@@ -686,8 +686,8 @@
     "date": "2026-07-02T18:20:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "posture",
+    "summary": "A Military Affairs Committee member, hands shaved ice to an Airman at Davis-Monthan Air Force Base,<br />\n<img alt=\"A DM50 member, hands shaved ice to an Airman at Davis-Monthan Air Force Base, Arizona, July 2, 2026. DM50, the Military Affairs Committee and base first sergeants aimed to boost morale"
   },
   {
     "id": "4f243f21e29b",
@@ -697,7 +697,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "general",
-    "summary": ""
+    "summary": "Chief Master Sgt. Danielle Spurlock competed in the Department of Defense Warrior Games after being diagnosed with a rare cancer. <br />\n<img alt=\"Chief Master Sgt. Danielle Spurlock rides a recumbent bike.\" src=\"https://media.defense.gov/2026/Jun/29/2003955520/150/150/0/260629-F-UE447-1007.JPG\" />"
   },
   {
     "id": "2d38d2d3d4bd",
@@ -706,8 +706,8 @@
     "date": "2026-06-26T19:06:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "naval",
+    "summary": "The desert air carried something heavier than heat on the morning of June 25, 2026. As the A-10C Thunderbolt II made one of its final passes over the Barry M. Goldwater Range near Gila Bend, Arizona, Airmen assigned to the 355th Wing, community members, and civic leaders gathered to witness the fami"
   },
   {
     "id": "01cabc1d7eac",
@@ -716,8 +716,8 @@
     "date": "2026-06-18T18:35:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "posture",
+    "summary": "Airmen at Davis-Monthan Air Force Base are encouraged to remain weather-aware and prepared as Arizona’s monsoon season brings rapidly changing and potentially hazardous conditions.<br />\n<img alt=\"U.S. Air Force graphic depicting Monsoon Safety kit essentials. Davis-Monthan Air Force base is remindi"
   },
   {
     "id": "c36bd9afa0b8",
@@ -726,8 +726,8 @@
     "date": "2026-06-18T16:10:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "exercise",
+    "summary": "Air Force Special Warfare recruiters partnered with the 306th Rescue Squadron to host a Pararescue Immersion Day  providing prospective candidates an opportunity to experience the demands and mission of the career field firsthand at Davis-Monthan Air Force Base, Arizona, June 15th, 2026.<br />\n<img"
   },
   {
     "id": "0c0b4c0f10b5",
@@ -737,7 +737,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "general",
-    "summary": ""
+    "summary": "Airmen from the 355th Wing Safety Office, 355th Civil Engineer Squadron Pest Management and a volunteer beekeeper partnered to safely remove and relocate an Africanized bee colony discovered beneath a toddler playground June 15, 2026.<br />\n<img alt=\"DM Airmen partner to safely relocate an Africaniz"
   },
   {
     "id": "af7f8c911a31",
@@ -747,7 +747,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "exercise",
-    "summary": ""
+    "summary": "As temperatures across the installation regularly exceed 100 degrees Fahrenheit during the summer months, health officials at Davis-Monthan are reinforcing a foundational aspect of Airman readiness: proper nutrition and hydration.<br />\n<img alt=\"U.S. Air Force 1st Lt. Kevin Liu, financial operation"
   },
   {
     "id": "89be6dced38d",
@@ -756,8 +756,8 @@
     "date": "2026-06-16T19:03:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "exercise",
-    "summary": ""
+    "tag": "air",
+    "summary": "In a remarkable display of rapid response and seamless coordination, Airmen from the 355th Aircraft Maintenance Squadron and the 34th Weapons Squadron teamed up to rescue an F-35 Lightning II pilot who ejected during a training mission near Creech Air Force Base, Nevada, March 31.<br />\n<img alt=\"A"
   },
   {
     "id": "102eca3509b2",
@@ -766,8 +766,8 @@
     "date": "2026-06-15T23:36:03Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "naval",
+    "summary": "Fireworks burst over Freedom Fest at Davis-Monthan Air Force Base, Arizona, June 12, 2026. Freedom<br />\n<img alt=\"Fireworks burst over Freedom Fest at Davis-Monthan Air Force Base, Arizona, June 12, 2026. Freedom Fest brought together members of Team Davis-Monthan for an evening dedicated to commun"
   },
   {
     "id": "c07ba523bd0c",
@@ -776,8 +776,8 @@
     "date": "2026-06-10T22:30:27Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "posture",
+    "summary": "Davis-Monthan Fire Department personnel and base lifeguards trained together at the base pool to strengthen water emergency response, improve coordination and encourage families to practice water safety before the summer swimming season.<br />\n<img alt=\"Emergency personnel at Davis-Monthan train in"
   },
   {
     "id": "1a13a68a5a9d",
@@ -786,8 +786,8 @@
     "date": "2026-06-09T15:58:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "posture",
+    "summary": "More than 300 Airmen, veterans and members of the rescue community gathered at Davis-Monthan Air Force Base, June 5, 2026 to honor the legacy of Pedro 66, a crew of rescue Airmen whose sacrifice continues to shape generations of combat rescue professionals.<br />\n<img alt=\"Pedro 66 memorial honors f"
   },
   {
     "id": "de95c4c3a577",
@@ -797,7 +797,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "exercise",
-    "summary": ""
+    "summary": "Physically demanding scenarios helped EOD Airmen build the endurance, teamwork, and decision-making skills necessary to execute missions and recover personnel under challenging conditions.<br />\n<img alt=\"Explosive Ordnance Disposal field training exercise\" src=\"https://media.defense.gov/2026/Jun/04"
   },
   {
     "id": "d63fb48ffaab",
@@ -806,8 +806,8 @@
     "date": "2026-05-27T23:10:49Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "air",
+    "summary": "Airmen at Davis-Monthan Air Force Base recently completed their final A-10 Thunderbolt II engine build, marking the end of a proud 50-year legacy of maintaining the iconic close-air-support aircraft as the base transitions to future missions.<br />\n<img alt=\"Airmen perform maintenance on a A-10 engi"
   },
   {
     "id": "a2b92e197aae",
@@ -816,8 +816,8 @@
     "date": "2026-05-27T19:55:58Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "posture",
+    "summary": "U.S. Air Force Tech. Sgt. Marc Rouisse Quijano, 355th Security Forces Squadron flight sergeant,<br />\n<img alt=\"U.S. Air Force Tech. Sgt. Marc Rouisse Quijano, 355th Security Forces Squadron flight sergeant, reads the names of fallen defenders during the Final Guard Mount ceremony at Davis-Monthan A"
   },
   {
     "id": "a48977378ce9",
@@ -826,8 +826,8 @@
     "date": "2026-05-20T15:20:13Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "posture",
+    "summary": "Every year, Airmen across Davis-Monthan Air Force Base observe Police Week, a weeklong observance that pays tribute to the sacrifice, strength and unwavering commitment of Security Forces members and law enforcement personnel. To kick off this year's event, Airmen from the 355th Security Forces Squa"
   },
   {
     "id": "66c51f40bd16",
@@ -836,8 +836,8 @@
     "date": "2026-05-20T02:05:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "general",
-    "summary": ""
+    "tag": "posture",
+    "summary": "Two airmen from Davis-Monthan Air Force Base are finalists in the inaugural Financial Management Innovation Rodeo for their \"Lightning FM\" platform, a digital tool designed to streamline and standardize the Air Force's purchase request process.<br />\n<img alt=\"Chief Master Sgt. Leah Anderson, Financ"
   },
   {
     "id": "4919934535c7",
@@ -847,7 +847,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "exercise",
-    "summary": ""
+    "summary": "U.S. Airmen across Davis-Monthan Air Force Base installation enhanced mission readiness through Chemical, Biological, Radiological, Nuclear, Explosives (CBRNE) response training during some of the most complex contingency scenarios featured in exercise Mosaic Lightning 26-2, May 7-15, 2026.<br />\n<i"
   },
   {
     "id": "96f775b4269d",

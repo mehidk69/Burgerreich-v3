@@ -1,5 +1,25 @@
 [
   {
+    "id": "c7b3a9c51ad6",
+    "title": "Freedom Haulers Initiative to Help Veterans Get Commercial Driver's Licenses, Better Jobs",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4560661/freedom-haulers-initiative-to-help-veterans-get-commercial-drivers-licenses-bet/",
+    "date": "2026-07-30T23:03:22Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "President Donald J. Trump announced the kickoff of the Freedom Haulers campaign, a new effort to help military veterans find good-paying jobs as commercial drivers following their military service by establishing a military-to-commercial driver's license pipeline."
+  },
+  {
+    "id": "2d3c761fa51c",
+    "title": "USS Georgia Completes Final Patrol Ahead of Inactivation, LCS Fort Worth Decommissions",
+    "url": "https://news.usni.org/2026/07/30/uss-georgia-completes-final-patrol-ahead-of-inactivation-lcs-fort-worth-decommissions",
+    "date": "2026-07-30T19:42:36Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Two warships have ended their service with the Navy this week, a 42-year-old nuclear guided-missile submarine and one of the first Littoral Combat Ships, the service announced. USS Georgia (SSGN-729) returned Monday from its final deployment to Submarine Base Kings Bay, Ga., and is set to leave the"
+  },
+  {
     "id": "7276c89af376",
     "title": "Japanese Destroyer Launches Tomahawk for the First Time in Drill with U.S. Navy",
     "url": "https://news.usni.org/2026/07/30/japanese-destroyer-launches-tomahawk-for-the-first-time-in-drill-with-u-s-navy",
@@ -8,6 +28,36 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "Japanese destroyer JS Chokai (DDG-176) launched a Tomahawk cruise missile for the first time on Wednesday, a major milestone as the archipelago country’s military works alongside the U.S. Navy to expand its capabilities. Chokai conducted a live-fire test of a Tomahawk missile in the Pacific Ocean on"
+  },
+  {
+    "id": "860207119ee2",
+    "title": "Walter Reed's Skull Base Team Performs Innovative Brain Surgery",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4560184/walter-reeds-skull-base-team-performs-innovative-brain-surgery/",
+    "date": "2026-07-30T18:26:52Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Surgeons at Walter Reed National Military Medical Center recently removed a Marine's massive brain tumor through his nose and reconstructed his skull base. Two days later, there were no visible signs that Marine Corps Staff Sgt. Andy Archer had undergone major brain surgery and his vision had starte"
+  },
+  {
+    "id": "5e88b3b31692",
+    "title": "U.S., U.K. Air Forces Conduct Fighter Weapons Certification During Exercise Combat Archer",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4560115/us-uk-air-forces-conduct-fighter-weapons-certification-during-exercise-combat-a/",
+    "date": "2026-07-30T17:59:38Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "U.S. Air Force units stationed in England achieved combat certifications after completing two weeks of high-end, tactical air and missile training during Exercise Combat Archer U.K. 26."
+  },
+  {
+    "id": "3adf70cbaf70",
+    "title": "Army Chaplain Corps Celebrates 251 Years",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4560080/army-chaplain-corps-celebrates-251-years/",
+    "date": "2026-07-30T17:56:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "For 251 years, the Army Chaplain Corps provided faith-based, intentional support aimed at serving each soldier wholly, helping them find strength during difficult circumstances, build resilience for the challenges of battle and prepare to thrive in life beyond military service."
   },
   {
     "id": "573121dad1b5",
@@ -548,55 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "The New York Air National Guard, New York Army National Guard and Greenland Airports are working together to improve living conditions for airmen by repairing a long-standing roof issue at a lodging facility in Kangerlussuaq, Greenland."
-  },
-  {
-    "id": "9f5cad4248b0",
-    "title": "Taiwan President Pushes $6.6B Attack Drone Plan",
-    "url": "https://news.usni.org/2026/07/21/taiwan-president-pushes-6-6b-attack-drone-plan",
-    "date": "2026-07-21T15:34:25Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Taiwan President Lai Ching-te reviewed domestic drone industrial efforts last week ahead of his administration’s push for a $6.6 billion attack drone plan to enhance the island’s defense against Chinese aggression. On Friday, Lai and members of the Taiwan Cabinet visited the National Chung-Shan Inst"
-  },
-  {
-    "id": "a5e89fbfb412",
-    "title": "GAO Report on Hypersonic Missiles on Navy Warships",
-    "url": "https://news.usni.org/2026/07/21/gao-report-on-hypersonic-missiles-on-navy-warships",
-    "date": "2026-07-21T15:13:13Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is the July 17, 2026, Government Accountability Office report, Navy Ship Modernization: DoD Needs Comprehensive Strategy to Field Hypersonic Missile Capability. From the report What GAO Found The Navy is currently 24 months behind in its efforts to modernize three DDG 1000 Zumwalt-clas"
-  },
-  {
-    "id": "19eae2245821",
-    "title": "USNI News Fleet and Marine Tracker: July 20, 2026",
-    "url": "https://news.usni.org/2026/07/20/usni-news-fleet-and-marine-tracker-july-20-2026",
-    "date": "2026-07-20T19:35:42Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of July 20, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
-  },
-  {
-    "id": "4feb3b5c7613",
-    "title": "Minnesota National Guard, Croatia Celebrate 30 Years of Partnership",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4550271/minnesota-national-guard-croatia-celebrate-30-years-of-partnership/",
-    "date": "2026-07-20T18:01:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Minnesota and Croatia celebrated the 30th anniversary of their partnership through the National Guard Bureau's State Partnership Program during Exercise Combat Power 26, near Slunj, Croatia."
-  },
-  {
-    "id": "65c3cb4b9e53",
-    "title": "Coast Guard Monitors Chinese Vessels in the Arctic",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4550235/coast-guard-monitors-chinese-vessels-in-the-arctic/",
-    "date": "2026-07-20T17:29:45Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Coast Guard recently monitored two Chinese research ships as they transited north through the U.S. exclusive economic zone and over the U.S. extended continental shelf in the Bering Sea."
   }
 ]

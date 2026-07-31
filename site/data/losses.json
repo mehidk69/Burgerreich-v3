@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "c84d1956ef43",
+      "type": "Littoral Combat Ship",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-07-30T19:42:36Z",
+      "headline": "USS Georgia Completes Final Patrol Ahead of Inactivation, LCS Fort Worth Decommissions",
+      "context": "USS Georgia Completes Final Patrol Ahead of Inactivation, LCS Fort Worth Decommissions Two warships have ended their service with the Navy this week, a 42-year-old nuclear guided-missile submarine and",
+      "url": "https://news.usni.org/2026/07/30/uss-georgia-completes-final-patrol-ahead-of-inactivation-lcs-fort-worth-decommissions"
+    },
+    {
       "id": "6b2308f3ca23",
       "type": "F-35 Lightning II",
       "qty": 1,
@@ -191,5 +201,5 @@
       "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
     }
   ],
-  "updated": "2026-07-30T19:09:12Z"
+  "updated": "2026-07-31T01:48:30Z"
 }
