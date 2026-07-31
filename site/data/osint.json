@@ -1,5 +1,25 @@
 [
   {
+    "id": "fbb916756457",
+    "title": "Hegseth: Department Success Buoyed by Courage, Spirit, Leadership",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4561838/hegseth-department-success-buoyed-by-courage-spirit-leadership/",
+    "date": "2026-07-31T21:20:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The War Department has had a lot of success in the past 19 months, in no small part due to the men and women of the U.S. military, but also because of presidential leadership, Secretary of War Pete Hegseth said during a cabinet meeting at Camp David, Md."
+  },
+  {
+    "id": "77bcda6f8854",
+    "title": "Hormuz Traffic Levels Continue Decreasing, Houthis in Yemen Threaten Saudi Tankers",
+    "url": "https://news.usni.org/2026/07/31/hormuz-traffic-levels-continue-decreasing-houthis-in-yemen-threaten-saudi-tankers",
+    "date": "2026-07-31T19:14:28Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Traffic levels in the Strait of Hormuz last week dropped yet again, bringing the flow of ships through the Middle East passageway to levels not seen since March, shortly after the conflict between Iran and the United States began. Transits were down 52.4 percent between July 20 and Sunday from July"
+  },
+  {
     "id": "dc8b77cfd816",
     "title": "BREAKING: F-35B Crashes Near Marine Corps Air Station Miramar",
     "url": "https://news.usni.org/2026/07/31/breaking-f-35b-crashes-near-marine-corps-air-station-miramar",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "Secretary of War Pete Hegseth and Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, appeared before the Senate Appropriations Committee on Capitol Hill, where the two leaders spoke in support of President Donald J. Trump's supplemental budget request to Congress."
-  },
-  {
-    "id": "6950fb42dfc4",
-    "title": "Large-Scale Cybersecurity Exercise Focuses on Operational Technology",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4551823/large-scale-cybersecurity-exercise-focuses-on-operational-technology/",
-    "date": "2026-07-21T21:50:09Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "This year's iteration of the War Department's longest-running unclassified cyber defense exercise, Cyber Shield 2026, is largely focused on operational technology, military cyber professionals said during a virtual media roundtable."
-  },
-  {
-    "id": "dda3c2567fc8",
-    "title": "Basic Cadet Training Prepares New Cadets for Academy Life",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4551636/basic-cadet-training-prepares-new-cadets-for-academy-life/",
-    "date": "2026-07-21T20:26:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Every summer, the U.S. Air Force Academy in Colorado Springs, Colo., introduces its newest basic cadets to military life through basic cadet training."
   }
 ]
