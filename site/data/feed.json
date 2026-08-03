@@ -1,5 +1,15 @@
 [
   {
+    "id": "81ae42d3ceb0",
+    "title": "USNI News Fleet and Marine Tracker: Aug. 3, 2026",
+    "url": "https://news.usni.org/2026/08/03/usni-news-fleet-and-marine-tracker-aug-3-2026",
+    "date": "2026-08-03T15:36:38Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of August 3, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the ca"
+  },
+  {
     "id": "fbb916756457",
     "title": "Hegseth: Department Success Buoyed by Courage, Spirit, Leadership",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4561838/hegseth-department-success-buoyed-by-courage-spirit-leadership/",
@@ -678,16 +688,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "A contentious Senate hearing on a supplemental budget request of nearly $88 billion, largely earmarked to cover the ongoing war on Iran, revealed new figures about the war&#8217;s cost to date and the effects of the military&#8217;s Project Freedom initiative to escort commercial ships through the S"
-  },
-  {
-    "id": "b241436f2f6f",
-    "title": "Hegseth, Caine Testify in Support of Supplemental Budget Request",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4551668/hegseth-caine-testify-in-support-of-supplemental-budget-request/",
-    "date": "2026-07-21T22:09:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Secretary of War Pete Hegseth and Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, appeared before the Senate Appropriations Committee on Capitol Hill, where the two leaders spoke in support of President Donald J. Trump's supplemental budget request to Congress."
   },
   {
     "id": "5d6b7670d351",
