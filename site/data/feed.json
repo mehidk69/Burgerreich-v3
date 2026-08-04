@@ -1,5 +1,35 @@
 [
   {
+    "id": "34347f58f012",
+    "title": "Air National Guard Squadron Sharpens Readiness in Jungle Terrain",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4563721/air-national-guard-squadron-sharpens-readiness-in-jungle-terrain/",
+    "date": "2026-08-04T18:03:06Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "For two weeks, airmen assigned to the Ohio Air National Guard's 178th Security Forces Squadron challenged themselves through annual training designed to strengthen small-unit tactics, decision-making and expeditionary readiness."
+  },
+  {
+    "id": "75b5e536db98",
+    "title": "European Union Naval Task Force Intercepts Suspected Russian Shadow Tanker",
+    "url": "https://news.usni.org/2026/08/04/european-union-naval-task-force-intercepts-suspected-russian-shadow-tanker",
+    "date": "2026-08-04T15:53:47Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The European Union’s Naval Force Mediterranean intercepted a tanker on Sunday that is suspected of being part of Russia’s shadow fleet. Italian Navy multi-purpose combat ship ITS Thaon di Revel (P430), flagship of the EU’s Operation Irini, conducted a flag verification boarding of sanctioned tanker"
+  },
+  {
+    "id": "0d5241c93df6",
+    "title": "Japan’s 2026 Defense White Paper Digest",
+    "url": "https://news.usni.org/2026/08/04/japans-2026-defense-white-paper-digest",
+    "date": "2026-08-04T13:46:32Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is the English translation of Japan’s 2026 Defense White Paper digest, released Aug. 4, 2026.  From the Report The time has come for our annual release of our white paper, “Defense of Japan.” Each year personnel from around the Ministry of Defense (MOD), including civilians and members"
+  },
+  {
     "id": "09bf6df695f7",
     "title": "Trump Establishes Military Spouse Commission",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4562726/trump-establishes-military-spouse-commission/",
@@ -658,36 +688,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Navy Cmdr. Emily Latimer, an emergency clinical nurse specialist,  is being recognized for research and process improvement efforts in pediatric trauma care. Latimer spearheaded a project to examine methods for administering blood."
-  },
-  {
-    "id": "af2ff15c555a",
-    "title": "Centcom Completes Latest Strikes Against Iran",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4553395/centcom-completes-latest-strikes-against-iran/",
-    "date": "2026-07-23T14:22:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "U.S. Central Command forces completed another round of strikes against Iran for the 12th consecutive night."
-  },
-  {
-    "id": "97b04e47ce10",
-    "title": "Amphib USS Tripoli Wraps 6-month Indo-Pacific, Middle East Patrol",
-    "url": "https://news.usni.org/2026/07/22/amphib-uss-tripoli-wraps-6-month-indo-pacific-middle-east-patrol",
-    "date": "2026-07-22T21:28:09Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Big deck amphibious ship USS Tripoli (LHA-7), lead ship of the Tripoli Amphibious Ready Group, wrapped up on Wednesday a six-month patrol that took the group to the Indo-Pacific and Middle East. Tripoli pulled into White Beach Naval Facility, Okinawa, on Wednesday to offload elements of the 31st Mar"
-  },
-  {
-    "id": "4452b3864094",
-    "title": "Japan Protests Chinese Destroyer’s Live-fire Drill Near Disputed Reef",
-    "url": "https://news.usni.org/2026/07/22/japan-protests-chinese-destroyers-live-fire-drill-near-disputed-reef",
-    "date": "2026-07-22T19:20:07Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A People’s Liberation Army Navy destroyer conducted a small caliber live-fire drill on Sunday within Japan’s Exclusive Economic Zone near Okinotori Island, the archipelago country’s southernmost island. Japan Defense Minister Shinjiro Koizumi revealed the live firing during his keynote address at th"
   },
   {
     "id": "5d6b7670d351",
