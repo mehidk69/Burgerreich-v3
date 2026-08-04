@@ -1,5 +1,45 @@
 [
   {
+    "id": "09bf6df695f7",
+    "title": "Trump Establishes Military Spouse Commission",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4562726/trump-establishes-military-spouse-commission/",
+    "date": "2026-08-03T21:03:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "President Donald J. Trump signed an executive order in the White House's Oval Office establishing the President's Military Spouse Commission."
+  },
+  {
+    "id": "c76bc0fa7887",
+    "title": "A Last Look at ‘Old Salt’: Former USS Nimitz Sailors Say Goodbye",
+    "url": "https://news.usni.org/2026/08/03/a-last-look-at-old-salt-former-uss-nimitz-sailors-say-goodbye",
+    "date": "2026-08-03T20:34:08Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "ABOARD AIRCRAFT CARRIER USS NIMITZ — Four hundred former USS Nimitz (CVN-68) sailors and their families streamed off buses on Pier 14 at Naval Station Norfolk, Va., and up the brow of the oldest carrier in the Navy for a final goodbye. The guest of honor was the first commander of the carrier, 94-ye"
+  },
+  {
+    "id": "d3625ec6481b",
+    "title": "Navy Relieves Commander of Sub USS West Virginia",
+    "url": "https://news.usni.org/2026/08/03/navy-relieves-commander-of-sub-uss-west-virginia",
+    "date": "2026-08-03T20:19:34Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Cmdr. Joseph Sammur was relieved as the commanding officer of USS West Virginia (SSBN-736) (Blue Crew) last week due to a loss of confidence, the Navy announced Saturday. Sammur’s relief follows an investigation into a maintenance issue, a Submarine Forces Public Affairs spokesperson told USNI News"
+  },
+  {
+    "id": "7b043ce3a28e",
+    "title": "Largest Pacific Joint Maritime Exercise Successfully Concludes",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4562605/largest-pacific-joint-maritime-exercise-successfully-concludes/",
+    "date": "2026-08-03T18:49:26Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The 30th iteration of Exercise Rim of the Pacific brought together 30 nations, and demonstrated that maritime security is strengthened through trust, cooperation and shared values."
+  },
+  {
     "id": "368c1333f6b6",
     "title": "Chinese Warships, Bombers Surge to Scarborough Shoal for Drills",
     "url": "https://news.usni.org/2026/08/03/chinese-warships-bombers-surge-to-scarborough-shoal-for-drills",
@@ -327,7 +367,7 @@
     "source": "USNI News",
     "cocom": "osint",
     "tag": "naval",
-    "summary": "Scrapping “Big E” is costing big bucks. Recycling the Navy’s first nuclear aircraft carrier has cost the branch about $1.3 billion since the former USS Enterprise (CVN-65) was removed from active service in 2012. Earlier this month, NorthStar Maritime Dismantlement Services was awarded a $418.5 mill"
+    "summary": "This post has been corrected to reflect the final plan for Enterprise&#8217;sreactors.  Scrapping “Big E” is costing big bucks. Recycling the Navy’s first nuclear aircraft carrier has cost the branch about $1.3 billion since the former USS Enterprise (CVN-65) was removed from active service in 2012."
   },
   {
     "id": "3cc27c9cc702",
@@ -648,46 +688,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "A People’s Liberation Army Navy destroyer conducted a small caliber live-fire drill on Sunday within Japan’s Exclusive Economic Zone near Okinotori Island, the archipelago country’s southernmost island. Japan Defense Minister Shinjiro Koizumi revealed the live firing during his keynote address at th"
-  },
-  {
-    "id": "e4b5db41dcb8",
-    "title": "Nation's Leaders Honor the Fallen During Dignified Transfer",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4552653/nations-leaders-honor-the-fallen-during-dignified-transfer/",
-    "date": "2026-07-22T18:57:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "President Donald J. Trump; Secretary of War Pete Hegseth; Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff; and others attended a dignified transfer to honor four soldiers killed in the U.S. Central Command region."
-  },
-  {
-    "id": "ddc5179893ea",
-    "title": "U.S. Army Deploys Hypersonic Missiles in Range of China During Exercise",
-    "url": "https://news.usni.org/2026/07/22/u-s-army-deploys-hypersonic-missiles-in-range-of-china-during-exercise",
-    "date": "2026-07-22T18:22:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The U.S. Army deployed its Dark Eagle hypersonic missiles for a multinational warfighting exercise last month in the Western Pacific, according to recently released photos. Troops operating the long-range hypersonic weapon assigned to Multi-Domain Command &#8211; Pacific, the recent merge of the Was"
-  },
-  {
-    "id": "08919646f202",
-    "title": "Pentagon's Special Ops Office to Host Rapid Tech Innovation Event",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4552408/pentagons-special-ops-office-to-host-rapid-tech-innovation-event/",
-    "date": "2026-07-22T16:44:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The War Department is hosting a one-day \"accelerator\" event in the national capital region that will provide the opportunity for representatives from more than a dozen companies to offer innovative solutions across nine areas related to the military's special operations community."
-  },
-  {
-    "id": "668625151b66",
-    "title": "Republican Senators Introduce Bill to Create Service Secretary for the Coast Guard",
-    "url": "https://news.usni.org/2026/07/22/republican-senators-introduce-bill-to-create-service-secretary-for-the-coast-guard",
-    "date": "2026-07-22T15:54:40Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A trio of Republican senators have introduced a bill to create Secretary of the Coast Guard and Undersecretary positions as the civilian head of the 43,000-member service, USNI News has learned. According to the draft ‘‘Coast Guard Leadership Modernization Act’’ obtained by USNI News, the new Secret"
   },
   {
     "id": "5d6b7670d351",
