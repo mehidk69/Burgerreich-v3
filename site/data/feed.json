@@ -1,5 +1,65 @@
 [
   {
+    "id": "04c7b5cb9fa8",
+    "title": "First Trump-class Battleship Could Cost $23.4B, Says CBO",
+    "url": "https://news.usni.org/2026/08/05/first-trump-class-battleship-could-cost-23-4b-says-cbo",
+    "date": "2026-08-05T18:04:30Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The first Trump-class battleship (BBG(X)) could cost about $23 billion with an overall cost for the 15-ship program to be about $275 billion, according to a new Congressional Budget Office estimate published on Wednesday. Based on the published estimate on the size and nuclear propulsion, the CBO ca"
+  },
+  {
+    "id": "d0b48977728e",
+    "title": "Coast Guard Participates in Panama Canal Counter-Threat Exercise",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4564659/coast-guard-participates-in-panama-canal-counter-threat-exercise/",
+    "date": "2026-08-05T17:59:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Panama's National Aeronaval Service welcomed key leaders from Mexico, Ecuador, Colombia and the United States during the pre-sail conference for Panamax 2026, one of the largest military exercises in the Western Hemisphere."
+  },
+  {
+    "id": "fbce42681fef",
+    "title": "U.S. Marine Corps ACVs to Counter Drones with Anduril Jammer Package",
+    "url": "https://news.usni.org/2026/08/05/u-s-marine-corps-acvs-to-counter-drones-with-anduril-jammer-package",
+    "date": "2026-08-05T17:26:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The U.S. Marine Corps’ new amphibious assault vehicles will receive jammers to defeat unmanned aerial systems through a program that is set to begin this fall. The Portfolio Acquisition Executive – Marine Corps released a solicitation on Monday identifying the service’s interest in pursuing Anduril’"
+  },
+  {
+    "id": "2e07a75379ca",
+    "title": "Japan Plans to Transform Military Capabilities with Drones, Boost Domestic Defense Industry",
+    "url": "https://news.usni.org/2026/08/05/japan-plans-to-transform-military-capabilities-with-drones-boost-domestic-defense-industry",
+    "date": "2026-08-05T16:31:08Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Japan intends to transform its military capabilities with drones and will build up its domestic defense industry, according to the 2026 Defense of Japan white paper released on Tuesday. The Japanese government is prioritizing domestic defense production to mitigate the cost of defense equipment and"
+  },
+  {
+    "id": "eef77c3256df",
+    "title": "Southcom Establishes Joint Task Force Western Hemisphere",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4564574/southcom-establishes-joint-task-force-western-hemisphere/",
+    "date": "2026-08-05T16:12:10Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Joint Task Force Western Hemisphere, led by Marine Corps Maj. Gen. Kevin Jarrard, integrates military capabilities with the 18 partner nations of the Americas Counter Cartel Coalition."
+  },
+  {
+    "id": "4acf30a48a4d",
+    "title": "Report to Congress on the Department of Defense",
+    "url": "https://news.usni.org/2026/08/05/report-to-congress-on-the-department-of-defense",
+    "date": "2026-08-05T13:59:34Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the July 31, 2026, Congressional Research Service report, Defense Primer: The Department of Defense. From the Report The Department of Defense (DOD) was established after World War II by the 1947 National Security Act (P.L. 80-253). At the time, some policymakers, including former P"
+  },
+  {
     "id": "a9cff28a5191",
     "title": "Navy Extends Saildrone USVs in SOUTHCOM",
     "url": "https://news.usni.org/2026/08/04/navy-extends-saildrone-usvs-in-southcom",
@@ -628,66 +688,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Hawaii U.S. and partner forces conducted a group sail Wednesday, with aircraft carrier USS Theodore Roosevelt (CVN-71) leading the flotilla of ships and submarines as part of the U.S. Na"
-  },
-  {
-    "id": "a6cc84525947",
-    "title": "Mission Marge Brings Legacy of America's 'Ace of Aces' to Guam Airmen",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4555222/mission-marge-brings-legacy-of-americas-ace-of-aces-to-guam-airmen/",
-    "date": "2026-07-24T18:01:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "A recovered wingtip from \"Marge,\" the legacy Lockheed P-38 Lightning fighter aircraft flown by Army Air Forces Maj. Richard Bong, America's World War II \"Ace of Aces\" and a Medal of Honor recipient, touched down on U.S. soil for the first time in more than 80 years at Andersen Air Force Base, Guam."
-  },
-  {
-    "id": "d25d10498c2f",
-    "title": "Historic Multinational Medical Team Integrates Aboard the USS Essex",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4555204/historic-multinational-medical-team-integrates-aboard-the-uss-essex/",
-    "date": "2026-07-24T17:39:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "A multiservice, multinational team of American and Canadian military medical professionals successfully delivered seamless, life-saving trauma care afloat on the amphibious assault ship USS Essex during Exercise Rim of the Pacific 2026."
-  },
-  {
-    "id": "5eb01c51d0d0",
-    "title": "U.S. Navy Orders Low-cost Missiles to Expand Fleet, Allied Long-Range Maritime Strike Capabilities",
-    "url": "https://news.usni.org/2026/07/24/u-s-navy-orders-low-cost-missiles-to-expand-fleet-allied-long-range-maritime-strike-capabilities",
-    "date": "2026-07-24T17:23:50Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. Navy is procuring a low-cost cruise missile to expand the fleet’s long-range precision strike capabilities and provide allies with affordable maritime strike munitions. CoAspire announced its selection for the Navy’s Coalition Heterogenous Affordable Offensive Strike (CHAOS) program this we"
-  },
-  {
-    "id": "d37d747e2e88",
-    "title": "White House Protests Congressional Block on Buying Foreign Warships for U.S. Navy",
-    "url": "https://news.usni.org/2026/07/24/white-house-protests-congressional-block-on-buying-foreign-warships-for-u-s-navy",
-    "date": "2026-07-24T16:07:58Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The White House is pushing back against a congressional proposal to restrict buying warships and auxiliaries from foreign shipyards, according to a memo released this week by the Office of Management and Budget. OMB opposed a section of the House’s version of the Fiscal Year 2027 National Defense Au"
-  },
-  {
-    "id": "961cedce4fcf",
-    "title": "U.S. Concludes 13th Night of Strikes on Iranian Military Targets",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4554671/us-concludes-13th-night-of-strikes-on-iranian-military-targets/",
-    "date": "2026-07-24T15:02:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "U.S. Central Command forces successfully completed the 13th consecutive night of strikes against Iran."
-  },
-  {
-    "id": "0bc19a9b89ac",
-    "title": "Marines Offered Early Separations to Meet Budget Constraints",
-    "url": "https://news.usni.org/2026/07/23/marines-offered-early-separations-to-meet-budget-constraints",
-    "date": "2026-07-23T19:31:56Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The Marine Corps is offering early separations in an effort to meet budget restraints that determine the size of the force, USNI News has learned. Under the Voluntary Enlisted Early Release Program, which was also offered in Fiscal Year 2025, first-term Marines who have separation dates on or before"
   },
   {
     "id": "5d6b7670d351",
