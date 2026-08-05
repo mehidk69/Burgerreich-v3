@@ -1,5 +1,35 @@
 [
   {
+    "id": "a9cff28a5191",
+    "title": "Navy Extends Saildrone USVs in SOUTHCOM",
+    "url": "https://news.usni.org/2026/08/04/navy-extends-saildrone-usvs-in-southcom",
+    "date": "2026-08-04T20:33:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy has awarded Saildrone a $16.3 million extension to continue assisting the U.S. 4th Fleet in its maritime drug interdiction operations, the company announced Tuesday. Saildrone received the award on June 30, company spokesperson Jenn Virskus told USNI News. Saildrone’s Voyager unmanned surfa"
+  },
+  {
+    "id": "846812925e0e",
+    "title": "Always Present: Joint Task Force D.C. Patrols the City",
+    "url": "https://www.war.gov/Multimedia/Photo-Collections/20081/",
+    "date": "2026-08-04T19:53:06Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Soldiers assigned to Joint Task Force District of Columbia conducted presence patrols near museums and monuments as part of the D.C. Safe and Beautiful mission in Washington."
+  },
+  {
+    "id": "3c8c5ab5baa0",
+    "title": "Washington National Guardsmen Support Statewide Wildfire Response",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4563880/washington-national-guardsmen-support-statewide-wildfire-response/",
+    "date": "2026-08-04T19:50:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Washington National Guardsmen accumulated 146.5 flight hours and dropped 1,181 buckets of water as wildfires spread across the state recently, working with state and local partners to protect communities, property and critical infrastructure."
+  },
+  {
     "id": "34347f58f012",
     "title": "Air National Guard Squadron Sharpens Readiness in Jungle Terrain",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4563721/air-national-guard-squadron-sharpens-readiness-in-jungle-terrain/",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "The Marine Corps is offering early separations in an effort to meet budget restraints that determine the size of the force, USNI News has learned. Under the Voluntary Enlisted Early Release Program, which was also offered in Fiscal Year 2025, first-term Marines who have separation dates on or before"
-  },
-  {
-    "id": "a1b0d8ec10f3",
-    "title": "Taiwan Receives Latest Coast Guard Cutter from $1.3B Fleet Build-up Plan",
-    "url": "https://news.usni.org/2026/07/23/taiwan-receives-latest-coast-guard-cutter-from-1-3b-fleet-build-up-plan",
-    "date": "2026-07-23T18:43:41Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Taipei received its latest cutter this week from a $1.3 billion program initiated almost a decade ago to expand Taiwan’s white hull fleet to counter coercive Chinese activities. Taiwan’s Coast Guard Administration (CGA) took delivery of the 1,000-ton patrol ship Penghu (CG 1007) from the CSBC Corpor"
-  },
-  {
-    "id": "3dd2c524a2e0",
-    "title": "VIDEO: Decommissioned USS Mobile Bay, USS Peleliu Sunk in RIMPAC Drills",
-    "url": "https://news.usni.org/2026/07/23/video-decommissioned-uss-mobile-bay-uss-peleliu-sunk-in-rimpac-drills",
-    "date": "2026-07-23T18:11:09Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "This story has been updated with additional information that was released after publication.  Two decommissioned warships, cruiser USS Mobile Bay (CG-53) amphibious assault ship USS Peleliu (LHA-5), were recently sunk off the coast of Hawaii as part of the U.S. Navy-led Rim of the Pacific 2026 exerc"
-  },
-  {
-    "id": "2d9232bddefd",
-    "title": "Navy Nurse Awarded for Pediatric Trauma Care Research, Improvements",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4553507/navy-nurse-awarded-for-pediatric-trauma-care-research-improvements/",
-    "date": "2026-07-23T16:52:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Navy Cmdr. Emily Latimer, an emergency clinical nurse specialist,  is being recognized for research and process improvement efforts in pediatric trauma care. Latimer spearheaded a project to examine methods for administering blood."
   }
 ]
