@@ -1,5 +1,55 @@
 [
   {
+    "id": "ec345700faf7",
+    "title": "U.S. Navy Eyes Advanced Payload Launcher for Future Attack Boats",
+    "url": "https://news.usni.org/2026/08/06/u-s-navy-eyes-advanced-payload-launcher-for-future-attack-boats",
+    "date": "2026-08-06T20:42:48Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. Navy wants to integrate payload launchers capable of supporting undersea weapons and drones for the fleet’s future attack boats, according to an announcement last week. The Navy announced on July 29 the Director of Submarine Programs’ interest in launchers that could “support a wider variet"
+  },
+  {
+    "id": "ef266a8a201d",
+    "title": "Marines Make History With First Attack Drone Live-Fire Series in South Korea",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4565502/marines-make-history-with-first-attack-drone-live-fire-series-in-south-korea/",
+    "date": "2026-08-06T17:38:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Marines successfully concluded the service's first series of live-fire first-person view attack drone flights in South Korea, demonstrating the ability to field emerging technologies in the Western Pacific rapidly."
+  },
+  {
+    "id": "a2fecbbb8c55",
+    "title": "Northcom Prepares Deployment to Support Wildfire Suppression",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4565533/northcom-prepares-deployment-to-support-wildfire-suppression/",
+    "date": "2026-08-06T17:26:10Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "At the request of the National Interagency Fire Center, U.S. Northern Command is preparing to deploy approximately 200 soldiers to support a wildland fire ground response operation in the Pacific Northwest."
+  },
+  {
+    "id": "ce80258011c5",
+    "title": "Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations",
+    "url": "https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations",
+    "date": "2026-08-06T16:59:54Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The U.S. Marine Corps established a new organization last month to integrate aerial drone capabilities as the service continues to experiment with drones in field operations. The service established the Marine Corps Robotics Integration Group (MCRIG), a service-level organization responsible for int"
+  },
+  {
+    "id": "2c98d990b64a",
+    "title": "CBO report on the Navy’s New Battleship Program",
+    "url": "https://news.usni.org/2026/08/06/cbo-report-on-the-navys-new-battleship-program",
+    "date": "2026-08-06T14:35:19Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is the Aug. 5, 2026, Congressional Budget Office report, The Navy&#8217;s New Battleship Program: Costs and Implications for the Shipbuilding Industrial Base. From the Report In this report, the Congressional Budget Office estimates the potential costs of the Navy’s new nuclear-powered"
+  },
+  {
     "id": "e0a9ecdef616",
     "title": "Navy Removes Head of Drone Programs After 8 Months, PAE Maritime Head Miller Now Leading PAE RAS",
     "url": "https://news.usni.org/2026/08/05/navy-removes-head-of-drone-programs-after-8-months-pae-maritime-head-miller-now-leading-pae-ras",
@@ -638,56 +688,6 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "Exercise Beverly Sentinel 26-4 at Kunsan Air Base, South Korea, demonstrated the 8th Fighter Wing's commitment to readiness and force preparedness."
-  },
-  {
-    "id": "c4d7b40d0b5c",
-    "title": "Soldiers, College Football Players Forge Teamwork in Hawaii",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4556248/soldiers-college-football-players-forge-teamwork-in-hawaii/",
-    "date": "2026-07-27T16:19:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Soldiers assigned to the 25th Infantry Division and student-athletes from the University of Hawaii's Rainbow Warrior football team came together for a day of shared challenges designed to build teamwork and strengthen community bonds."
-  },
-  {
-    "id": "083b2b0f27fb",
-    "title": "George Washington CSG in the South China Sea After Philippine-Chinese Clashes",
-    "url": "https://news.usni.org/2026/07/27/george-washington-csg-in-the-south-china-sea-after-philippine-chinese-clashes",
-    "date": "2026-07-27T15:10:24Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "MANILA, PHILIPPINES – The U.S. Navy’s only forward-deployed aircraft carrier is steaming in the South China Sea following clashes this month between China and the Philippines across several disputed maritime features. The George Washington Carrier Strike Group – led by USS George Washington (CVN-73)"
-  },
-  {
-    "id": "8ee90ef278ba",
-    "title": "U.K., Spanish Navy Forces Wrap NATO’s Latest Neptune Strike Exercise",
-    "url": "https://news.usni.org/2026/07/27/u-k-spanish-navy-forces-wrap-natos-latest-neptune-strike-exercise",
-    "date": "2026-07-27T14:24:48Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.K. Carrier Strike Group and the Spanish Navy Expeditionary Strike Group on Thursday concluded Neptune Strike 26-3, the latest NATO enhanced Vigilance Activity that spanned the High North and North Atlantic. Neptune Strike 26-3 involved the U.K. CSG and the Spanish Navy Expeditionary Combat Gro"
-  },
-  {
-    "id": "14a3dd09c7cf",
-    "title": "Boys Nation Delegates Visit Pentagon, Lay Wreath at 9/11 Memorial",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4555637/boys-nation-delegates-visit-pentagon-lay-wreath-at-911-memorial/",
-    "date": "2026-07-25T00:00:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "About 100 high school students from the American Legion Boys Nation program visited the Pentagon recently, a trip that included laying a wreath at the National 9/11 Pentagon Memorial and hearing remarks on service, character and the responsibilities of leaders."
-  },
-  {
-    "id": "c96fb873cee5",
-    "title": "Hormuz Transits Remain Low, Houthis Resume Attacks in Red Sea",
-    "url": "https://news.usni.org/2026/07/24/hormuz-transits-remain-low-houthis-resume-attacks-in-red-sea",
-    "date": "2026-07-24T21:34:36Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Houthis enacted a maritime blockade against Saudi Arabian-linked ships and ports, dealing another blow to shipping in the Middle East. Transits in the Strait of Hormuz were down this week compared to the previous week as the U.S. struck Iran for the 13th straight day. London-based Lloyd’s List I"
   },
   {
     "id": "5d6b7670d351",
