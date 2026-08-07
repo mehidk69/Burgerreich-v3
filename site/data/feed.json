@@ -1,5 +1,45 @@
 [
   {
+    "id": "5f96c321d458",
+    "title": "First Term Enlisted Course 2.0",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4566705/first-term-enlisted-course-20/",
+    "date": "2026-08-07T21:58:10Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "general",
+    "summary": "The 355th Wing has expanded its First Term Enlisted Course into a three-week curriculum designed to better prepare new Airmen for the demands of military service while advancing the wing's priority of building combat-credible Airmen.<br />"
+  },
+  {
+    "id": "63f59ad20ae2",
+    "title": "Boys & Girls Clubs Honor Military Youth",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4566639/boys-girls-clubs-honor-military-youth/",
+    "date": "2026-08-07T21:50:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Five young Americans from across the War Department were honored as finalists during the Boys & Girls Clubs of America's 2026 National Military Youth of the Year celebration in the nation's capital, and one walked away with the honor and the opportunity to compete at the next level."
+  },
+  {
+    "id": "aa421ddb8f1d",
+    "title": "Multinational Partners Strengthen Regional Readiness During Exercise Panamax 2026",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4566693/multinational-partners-strengthen-regional-readiness-during-exercise-panamax-20/",
+    "date": "2026-08-07T21:39:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "U.S. airmen joined 40 military personnel from across the Americas during Panamax 2026, a U.S. Southern Command-sponsored multinational exercise focused on an integrated approach against simulated threats to the Panama Canal and the region."
+  },
+  {
+    "id": "ae195cdce761",
+    "title": "70 Ships Trapped in Persian Gulf as Iran-U.S. Conflict Nears Six Months",
+    "url": "https://news.usni.org/2026/08/07/70-ships-trapped-in-persian-gulf-as-iran-u-s-conflict-nears-six-months",
+    "date": "2026-08-07T18:52:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "At least 70 ships remain trapped in the Persian Gulf nearly six months into the Iran-U.S. conflict with more ships now being stalled after the ceasefire between the countries broke down. The memorandum of understanding implemented from June 18 to July 8 between Tehran and Washington created the oppo"
+  },
+  {
     "id": "ed4c2fdb79dc",
     "title": "USNI News Western Pacific Pulse: Aug. 7, 2026",
     "url": "https://news.usni.org/2026/08/07/usni-news-western-pacific-pulse-aug-7-2026",
@@ -296,8 +336,8 @@
     "date": "2026-07-31T20:51:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "exercise",
-    "summary": "U.S. Airmen sharpened their command and control capabilities during the Air Expeditionary Wing Command and Control Course at Davis-Monthan Air Force Base, Arizona, July 20-24, 2026.<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Wing work together during the Exercise Kingfish Ace portio"
+    "tag": "posture",
+    "summary": "U.S. Airmen sharpened their command and control capabilities during the Air Expeditionary Wing Command and Control Course at Davis-Monthan Air Force Base, Arizona, July 20-24, 2026.<br />"
   },
   {
     "id": "f2718e260063",
@@ -620,34 +660,14 @@
     "summary": "The following is the July 22, 2026, Congressional Research Service report, China Primer: The People’s Liberation Army.  From the Report The People&#8217;s Liberation Army (PLA) serves the Communist Party of China. Established in 1927, it carried that party to victory in the country&#8217;s civil war"
   },
   {
-    "id": "c4ed032938a7",
-    "title": "U.S., Partner Forces Conduct Multilateral Maritime Cooperative Activity",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4557424/us-partner-forces-conduct-multilateral-maritime-cooperative-activity/",
-    "date": "2026-07-28T16:57:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. Navy, Armed Forces of the Philippines and the Japan Maritime Self-Defense Force conducted a multilateral maritime cooperative activity within the Philippines' exclusive economic zone."
-  },
-  {
-    "id": "391b4c1c3c8e",
-    "title": "Joint Russian, Chinese Navy Patrol Sails Near Japan",
-    "url": "https://news.usni.org/2026/07/28/joint-russian-chinese-navy-patrol-sails-near-japan",
-    "date": "2026-07-28T13:52:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Chinese and Russian warships were operating south of Hokkaido, Japan, on Saturday as part of an annual joint patrol, the archipelago country announced over the weekend. The joint patrol includes People’s Liberation Army Navy cruiser CNS Anshan (103), destroyer CNS Kaifeng (124) and fleet oiler CNS K"
-  },
-  {
     "id": "12fb03155cc9",
     "title": "Inside the EOC during Coyote Storm 26.1",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4556990/inside-the-eoc-during-coyote-storm-261/",
     "date": "2026-07-27T23:33:20Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "exercise",
-    "summary": "U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron manage the Emergency Operations<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron manage the Emergency Operations Center during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July"
+    "tag": "posture",
+    "summary": "U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron manage the Emergency Operations<br />"
   },
   {
     "id": "374d307bd0b0",
@@ -657,7 +677,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "exercise",
-    "summary": "U.S. Air Force Airmen assigned to the 355th Force Support Squadron, prepare dinner during Exercise<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Force Support Squadron, prepare dinner during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July 22, 2026. CS 26.1 strengthe"
+    "summary": "U.S. Air Force Airmen assigned to the 355th Force Support Squadron, prepare dinner during Exercise<br />"
   },
   {
     "id": "39c862347254",
@@ -667,7 +687,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "exercise",
-    "summary": "U.S. Air Force Airmen assigned to the 355th Security Forces Squadron, explain vehicle search and<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Security Forces Squadron, explain vehicle search and recovery fundamentals during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida"
+    "summary": "U.S. Air Force Airmen assigned to the 355th Security Forces Squadron, explain vehicle search and<br />"
   },
   {
     "id": "1c00ee79ca69",
@@ -677,17 +697,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "exercise",
-    "summary": "U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron learn about flightline repair<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron learn about flightline repair during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July 20, 2026. C"
-  },
-  {
-    "id": "8fe7b1418a23",
-    "title": "Hegseth Presents Mexican Border Defense Medal to Service Members",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4556429/hegseth-presents-mexican-border-defense-medal-to-service-members/",
-    "date": "2026-07-27T20:34:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Secretary of War Pete Hegseth recognized 50 U.S. service members — including for the first time, Marine Corps personnel — with the Mexican Border Defense Medal."
+    "summary": "U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron learn about flightline repair<br />"
   },
   {
     "id": "5d6b7670d351",
@@ -696,8 +706,8 @@
     "date": "2026-07-16T23:15:09Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "alert",
-    "summary": "U.S. Air Force Col. Kyle Porter, 355th Wing deputy commander, and aircrew assigned to the 492nd<br />\n<img alt=\"U.S. Air Force Col. Kyle Porter, 355th Wing deputy commander, and aircrew assigned to the 492nd Special Operations Wing approach an OA-1K Skyraider II aircraft at Davis-Monthan Air Force B"
+    "tag": "general",
+    "summary": "U.S. Air Force Col. Kyle Porter, 355th Wing deputy commander, and aircrew assigned to the 492nd<br />"
   },
   {
     "id": "c4883cbc4b69",
@@ -707,7 +717,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
-    "summary": "Recognizing that the return from a deployment is just the beginning of a new mission, Air Combat Command is introducing a comprehensive framework to strengthen home station reintegration.<br />\n<img alt=\"The ACC Shield.\" src=\"https://media.defense.gov/2025/Apr/11/2003959494/150/150/0/250411-F-DP387-"
+    "summary": "Recognizing that the return from a deployment is just the beginning of a new mission, Air Combat Command is introducing a comprehensive framework to strengthen home station reintegration.<br />"
   },
   {
     "id": "7dfd235ca354",
@@ -717,7 +727,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
-    "summary": "A Military Affairs Committee member, hands shaved ice to an Airman at Davis-Monthan Air Force Base,<br />\n<img alt=\"A DM50 member, hands shaved ice to an Airman at Davis-Monthan Air Force Base, Arizona, July 2, 2026. DM50, the Military Affairs Committee and base first sergeants aimed to boost morale"
+    "summary": "A Military Affairs Committee member, hands shaved ice to an Airman at Davis-Monthan Air Force Base,<br />"
   },
   {
     "id": "4f243f21e29b",
@@ -727,7 +737,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "general",
-    "summary": "Chief Master Sgt. Danielle Spurlock competed in the Department of Defense Warrior Games after being diagnosed with a rare cancer. <br />\n<img alt=\"Chief Master Sgt. Danielle Spurlock rides a recumbent bike.\" src=\"https://media.defense.gov/2026/Jun/29/2003955520/150/150/0/260629-F-UE447-1007.JPG\" />"
+    "summary": "Chief Master Sgt. Danielle Spurlock competed in the Department of Defense Warrior Games after being diagnosed with a rare cancer. <br />"
   },
   {
     "id": "2d38d2d3d4bd",
@@ -736,7 +746,7 @@
     "date": "2026-06-26T19:06:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "naval",
+    "tag": "air",
     "summary": "The desert air carried something heavier than heat on the morning of June 25, 2026. As the A-10C Thunderbolt II made one of its final passes over the Barry M. Goldwater Range near Gila Bend, Arizona, Airmen assigned to the 355th Wing, community members, and civic leaders gathered to witness the fami"
   },
   {
@@ -747,7 +757,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
-    "summary": "Airmen at Davis-Monthan Air Force Base are encouraged to remain weather-aware and prepared as Arizona’s monsoon season brings rapidly changing and potentially hazardous conditions.<br />\n<img alt=\"U.S. Air Force graphic depicting Monsoon Safety kit essentials. Davis-Monthan Air Force base is remindi"
+    "summary": "Airmen at Davis-Monthan Air Force Base are encouraged to remain weather-aware and prepared as Arizona’s monsoon season brings rapidly changing and potentially hazardous conditions.<br />"
   },
   {
     "id": "c36bd9afa0b8",
@@ -756,8 +766,8 @@
     "date": "2026-06-18T16:10:00Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "exercise",
-    "summary": "Air Force Special Warfare recruiters partnered with the 306th Rescue Squadron to host a Pararescue Immersion Day  providing prospective candidates an opportunity to experience the demands and mission of the career field firsthand at Davis-Monthan Air Force Base, Arizona, June 15th, 2026.<br />\n<img"
+    "tag": "posture",
+    "summary": "Air Force Special Warfare recruiters partnered with the 306th Rescue Squadron to host a Pararescue Immersion Day  providing prospective candidates an opportunity to experience the demands and mission of the career field firsthand at Davis-Monthan Air Force Base, Arizona, June 15th, 2026.<br />"
   },
   {
     "id": "0c0b4c0f10b5",
@@ -767,7 +777,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "general",
-    "summary": "Airmen from the 355th Wing Safety Office, 355th Civil Engineer Squadron Pest Management and a volunteer beekeeper partnered to safely remove and relocate an Africanized bee colony discovered beneath a toddler playground June 15, 2026.<br />\n<img alt=\"DM Airmen partner to safely relocate an Africaniz"
+    "summary": "Airmen from the 355th Wing Safety Office, 355th Civil Engineer Squadron Pest Management and a volunteer beekeeper partnered to safely remove and relocate an Africanized bee colony discovered beneath a toddler playground June 15, 2026.<br />"
   },
   {
     "id": "af7f8c911a31",
@@ -777,7 +787,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "exercise",
-    "summary": "As temperatures across the installation regularly exceed 100 degrees Fahrenheit during the summer months, health officials at Davis-Monthan are reinforcing a foundational aspect of Airman readiness: proper nutrition and hydration.<br />\n<img alt=\"U.S. Air Force 1st Lt. Kevin Liu, financial operation"
+    "summary": "As temperatures across the installation regularly exceed 100 degrees Fahrenheit during the summer months, health officials at Davis-Monthan are reinforcing a foundational aspect of Airman readiness: proper nutrition and hydration.<br />"
   },
   {
     "id": "89be6dced38d",
@@ -787,7 +797,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "air",
-    "summary": "In a remarkable display of rapid response and seamless coordination, Airmen from the 355th Aircraft Maintenance Squadron and the 34th Weapons Squadron teamed up to rescue an F-35 Lightning II pilot who ejected during a training mission near Creech Air Force Base, Nevada, March 31.<br />\n<img alt=\"A"
+    "summary": "In a remarkable display of rapid response and seamless coordination, Airmen from the 355th Aircraft Maintenance Squadron and the 34th Weapons Squadron teamed up to rescue an F-35 Lightning II pilot who ejected during a training mission near Creech Air Force Base, Nevada, March 31.<br />"
   },
   {
     "id": "102eca3509b2",
@@ -796,8 +806,8 @@
     "date": "2026-06-15T23:36:03Z",
     "source": "CENTCOM",
     "cocom": "centcom",
-    "tag": "naval",
-    "summary": "Fireworks burst over Freedom Fest at Davis-Monthan Air Force Base, Arizona, June 12, 2026. Freedom<br />\n<img alt=\"Fireworks burst over Freedom Fest at Davis-Monthan Air Force Base, Arizona, June 12, 2026. Freedom Fest brought together members of Team Davis-Monthan for an evening dedicated to commun"
+    "tag": "posture",
+    "summary": "Fireworks burst over Freedom Fest at Davis-Monthan Air Force Base, Arizona, June 12, 2026. Freedom<br />"
   },
   {
     "id": "c07ba523bd0c",
@@ -807,7 +817,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
-    "summary": "Davis-Monthan Fire Department personnel and base lifeguards trained together at the base pool to strengthen water emergency response, improve coordination and encourage families to practice water safety before the summer swimming season.<br />\n<img alt=\"Emergency personnel at Davis-Monthan train in"
+    "summary": "Davis-Monthan Fire Department personnel and base lifeguards trained together at the base pool to strengthen water emergency response, improve coordination and encourage families to practice water safety before the summer swimming season.<br />"
   },
   {
     "id": "1a13a68a5a9d",
@@ -817,7 +827,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
-    "summary": "More than 300 Airmen, veterans and members of the rescue community gathered at Davis-Monthan Air Force Base, June 5, 2026 to honor the legacy of Pedro 66, a crew of rescue Airmen whose sacrifice continues to shape generations of combat rescue professionals.<br />\n<img alt=\"Pedro 66 memorial honors f"
+    "summary": "More than 300 Airmen, veterans and members of the rescue community gathered at Davis-Monthan Air Force Base, June 5, 2026 to honor the legacy of Pedro 66, a crew of rescue Airmen whose sacrifice continues to shape generations of combat rescue professionals.<br />"
   },
   {
     "id": "de95c4c3a577",
@@ -827,7 +837,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "exercise",
-    "summary": "Physically demanding scenarios helped EOD Airmen build the endurance, teamwork, and decision-making skills necessary to execute missions and recover personnel under challenging conditions.<br />\n<img alt=\"Explosive Ordnance Disposal field training exercise\" src=\"https://media.defense.gov/2026/Jun/04"
+    "summary": "Physically demanding scenarios helped EOD Airmen build the endurance, teamwork, and decision-making skills necessary to execute missions and recover personnel under challenging conditions.<br />"
   },
   {
     "id": "d63fb48ffaab",
@@ -837,7 +847,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "air",
-    "summary": "Airmen at Davis-Monthan Air Force Base recently completed their final A-10 Thunderbolt II engine build, marking the end of a proud 50-year legacy of maintaining the iconic close-air-support aircraft as the base transitions to future missions.<br />\n<img alt=\"Airmen perform maintenance on a A-10 engi"
+    "summary": "Airmen at Davis-Monthan Air Force Base recently completed their final A-10 Thunderbolt II engine build, marking the end of a proud 50-year legacy of maintaining the iconic close-air-support aircraft as the base transitions to future missions.<br />"
   },
   {
     "id": "a2b92e197aae",
@@ -1483,16 +1493,6 @@
     "id": "9b8ab2992afe",
     "title": "J5 - Strategy, Engagement and Programs",
     "url": "https://www.africom.mil/about-the-command/directorates-and-staff/j5---strategy-engagement-and-programs",
-    "date": "2026-04-09T01:11:50Z",
-    "source": "AFRICOM",
-    "cocom": "africom",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "732a0cb75056",
-    "title": "J6 - C4S Systems",
-    "url": "https://www.africom.mil/about-the-command/directorates-and-staff/j6---c4s-systems",
     "date": "2026-04-09T01:11:50Z",
     "source": "AFRICOM",
     "cocom": "africom",

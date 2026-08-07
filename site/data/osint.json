@@ -1,5 +1,35 @@
 [
   {
+    "id": "63f59ad20ae2",
+    "title": "Boys & Girls Clubs Honor Military Youth",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4566639/boys-girls-clubs-honor-military-youth/",
+    "date": "2026-08-07T21:50:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Five young Americans from across the War Department were honored as finalists during the Boys & Girls Clubs of America's 2026 National Military Youth of the Year celebration in the nation's capital, and one walked away with the honor and the opportunity to compete at the next level."
+  },
+  {
+    "id": "aa421ddb8f1d",
+    "title": "Multinational Partners Strengthen Regional Readiness During Exercise Panamax 2026",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4566693/multinational-partners-strengthen-regional-readiness-during-exercise-panamax-20/",
+    "date": "2026-08-07T21:39:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "U.S. airmen joined 40 military personnel from across the Americas during Panamax 2026, a U.S. Southern Command-sponsored multinational exercise focused on an integrated approach against simulated threats to the Panama Canal and the region."
+  },
+  {
+    "id": "ae195cdce761",
+    "title": "70 Ships Trapped in Persian Gulf as Iran-U.S. Conflict Nears Six Months",
+    "url": "https://news.usni.org/2026/08/07/70-ships-trapped-in-persian-gulf-as-iran-u-s-conflict-nears-six-months",
+    "date": "2026-08-07T18:52:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "At least 70 ships remain trapped in the Persian Gulf nearly six months into the Iran-U.S. conflict with more ships now being stalled after the ceasefire between the countries broke down. The memorandum of understanding implemented from June 18 to July 8 between Tehran and Washington created the oppo"
+  },
+  {
     "id": "ed4c2fdb79dc",
     "title": "USNI News Western Pacific Pulse: Aug. 7, 2026",
     "url": "https://news.usni.org/2026/08/07/usni-news-western-pacific-pulse-aug-7-2026",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "The following is the July 22, 2026, Congressional Research Service report, China Primer: The People’s Liberation Army.  From the Report The People&#8217;s Liberation Army (PLA) serves the Communist Party of China. Established in 1927, it carried that party to victory in the country&#8217;s civil war"
-  },
-  {
-    "id": "c4ed032938a7",
-    "title": "U.S., Partner Forces Conduct Multilateral Maritime Cooperative Activity",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4557424/us-partner-forces-conduct-multilateral-maritime-cooperative-activity/",
-    "date": "2026-07-28T16:57:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. Navy, Armed Forces of the Philippines and the Japan Maritime Self-Defense Force conducted a multilateral maritime cooperative activity within the Philippines' exclusive economic zone."
-  },
-  {
-    "id": "391b4c1c3c8e",
-    "title": "Joint Russian, Chinese Navy Patrol Sails Near Japan",
-    "url": "https://news.usni.org/2026/07/28/joint-russian-chinese-navy-patrol-sails-near-japan",
-    "date": "2026-07-28T13:52:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Chinese and Russian warships were operating south of Hokkaido, Japan, on Saturday as part of an annual joint patrol, the archipelago country announced over the weekend. The joint patrol includes People’s Liberation Army Navy cruiser CNS Anshan (103), destroyer CNS Kaifeng (124) and fleet oiler CNS K"
-  },
-  {
-    "id": "8fe7b1418a23",
-    "title": "Hegseth Presents Mexican Border Defense Medal to Service Members",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4556429/hegseth-presents-mexican-border-defense-medal-to-service-members/",
-    "date": "2026-07-27T20:34:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Secretary of War Pete Hegseth recognized 50 U.S. service members — including for the first time, Marine Corps personnel — with the Mexican Border Defense Medal."
   }
 ]
