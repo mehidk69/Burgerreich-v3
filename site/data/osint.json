@@ -1,5 +1,15 @@
 [
   {
+    "id": "4e39c2b11f80",
+    "title": "War Department Releases Open Letter to Defense Industry Stakeholders",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4566672/war-department-releases-open-letter-to-defense-industry-stakeholders/",
+    "date": "2026-08-07T22:09:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The War Department is inviting the defense industrial base and the acquisition community to provide input on ways to streamline data and audit requirements related to business systems, as part of Secretary of War Pete Hegseth's arsenal of freedom acquisition transformation strategy."
+  },
+  {
     "id": "63f59ad20ae2",
     "title": "Boys & Girls Clubs Honor Military Youth",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4566639/boys-girls-clubs-honor-military-youth/",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "The War Department kicked off the yearlong Military Compensation Educational Campaign to help service members and their families learn about the total value of their compensation, so they can better achieve and maintain financial readiness."
-  },
-  {
-    "id": "61c1ef4e2b9b",
-    "title": "Report to Congress on the People’s Liberation Army",
-    "url": "https://news.usni.org/2026/07/28/report-to-congress-on-the-peoples-liberation-army-2",
-    "date": "2026-07-28T16:59:03Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The following is the July 22, 2026, Congressional Research Service report, China Primer: The People’s Liberation Army.  From the Report The People&#8217;s Liberation Army (PLA) serves the Communist Party of China. Established in 1927, it carried that party to victory in the country&#8217;s civil war"
   }
 ]
