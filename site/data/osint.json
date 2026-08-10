@@ -1,5 +1,35 @@
 [
   {
+    "id": "dcfa2f4be4dd",
+    "title": "USNI News Fleet and Marine Tracker: Aug. 10, 2026",
+    "url": "https://news.usni.org/2026/08/10/usni-news-fleet-and-marine-tracker-aug-10-2026",
+    "date": "2026-08-10T17:28:48Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of August 10, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the c"
+  },
+  {
+    "id": "7ed86ae03207",
+    "title": "Marines Learn to 3D Print Raiding Craft, Attack Drones in the Western Pacific",
+    "url": "https://news.usni.org/2026/08/10/marines-learn-to-3d-print-raiding-craft-attack-drones-in-the-western-pacific",
+    "date": "2026-08-10T16:25:29Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Marines are learning how to 3D print raiding craft and attack drones while in theater as part of recent exercises in Hawaii, Japan and South Korea. During Exercise Valiant Shield, U.S. Marines with Intermediate Repair Company, 3rd Maintenance Battalion, 3rd Marine Logistics Group, worked with engine"
+  },
+  {
+    "id": "bb8ee06df745",
+    "title": "USS Thomas Hudner Returns to Naval Station Mayport From Deployment",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4567181/uss-thomas-hudner-returns-to-naval-station-mayport-from-deployment/",
+    "date": "2026-08-10T16:00:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The guided-missile destroyer USS Thomas Hudner returned to Naval Station Mayport, Fla., concluding an almost nine-month deployment across multiple geographic theaters, including the U.S. 4th, 5th and 6th Fleet areas of operations."
+  },
+  {
     "id": "4e39c2b11f80",
     "title": "War Department Releases Open Letter to Defense Industry Stakeholders",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4566672/war-department-releases-open-letter-to-defense-industry-stakeholders/",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "Secretary of War Pete Hegseth met recently with intelligence community professionals at Defense Intelligence Agency headquarters to thank them for their work and honor one of the earliest members of the community."
-  },
-  {
-    "id": "aae92709ae9b",
-    "title": "Final Bill for Inactivating, Scrapping Carrier Enterprise Now at $1.3B",
-    "url": "https://news.usni.org/2026/07/28/final-bill-for-inactivating-scrapping-carrier-enterprise-now-at-1-3b",
-    "date": "2026-07-28T21:25:27Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "This post has been corrected to reflect the final plan for Enterprise&#8217;sreactors.  Scrapping “Big E” is costing big bucks. Recycling the Navy’s first nuclear aircraft carrier has cost the branch about $1.3 billion since the former USS Enterprise (CVN-65) was removed from active service in 2012."
-  },
-  {
-    "id": "a2a6b40ded98",
-    "title": "U.S. to Fund Philippine Coast Guard Base Expansion Near South China Sea",
-    "url": "https://news.usni.org/2026/07/28/u-s-to-fund-philippine-coast-guard-base-expansion-near-south-china-sea",
-    "date": "2026-07-28T18:28:55Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "MANILA, PHILIPPINES – The U.S. pledged to fund the expansion of a Coast Guard base used for operations in the South China Sea and increase foreign military financing for Manila last week. The Philippines will receive up to $9 million for the expansion of a pier in the western province of Palawan to"
-  },
-  {
-    "id": "503d715f6af8",
-    "title": "Service Member Compensation More Competitive Than Many Realize, War Department Says",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4557571/service-member-compensation-more-competitive-than-many-realize-war-department-s/",
-    "date": "2026-07-28T17:55:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "The War Department kicked off the yearlong Military Compensation Educational Campaign to help service members and their families learn about the total value of their compensation, so they can better achieve and maintain financial readiness."
   }
 ]
