@@ -1,5 +1,45 @@
 [
   {
+    "id": "36c1abeb148d",
+    "title": "U.S., Moroccan Forces Leverage Africa's Multidomain Experimentation Center",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4567934/us-moroccan-forces-leverage-africas-multidomain-experimentation-center/",
+    "date": "2026-08-10T22:29:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "U.S. service members partnered with Morocco's royal armed forces to enable the first-ever live-fire demonstration leveraging the Africa Multidomain Training and Experimentation Center, supporting a U.S. defense industry partner in testing long-range precision-strike capabilities as part of the Army'"
+  },
+  {
+    "id": "67263430fd1c",
+    "title": "Hegseth Renames Joint Base Charleston to Honor Late Sen. Lindsey Graham",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4567534/hegseth-renames-joint-base-charleston-to-honor-late-sen-lindsey-graham/",
+    "date": "2026-08-10T21:07:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Joint Base Charleston, S.C., became Joint Base Lindsey Graham during a ceremony to rename the installation after the late senator, Air Force veteran and South Carolina native son."
+  },
+  {
+    "id": "bb251de987c7",
+    "title": "NAVSEA Commander Downey Retires, 2 Admirals Take Over Roles in Interim",
+    "url": "https://news.usni.org/2026/08/10/navsea-commander-downey-retires-2-admirals-take-over-roles-in-interim",
+    "date": "2026-08-10T19:31:59Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The dual-hatted Naval Sea Systems Command and Portfolio Acquisition Executive Industrial Operations Vice Adm. Jim Downey retired last week, the Navy announced. Downey, who took charge of NAVSEA in early 2024, retired from both roles in a Thursday ceremony at the Washington Navy Yard in Washington, D"
+  },
+  {
+    "id": "c06d4f78b8c3",
+    "title": "Chinese Army Drones Target Unmanned Surface Vessels in Exercises",
+    "url": "https://news.usni.org/2026/08/10/chinese-army-drones-target-unmanned-surface-vessels-in-exercises",
+    "date": "2026-08-10T18:59:56Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The People’s Liberation Army Ground Force trained last week to use armed drones against unmanned surface vessels, according to state media. A Chinese military media post on Thursday highlighted the armed KVD002 unmanned combat aerial vehicles engaging fast moving drone boats with missiles. The foota"
+  },
+  {
     "id": "dcfa2f4be4dd",
     "title": "USNI News Fleet and Marine Tracker: Aug. 10, 2026",
     "url": "https://news.usni.org/2026/08/10/usni-news-fleet-and-marine-tracker-aug-10-2026",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "U.S. and partner forces conducted more than 35 experiments to test unmanned systems and emerging technologies, pushing interoperability among nations to new limits during the biennial Rim of the Pacific Exercise. “These efforts help us understand how new capabilities fit into the fight and give oper"
-  },
-  {
-    "id": "b1b28110f45e",
-    "title": "U.S. Reveals Coast Guard Cooperation with Taiwan",
-    "url": "https://news.usni.org/2026/07/29/u-s-reveals-coast-guard-cooperation-with-taiwan",
-    "date": "2026-07-29T16:30:40Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.S. and Taiwanese officials revealed this week that a joint exercise was held at an unspecified time between their respective Coast Guard agencies. Media from the American Institute in Taiwan and the Ocean Affairs Council show the U.S. Coast Guard Cutter USS Midgett (WMSL 757) sailing alongside the"
-  },
-  {
-    "id": "b72e4289a591",
-    "title": "From the First Call to the Final Shot: Air Force Police Squadron Builds Combat-Ready Defenders",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4558613/from-the-first-call-to-the-final-shot-air-force-police-squadron-builds-combat-r/",
-    "date": "2026-07-29T15:54:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Airmen participated in a field training exercise in Germany to test their ability to maintain operational security and execute mission objectives under high-stress conditions."
-  },
-  {
-    "id": "44bbd9c2f08c",
-    "title": "Report to Congress on the U.S. Marine Corps Ground Combat Element 2040 Initiative",
-    "url": "https://news.usni.org/2026/07/29/report-to-congress-on-the-u-s-marine-corps-ground-combat-element-2040-initiative",
-    "date": "2026-07-29T14:34:50Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "The following is the July 28, 2026, Congressional Research Service report, U.S. Marine Corps Ground Combat Element (GCE) 2040 Initiative. From the Report In March 2020, the U.S. Marine Corps announced a major force design initiative it referred to as &#8220;Force Design 2030,&#8221; now known as &#8"
-  },
-  {
-    "id": "785b11ba2588",
-    "title": "DIA Headquarters Auditorium Renamed for Intelligence Pioneer",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4553618/dia-headquarters-auditorium-renamed-for-intelligence-pioneer/",
-    "date": "2026-07-29T14:05:33Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Secretary of War Pete Hegseth met recently with intelligence community professionals at Defense Intelligence Agency headquarters to thank them for their work and honor one of the earliest members of the community."
   }
 ]
