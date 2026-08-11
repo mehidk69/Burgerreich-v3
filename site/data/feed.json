@@ -1,5 +1,55 @@
 [
   {
+    "id": "d0af6bee83fa",
+    "title": "Destroyers Thomas Hudner, Pinckney Return from Deployments",
+    "url": "https://news.usni.org/2026/08/11/destroyers-thomas-hudner-pinckney-return-from-deployments",
+    "date": "2026-08-11T17:36:07Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Destroyers USS Thomas Hudner (DDG-116) and USS Pinckney (DDG-91) returned this week to their homeports following more than eight-month-long deployments, the U.S. Navy announced. Thomas Hudner returned Sunday to Naval Station Mayport, Fla. The destroyer’s deployment took the crew to the U.S. 4th, 5th"
+  },
+  {
+    "id": "f6fe9788386a",
+    "title": "National Guard Continues Washington Wildfire Support",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4568436/national-guard-continues-washington-wildfire-support/",
+    "date": "2026-08-11T17:20:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "National Guard aviation crews have flown 225 flight hours, dropping nearly 1.2 million gallons of water on fires across eastern and central Washington."
+  },
+  {
+    "id": "848989f02e12",
+    "title": "Exercise Tenacious Archer Strengthens Joint Air Defense Readiness",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4568480/exercise-tenacious-archer-strengthens-joint-air-defense-readiness/",
+    "date": "2026-08-11T17:11:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "U.S. service members and partner nations conducted joint air and missile defense training to strengthen regional security and interoperability in the Pacific as part of Exercise Tenacious Archer in Palau."
+  },
+  {
+    "id": "b62b19cb7492",
+    "title": "Royal Navy Reports 25 Percent Increase in Russian Activity in U.K., North Atlantic Waters",
+    "url": "https://news.usni.org/2026/08/11/royal-navy-reports-25-percent-increase-in-russian-activity-in-u-k-north-atlantic-waters",
+    "date": "2026-08-11T16:14:04Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Russian activity around the U.K. and in the North Atlantic has risen 25 percent in the first half of the year compared to the same time frame in 2025, according to the Royal Navy. The year-on-year data was included in a Saturday news release, with the Royal Navy attributing the increase to Russian N"
+  },
+  {
+    "id": "df6fe2d7befd",
+    "title": "Report to Congress on Taiwan and U.S. Relations",
+    "url": "https://news.usni.org/2026/08/11/report-to-congress-on-taiwan-and-u-s-relations-2",
+    "date": "2026-08-11T13:35:38Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the Aug. 5, 2026, Congressional Research Service report, Taiwan: Background and U.S. Relations. From the Report Taiwan, which also calls itself the Republic of China (ROC) and was once known as Formosa, is a self-governing East Asian democracy located across the Taiwan Strait from m"
+  },
+  {
     "id": "a8bd1bdbd2dd",
     "title": "Hanwha Makes $1B Bid to Acquire Austal USA, Shipbuilder Declares $79.73M Loss",
     "url": "https://news.usni.org/2026/08/10/hanwha-makes-1b-bid-to-acquire-austal-usa-shipbuilder-declares-79-73m-loss",
@@ -598,56 +648,6 @@
     "cocom": "centcom",
     "tag": "exercise",
     "summary": "U.S. Air Force Special Warfare Airmen participated in Operation Iron Covenant, a culminating exercise designed to strengthen personnel recovery capabilities and prepare rescue forces for deployment through realistic, scenario-based training. The exercise evaluated the readiness of rescue teams taske"
-  },
-  {
-    "id": "519ad279d7ec",
-    "title": "Vice Chairman Presents Purple Heart to Operation Iraqi Freedom Vets",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4559355/vice-chairman-presents-purple-heart-to-operation-iraqi-freedom-vets/",
-    "date": "2026-07-29T22:42:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Marine Corps Gen. Christopher J. Mahoney, vice chairman of the Joint Chiefs of Staff, presented the Purple Heart to six service members — four retired, one on active duty and one receiving it posthumously — during a ceremony in the Pentagon's Hall of Heroes."
-  },
-  {
-    "id": "34059dc4cede",
-    "title": "Vice Chairman Presents Purple Heart to Service Members Injured in Operation Iraqi Freedom Grenade Attack",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4559355/vice-chairman-presents-purple-heart-to-service-members-injured-in-operation-ira/",
-    "date": "2026-07-29T22:42:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Marine Corps Gen. Christopher J. Mahoney, vice chairman of the Joint Chiefs of Staff, presented the Purple Heart to six service members — four of them retired, one on active duty and one receiving it posthumously — during a ceremony in the Pentagon's Hall of Heroes."
-  },
-  {
-    "id": "9568a78fc140",
-    "title": "Vice Joint Chiefs Chairman Presents Purple Heart to Recipients of 2003 Operation Iraqi Freedom Grenade Attack",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4559355/vice-joint-chiefs-chairman-presents-purple-heart-to-recipients-of-2003-operatio/",
-    "date": "2026-07-29T22:42:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Marine Corps Gen. Christopher J. Mahoney, vice chairman of the Joint Chiefs of Staff, presented the Purple Heart to six service members — four of them retired, one on active duty and one receiving it posthumously — during a ceremony in the Pentagon's Hall of Heroes."
-  },
-  {
-    "id": "d8cad00bf65b",
-    "title": "Navy Awards $76.6B for 9 Virginia, 5 Columbia Subs to General Dynamics, HII",
-    "url": "https://news.usni.org/2026/07/29/navy-awards-76-6b-for-9-virginia-5-columbia-subs-to-general-dynamics-hii",
-    "date": "2026-07-29T21:09:35Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "This post has been updated with an additional statement from the Navy and General Dyanmics. The U.S. Navy awarded General Dynamics Electric Boat and HII $76.6 billion in contracts on Wednesday for the next batch of attack and ballistic missile submarines after a nearly three-year delay. The award is"
-  },
-  {
-    "id": "4685c58686b3",
-    "title": "Fort Rucker's Unmanned Advanced Lethality Course Ramps Up Tactical Drone Training",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4559199/fort-ruckers-unmanned-advanced-lethality-course-ramps-up-tactical-drone-training/",
-    "date": "2026-07-29T20:47:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "The Unmanned Advanced Lethality Course at Fort Rucker, Ala., is pushing forward with a series of updates aimed at strengthening tactical proficiency and meeting student expectations."
   },
   {
     "id": "3cc27c9cc702",
