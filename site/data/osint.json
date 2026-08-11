@@ -1,5 +1,15 @@
 [
   {
+    "id": "a8bd1bdbd2dd",
+    "title": "Hanwha Makes $1B Bid to Acquire Austal USA, Shipbuilder Declares $79.73M Loss",
+    "url": "https://news.usni.org/2026/08/10/hanwha-makes-1b-bid-to-acquire-austal-usa-shipbuilder-declares-79-73m-loss",
+    "date": "2026-08-11T02:59:08Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "South Korean Shipbuilder Hanwha has made a $1 billion bid for the U.S. subsidiary of Australian shipbuilder Austal, Austal disclosed in a regulatory filing on Tuesday morning Australian time. Austal also revised its previous guidance from an estimated $77.6 million (AUD 110 million) in profits to a"
+  },
+  {
     "id": "36c1abeb148d",
     "title": "U.S., Moroccan Forces Leverage Africa's Multidomain Experimentation Center",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4567934/us-moroccan-forces-leverage-africas-multidomain-experimentation-center/",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "The Unmanned Advanced Lethality Course at Fort Rucker, Ala., is pushing forward with a series of updates aimed at strengthening tactical proficiency and meeting student expectations."
-  },
-  {
-    "id": "2ee7f5788eb0",
-    "title": "More than 35 Experiments Test Unmanned Systems, Emerging Technologies During RIMPAC",
-    "url": "https://news.usni.org/2026/07/29/more-than-35-experiments-test-unmanned-systems-emerging-technologies-during-rimpac",
-    "date": "2026-07-29T18:16:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "U.S. and partner forces conducted more than 35 experiments to test unmanned systems and emerging technologies, pushing interoperability among nations to new limits during the biennial Rim of the Pacific Exercise. “These efforts help us understand how new capabilities fit into the fight and give oper"
   }
 ]
