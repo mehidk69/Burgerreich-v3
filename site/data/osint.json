@@ -1,5 +1,15 @@
 [
   {
+    "id": "ad9243bea675",
+    "title": "Report to Congress on the MQ-25 Stingray",
+    "url": "https://news.usni.org/2026/08/12/report-to-congress-on-the-mq-25-stingray",
+    "date": "2026-08-12T13:18:01Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The following is the Aug. 12, 2026, Congressional Research Service report, MQ-25 Stingray: Background and Issues for Congress. From the Report The U.S. Navy is developing a carrier-based uncrewed aircraft system (UAS) to perform aerial refueling and intelligence, surveillance, and reconnaissance (IS"
+  },
+  {
     "id": "1252518147bc",
     "title": "ManTech Marks 70 Years of Creating Innovative Military Solutions",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4569062/mantech-marks-70-years-of-creating-innovative-military-solutions/",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "ground",
     "summary": "For 251 years, the Army Chaplain Corps provided faith-based, intentional support aimed at serving each soldier wholly, helping them find strength during difficult circumstances, build resilience for the challenges of battle and prepare to thrive in life beyond military service."
-  },
-  {
-    "id": "573121dad1b5",
-    "title": "Report to Congress on Red Sea Security, Yemen",
-    "url": "https://news.usni.org/2026/07/30/report-to-congress-on-yemen-red-sea-security",
-    "date": "2026-07-30T14:04:02Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is the July 21, 2026, Congressional Research Service report, Yemen: Conflict, Red Sea Security, and U.S. Policy.  From the Report Yemen is a conflict-afflicted nation along the strategic Bab al Mandab Strait, one of the world&#8217;s most active shipping lanes. The Strait has become a"
   }
 ]
