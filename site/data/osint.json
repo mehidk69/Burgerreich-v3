@@ -1,5 +1,15 @@
 [
   {
+    "id": "1252518147bc",
+    "title": "ManTech Marks 70 Years of Creating Innovative Military Solutions",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4569062/mantech-marks-70-years-of-creating-innovative-military-solutions/",
+    "date": "2026-08-11T21:33:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The War Department marked the 70th anniversary of its Manufacturing Technology enterprise, which solves challenges beyond industry partners' investment capacity and risk tolerance, by showcasing the program's innovative technologies during events at the Pentagon."
+  },
+  {
     "id": "d0af6bee83fa",
     "title": "Destroyers Thomas Hudner, Pinckney Return from Deployments",
     "url": "https://news.usni.org/2026/08/11/destroyers-thomas-hudner-pinckney-return-from-deployments",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The following is the July 21, 2026, Congressional Research Service report, Yemen: Conflict, Red Sea Security, and U.S. Policy.  From the Report Yemen is a conflict-afflicted nation along the strategic Bab al Mandab Strait, one of the world&#8217;s most active shipping lanes. The Strait has become a"
-  },
-  {
-    "id": "36e4b2d4f0fb",
-    "title": "USS George Washington Arrives in Da Nang, First Carrier Visit to Vietnam since 2023",
-    "url": "https://news.usni.org/2026/07/30/uss-george-washington-arrives-in-da-nang-first-carrier-visit-to-vietnam-since-2023",
-    "date": "2026-07-30T10:51:52Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Aircraft carrier USS George Washington (CVN 73) pulled into Da Nang today for a scheduled port visit, marking the first American aircraft carrier to Vietnam since 2023. George Washington and its two escorts &#8211; Ticonderoga-class cruiser USS Robert Smalls (CG-62) and Arleigh Burke-class destroyer"
   }
 ]
