@@ -1,5 +1,45 @@
 [
   {
+    "id": "4e07d42f9fef",
+    "title": "Chinese, Indonesian Warships Drill East of Taiwan",
+    "url": "https://news.usni.org/2026/08/13/chinese-indonesian-warships-drill-east-of-taiwan",
+    "date": "2026-08-13T18:32:53Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "TAIPEI, TAIWAN – Chinese and Indonesian warships held a joint drill on Wednesday in waters to Taipei’s east amid Beijing’s increased efforts to solidify its presence east of Taiwan. The People’s Liberation Army Navy Type 054A-class guided-missile frigate Honghe (523) and Indonesian Navy Bung Tomo-cl"
+  },
+  {
+    "id": "e5a8ccd7c6b2",
+    "title": "USS George Washington Heading West, Lincoln Deployment Nears 9 Months",
+    "url": "https://news.usni.org/2026/08/13/uss-george-washington-heading-west-lincoln-deployment-nears-9-months",
+    "date": "2026-08-13T16:58:27Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The forward-deployed George Washington Carrier Strike Group was in the Strait of Malacca on Thursday, USNI News has learned. Flagship USS George Washington (CVN-73), as well as cruiser USS Robert Smalls (CG-62) and destroyer USS Shoup (DDG-86), were in the Strait of Malacca after making a westbound"
+  },
+  {
+    "id": "7cad096454cc",
+    "title": "Army Reserve Engineers Train Across Multiple Missions During Exercise Northern Strike",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4572953/army-reserve-engineers-train-across-multiple-missions-during-exercise-northern/",
+    "date": "2026-08-13T16:38:37Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "Soldiers trained on diverse combat and defense skills during Exercise Northern Strike at Camp Grayling, Mich., to boost battlefield readiness."
+  },
+  {
+    "id": "8bd12746c6c7",
+    "title": "Report to Congress on the U.S. Space Force",
+    "url": "https://news.usni.org/2026/08/13/report-to-congress-on-the-u-s-space-force",
+    "date": "2026-08-13T14:02:48Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the Aug. 10, 2026, Congressional Research Service defense primer on the U.S. Space Force. From the Report The U.S. Space Force, established by Congress in 2019 (P.L. 116-92, §952), is one of the six branches of the Armed Forces. According to Title 10, Section 9081, of the U.S. Code,"
+  },
+  {
     "id": "4a2535e39826",
     "title": "Hegseth Touts Americas Counter Cartel Coalition During Panama Visit",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Traffic levels in the Strait of Hormuz last week dropped yet again, bringing the flow of ships through the Middle East passageway to levels not seen since March, shortly after the conflict between Iran and the United States began. Transits were down 52.4 percent between July 20 and Sunday from July"
-  },
-  {
-    "id": "dc8b77cfd816",
-    "title": "BREAKING: F-35B Crashes Near Marine Corps Air Station Miramar",
-    "url": "https://news.usni.org/2026/07/31/breaking-f-35b-crashes-near-marine-corps-air-station-miramar",
-    "date": "2026-07-31T18:48:17Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "A Marine Corps F-35B Joint Strike Fighter Lightning II crashed near Marine Corps Air Station Miramar in California on Friday, a service spokesperson confirmed to USNI News. The pilot ejected from the jet and is on their way to a hospital. “We can confirm a mishap involving a Marine Corps F-35B in th"
-  },
-  {
-    "id": "92894863d461",
-    "title": "USNI News Western Pacific Pulse: July 31, 2026",
-    "url": "https://news.usni.org/2026/07/31/usni-news-western-pacific-pulse-july-31-2026",
-    "date": "2026-07-31T16:59:54Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Hawaii The Rim of the Pacific (RIMPAC) 2026 exercise in Hawaii closed on Friday after more than a month of drills. Forces from 30 nations, comprising 30,000 personnel, 31 surface ships,"
-  },
-  {
-    "id": "a193aeeee36b",
-    "title": "USS Minnesota Completes First Forward-Deployment",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4561139/uss-minnesota-completes-first-forward-deployment/",
-    "date": "2026-07-31T16:37:54Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The submarine USS Minnesota returned to its home port at Naval Base Guam after completing its first deployment since becoming the Navy's first forward-deployed submarine."
-  },
-  {
-    "id": "dee3a84d5619",
-    "title": "Oregon Guard Aircrews Support State Wildfire Response",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4561168/oregon-guard-aircrews-support-state-wildfire-response/",
-    "date": "2026-07-31T16:16:47Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Oregon Army National Guard members began water bucket operations in support of wildland firefighting efforts in Umatilla County, part of a broader National Guard response to the state's wildfire season."
   }
 ]
