@@ -1,5 +1,55 @@
 [
   {
+    "id": "d9eeb462686a",
+    "title": "U.S. Air Force Airmen conduct rapid rescue of Navy helicopter crew",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4574444/us-air-force-airmen-conduct-rapid-rescue-of-navy-helicopter-crew/",
+    "date": "2026-08-14T18:30:51Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "On Aug. 10, Airmen from the 355th Aircraft Maintenance Squadron, assigned to the 355th Wing but geographically located at Nellis Air Force Base, and the 88th Test and Evaluation Squadron rapidly generated and deployed two HH-60W Jolly Green II helicopters to rescue five U.S. Navy personnel following"
+  },
+  {
+    "id": "dffc18a36c96",
+    "title": "SNCO Professional Enhancement Seminar",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4574433/snco-professional-enhancement-seminar/",
+    "date": "2026-08-14T18:22:14Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "U.S. Air Force master sergeants and master sergeant selects participated in the Senior Noncommissioned Officer Professional Enhancement Seminar at Davis-Monthan Air Force Base, Arizona, Aug. 3-5, 2026.<br />"
+  },
+  {
+    "id": "668d5ff207fe",
+    "title": "U.S. Focused on Quiet Collaboration with Pacific Allies, Not ‘Tub Thumping,’ Says Colby",
+    "url": "https://news.usni.org/2026/08/14/u-s-focused-on-quiet-collaboration-with-pacific-allies-not-tub-thumping-says-colby",
+    "date": "2026-08-14T16:25:34Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The Trump administration is focused on delivering military capabilities to the Indo-Pacific to strengthen deterrence, Under Secretary of Defense for Policy Elbridge Colby said Thursday during his week-long tour of the region. “Everybody knows our position on those issues,” Colby said on Thursday to"
+  },
+  {
+    "id": "bb7dcb768cbd",
+    "title": "U.S. Forces Japan Airlifts Supplies to Region Recovering From Earthquake",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4574045/us-forces-japan-airlifts-supplies-to-region-recovering-from-earthquake/",
+    "date": "2026-08-14T16:08:16Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "U.S. Forces Japan rapidly delivered more than 100,000 pounds of humanitarian aid to Kumamoto Prefecture, Japan, following a devastating earthquake."
+  },
+  {
+    "id": "1b647d5343f2",
+    "title": "Centcom Launches First-Ever Multinational Attack Drone Task Force",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4573946/centcom-launches-first-ever-multinational-attack-drone-task-force/",
+    "date": "2026-08-14T14:23:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "U.S. Central Command announced efforts to establish the first multidomain, multinational attack drone task force, which will employ one-way attack drones operated by military support staff from the United States and regional partners."
+  },
+  {
     "id": "69a860018885",
     "title": "New White House Memo Calls for Foreign-Built Warships, Return to Steam Catapults on Ford Carriers",
     "url": "https://news.usni.org/2026/08/13/new-white-house-memo-calls-for-foreign-built-warships-return-to-steam-catapults-on-ford-carriers",
@@ -73,7 +123,7 @@
     "id": "7cad096454cc",
     "title": "Army Reserve Engineers Train Across Multiple Missions During Exercise Northern Strike",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4572953/army-reserve-engineers-train-across-multiple-missions-during-exercise-northern/",
-    "date": "2026-08-13T16:38:37Z",
+    "date": "2026-08-13T16:38:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "exercise",
@@ -598,36 +648,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "ABOARD AIRCRAFT CARRIER USS NIMITZ — Four hundred former USS Nimitz (CVN-68) sailors and their families streamed off buses on Pier 14 at Naval Station Norfolk, Va., and up the brow of the oldest carrier in the Navy for a final goodbye. The guest of honor was the first commander of the carrier, 94-ye"
-  },
-  {
-    "id": "d3625ec6481b",
-    "title": "Navy Relieves Commander of Sub USS West Virginia",
-    "url": "https://news.usni.org/2026/08/03/navy-relieves-commander-of-sub-uss-west-virginia",
-    "date": "2026-08-03T20:19:34Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Cmdr. Joseph Sammur was relieved as the commanding officer of USS West Virginia (SSBN-736) (Blue Crew) last week due to a loss of confidence, the Navy announced Saturday. Sammur’s relief follows an investigation into a maintenance issue, a Submarine Forces Public Affairs spokesperson told USNI News"
-  },
-  {
-    "id": "7b043ce3a28e",
-    "title": "Largest Pacific Joint Maritime Exercise Successfully Concludes",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4562605/largest-pacific-joint-maritime-exercise-successfully-concludes/",
-    "date": "2026-08-03T18:49:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The 30th iteration of Exercise Rim of the Pacific brought together 30 nations, and demonstrated that maritime security is strengthened through trust, cooperation and shared values."
-  },
-  {
-    "id": "368c1333f6b6",
-    "title": "Chinese Warships, Bombers Surge to Scarborough Shoal for Drills",
-    "url": "https://news.usni.org/2026/08/03/chinese-warships-bombers-surge-to-scarborough-shoal-for-drills",
-    "date": "2026-08-03T16:50:38Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "MANILA, PHILIPPINES – Beijing surged an amphibious group and bombers equipped for maritime strike to Scarborough Shoal over the weekend, flexing its power projection capabilities at the disputed South China Sea maritime feature 120 nautical miles off the Philippines. Chinese forces took to the air a"
   },
   {
     "id": "fb1e2c92ac80",
@@ -1473,26 +1493,6 @@
     "id": "22e8808ab693",
     "title": "Directorates and Staff",
     "url": "https://www.africom.mil/about-the-command/directorates-and-staff",
-    "date": "2026-04-09T01:11:50Z",
-    "source": "AFRICOM",
-    "cocom": "africom",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "c6c997c514b6",
-    "title": "J1 - Manpower and Personnel",
-    "url": "https://www.africom.mil/about-the-command/directorates-and-staff/j1---manpower-and-personnel",
-    "date": "2026-04-09T01:11:50Z",
-    "source": "AFRICOM",
-    "cocom": "africom",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "333671d22df9",
-    "title": "J2 - Intelligence",
-    "url": "https://www.africom.mil/about-the-command/directorates-and-staff/j2---intelligence",
     "date": "2026-04-09T01:11:50Z",
     "source": "AFRICOM",
     "cocom": "africom",
