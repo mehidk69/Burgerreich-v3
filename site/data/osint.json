@@ -1,5 +1,45 @@
 [
   {
+    "id": "69a860018885",
+    "title": "New White House Memo Calls for Foreign-Built Warships, Return to Steam Catapults on Ford Carriers",
+    "url": "https://news.usni.org/2026/08/13/new-white-house-memo-calls-for-foreign-built-warships-return-to-steam-catapults-on-ford-carriers",
+    "date": "2026-08-13T23:15:54Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "President Donald Trump has ordered the Pentagon to consider foreign-built warships and auxiliary vessels for the U.S. Navy, in addition to other proposed changes to shipbuilding, in a sweeping presidential memo released on Thursday. Citing a lack of capacity in the U.S. naval shipbuilding base and c"
+  },
+  {
+    "id": "c459197ab47f",
+    "title": "Presidential Memo: Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
+    "url": "https://news.usni.org/2026/08/13/presidential-memo-rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base",
+    "date": "2026-08-13T21:46:21Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The following is President Donald Trump&#8217;s presidential memorandum, Rebuilding the United States Navy and America&#8217;s Shipbuilding Industrial Base, signed Aug. 13, 2026. From the Memorandum MEMORANDUM FOR THE SECRETARY OF WAR THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE ASSISTANT"
+  },
+  {
+    "id": "522e3749bc44",
+    "title": "Marine Corps Recruit Dies After Collapsing During Training",
+    "url": "https://news.usni.org/2026/08/13/marine-corps-recruit-dies-after-collapsing-during-training",
+    "date": "2026-08-13T20:03:36Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "Private Aiden Craig, a Marine Corps recruit, died last week, the Marine Corps announced Wednesday. Craig, of Wylie, Texas, died on Aug. 5 after collapsing during a physical fitness test on Aug. 1, according to a Marine Corps release. While the release did not provide additional details, a podcast on"
+  },
+  {
+    "id": "e3f02a5e2a07",
+    "title": "Southcom Mission Shifts to Protecting Sovereignty of U.S., Partner Nations",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4572889/southcom-mission-shifts-to-protecting-sovereignty-of-us-partner-nations/",
+    "date": "2026-08-13T19:59:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Secretary of War Pete Hegseth met in Panama with U.S. service members who are learning how to survive in the most brutal, unforgiving jungles of the Western Hemisphere, all while retaining their combat effectiveness."
+  },
+  {
     "id": "4e07d42f9fef",
     "title": "Chinese, Indonesian Warships Drill East of Taiwan",
     "url": "https://news.usni.org/2026/08/13/chinese-indonesian-warships-drill-east-of-taiwan",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "MANILA, PHILIPPINES – Beijing surged an amphibious group and bombers equipped for maritime strike to Scarborough Shoal over the weekend, flexing its power projection capabilities at the disputed South China Sea maritime feature 120 nautical miles off the Philippines. Chinese forces took to the air a"
-  },
-  {
-    "id": "c906c3927abc",
-    "title": "Marine Expeditionary Unit Transits Panama Canal",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4562420/marine-expeditionary-unit-transits-panama-canal/",
-    "date": "2026-08-03T16:31:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The 24th Marine Expeditionary Unit — operating as Littoral Combat Force 24 — recently transited the Panama Canal aboard the amphibious transport dock USS San Antonio, marking the first time a Marine expeditionary unit has navigated the canal since 2008."
-  },
-  {
-    "id": "81ae42d3ceb0",
-    "title": "USNI News Fleet and Marine Tracker: Aug. 3, 2026",
-    "url": "https://news.usni.org/2026/08/03/usni-news-fleet-and-marine-tracker-aug-3-2026",
-    "date": "2026-08-03T15:36:38Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of August 3, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the ca"
-  },
-  {
-    "id": "fbb916756457",
-    "title": "Hegseth: Department Success Buoyed by Courage, Spirit, Leadership",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4561838/hegseth-department-success-buoyed-by-courage-spirit-leadership/",
-    "date": "2026-07-31T21:20:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The War Department has had a lot of success in the past 19 months, in no small part due to the men and women of the U.S. military, but also because of presidential leadership, Secretary of War Pete Hegseth said during a cabinet meeting at Camp David, Md."
-  },
-  {
-    "id": "77bcda6f8854",
-    "title": "Hormuz Traffic Levels Continue Decreasing, Houthis in Yemen Threaten Saudi Tankers",
-    "url": "https://news.usni.org/2026/07/31/hormuz-traffic-levels-continue-decreasing-houthis-in-yemen-threaten-saudi-tankers",
-    "date": "2026-07-31T19:14:28Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Traffic levels in the Strait of Hormuz last week dropped yet again, bringing the flow of ships through the Middle East passageway to levels not seen since March, shortly after the conflict between Iran and the United States began. Transits were down 52.4 percent between July 20 and Sunday from July"
   }
 ]
