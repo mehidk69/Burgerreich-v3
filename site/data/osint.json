@@ -1,5 +1,15 @@
 [
   {
+    "id": "e0b2e3093d38",
+    "title": "USNI News Western Pacific Pulse: Aug. 14, 2026",
+    "url": "https://news.usni.org/2026/08/14/usni-news-western-pacific-pulse-aug-14-2026",
+    "date": "2026-08-14T20:16:00Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In the Strait of Malacca The George Washington Carrier Strike Group transited the Malacca Strait to enter the Andaman Sea on Thursday, USNI News reported. The strike group includes aircraft"
+  },
+  {
     "id": "668d5ff207fe",
     "title": "U.S. Focused on Quiet Collaboration with Pacific Allies, Not ‘Tub Thumping,’ Says Colby",
     "url": "https://news.usni.org/2026/08/14/u-s-focused-on-quiet-collaboration-with-pacific-allies-not-tub-thumping-says-colby",
@@ -13,7 +23,7 @@
     "id": "bb7dcb768cbd",
     "title": "U.S. Forces Japan Airlifts Supplies to Region Recovering From Earthquake",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4574045/us-forces-japan-airlifts-supplies-to-region-recovering-from-earthquake/",
-    "date": "2026-08-14T16:08:16Z",
+    "date": "2026-08-14T16:08:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "air",
@@ -77,7 +87,7 @@
     "source": "USNI News",
     "cocom": "osint",
     "tag": "naval",
-    "summary": "TAIPEI, TAIWAN – Chinese and Indonesian warships held a joint drill on Wednesday in waters to Taipei’s east amid Beijing’s increased efforts to solidify its presence east of Taiwan. The People’s Liberation Army Navy Type 054A-class guided-missile frigate Honghe (523) and Indonesian Navy Bung Tomo-cl"
+    "summary": "This story has been updated to correct the participating Indonesian Navy ship.  TAIPEI, TAIWAN – Chinese and Indonesian warships held a joint drill on Wednesday in waters to Taipei’s east amid Beijing’s increased efforts to solidify its presence east of Taiwan. The People’s Liberation Army Navy Type"
   },
   {
     "id": "e5a8ccd7c6b2",
@@ -588,15 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "President Donald J. Trump signed an executive order in the White House's Oval Office establishing the President's Military Spouse Commission."
-  },
-  {
-    "id": "c76bc0fa7887",
-    "title": "A Last Look at ‘Old Salt’: Former USS Nimitz Sailors Say Goodbye",
-    "url": "https://news.usni.org/2026/08/03/a-last-look-at-old-salt-former-uss-nimitz-sailors-say-goodbye",
-    "date": "2026-08-03T20:34:08Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "ABOARD AIRCRAFT CARRIER USS NIMITZ — Four hundred former USS Nimitz (CVN-68) sailors and their families streamed off buses on Pier 14 at Naval Station Norfolk, Va., and up the brow of the oldest carrier in the Navy for a final goodbye. The guest of honor was the first commander of the carrier, 94-ye"
   }
 ]
