@@ -1,5 +1,15 @@
 [
   {
+    "id": "e8dec182937d",
+    "title": "USS Benfold Was Stalled in the South China Sea for Four Days After Engineering Casualty",
+    "url": "https://news.usni.org/2026/08/14/uss-benfold-was-stalled-in-the-south-china-sea-for-four-days-after-engineering-casualty",
+    "date": "2026-08-15T02:16:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Guided-missile destroyer USS Benfold (DDG-65) spent four days in the South China Sea without power after an engineering failure, USNI News has learned. Benfold suffered the engineering casualty resulting in a loss of power last month, Cmdr. Matthew Comer, spokesperson with U.S. 7th Fleet, told USNI"
+  },
+  {
     "id": "e0b2e3093d38",
     "title": "USNI News Western Pacific Pulse: Aug. 14, 2026",
     "url": "https://news.usni.org/2026/08/14/usni-news-western-pacific-pulse-aug-14-2026",
@@ -648,16 +658,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The following is the English translation of Japan’s 2026 Defense White Paper digest, released Aug. 4, 2026.  From the Report The time has come for our annual release of our white paper, “Defense of Japan.” Each year personnel from around the Ministry of Defense (MOD), including civilians and members"
-  },
-  {
-    "id": "09bf6df695f7",
-    "title": "Trump Establishes Military Spouse Commission",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4562726/trump-establishes-military-spouse-commission/",
-    "date": "2026-08-03T21:03:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "President Donald J. Trump signed an executive order in the White House's Oval Office establishing the President's Military Spouse Commission."
   },
   {
     "id": "fb1e2c92ac80",
