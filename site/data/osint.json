@@ -1,5 +1,35 @@
 [
   {
+    "id": "bc61e966b01d",
+    "title": "Fighter Wing Trains to Keep F-35s in the Fight",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4575190/fighter-wing-trains-to-keep-f-35s-in-the-fight/",
+    "date": "2026-08-17T16:56:34Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Airmen assigned to the 187th Fighter Wing, known as the Red Tails, trained to generate and sustain F-35A Lightning II combat airpower under pressure during Operation Tuskegee Thunder at Dannelly Field, Ala."
+  },
+  {
+    "id": "4acdad470905",
+    "title": "USNI News Fleet and Marine Tracker: Aug. 17, 2026",
+    "url": "https://news.usni.org/2026/08/17/usni-news-fleet-and-marine-tracker-aug-17-2026",
+    "date": "2026-08-17T16:44:25Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 17, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
+  },
+  {
+    "id": "e4d31dc61ba3",
+    "title": "USS Benfold Leaves Japan After Returning from Power Failure Repairs",
+    "url": "https://news.usni.org/2026/08/17/uss-benfold-leaves-japan-after-returning-from-power-failure-repairs",
+    "date": "2026-08-17T15:41:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "USS Benfold (DDG-65) departed Yokosuka, Japan, on Monday, after stopping in the Japanese port for a scheduled visit, according to ship spotters. The Arleigh Burke-class guided-missile destroyer pulled into Yokosuka on Thursday, USNI News previously reported. About five days prior, Benfold left Subic"
+  },
+  {
     "id": "e8dec182937d",
     "title": "USS Benfold Was Stalled in the South China Sea for Four Days After Engineering Casualty",
     "url": "https://news.usni.org/2026/08/14/uss-benfold-was-stalled-in-the-south-china-sea-for-four-days-after-engineering-casualty",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "Washington National Guardsmen accumulated 146.5 flight hours and dropped 1,181 buckets of water as wildfires spread across the state recently, working with state and local partners to protect communities, property and critical infrastructure."
-  },
-  {
-    "id": "34347f58f012",
-    "title": "Air National Guard Squadron Sharpens Readiness in Jungle Terrain",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4563721/air-national-guard-squadron-sharpens-readiness-in-jungle-terrain/",
-    "date": "2026-08-04T18:03:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "For two weeks, airmen assigned to the Ohio Air National Guard's 178th Security Forces Squadron challenged themselves through annual training designed to strengthen small-unit tactics, decision-making and expeditionary readiness."
-  },
-  {
-    "id": "75b5e536db98",
-    "title": "European Union Naval Task Force Intercepts Suspected Russian Shadow Tanker",
-    "url": "https://news.usni.org/2026/08/04/european-union-naval-task-force-intercepts-suspected-russian-shadow-tanker",
-    "date": "2026-08-04T15:53:47Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The European Union’s Naval Force Mediterranean intercepted a tanker on Sunday that is suspected of being part of Russia’s shadow fleet. Italian Navy multi-purpose combat ship ITS Thaon di Revel (P430), flagship of the EU’s Operation Irini, conducted a flag verification boarding of sanctioned tanker"
-  },
-  {
-    "id": "0d5241c93df6",
-    "title": "Japan’s 2026 Defense White Paper Digest",
-    "url": "https://news.usni.org/2026/08/04/japans-2026-defense-white-paper-digest",
-    "date": "2026-08-04T13:46:32Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is the English translation of Japan’s 2026 Defense White Paper digest, released Aug. 4, 2026.  From the Report The time has come for our annual release of our white paper, “Defense of Japan.” Each year personnel from around the Ministry of Defense (MOD), including civilians and members"
   }
 ]

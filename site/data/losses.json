@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "be74dc69233d",
+      "type": "Destroyer",
+      "qty": 1,
+      "source": "USNI News",
+      "date": "2026-08-17T15:41:52Z",
+      "headline": "USS Benfold Leaves Japan After Returning from Power Failure Repairs",
+      "context": "USS Benfold Leaves Japan After Returning from Power Failure Repairs USS Benfold (DDG-65) departed Yokosuka, Japan, on Monday, after stopping in the Japanese port for a scheduled visit, according to sh",
+      "url": "https://news.usni.org/2026/08/17/uss-benfold-leaves-japan-after-returning-from-power-failure-repairs"
+    },
+    {
       "id": "dc9d2b0e73b5",
       "type": "F-35 Lightning II",
       "qty": 1,
@@ -211,5 +221,5 @@
       "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard"
     }
   ],
-  "updated": "2026-08-17T13:58:27Z"
+  "updated": "2026-08-17T18:23:03Z"
 }
