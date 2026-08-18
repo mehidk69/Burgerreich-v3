@@ -1,9 +1,29 @@
 [
   {
+    "id": "175b88ad04fa",
+    "title": "Twin Icebreaker Projects Progressing at Bollinger’s Gulf Coast Yards",
+    "url": "https://news.usni.org/2026/08/17/twin-icebreaker-projects-progressing-at-bollingers-gulf-coast-yards",
+    "date": "2026-08-17T22:06:26Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "PASCAGOULA, MISS. — The rose-brown hull of the first heavy polar icebreaker for the Coast Guard is taking shape after years of delays on the Gulf Coast. The stern sections of the future USCGC Polar Sentinel (WMSP-21) are now standing almost four stories high in the middle of the Bollinger Mississipp"
+  },
+  {
+    "id": "2e9fa650a347",
+    "title": "Competitors Display Resilience, Teamwork at Fort Drum's Mountain Mudder",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4575433/competitors-display-resilience-teamwork-at-fort-drums-mountain-mudder/",
+    "date": "2026-08-17T20:04:37Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "More than 1,000 Fort Drum, N.Y., community members answered the \"call to dirty,\" putting their laundry detergent to the test as they dove into the muck during the base's annual Mountain Mudder."
+  },
+  {
     "id": "bc61e966b01d",
     "title": "Fighter Wing Trains to Keep F-35s in the Fight",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4575190/fighter-wing-trains-to-keep-f-35s-in-the-fight/",
-    "date": "2026-08-17T16:56:34Z",
+    "date": "2026-08-17T16:56:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "air",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The Navy has awarded Saildrone a $16.3 million extension to continue assisting the U.S. 4th Fleet in its maritime drug interdiction operations, the company announced Tuesday. Saildrone received the award on June 30, company spokesperson Jenn Virskus told USNI News. Saildrone’s Voyager unmanned surfa"
-  },
-  {
-    "id": "846812925e0e",
-    "title": "Always Present: Joint Task Force D.C. Patrols the City",
-    "url": "https://www.war.gov/Multimedia/Photo-Collections/20081/",
-    "date": "2026-08-04T19:53:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Soldiers assigned to Joint Task Force District of Columbia conducted presence patrols near museums and monuments as part of the D.C. Safe and Beautiful mission in Washington."
-  },
-  {
-    "id": "3c8c5ab5baa0",
-    "title": "Washington National Guardsmen Support Statewide Wildfire Response",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4563880/washington-national-guardsmen-support-statewide-wildfire-response/",
-    "date": "2026-08-04T19:50:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Washington National Guardsmen accumulated 146.5 flight hours and dropped 1,181 buckets of water as wildfires spread across the state recently, working with state and local partners to protect communities, property and critical infrastructure."
   }
 ]
