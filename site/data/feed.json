@@ -1,5 +1,35 @@
 [
   {
+    "id": "88ffeb6b5748",
+    "title": "United Nations Command Pays Tribute to Fallen Soldiers During 50th Commemoration of Attack",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4576426/united-nations-command-pays-tribute-to-fallen-soldiers-during-50th-commemoratio/",
+    "date": "2026-08-18T18:04:13Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The United Nations Command commemorated the sacrifice of Army Capt. Arthur Bonifas and 1st Lt. Mark Barrett, who  were killed in an unprovoked attack 50 years ago in the Korean Demilitarized Zone, in the name of peace and stability."
+  },
+  {
+    "id": "7d80d10ef801",
+    "title": "U.S., Allies Hold Major Ballistic Missile Defense Drill; New Zealand Starts Pacific Patrol",
+    "url": "https://news.usni.org/2026/08/18/u-s-allies-hold-major-ballistic-missile-defense-drill-new-zealand-starts-pacific-patrol",
+    "date": "2026-08-18T15:38:18Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.S. 3rd Fleet, multinational partners and the Missile Defense Agency wrapped up ballistic missile defense exercise Pacific Dragon 2026 on Saturday around the Hawaiian Islands. Meanwhile, the Royal New Zealand Navy (RNZN) Task Group which had earlier participated in the Rim of the Pacific 2026 will"
+  },
+  {
+    "id": "982420e17867",
+    "title": "One War Department Unit Takes Next Step in Legacy of Innovation",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4575421/one-war-department-unit-takes-next-step-in-legacy-of-innovation/",
+    "date": "2026-08-18T14:21:26Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The Bridge Program, part of the War Department's innovation unit developed to drive systemic reform as it seeks to supercharge the U.S. defense industrial base, is executing a targeted strategy to eliminate critical bottlenecks."
+  },
+  {
     "id": "bead9d014ea8",
     "title": "Report to Congress on Venezuela and U.S. Policy",
     "url": "https://news.usni.org/2026/08/18/report-to-congress-on-venezuela-and-u-s-policy",
@@ -23,7 +53,7 @@
     "id": "2e9fa650a347",
     "title": "Competitors Display Resilience, Teamwork at Fort Drum's Mountain Mudder",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4575433/competitors-display-resilience-teamwork-at-fort-drums-mountain-mudder/",
-    "date": "2026-08-17T20:04:37Z",
+    "date": "2026-08-17T20:04:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "posture",
@@ -628,36 +658,6 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "The U.S. Marine Corps’ new amphibious assault vehicles will receive jammers to defeat unmanned aerial systems through a program that is set to begin this fall. The Portfolio Acquisition Executive – Marine Corps released a solicitation on Monday identifying the service’s interest in pursuing Anduril’"
-  },
-  {
-    "id": "2e07a75379ca",
-    "title": "Japan Plans to Transform Military Capabilities with Drones, Boost Domestic Defense Industry",
-    "url": "https://news.usni.org/2026/08/05/japan-plans-to-transform-military-capabilities-with-drones-boost-domestic-defense-industry",
-    "date": "2026-08-05T16:31:08Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "Japan intends to transform its military capabilities with drones and will build up its domestic defense industry, according to the 2026 Defense of Japan white paper released on Tuesday. The Japanese government is prioritizing domestic defense production to mitigate the cost of defense equipment and"
-  },
-  {
-    "id": "eef77c3256df",
-    "title": "Southcom Establishes Joint Task Force Western Hemisphere",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4564574/southcom-establishes-joint-task-force-western-hemisphere/",
-    "date": "2026-08-05T16:12:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Joint Task Force Western Hemisphere, led by Marine Corps Maj. Gen. Kevin Jarrard, integrates military capabilities with the 18 partner nations of the Americas Counter Cartel Coalition."
-  },
-  {
-    "id": "4acf30a48a4d",
-    "title": "Report to Congress on the Department of Defense",
-    "url": "https://news.usni.org/2026/08/05/report-to-congress-on-the-department-of-defense",
-    "date": "2026-08-05T13:59:34Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the July 31, 2026, Congressional Research Service report, Defense Primer: The Department of Defense. From the Report The Department of Defense (DOD) was established after World War II by the 1947 National Security Act (P.L. 80-253). At the time, some policymakers, including former P"
   },
   {
     "id": "fb1e2c92ac80",
