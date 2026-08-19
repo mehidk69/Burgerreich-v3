@@ -1,5 +1,25 @@
 [
   {
+    "id": "8a7ebc072862",
+    "title": "Exercise Northern Viking Marks 75 Years of Defense Cooperation",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4577643/exercise-northern-viking-marks-75-years-of-defense-cooperation/",
+    "date": "2026-08-19T17:00:30Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.S. service members arrived in Keflavik, Iceland, joining forces with the Icelandic Coast Guard and other NATO allies for the U.S. 6th Fleet's Exercise Northern Viking 2026."
+  },
+  {
+    "id": "2a430a338273",
+    "title": "Sailor Charged with Murder in Death of Carrier John F. Kennedy Boatswain’s Mate",
+    "url": "https://news.usni.org/2026/08/19/sailor-charged-with-murder-in-death-of-carrier-john-f-kennedy-boatswains-mate",
+    "date": "2026-08-19T14:38:49Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "This post has been updated with additional information from the Navy. The Navy has charged a sailor with murder and involuntary manslaughter in the death of another sailor aboard aircraft carrier John F. Kennedy (CVN-79). Aviation Boatswain’s Mate &#8211; Aircraft Handling Airman Apprentice Jayjrion"
+  },
+  {
     "id": "a0a0df9d723f",
     "title": "Report to Congress on Russian Hybrid Warfare in Europe",
     "url": "https://news.usni.org/2026/08/19/report-to-congress-on-russian-hybrid-warfare-in-europe",
@@ -53,7 +73,7 @@
     "id": "88ffeb6b5748",
     "title": "United Nations Command Pays Tribute to Fallen Soldiers During 50th Commemoration of Attack",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4576426/united-nations-command-pays-tribute-to-fallen-soldiers-during-50th-commemoratio/",
-    "date": "2026-08-18T18:04:13Z",
+    "date": "2026-08-18T18:04:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "alert",
@@ -68,6 +88,16 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "U.S. 3rd Fleet, multinational partners and the Missile Defense Agency wrapped up ballistic missile defense exercise Pacific Dragon 2026 on Saturday around the Hawaiian Islands. Meanwhile, the Royal New Zealand Navy (RNZN) Task Group which had earlier participated in the Rim of the Pacific 2026 will"
+  },
+  {
+    "id": "dd78ac2d38e7",
+    "title": "Defense Innovation Unit Develops Program to Supercharge Defense Industrial Base",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4575421/defense-innovation-unit-develops-program-to-supercharge-defense-industrial-base/",
+    "date": "2026-08-18T14:21:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The Bridge Program, part of the War Department's innovation unit developed to drive systemic reform as it seeks to supercharge the U.S. defense industrial base, is executing a targeted strategy to eliminate critical bottlenecks."
   },
   {
     "id": "982420e17867",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The U.S. Navy wants to integrate payload launchers capable of supporting undersea weapons and drones for the fleet’s future attack boats, according to an announcement last week. The Navy announced on July 29 the Director of Submarine Programs’ interest in launchers that could “support a wider variet"
-  },
-  {
-    "id": "ef266a8a201d",
-    "title": "Marines Make History With First Attack Drone Live-Fire Series in South Korea",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4565502/marines-make-history-with-first-attack-drone-live-fire-series-in-south-korea/",
-    "date": "2026-08-06T17:38:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Marines successfully concluded the service's first series of live-fire first-person view attack drone flights in South Korea, demonstrating the ability to field emerging technologies in the Western Pacific rapidly."
-  },
-  {
-    "id": "a2fecbbb8c55",
-    "title": "Northcom Prepares Deployment to Support Wildfire Suppression",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4565533/northcom-prepares-deployment-to-support-wildfire-suppression/",
-    "date": "2026-08-06T17:26:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "At the request of the National Interagency Fire Center, U.S. Northern Command is preparing to deploy approximately 200 soldiers to support a wildland fire ground response operation in the Pacific Northwest."
-  },
-  {
-    "id": "ce80258011c5",
-    "title": "Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations",
-    "url": "https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations",
-    "date": "2026-08-06T16:59:54Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "The U.S. Marine Corps established a new organization last month to integrate aerial drone capabilities as the service continues to experiment with drones in field operations. The service established the Marine Corps Robotics Integration Group (MCRIG), a service-level organization responsible for int"
   }
 ]
