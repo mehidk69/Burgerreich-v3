@@ -1,5 +1,15 @@
 [
   {
+    "id": "a0a0df9d723f",
+    "title": "Report to Congress on Russian Hybrid Warfare in Europe",
+    "url": "https://news.usni.org/2026/08/19/report-to-congress-on-russian-hybrid-warfare-in-europe",
+    "date": "2026-08-19T11:24:21Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the Aug. 11, 2026, Congressional Research Service report: Russian Hybrid Warfare Activities in Europe: Considerations for Congress. From the report Following Russia’s invasion of Ukraine in 2022, U.S. and European officials have accused Russia of a sustained campaign of malign activ"
+  },
+  {
     "id": "98ca398ecaaa",
     "title": "DM leaders build resilient force, stronger community",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4577048/dm-leaders-build-resilient-force-stronger-community/",
@@ -23,7 +33,7 @@
     "id": "091ec1674c70",
     "title": "USS Essex Hosts Tiger Cruise on Return to San Diego",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4576945/uss-essex-hosts-tiger-cruise-on-return-to-san-diego/",
-    "date": "2026-08-18T21:37:24Z",
+    "date": "2026-08-18T21:37:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -83,7 +93,7 @@
     "id": "982420e17867",
     "title": "One War Department Unit Takes Next Step in Legacy of Innovation",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4575421/one-war-department-unit-takes-next-step-in-legacy-of-innovation/",
-    "date": "2026-08-18T14:21:26Z",
+    "date": "2026-08-18T14:21:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "posture",
@@ -668,16 +678,6 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "The U.S. Marine Corps established a new organization last month to integrate aerial drone capabilities as the service continues to experiment with drones in field operations. The service established the Marine Corps Robotics Integration Group (MCRIG), a service-level organization responsible for int"
-  },
-  {
-    "id": "2c98d990b64a",
-    "title": "CBO report on the Navy’s New Battleship Program",
-    "url": "https://news.usni.org/2026/08/06/cbo-report-on-the-navys-new-battleship-program",
-    "date": "2026-08-06T14:35:19Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is the Aug. 5, 2026, Congressional Budget Office report, The Navy&#8217;s New Battleship Program: Costs and Implications for the Shipbuilding Industrial Base. From the Report In this report, the Congressional Budget Office estimates the potential costs of the Navy’s new nuclear-powered"
   },
   {
     "id": "fb1e2c92ac80",
