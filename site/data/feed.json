@@ -1,5 +1,65 @@
 [
   {
+    "id": "98ca398ecaaa",
+    "title": "DM leaders build resilient force, stronger community",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4577048/dm-leaders-build-resilient-force-stronger-community/",
+    "date": "2026-08-18T21:56:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "naval",
+    "summary": "U.S. Air Force Col. Jose Cabrera, 355th Wing commander, and Chief Master Sgt. Kelvin Hatcher, 355th Wing command chief, met with leaders from units across DM to discuss the future of the installation and how to build DM Airmen’s resiliency and improve leadership strategies among the attendees.<br />"
+  },
+  {
+    "id": "b5e2b56c5a6a",
+    "title": "Taiwan’s Tanks",
+    "url": "https://news.usni.org/2026/08/18/taiwans-tanks",
+    "date": "2026-08-18T21:47:24Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "TAOYUAN, TAIWAN &#8211; Crews trained their 30mm cannons, machine guns and anti-tank missile launchers west toward Taiwan Taoyuan International Airport, the focal point of a defensive operation during Han Kuang 42. The collection of CM-34 Clouded Leopard wheeled armoured fighting vehicles provided s"
+  },
+  {
+    "id": "091ec1674c70",
+    "title": "USS Essex Hosts Tiger Cruise on Return to San Diego",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4576945/uss-essex-hosts-tiger-cruise-on-return-to-san-diego/",
+    "date": "2026-08-18T21:37:24Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The amphibious assault ship USS Essex hosted a historic Tiger Cruise for friends, family and community members near Marine Corps Base Camp Pendleton, Calif., before returning to its home port."
+  },
+  {
+    "id": "6f9a6ef0d1de",
+    "title": "E-2D Advanced Hawkeye Block II Passes Critical Design Review as Navy Plans to Expand Fleet",
+    "url": "https://news.usni.org/2026/08/18/e-2d-advanced-hawkeye-block-ii-passes-critical-design-review-as-navy-plans-to-expand-fleet",
+    "date": "2026-08-18T21:09:20Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy has signed off on a Northrop Grumman modification to the E-2D Hawkeye that will allow faster upgrades to the airborne command and control aircraft, the service said this week. The E-2D Advanced Hawkeye Block II upgrade passed its critical design review preparing the Portfolio Acquisition Ex"
+  },
+  {
+    "id": "b3fc82b6c3c7",
+    "title": "Army Develops Ultra-Light Vehicle for Changing Battlefields",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4576723/army-develops-ultra-light-vehicle-for-changing-battlefields/",
+    "date": "2026-08-18T20:13:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "In fielding the Infantry Squad Vehicle, an ultra-light tactical vehicle that carries nine passengers and their equipment, the Army took a rapid acquisition approach, using commercial off-the-shelf solutions and minimal military modifications."
+  },
+  {
+    "id": "11bb07a92cf3",
+    "title": "Advanced Ready Training Core course enhances lethality at Davis-Monthan Air Force Base",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4576847/advanced-ready-training-core-course-enhances-lethality-at-davis-monthan-air-for/",
+    "date": "2026-08-18T19:52:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "U.S. Airmen participating in an Advanced Ready Training Core course move with weapons to rescue a simulated casualty at Davis-Monthan Air Force Base, Arizona, Aug. 6, 2026.<br />\n<img alt=\"U.S. Airmen participating in an Advanced Ready Training Core course move with weapons to rescue a simulated cas"
+  },
+  {
     "id": "88ffeb6b5748",
     "title": "United Nations Command Pays Tribute to Fallen Soldiers During 50th Commemoration of Attack",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4576426/united-nations-command-pays-tribute-to-fallen-soldiers-during-50th-commemoratio/",
@@ -618,46 +678,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The following is the Aug. 5, 2026, Congressional Budget Office report, The Navy&#8217;s New Battleship Program: Costs and Implications for the Shipbuilding Industrial Base. From the Report In this report, the Congressional Budget Office estimates the potential costs of the Navy’s new nuclear-powered"
-  },
-  {
-    "id": "e0a9ecdef616",
-    "title": "Navy Removes Head of Drone Programs After 8 Months, PAE Maritime Head Miller Now Leading PAE RAS",
-    "url": "https://news.usni.org/2026/08/05/navy-removes-head-of-drone-programs-after-8-months-pae-maritime-head-miller-now-leading-pae-ras",
-    "date": "2026-08-06T00:01:05Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The Navy’s portfolio acquisition executive for robotics and autonomous systems – the first job the service created as part of a broader acquisition overhaul last year – was removed from the position on Wednesday, fewer than eight months after stepping into the role. Rebecca Gassler assumed the helm"
-  },
-  {
-    "id": "04c7b5cb9fa8",
-    "title": "First Trump-class Battleship Could Cost $23.4B, Says CBO",
-    "url": "https://news.usni.org/2026/08/05/first-trump-class-battleship-could-cost-23-4b-says-cbo",
-    "date": "2026-08-05T18:04:30Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The first Trump-class battleship (BBG(X)) could cost about $23 billion with an overall cost for the 15-ship program to be about $275 billion, according to a new Congressional Budget Office estimate published on Wednesday. Based on the published estimate on the size and nuclear propulsion, the CBO ca"
-  },
-  {
-    "id": "d0b48977728e",
-    "title": "Coast Guard Participates in Panama Canal Counter-Threat Exercise",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4564659/coast-guard-participates-in-panama-canal-counter-threat-exercise/",
-    "date": "2026-08-05T17:59:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Panama's National Aeronaval Service welcomed key leaders from Mexico, Ecuador, Colombia and the United States during the pre-sail conference for Panamax 2026, one of the largest military exercises in the Western Hemisphere."
-  },
-  {
-    "id": "fbce42681fef",
-    "title": "U.S. Marine Corps ACVs to Counter Drones with Anduril Jammer Package",
-    "url": "https://news.usni.org/2026/08/05/u-s-marine-corps-acvs-to-counter-drones-with-anduril-jammer-package",
-    "date": "2026-08-05T17:26:44Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "The U.S. Marine Corps’ new amphibious assault vehicles will receive jammers to defeat unmanned aerial systems through a program that is set to begin this fall. The Portfolio Acquisition Executive – Marine Corps released a solicitation on Monday identifying the service’s interest in pursuing Anduril’"
   },
   {
     "id": "fb1e2c92ac80",
@@ -1477,26 +1497,6 @@
     "source": "AFRICOM",
     "cocom": "africom",
     "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "ec13a39cfcf1",
-    "title": "Headquarters Chief of Staff",
-    "url": "https://www.africom.mil/about-the-command/leadership/headquarters-chief-of-staff",
-    "date": "2026-04-09T01:11:50Z",
-    "source": "AFRICOM",
-    "cocom": "africom",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "f29665e2633c",
-    "title": "Former leadership",
-    "url": "https://www.africom.mil/about-the-command/leadership/former-leadership",
-    "date": "2026-04-09T01:11:50Z",
-    "source": "AFRICOM",
-    "cocom": "africom",
-    "tag": "naval",
     "summary": ""
   }
 ]
