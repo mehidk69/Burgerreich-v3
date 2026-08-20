@@ -1,5 +1,15 @@
 [
   {
+    "id": "a918980932d7",
+    "title": "Marines are Training Fireteams to Deploy Combat Drones",
+    "url": "https://news.usni.org/2026/08/19/marines-training-fireteams-to-deploy-combat-drones",
+    "date": "2026-08-19T21:31:45Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The Marine Corps on Friday wrapped up the inaugural Marine Corps Attack Drone Competition at Marine Corps Base (MCB) Quantico, Va., capping a summer of drone firsts for the service. Drones also played a part in Marine Corps exercises in Korea and Australia and new counter-small unmanned aerial syste"
+  },
+  {
     "id": "ca34d7d2c025",
     "title": "Marines Training Fireteams to Deploy Combat Drones",
     "url": "https://news.usni.org/2026/08/19/marines-training-fireteams-to-deploy-combat-drones",
@@ -668,16 +678,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the South China Sea Aircraft Carrier USS George Washington (CVN-73) is back in the South China Sea following a port visit to Da Nang, Vietnam, according to a post on the carrier’s social"
-  },
-  {
-    "id": "3ecb89488a60",
-    "title": "Space Launch Delta 45 Partners With Florida National Guard to Strengthen Hazmat Response",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4566255/space-launch-delta-45-partners-with-florida-national-guard-to-strengthen-hazmat/",
-    "date": "2026-08-07T17:17:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Space Launch Delta 45 and the Florida Army National Guard's 44th Weapons of Mass Destruction Civil Support Team recently partnered for a multiday training exercise designed to ensure both organizations remain prepared to respond rapidly to chemical, biological or radiological hazards."
   },
   {
     "id": "fb1e2c92ac80",
