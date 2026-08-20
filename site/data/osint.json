@@ -1,5 +1,25 @@
 [
   {
+    "id": "ca34d7d2c025",
+    "title": "Marines Training Fireteams to Deploy Combat Drones",
+    "url": "https://news.usni.org/2026/08/19/marines-training-fireteams-to-deploy-combat-drones",
+    "date": "2026-08-19T21:31:45Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The Marine Corps on Friday wrapped up the inaugural Marine Corps Attack Drone Competition at Marine Corps Base (MCB) Quantico, Va., capping a summer of drone firsts for the service. Drones also played a part in Marine Corps exercises in Korea and Australia and new counter-small unmanned aerial syste"
+  },
+  {
+    "id": "832910cf7fc8",
+    "title": "Learning With Every Launch: Inside Exercise Cold Raptor",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4577888/learning-with-every-launch-inside-exercise-cold-raptor/",
+    "date": "2026-08-19T18:44:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "During Exercise Cold Raptor in Poland, soldiers launched micro-high-altitude balloons into the stratosphere to test emerging sensing and communication technologies."
+  },
+  {
     "id": "8a7ebc072862",
     "title": "Exercise Northern Viking Marks 75 Years of Defense Cooperation",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4577643/exercise-northern-viking-marks-75-years-of-defense-cooperation/",
@@ -578,25 +598,5 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "Space Launch Delta 45 and the Florida Army National Guard's 44th Weapons of Mass Destruction Civil Support Team recently partnered for a multiday training exercise designed to ensure both organizations remain prepared to respond rapidly to chemical, biological or radiological hazards."
-  },
-  {
-    "id": "4e5385375f56",
-    "title": "Acting Secretary of the Navy’s ‘Warrior Ethos’ ALNAV",
-    "url": "https://news.usni.org/2026/08/07/acting-secretary-of-the-navys-warrior-ethos-alnav",
-    "date": "2026-08-07T14:14:34Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is the Aug. 5, 2026, &#8220;Warrior Ethos&#8221; message to the fleet from the Acting Secretary of the Navy Hung Cao. From the Report CLASSIFICATION: UNCLASSIFIED/ FM SECNAV WASHINGTON DC ALNAV 047/26 MSGID/GENADMIN/SECNAV WASHINGTON DC/-/AUG// SUBJ/WARRIOR ETHOS// RMKS/1. The bedrock"
-  },
-  {
-    "id": "ec345700faf7",
-    "title": "U.S. Navy Eyes Advanced Payload Launcher for Future Attack Boats",
-    "url": "https://news.usni.org/2026/08/06/u-s-navy-eyes-advanced-payload-launcher-for-future-attack-boats",
-    "date": "2026-08-06T20:42:48Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The U.S. Navy wants to integrate payload launchers capable of supporting undersea weapons and drones for the fleet’s future attack boats, according to an announcement last week. The Navy announced on July 29 the Director of Submarine Programs’ interest in launchers that could “support a wider variet"
   }
 ]
