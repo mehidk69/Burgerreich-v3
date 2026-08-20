@@ -1,5 +1,35 @@
 [
   {
+    "id": "ee5ad174ce20",
+    "title": "USS George Washington Celebrates Historic Aircraft Milestone",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4578782/uss-george-washington-celebrates-historic-aircraft-milestone/",
+    "date": "2026-08-20T17:25:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "After 34 years of continuous service projecting American sea power, the aircraft carrier USS George Washington achieved a major aviation milestone by recovering its 200,000th fixed-wing aircraft while underway in the Indian Ocean."
+  },
+  {
+    "id": "03420a317d2e",
+    "title": "U.S. National Security Science & Technology Strategy",
+    "url": "https://news.usni.org/2026/08/20/u-s-national-security-science-technology-strategy",
+    "date": "2026-08-20T15:31:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the White House National Security Science and Technology Strategy released earlier this week. From the report This document establishes a National Security Science and Technology Strategy (NSSTS) to support and enable the 2025 National Security Strategy (NSS). It satisfies the Congr"
+  },
+  {
+    "id": "3c7a7feaf9ed",
+    "title": "Carrier USS George Washington Now in the Middle East",
+    "url": "https://news.usni.org/2026/08/20/carrier-uss-george-washington-now-in-the-middle-east",
+    "date": "2026-08-20T14:40:01Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "USS George Washington (CVN-73) arrived in the U.S. Central Command area of responsibility yesterday, the combatant command announced on social media. The aircraft carrier, which was accompanied by cruiser USS Robert Smalls (CG-62) and destroyer USS Shoup (DDG-86), transited the Arabian Sea on Thursd"
+  },
+  {
     "id": "a918980932d7",
     "title": "Marines are Training Fireteams to Deploy Combat Drones",
     "url": "https://news.usni.org/2026/08/19/marines-training-fireteams-to-deploy-combat-drones",
@@ -33,7 +63,7 @@
     "id": "8a7ebc072862",
     "title": "Exercise Northern Viking Marks 75 Years of Defense Cooperation",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4577643/exercise-northern-viking-marks-75-years-of-defense-cooperation/",
-    "date": "2026-08-19T17:00:30Z",
+    "date": "2026-08-19T17:00:00Z",
     "source": "DoD News",
     "cocom": "osint",
     "tag": "naval",
@@ -648,36 +678,6 @@
     "cocom": "osint",
     "tag": "general",
     "summary": "Five young Americans from across the War Department were honored as finalists during the Boys & Girls Clubs of America's 2026 National Military Youth of the Year celebration in the nation's capital, and one walked away with the honor and the opportunity to compete at the next level."
-  },
-  {
-    "id": "aa421ddb8f1d",
-    "title": "Multinational Partners Strengthen Regional Readiness During Exercise Panamax 2026",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4566693/multinational-partners-strengthen-regional-readiness-during-exercise-panamax-20/",
-    "date": "2026-08-07T21:39:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "U.S. airmen joined 40 military personnel from across the Americas during Panamax 2026, a U.S. Southern Command-sponsored multinational exercise focused on an integrated approach against simulated threats to the Panama Canal and the region."
-  },
-  {
-    "id": "ae195cdce761",
-    "title": "70 Ships Trapped in Persian Gulf as Iran-U.S. Conflict Nears Six Months",
-    "url": "https://news.usni.org/2026/08/07/70-ships-trapped-in-persian-gulf-as-iran-u-s-conflict-nears-six-months",
-    "date": "2026-08-07T18:52:44Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "At least 70 ships remain trapped in the Persian Gulf nearly six months into the Iran-U.S. conflict with more ships now being stalled after the ceasefire between the countries broke down. The memorandum of understanding implemented from June 18 to July 8 between Tehran and Washington created the oppo"
-  },
-  {
-    "id": "ed4c2fdb79dc",
-    "title": "USNI News Western Pacific Pulse: Aug. 7, 2026",
-    "url": "https://news.usni.org/2026/08/07/usni-news-western-pacific-pulse-aug-7-2026",
-    "date": "2026-08-07T17:57:04Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the South China Sea Aircraft Carrier USS George Washington (CVN-73) is back in the South China Sea following a port visit to Da Nang, Vietnam, according to a post on the carrier’s social"
   },
   {
     "id": "fb1e2c92ac80",
