@@ -1,5 +1,25 @@
 [
   {
+    "id": "3649222aa892",
+    "title": "How Taiwan’s Elite Military Police Plan to Defend Taipei",
+    "url": "https://news.usni.org/2026/08/21/how-taiwans-elite-military-police-plan-to-defend-taipei",
+    "date": "2026-08-21T18:19:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "TAIPEI, TAIWAN – Torrential rainfall soaked two platoons’ worth of Republic of China Military Police the moment they stormed out the gates of Taipei Nangang Exhibition Center metro station. Clad in a newly fielded grey camo scheme, these men and women moved into position with crew-served machine gun"
+  },
+  {
+    "id": "e668f374d879",
+    "title": "USNI News Western Pacific Pulse: Aug. 21, 2026",
+    "url": "https://news.usni.org/2026/08/21/usni-news-western-pacific-pulse-aug-21-2026",
+    "date": "2026-08-21T17:11:42Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Pyongyang, North Korea North Korea on Thursday at 5 p.m launched approximately 10 short-range ballistic missiles towards the Sea of Japan, according to South Korea’s Joint Chiefs of Staff ("
+  },
+  {
     "id": "456520e6b5c9",
     "title": "Arctic Exercise Northern Viking Kicks off with U.S., Iceland",
     "url": "https://news.usni.org/2026/08/20/arctic-exercise-northern-viking-kicks-off-with-u-s-iceland",
@@ -108,6 +128,16 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "The following is the Aug. 11, 2026, Congressional Research Service report: Russian Hybrid Warfare Activities in Europe: Considerations for Congress. From the report Following Russia’s invasion of Ukraine in 2022, U.S. and European officials have accused Russia of a sustained campaign of malign activ"
+  },
+  {
+    "id": "d4054011b209",
+    "title": "Advanced Ready Training-Core course strengthens Airmen for future deployments",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4576847/advanced-ready-training-core-course-strengthens-airmen-for-future-deployments/",
+    "date": "2026-08-19T04:52:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "Airmen assigned to the 355th Wing participated in the Advanced Ready Training-Core (ART-C) course at Davis-Monthan Air Force Base, Arizona, Aug. 3-7, 2026. The course provided hands-on training designed to strengthen deployment readiness and prepare Airmen for the challenges they may encounter in co"
   },
   {
     "id": "98ca398ecaaa",
@@ -648,26 +678,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of August 10, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the c"
-  },
-  {
-    "id": "7ed86ae03207",
-    "title": "Marines Learn to 3D Print Raiding Craft, Attack Drones in the Western Pacific",
-    "url": "https://news.usni.org/2026/08/10/marines-learn-to-3d-print-raiding-craft-attack-drones-in-the-western-pacific",
-    "date": "2026-08-10T16:25:29Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "Marines are learning how to 3D print raiding craft and attack drones while in theater as part of recent exercises in Hawaii, Japan and South Korea. During Exercise Valiant Shield, U.S. Marines with Intermediate Repair Company, 3rd Maintenance Battalion, 3rd Marine Logistics Group, worked with engine"
-  },
-  {
-    "id": "bb8ee06df745",
-    "title": "USS Thomas Hudner Returns to Naval Station Mayport From Deployment",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4567181/uss-thomas-hudner-returns-to-naval-station-mayport-from-deployment/",
-    "date": "2026-08-10T16:00:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The guided-missile destroyer USS Thomas Hudner returned to Naval Station Mayport, Fla., concluding an almost nine-month deployment across multiple geographic theaters, including the U.S. 4th, 5th and 6th Fleet areas of operations."
   },
   {
     "id": "5f96c321d458",
@@ -1483,16 +1493,6 @@
     "id": "225d444d0713",
     "title": "Deputy Commander",
     "url": "https://www.africom.mil/about-the-command/leadership/deputy-commander",
-    "date": "2026-04-09T01:11:50Z",
-    "source": "AFRICOM",
-    "cocom": "africom",
-    "tag": "general",
-    "summary": ""
-  },
-  {
-    "id": "fc473ce32042",
-    "title": "Deputy to the Commander for Civil-Military Engagement",
-    "url": "https://www.africom.mil/about-the-command/leadership/deputy-to-the-commander-for-civil-military-engagement",
     "date": "2026-04-09T01:11:50Z",
     "source": "AFRICOM",
     "cocom": "africom",
