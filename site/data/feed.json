@@ -1,5 +1,25 @@
 [
   {
+    "id": "456520e6b5c9",
+    "title": "Arctic Exercise Northern Viking Kicks off with U.S., Iceland",
+    "url": "https://news.usni.org/2026/08/20/arctic-exercise-northern-viking-kicks-off-with-u-s-iceland",
+    "date": "2026-08-20T20:41:07Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The United States, Iceland and NATO began the U.S-led biennial exercise Northern Viking 2026 (NV26) on Tuesday, which runs in Iceland and surrounding waters until Sept. 3. This year marks the 75th anniversary of the 1951 Bilateral Defense Agreement between Iceland and the United States. A U.S 6th Fl"
+  },
+  {
+    "id": "7f775179459f",
+    "title": "Corps of Engineers Modernizes Historic Fort Sill Barracks",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4578917/corps-of-engineers-modernizes-historic-fort-sill-barracks/",
+    "date": "2026-08-20T18:16:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Behind the historic facade of Building 900 at U.S. Army Garrison, Fort Sill, Okla., the U.S. Army Corps of Engineers, Tulsa District, is executing a high-tech modernization project that will make it one of the most structurally reinforced buildings on the installation."
+  },
+  {
     "id": "ee5ad174ce20",
     "title": "USS George Washington Celebrates Historic Aircraft Milestone",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4578782/uss-george-washington-celebrates-historic-aircraft-milestone/",
@@ -650,16 +670,6 @@
     "summary": "The guided-missile destroyer USS Thomas Hudner returned to Naval Station Mayport, Fla., concluding an almost nine-month deployment across multiple geographic theaters, including the U.S. 4th, 5th and 6th Fleet areas of operations."
   },
   {
-    "id": "4e39c2b11f80",
-    "title": "War Department Releases Open Letter to Defense Industry Stakeholders",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4566672/war-department-releases-open-letter-to-defense-industry-stakeholders/",
-    "date": "2026-08-07T22:09:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "The War Department is inviting the defense industrial base and the acquisition community to provide input on ways to streamline data and audit requirements related to business systems, as part of Secretary of War Pete Hegseth's arsenal of freedom acquisition transformation strategy."
-  },
-  {
     "id": "5f96c321d458",
     "title": "First Term Enlisted Course 2.0",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4566705/first-term-enlisted-course-20/",
@@ -668,16 +678,6 @@
     "cocom": "centcom",
     "tag": "general",
     "summary": "The 355th Wing has expanded its First Term Enlisted Course into a three-week curriculum designed to better prepare new Airmen for the demands of military service while advancing the wing's priority of building combat-credible Airmen.<br />\n<img alt=\"First Term Enlisted Course 2.0\" src=\"https://media"
-  },
-  {
-    "id": "63f59ad20ae2",
-    "title": "Boys & Girls Clubs Honor Military Youth",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4566639/boys-girls-clubs-honor-military-youth/",
-    "date": "2026-08-07T21:50:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Five young Americans from across the War Department were honored as finalists during the Boys & Girls Clubs of America's 2026 National Military Youth of the Year celebration in the nation's capital, and one walked away with the honor and the opportunity to compete at the next level."
   },
   {
     "id": "fb1e2c92ac80",
