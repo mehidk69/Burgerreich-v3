@@ -1,5 +1,35 @@
 [
   {
+    "id": "f12f7341b387",
+    "title": "48th Rescue Squadron, 68th RQS strengthen future Airmen's physical resiliency",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4580656/48th-rescue-squadron-68th-rqs-strengthen-future-airmens-physical-resiliency/",
+    "date": "2026-08-21T21:37:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "<br />\n<img alt=\"U.S. Air Force Delayed Entry Program recruits carry sandbags as part of a physical training session with the 48th Rescue Squadron and the 68th Rescue Squadron Aug. 20, 2026 at Silverlake Park in Tucson, Arizona. Airmen, recruits and leadership from the 362nd Recruiting Squadron show"
+  },
+  {
+    "id": "1a6d3b99a441",
+    "title": "Motors Assembled at Tobyhanna Army Depot Power Drone to World-Record Flight",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4580293/motors-assembled-at-tobyhanna-army-depot-power-drone-to-world-record-flight/",
+    "date": "2026-08-21T19:35:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "A battery-powered small unmanned aircraft system recently shattered a world endurance record, flying for more than eight hours in the desert heat — a milestone achieved using critical propulsion components assembled by the Army's organic industrial base."
+  },
+  {
+    "id": "b4b976cc78ea",
+    "title": "Navy Advances MH-60 Modernization, Identifies Industry Performers for Prototype Project",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4580264/navy-advances-mh-60-modernization-identifies-industry-performers-for-prototype/",
+    "date": "2026-08-21T19:07:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy's MH-60 Sea Hawk helicopter service life modernization program recently announced the industry performers identified to proceed to the first phase of a statement of work collaboration for the MH-60 tailorable architecture leveraging open systems prototype project."
+  },
+  {
     "id": "3649222aa892",
     "title": "How Taiwan’s Elite Military Police Plan to Defend Taipei",
     "url": "https://news.usni.org/2026/08/21/how-taiwans-elite-military-police-plan-to-defend-taipei",
@@ -660,26 +690,6 @@
     "summary": "The dual-hatted Naval Sea Systems Command and Portfolio Acquisition Executive Industrial Operations Vice Adm. Jim Downey retired last week, the Navy announced. Downey, who took charge of NAVSEA in early 2024, retired from both roles in a Thursday ceremony at the Washington Navy Yard in Washington, D"
   },
   {
-    "id": "c06d4f78b8c3",
-    "title": "Chinese Army Drones Target Unmanned Surface Vessels in Exercises",
-    "url": "https://news.usni.org/2026/08/10/chinese-army-drones-target-unmanned-surface-vessels-in-exercises",
-    "date": "2026-08-10T18:59:56Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "The People’s Liberation Army Ground Force trained last week to use armed drones against unmanned surface vessels, according to state media. A Chinese military media post on Thursday highlighted the armed KVD002 unmanned combat aerial vehicles engaging fast moving drone boats with missiles. The foota"
-  },
-  {
-    "id": "dcfa2f4be4dd",
-    "title": "USNI News Fleet and Marine Tracker: Aug. 10, 2026",
-    "url": "https://news.usni.org/2026/08/10/usni-news-fleet-and-marine-tracker-aug-10-2026",
-    "date": "2026-08-10T17:28:48Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of August 10, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the c"
-  },
-  {
     "id": "5f96c321d458",
     "title": "First Term Enlisted Course 2.0",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4566705/first-term-enlisted-course-20/",
@@ -1188,16 +1198,6 @@
     "cocom": "centcom",
     "tag": "general",
     "summary": "The DM50 picnic and car show brought together service members, their families and the Tucson community for a day of connection April 11, 2026.<br />\n<img alt=\"DM50 Picnic and Car Show\" src=\"https://media.defense.gov/2026/Apr/13/2003912167/150/150/0/260411-F-AR459-1038.JPG\" /> <br />"
-  },
-  {
-    "id": "8db442956a66",
-    "title": "That Others May Live: The unwavering commitment of Air Force combat search and rescue",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4455578/that-others-may-live-the-unwavering-commitment-of-air-force-combat-search-and-r/",
-    "date": "2026-04-09T18:49:00Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "air",
-    "summary": "In the U.S. Air Force, no phrase carries more weight than \"That Others May Live.\" It is not merely a motto; it is a commitment that underpins the existence of the Combat Search and Rescue (CSAR) mission.         \n\nThis solemn promise to leave no one behind, whether a downed pilot in enemy territory"
   },
   {
     "id": "1b6d0d5bb081",
