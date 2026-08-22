@@ -1,5 +1,15 @@
 [
   {
+    "id": "4ef3e9b500b9",
+    "title": "USS Abraham Lincoln Leaves the Middle East After Almost 7 Months",
+    "url": "https://news.usni.org/2026/08/22/uss-abraham-lincoln-leaves-the-middle-east-after-almost-7-months",
+    "date": "2026-08-22T12:30:27Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Aircraft carrier USS Abraham Lincoln (CVN-72) has left the Middle East after almost seven months and is now in U.S. 7th Fleet, USNI News has learned. As of Saturday, Lincoln, its escorts and the embarked Carrier Air Wing 9 were operating in the Indian Ocean in U.S. Indo-Pacific Command, a Navy offic"
+  },
+  {
     "id": "7e984ee3be50",
     "title": "2 Mariners Killed in Strait of Hormuz as Transits See Small Increase",
     "url": "https://news.usni.org/2026/08/21/2-mariners-killed-in-strait-of-hormuz-as-transits-see-small-increase",
@@ -678,16 +688,6 @@
     "cocom": "osint",
     "tag": "alert",
     "summary": "U.S. service members partnered with Morocco's royal armed forces to enable the first-ever live-fire demonstration leveraging the Africa Multidomain Training and Experimentation Center, supporting a U.S. defense industry partner in testing long-range precision-strike capabilities as part of the Army'"
-  },
-  {
-    "id": "67263430fd1c",
-    "title": "Hegseth Renames Joint Base Charleston to Honor Late Sen. Lindsey Graham",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4567534/hegseth-renames-joint-base-charleston-to-honor-late-sen-lindsey-graham/",
-    "date": "2026-08-10T21:07:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "posture",
-    "summary": "Joint Base Charleston, S.C., became Joint Base Lindsey Graham during a ceremony to rename the installation after the late senator, Air Force veteran and South Carolina native son."
   },
   {
     "id": "5f96c321d458",
