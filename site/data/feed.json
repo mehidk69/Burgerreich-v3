@@ -1,5 +1,15 @@
 [
   {
+    "id": "7e984ee3be50",
+    "title": "2 Mariners Killed in Strait of Hormuz as Transits See Small Increase",
+    "url": "https://news.usni.org/2026/08/21/2-mariners-killed-in-strait-of-hormuz-as-transits-see-small-increase",
+    "date": "2026-08-22T01:13:56Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Two mariners were killed in the past week and a half in the Strait of Hormuz by Iranian attacks. On Monday, an Iranian attack on MV Minoan Dignity in the strait left one seafarer dead. It is the second attack on a ship managed by Greek company Modion Maritime Management. On Aug. 3, MV Minoan Pioneer"
+  },
+  {
     "id": "f12f7341b387",
     "title": "48th Rescue Squadron, 68th RQS strengthen future Airmen's physical resiliency",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4580656/48th-rescue-squadron-68th-rqs-strengthen-future-airmens-physical-resiliency/",
@@ -678,16 +688,6 @@
     "cocom": "osint",
     "tag": "posture",
     "summary": "Joint Base Charleston, S.C., became Joint Base Lindsey Graham during a ceremony to rename the installation after the late senator, Air Force veteran and South Carolina native son."
-  },
-  {
-    "id": "bb251de987c7",
-    "title": "NAVSEA Commander Downey Retires, 2 Admirals Take Over Roles in Interim",
-    "url": "https://news.usni.org/2026/08/10/navsea-commander-downey-retires-2-admirals-take-over-roles-in-interim",
-    "date": "2026-08-10T19:31:59Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The dual-hatted Naval Sea Systems Command and Portfolio Acquisition Executive Industrial Operations Vice Adm. Jim Downey retired last week, the Navy announced. Downey, who took charge of NAVSEA in early 2024, retired from both roles in a Thursday ceremony at the Washington Navy Yard in Washington, D"
   },
   {
     "id": "5f96c321d458",
