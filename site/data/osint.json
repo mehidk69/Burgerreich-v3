@@ -1,5 +1,45 @@
 [
   {
+    "id": "70e3196e6dc5",
+    "title": "EOD Airmen Train on Full Spectrum of Explosive Threats",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4581480/eod-airmen-train-on-full-spectrum-of-explosive-threats/",
+    "date": "2026-08-24T17:55:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Airmen trained in high-pressure, simulated deployment scenarios during a weeklong exercise in Montana to sharpen their leadership and survival skills."
+  },
+  {
+    "id": "e306cf05f1a4",
+    "title": "Navy Unveils New Anti-Air Missile Malice with a Range of 250 Nautical Miles",
+    "url": "https://news.usni.org/2026/08/24/navy-unveils-new-anti-air-missile-malice-with-a-range-of-250-nautical-miles",
+    "date": "2026-08-24T17:54:47Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The U.S. Navy is developing a long-range missile that the service claims can down aerial targets up to 250 nautical miles away. Officially designated the AIM-242 long-range air-to-air missile, the sea service revealed the new Malice system over the weekend at the Tailhook Association Naval Aviation"
+  },
+  {
+    "id": "d5e7b6483c35",
+    "title": "SOUTHCOM Strikes First Suspected Drug Boat in Two Months",
+    "url": "https://news.usni.org/2026/08/24/southcom-strikes-first-suspected-drug-boat-in-two-months",
+    "date": "2026-08-24T17:37:35Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Forces with Joint Task Force Western Hemisphere – the new name for Joint Task Force Southern Spear – struck a low-profile vessel suspected of smuggling illicit narcotics on Sunday. The strike killed two people, according to a Monday announcement from U.S. Southern Command. In total, 223 people have"
+  },
+  {
+    "id": "a0b6dd46d5f1",
+    "title": "USNI News Fleet and Marine Tracker: Aug. 24, 2026",
+    "url": "https://news.usni.org/2026/08/24/usni-news-fleet-and-marine-tracker-aug-24-2026",
+    "date": "2026-08-24T15:20:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 24, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
+  },
+  {
     "id": "4ef3e9b500b9",
     "title": "USS Abraham Lincoln Leaves the Middle East After Almost 7 Months",
     "url": "https://news.usni.org/2026/08/22/uss-abraham-lincoln-leaves-the-middle-east-after-almost-7-months",
@@ -558,45 +598,5 @@
     "cocom": "osint",
     "tag": "exercise",
     "summary": "U.S. service members and partner nations conducted joint air and missile defense training to strengthen regional security and interoperability in the Pacific as part of Exercise Tenacious Archer in Palau."
-  },
-  {
-    "id": "b62b19cb7492",
-    "title": "Royal Navy Reports 25 Percent Increase in Russian Activity in U.K., North Atlantic Waters",
-    "url": "https://news.usni.org/2026/08/11/royal-navy-reports-25-percent-increase-in-russian-activity-in-u-k-north-atlantic-waters",
-    "date": "2026-08-11T16:14:04Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "Russian activity around the U.K. and in the North Atlantic has risen 25 percent in the first half of the year compared to the same time frame in 2025, according to the Royal Navy. The year-on-year data was included in a Saturday news release, with the Royal Navy attributing the increase to Russian N"
-  },
-  {
-    "id": "df6fe2d7befd",
-    "title": "Report to Congress on Taiwan and U.S. Relations",
-    "url": "https://news.usni.org/2026/08/11/report-to-congress-on-taiwan-and-u-s-relations-2",
-    "date": "2026-08-11T13:35:38Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the Aug. 5, 2026, Congressional Research Service report, Taiwan: Background and U.S. Relations. From the Report Taiwan, which also calls itself the Republic of China (ROC) and was once known as Formosa, is a self-governing East Asian democracy located across the Taiwan Strait from m"
-  },
-  {
-    "id": "a8bd1bdbd2dd",
-    "title": "Hanwha Makes $1B Bid to Acquire Austal USA, Shipbuilder Declares $79.73M Loss",
-    "url": "https://news.usni.org/2026/08/10/hanwha-makes-1b-bid-to-acquire-austal-usa-shipbuilder-declares-79-73m-loss",
-    "date": "2026-08-11T02:59:08Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "South Korean Shipbuilder Hanwha has made a $1 billion bid for the U.S. subsidiary of Australian shipbuilder Austal, Austal disclosed in a regulatory filing on Tuesday morning Australian time. Austal also revised its previous guidance from an estimated $77.6 million (AUD 110 million) in profits to a"
-  },
-  {
-    "id": "36c1abeb148d",
-    "title": "U.S., Moroccan Forces Leverage Africa's Multidomain Experimentation Center",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4567934/us-moroccan-forces-leverage-africas-multidomain-experimentation-center/",
-    "date": "2026-08-10T22:29:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "U.S. service members partnered with Morocco's royal armed forces to enable the first-ever live-fire demonstration leveraging the Africa Multidomain Training and Experimentation Center, supporting a U.S. defense industry partner in testing long-range precision-strike capabilities as part of the Army'"
   }
 ]
