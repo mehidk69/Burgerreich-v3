@@ -1,5 +1,25 @@
 [
   {
+    "id": "cc64a49687db",
+    "title": "Hegseth Greets Troops at Stratcom, Talks Arsenal of Freedom in Wisconsin",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4581463/hegseth-greets-troops-at-stratcom-talks-arsenal-of-freedom-in-wisconsin/",
+    "date": "2026-08-24T22:34:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Secretary of War Pete Hegseth told military personnel assigned to U.S. Strategic Command at Offutt Air Force Base, Neb., that they are the center of America's deterrent capability."
+  },
+  {
+    "id": "a7329128af33",
+    "title": "USS Gerald R. Ford Sortie Test Exceeded Nimitz-class Performance, Says CNO Caudle",
+    "url": "https://news.usni.org/2026/08/24/uss-gerald-r-ford-sortie-test-exceeded-nimitz-class-performance-says-cno-caudle",
+    "date": "2026-08-24T21:08:25Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "USS Gerald R. Ford (CVN-78) outperformed legacy Nimitz-class aircraft carriers in a test of the launch and recovery systems of the carrier, the Navy’s top officer said last week. A February stress test of the electromagnetic launch system, EMALS, and the advanced arresting gear installed aboard Ford"
+  },
+  {
     "id": "82a8ce3f7321",
     "title": "From Davis-Monthan to the Thunderbirds",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4581615/from-davis-monthan-to-the-thunderbirds/",
@@ -678,26 +698,6 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "Destroyers USS Thomas Hudner (DDG-116) and USS Pinckney (DDG-91) returned this week to their homeports following more than eight-month-long deployments, the U.S. Navy announced. Thomas Hudner returned Sunday to Naval Station Mayport, Fla. The destroyer’s deployment took the crew to the U.S. 4th, 5th"
-  },
-  {
-    "id": "f6fe9788386a",
-    "title": "National Guard Continues Washington Wildfire Support",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4568436/national-guard-continues-washington-wildfire-support/",
-    "date": "2026-08-11T17:20:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "National Guard aviation crews have flown 225 flight hours, dropping nearly 1.2 million gallons of water on fires across eastern and central Washington."
-  },
-  {
-    "id": "848989f02e12",
-    "title": "Exercise Tenacious Archer Strengthens Joint Air Defense Readiness",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4568480/exercise-tenacious-archer-strengthens-joint-air-defense-readiness/",
-    "date": "2026-08-11T17:11:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "U.S. service members and partner nations conducted joint air and missile defense training to strengthen regional security and interoperability in the Pacific as part of Exercise Tenacious Archer in Palau."
   },
   {
     "id": "5f96c321d458",
