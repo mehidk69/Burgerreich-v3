@@ -1,5 +1,35 @@
 [
   {
+    "id": "e99d2f4460d6",
+    "title": "USS Abraham Lincoln Deployment on Track to be 2nd Longest Since Vietnam War",
+    "url": "https://news.usni.org/2026/08/25/uss-abraham-lincoln-deployment-on-track-to-be-2nd-longest-since-vietnam-war",
+    "date": "2026-08-25T20:55:45Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The crew of USS Abraham Lincoln (CVN-72) is weeks away from wrapping a deployment that could be the second longest since the end of the Cold War, according to the USNI News carrier database. As of Tuesday, Lincoln, its escorts and the embarked Carrier Air Wing 9 were sailing in the Indian Ocean on t"
+  },
+  {
+    "id": "5e59e39a627f",
+    "title": "U.S., Brunei Forces Build Readiness, Trust During Exercise Pahlawan Warrior",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4582389/us-brunei-forces-build-readiness-trust-during-exercise-pahlawan-warrior/",
+    "date": "2026-08-25T18:52:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "U.S. soldiers and Oklahoma National Guardsmen partnered with Royal Brunei Land Forces soldiers to sharpen their skills during Exercise Pahlawan Warrior 26 at Tutong Camp, Brunei, increasing readiness through shared tactics, jungle training and relationship-building."
+  },
+  {
+    "id": "683bed12a4f0",
+    "title": "Davis-Monthan Mission Movers Vol. 1",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4582602/davis-monthan-mission-movers-vol-1/",
+    "date": "2026-08-25T18:41:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "For Airman 1st Class Jonathan Carbajal, 55th Rescue Generation Squadron assistant dedicated crew chief (ADCC), every workday begins with roll call and ends with the satisfaction of knowing the HH-60W Jolly Green II helicopters he works on are ready to save lives.<br />\n<img alt=\"Department Level Exe"
+  },
+  {
     "id": "0f6ddc2a7248",
     "title": "Davis-Monthan, Tucson partners strengthen readiness through shared resources",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4582538/davis-monthan-tucson-partners-strengthen-readiness-through-shared-resources/",
@@ -680,26 +710,6 @@
     "summary": "U.S. Naval Academy midshipmen recently deployed robotics and autonomous systems directly from 100-foot yard patrol craft for the first time, marking an important milestone in preparing future naval leaders for an increasingly autonomous maritime battlespace."
   },
   {
-    "id": "a9f544d39fb2",
-    "title": "Utah National Guard Aviation Crews Support Wildfire Response",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4569866/utah-national-guard-aviation-crews-support-wildfire-response/",
-    "date": "2026-08-12T17:51:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Utah Army National Guardsmen conducted water bucket drops to support local agencies in suppressing wildfires across the state."
-  },
-  {
-    "id": "ad9243bea675",
-    "title": "Report to Congress on the MQ-25 Stingray",
-    "url": "https://news.usni.org/2026/08/12/report-to-congress-on-the-mq-25-stingray",
-    "date": "2026-08-12T13:18:01Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "air",
-    "summary": "The following is the Aug. 12, 2026, Congressional Research Service report, MQ-25 Stingray: Background and Issues for Congress. From the Report The U.S. Navy is developing a carrier-based uncrewed aircraft system (UAS) to perform aerial refueling and intelligence, surveillance, and reconnaissance (IS"
-  },
-  {
     "id": "6822cc20d1d6",
     "title": "55th Rescue Generation Squadron inactivation ceremony",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4569235/55th-rescue-generation-squadron-inactivation-ceremony/",
@@ -1188,16 +1198,6 @@
     "cocom": "centcom",
     "tag": "naval",
     "summary": "Airmen assigned to the 355th Wing participated in a diagnostic physical training test alongside wing leadership to evaluate recently updated fitness standards at Davis-Monthan Air Force Base, April 15, 2026.<br />\n<img alt=\"DM Command Team Takes the PT Test\" src=\"https://media.defense.gov/2026/Apr/1"
-  },
-  {
-    "id": "58a5f719d71b",
-    "title": "DM Command Team Leads the Way Taking New PFRA",
-    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4462016/dm-command-team-leads-the-way-taking-new-pfra/",
-    "date": "2026-04-16T17:11:00Z",
-    "source": "CENTCOM",
-    "cocom": "centcom",
-    "tag": "naval",
-    "summary": "355th Wing leadership led from the front as they completed a diagnostic Physical Fitness Risk Assessment (PFRA) alongside Airmen, setting the standard for implementation of the Department of the Air Force’s updated fitness program April 15, 2026.<br />\n<img alt=\"DM Command Team Takes the PT Test\" sr"
   },
   {
     "id": "1b6d0d5bb081",
