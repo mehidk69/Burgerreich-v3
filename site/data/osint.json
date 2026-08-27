@@ -1,5 +1,35 @@
 [
   {
+    "id": "0eff9696fd16",
+    "title": "Global Strike Reimagines Readiness With Tactical Training Simulator",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4584469/global-strike-reimagines-readiness-with-tactical-training-simulator/",
+    "date": "2026-08-27T16:05:52Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "To ensure operational readiness and maintain the tactical edge, airmen must train their brains with the same rigor as their bodies. Air Force Global Strike Command is looking to accelerate and modernize this effort with MindGym, a tactical training simulator."
+  },
+  {
+    "id": "576e41eb75de",
+    "title": "U.S. Marine Corps Rehearses Deploying Air Defense Radar to the Philippines",
+    "url": "https://news.usni.org/2026/08/27/u-s-marine-corps-rehearsed-deploying-air-defense-radar-to-the-philippines",
+    "date": "2026-08-27T15:05:37Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "MANILA, PHILIPPINES – The U.S. Marine Corps is forward deploying an expeditionary air defense radar to the Southeast Asian archipelago in support of Manila’s defense modernization efforts, USNI News has learned. Earlier this month, Marine Rotational Force &#8211; Southeast Asia rehearsed deploying a"
+  },
+  {
+    "id": "4a61fe62832f",
+    "title": "U.S. Marine Corps Ground Combat Element 2040",
+    "url": "https://news.usni.org/2026/08/27/u-s-marine-corps-ground-combat-element-2040",
+    "date": "2026-08-27T13:53:06Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The following is the U.S. Marine Corps Ground Combat Element 2040, publicly released Aug. 26, 2026. From the Report Executive Summary 1. Purpose and Strategic Context The Ground Combat Element (GCE) 2040 FY26 document provides the foundational framework for the U.S. Marine Corps to develop, prioriti"
+  },
+  {
     "id": "fd6b3248ed4b",
     "title": "Marines Receive Upgraded Awards for 2021 Abbey Gate Attack Response",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4583445/marines-receive-upgraded-awards-for-2021-abbey-gate-attack-response/",
@@ -568,35 +598,5 @@
     "cocom": "osint",
     "tag": "naval",
     "summary": "The following is President Donald Trump&#8217;s presidential memorandum, Rebuilding the United States Navy and America&#8217;s Shipbuilding Industrial Base, signed Aug. 13, 2026. From the Memorandum MEMORANDUM FOR THE SECRETARY OF WAR THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE ASSISTANT"
-  },
-  {
-    "id": "522e3749bc44",
-    "title": "Marine Corps Recruit Dies After Collapsing During Training",
-    "url": "https://news.usni.org/2026/08/13/marine-corps-recruit-dies-after-collapsing-during-training",
-    "date": "2026-08-13T20:03:36Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "ground",
-    "summary": "Private Aiden Craig, a Marine Corps recruit, died last week, the Marine Corps announced Wednesday. Craig, of Wylie, Texas, died on Aug. 5 after collapsing during a physical fitness test on Aug. 1, according to a Marine Corps release. While the release did not provide additional details, a podcast on"
-  },
-  {
-    "id": "e3f02a5e2a07",
-    "title": "Southcom Mission Shifts to Protecting Sovereignty of U.S., Partner Nations",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4572889/southcom-mission-shifts-to-protecting-sovereignty-of-us-partner-nations/",
-    "date": "2026-08-13T19:59:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "Secretary of War Pete Hegseth met in Panama with U.S. service members who are learning how to survive in the most brutal, unforgiving jungles of the Western Hemisphere, all while retaining their combat effectiveness."
-  },
-  {
-    "id": "4e07d42f9fef",
-    "title": "Chinese, Indonesian Warships Drill East of Taiwan",
-    "url": "https://news.usni.org/2026/08/13/chinese-indonesian-warships-drill-east-of-taiwan",
-    "date": "2026-08-13T18:32:53Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "This story has been updated to correct the participating Indonesian Navy ship.  TAIPEI, TAIWAN – Chinese and Indonesian warships held a joint drill on Wednesday in waters to Taipei’s east amid Beijing’s increased efforts to solidify its presence east of Taiwan. The People’s Liberation Army Navy Type"
   }
 ]
