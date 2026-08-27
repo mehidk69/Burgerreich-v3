@@ -1,5 +1,35 @@
 [
   {
+    "id": "fd6b3248ed4b",
+    "title": "Marines Receive Upgraded Awards for 2021 Abbey Gate Attack Response",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4583445/marines-receive-upgraded-awards-for-2021-abbey-gate-attack-response/",
+    "date": "2026-08-26T22:17:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Secretary of War Pete Hegseth presented three retired Marines with upgraded awards for valor during a ceremony at the Pentagon. The upgrade was as a result of their heroic actions immediately following the Aug. 26, 2021, suicide bomber attack in Kabul, Afghanistan, which killed 13 service members an"
+  },
+  {
+    "id": "483a18d04148",
+    "title": "The Capital's Defenders: Two Centuries After Historic Battle, Citizen-Soldiers are Recognized",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4583941/the-capitals-defenders-two-centuries-after-historic-battle-citizen-soldiers-are/",
+    "date": "2026-08-26T21:42:24Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "A ceremony commemorating the 212th anniversary of the Battle of Bladensburg connected America's Freedom 250 celebration with the citizen-soldier tradition that helped defend the nation in its earliest years and continues today with the National Guard."
+  },
+  {
+    "id": "cbae178499a6",
+    "title": "Navy Planning for Extended Carrier Deployments as Iran Conflict Continues, CNO, MCPON Say",
+    "url": "https://news.usni.org/2026/08/26/navy-planning-for-extended-carrier-deployments-as-iran-conflict-continues-cno-mcpon-say",
+    "date": "2026-08-26T21:36:38Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "NAVAL SUPPORT ACTIVITY HAMPTON ROADS, Va. — Families of sailors assigned to the Theodore Roosevelt Carrier Strike Group are already preparing for a deployment that will last more than seven months as the U.S. conflict with Iran continues. When USS Theodore Roosevelt (CVN-71), its escorts and the emb"
+  },
+  {
     "id": "cf52221e15cc",
     "title": "Navy Flight Demonstration Team Stand Down Ends, Growler Team Still Grounded",
     "url": "https://news.usni.org/2026/08/26/navy-flight-demonstration-team-stand-down-ends-growler-team-still-grounded",
@@ -7,7 +37,7 @@
     "source": "USNI News",
     "cocom": "osint",
     "tag": "alert",
-    "summary": "The Navy has allowed some of its tactical demonstration teams to resume participation in air shows, Naval Air Forces recently confirmed to USNI News. All TACDEMO teams – minus the Growler demo team – have been able to participate in air shows since June 10, Cmdr. Amelia Umayam, spokesperson for NAVA"
+    "summary": "The Navy has allowed some of its tactical demonstration teams to resume participation in air shows, Naval Air Forces recently confirmed to USNI News. All TACDEMO teams – minus the Growler demo team – have been able to participate in air shows since June 10, Cmdr. Amelia Umayam, spokesperson for Comm"
   },
   {
     "id": "e2272802169d",
@@ -680,36 +710,6 @@
     "summary": "This story has been updated to correct the participating Indonesian Navy ship.  TAIPEI, TAIWAN – Chinese and Indonesian warships held a joint drill on Wednesday in waters to Taipei’s east amid Beijing’s increased efforts to solidify its presence east of Taiwan. The People’s Liberation Army Navy Type"
   },
   {
-    "id": "e5a8ccd7c6b2",
-    "title": "USS George Washington Heading West, Lincoln Deployment Nears 9 Months",
-    "url": "https://news.usni.org/2026/08/13/uss-george-washington-heading-west-lincoln-deployment-nears-9-months",
-    "date": "2026-08-13T16:58:27Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The forward-deployed George Washington Carrier Strike Group was in the Strait of Malacca on Thursday, USNI News has learned. Flagship USS George Washington (CVN-73), as well as cruiser USS Robert Smalls (CG-62) and destroyer USS Shoup (DDG-86), were in the Strait of Malacca after making a westbound"
-  },
-  {
-    "id": "7cad096454cc",
-    "title": "Army Reserve Engineers Train Across Multiple Missions During Exercise Northern Strike",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4572953/army-reserve-engineers-train-across-multiple-missions-during-exercise-northern/",
-    "date": "2026-08-13T16:38:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "exercise",
-    "summary": "Soldiers trained on diverse combat and defense skills during Exercise Northern Strike at Camp Grayling, Mich., to boost battlefield readiness."
-  },
-  {
-    "id": "8bd12746c6c7",
-    "title": "Report to Congress on the U.S. Space Force",
-    "url": "https://news.usni.org/2026/08/13/report-to-congress-on-the-u-s-space-force",
-    "date": "2026-08-13T14:02:48Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "general",
-    "summary": "The following is the Aug. 10, 2026, Congressional Research Service defense primer on the U.S. Space Force. From the Report The U.S. Space Force, established by Congress in 2019 (P.L. 116-92, §952), is one of the six branches of the Armed Forces. According to Title 10, Section 9081, of the U.S. Code,"
-  },
-  {
     "id": "6822cc20d1d6",
     "title": "55th Rescue Generation Squadron inactivation ceremony",
     "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4569235/55th-rescue-generation-squadron-inactivation-ceremony/",
@@ -717,7 +717,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
-    "summary": "U.S. Air Force honor guardsmen present the colors during the 55th Rescue Generation Squadron<br />\n<img alt=\"U.S. Air Force honor guardsmen present the colors during the 55th Rescue Generation Squadron inactivation ceremony at Davis-Monthan Air Force Base, Arizona, Aug. 10, 2026. The 55th RGS genera"
+    "summary": "<br />\n<img alt=\"U.S. Air Force honor guardsmen present the colors during the 55th Rescue Generation Squadron inactivation ceremony at Davis-Monthan Air Force Base, Arizona, Aug. 10, 2026. The 55th RGS generated and sustained safe, rescue-ready airpower to save lives and critical assets anywhere, an"
   },
   {
     "id": "5f96c321d458",
@@ -787,7 +787,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "exercise",
-    "summary": "U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron manage the Emergency Operations<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron manage the Emergency Operations Center during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July"
+    "summary": "<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron manage the Emergency Operations Center during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July 22, 2026. CS 26.1 strengthened unit cohesion by integrating Airmen from multiple units into cross-fu"
   },
   {
     "id": "374d307bd0b0",
@@ -797,7 +797,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "exercise",
-    "summary": "U.S. Air Force Airmen assigned to the 355th Force Support Squadron, prepare dinner during Exercise<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Force Support Squadron, prepare dinner during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July 22, 2026. CS 26.1 strengthe"
+    "summary": "<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Force Support Squadron, prepare dinner during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July 22, 2026. CS 26.1 strengthened unit cohesion by integrating Airmen from multiple units into cross-functional teams prepared t"
   },
   {
     "id": "39c862347254",
@@ -807,7 +807,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "exercise",
-    "summary": "U.S. Air Force Airmen assigned to the 355th Security Forces Squadron, explain vehicle search and<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Security Forces Squadron, explain vehicle search and recovery fundamentals during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida"
+    "summary": "<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Security Forces Squadron, explain vehicle search and recovery fundamentals during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July 20, 2026. CS 26.1 strengthened unit cohesion by integrating Airmen from multiple units in"
   },
   {
     "id": "1c00ee79ca69",
@@ -817,7 +817,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "exercise",
-    "summary": "U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron learn about flightline repair<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron learn about flightline repair during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July 20, 2026. C"
+    "summary": "<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron learn about flightline repair during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July 20, 2026. CS 26.1 gave Airmen hands-on experience in expeditionary operations, from base construction to emer"
   },
   {
     "id": "5d6b7670d351",
@@ -827,7 +827,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "alert",
-    "summary": "U.S. Air Force Col. Kyle Porter, 355th Wing deputy commander, and aircrew assigned to the 492nd<br />\n<img alt=\"U.S. Air Force Col. Kyle Porter, 355th Wing deputy commander, and aircrew assigned to the 492nd Special Operations Wing approach an OA-1K Skyraider II aircraft at Davis-Monthan Air Force B"
+    "summary": "<br />\n<img alt=\"U.S. Air Force Col. Kyle Porter, 355th Wing deputy commander, and aircrew assigned to the 492nd Special Operations Wing approach an OA-1K Skyraider II aircraft at Davis-Monthan Air Force Base, Arizona, July 14, 2026. The knowledge and experience\ngained during the familiarization fli"
   },
   {
     "id": "c4883cbc4b69",
@@ -847,7 +847,7 @@
     "source": "CENTCOM",
     "cocom": "centcom",
     "tag": "posture",
-    "summary": "A Military Affairs Committee member, hands shaved ice to an Airman at Davis-Monthan Air Force Base,<br />\n<img alt=\"A DM50 member, hands shaved ice to an Airman at Davis-Monthan Air Force Base, Arizona, July 2, 2026. DM50, the Military Affairs Committee and base first sergeants aimed to boost morale"
+    "summary": "<br />\n<img alt=\"A DM50 member, hands shaved ice to an Airman at Davis-Monthan Air Force Base, Arizona, July 2, 2026. DM50, the Military Affairs Committee and base first sergeants aimed to boost morale and show appreciation for Airmen enduring high temperatures on the flight line and in other outdoo"
   },
   {
     "id": "4f243f21e29b",
