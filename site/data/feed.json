@@ -1,5 +1,35 @@
 [
   {
+    "id": "a7a2e08e1714",
+    "title": "Navy Finishes First Barracks Overhaul As Part of Quality of Life Initiatives",
+    "url": "https://news.usni.org/2026/08/27/navy-finishes-first-barracks-overhaul-as-part-of-quality-of-life-initiatives",
+    "date": "2026-08-27T21:46:58Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy finished the first of its modernization projects meant to move sailors into shore housing as part of the Pentagon’s overall Barracks Task Force, the installations command announced Thursday. The Navy installed new furnishings and renovated the living quarters at Naval Base Kitsap-Bremerton,"
+  },
+  {
+    "id": "33bedfd2aa4c",
+    "title": "Navy Receives its Final Expeditionary Sea Base",
+    "url": "https://news.usni.org/2026/08/27/navy-receives-its-final-expeditionary-sea-base",
+    "date": "2026-08-27T20:02:59Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. Navy received its final Lewis B. Puller-class Expeditionary Sea Base this week as Military Sealift Command prepares for the return of three sidelined ships. General Dynamics NASSCO delivered the future USS Hector A. Cafferata Jr. (ESB-8) to the Navy on Tuesday in San Diego following sea tri"
+  },
+  {
+    "id": "7b87823a68aa",
+    "title": "Army Selects Vendors, Sites for Nuclear Microreactors",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4584583/army-selects-vendors-sites-for-nuclear-microreactors/",
+    "date": "2026-08-27T18:19:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The Army's Janus Program selected five nuclear energy vendors and five initial locations to build and operate nuclear microreactors."
+  },
+  {
     "id": "0eff9696fd16",
     "title": "Global Strike Reimagines Readiness With Tactical Training Simulator",
     "url": "https://www.war.gov/News/News-Stories/Article/Article/4584469/global-strike-reimagines-readiness-with-tactical-training-simulator/",
@@ -668,36 +698,6 @@
     "cocom": "osint",
     "tag": "air",
     "summary": "U.S. Forces Japan rapidly delivered more than 100,000 pounds of humanitarian aid to Kumamoto Prefecture, Japan, following a devastating earthquake."
-  },
-  {
-    "id": "1b647d5343f2",
-    "title": "Centcom Launches First-Ever Multinational Attack Drone Task Force",
-    "url": "https://www.war.gov/News/News-Stories/Article/Article/4573946/centcom-launches-first-ever-multinational-attack-drone-task-force/",
-    "date": "2026-08-14T14:23:00Z",
-    "source": "DoD News",
-    "cocom": "osint",
-    "tag": "alert",
-    "summary": "U.S. Central Command announced efforts to establish the first multidomain, multinational attack drone task force, which will employ one-way attack drones operated by military support staff from the United States and regional partners."
-  },
-  {
-    "id": "69a860018885",
-    "title": "New White House Memo Calls for Foreign-Built Warships, Return to Steam Catapults on Ford Carriers",
-    "url": "https://news.usni.org/2026/08/13/new-white-house-memo-calls-for-foreign-built-warships-return-to-steam-catapults-on-ford-carriers",
-    "date": "2026-08-13T23:15:54Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "This post has been updated with a statement from the Shipbuilders Council of America. President Donald Trump has ordered the Pentagon to consider foreign-built warships and auxiliary vessels for the U.S. Navy, in addition to other proposed changes to shipbuilding, in a sweeping presidential memo rel"
-  },
-  {
-    "id": "c459197ab47f",
-    "title": "Presidential Memo: Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
-    "url": "https://news.usni.org/2026/08/13/presidential-memo-rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base",
-    "date": "2026-08-13T21:46:21Z",
-    "source": "USNI News",
-    "cocom": "osint",
-    "tag": "naval",
-    "summary": "The following is President Donald Trump&#8217;s presidential memorandum, Rebuilding the United States Navy and America&#8217;s Shipbuilding Industrial Base, signed Aug. 13, 2026. From the Memorandum MEMORANDUM FOR THE SECRETARY OF WAR THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE ASSISTANT"
   },
   {
     "id": "3881c072dbbe",
