@@ -1,10 +1,1502 @@
 [
-  {"id":"seed01","title":"USS Dwight D. Eisenhower CSG transits Suez Canal","url":"","date":"2026-04-05T12:00:00Z","source":"CENTCOM","cocom":"centcom","tag":"naval","summary":"CVN-69 and escorts transit into Red Sea for scheduled deployment."},
-  {"id":"seed02","title":"B-52H Stratofortress conducts Bomber Task Force mission over Baltic","url":"","date":"2026-04-05T08:00:00Z","source":"EUCOM","cocom":"eucom","tag":"air","summary":"USAF bomber integrates with NATO allies during Baltic overwatch."},
-  {"id":"seed03","title":"US-Philippines Balikatan 2026 exercise commences","url":"","date":"2026-04-04T06:00:00Z","source":"INDOPACOM","cocom":"indopacom","tag":"exercise","summary":"Annual bilateral exercise involving 12,000 personnel begins."},
-  {"id":"seed04","title":"AFRICOM airstrike targets ISIS-Somalia compound","url":"","date":"2026-04-04T14:00:00Z","source":"AFRICOM","cocom":"africom","tag":"alert","summary":"Precision strike conducted near Jilib, southern Somalia."},
-  {"id":"seed05","title":"STRATCOM announces nuclear deterrence posture review","url":"","date":"2026-04-03T10:00:00Z","source":"STRATCOM","cocom":"stratcom","tag":"posture","summary":"Annual review of US nuclear deterrent forces and strategy."},
-  {"id":"seed06","title":"82nd Airborne deploys rapid-response element to CENTCOM AOR","url":"","date":"2026-04-03T16:00:00Z","source":"DoD News","cocom":"osint","tag":"ground","summary":"Infantry brigade combat team elements forward-deployed."},
-  {"id":"seed07","title":"MQ-9 Reaper lost over Yemen during surveillance mission","url":"","date":"2026-04-02T18:00:00Z","source":"USNI News","cocom":"osint","tag":"alert","summary":"Unmanned aircraft lost; cause under investigation."},
-  {"id":"seed08","title":"NATO DEFENDER Europe 2026 exercise kicks off","url":"","date":"2026-04-01T09:00:00Z","source":"EUCOM","cocom":"eucom","tag":"exercise","summary":"Multinational exercise with 30+ allied nations participating."}
+  {
+    "id": "a7a2e08e1714",
+    "title": "Navy Finishes First Barracks Overhaul As Part of Quality of Life Initiatives",
+    "url": "https://news.usni.org/2026/08/27/navy-finishes-first-barracks-overhaul-as-part-of-quality-of-life-initiatives",
+    "date": "2026-08-27T21:46:58Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy finished the first of its modernization projects meant to move sailors into shore housing as part of the Pentagon’s overall Barracks Task Force, the installations command announced Thursday. The Navy installed new furnishings and renovated the living quarters at Naval Base Kitsap-Bremerton,"
+  },
+  {
+    "id": "33bedfd2aa4c",
+    "title": "Navy Receives its Final Expeditionary Sea Base",
+    "url": "https://news.usni.org/2026/08/27/navy-receives-its-final-expeditionary-sea-base",
+    "date": "2026-08-27T20:02:59Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The U.S. Navy received its final Lewis B. Puller-class Expeditionary Sea Base this week as Military Sealift Command prepares for the return of three sidelined ships. General Dynamics NASSCO delivered the future USS Hector A. Cafferata Jr. (ESB-8) to the Navy on Tuesday in San Diego following sea tri"
+  },
+  {
+    "id": "7b87823a68aa",
+    "title": "Army Selects Vendors, Sites for Nuclear Microreactors",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4584583/army-selects-vendors-sites-for-nuclear-microreactors/",
+    "date": "2026-08-27T18:19:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The Army's Janus Program selected five nuclear energy vendors and five initial locations to build and operate nuclear microreactors."
+  },
+  {
+    "id": "0eff9696fd16",
+    "title": "Global Strike Reimagines Readiness With Tactical Training Simulator",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4584469/global-strike-reimagines-readiness-with-tactical-training-simulator/",
+    "date": "2026-08-27T16:05:52Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "To ensure operational readiness and maintain the tactical edge, airmen must train their brains with the same rigor as their bodies. Air Force Global Strike Command is looking to accelerate and modernize this effort with MindGym, a tactical training simulator."
+  },
+  {
+    "id": "576e41eb75de",
+    "title": "U.S. Marine Corps Rehearses Deploying Air Defense Radar to the Philippines",
+    "url": "https://news.usni.org/2026/08/27/u-s-marine-corps-rehearsed-deploying-air-defense-radar-to-the-philippines",
+    "date": "2026-08-27T15:05:37Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "MANILA, PHILIPPINES – The U.S. Marine Corps is forward deploying an expeditionary air defense radar to the Southeast Asian archipelago in support of Manila’s defense modernization efforts, USNI News has learned. Earlier this month, Marine Rotational Force &#8211; Southeast Asia rehearsed deploying a"
+  },
+  {
+    "id": "4a61fe62832f",
+    "title": "U.S. Marine Corps Ground Combat Element 2040",
+    "url": "https://news.usni.org/2026/08/27/u-s-marine-corps-ground-combat-element-2040",
+    "date": "2026-08-27T13:53:06Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The following is the U.S. Marine Corps Ground Combat Element 2040, publicly released Aug. 26, 2026. From the Report Executive Summary 1. Purpose and Strategic Context The Ground Combat Element (GCE) 2040 FY26 document provides the foundational framework for the U.S. Marine Corps to develop, prioriti"
+  },
+  {
+    "id": "fd6b3248ed4b",
+    "title": "Marines Receive Upgraded Awards for 2021 Abbey Gate Attack Response",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4583445/marines-receive-upgraded-awards-for-2021-abbey-gate-attack-response/",
+    "date": "2026-08-26T22:17:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Secretary of War Pete Hegseth presented three retired Marines with upgraded awards for valor during a ceremony at the Pentagon. The upgrade was as a result of their heroic actions immediately following the Aug. 26, 2021, suicide bomber attack in Kabul, Afghanistan, which killed 13 service members an"
+  },
+  {
+    "id": "483a18d04148",
+    "title": "The Capital's Defenders: Two Centuries After Historic Battle, Citizen-Soldiers are Recognized",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4583941/the-capitals-defenders-two-centuries-after-historic-battle-citizen-soldiers-are/",
+    "date": "2026-08-26T21:42:24Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "A ceremony commemorating the 212th anniversary of the Battle of Bladensburg connected America's Freedom 250 celebration with the citizen-soldier tradition that helped defend the nation in its earliest years and continues today with the National Guard."
+  },
+  {
+    "id": "cbae178499a6",
+    "title": "Navy Planning for Extended Carrier Deployments as Iran Conflict Continues, CNO, MCPON Say",
+    "url": "https://news.usni.org/2026/08/26/navy-planning-for-extended-carrier-deployments-as-iran-conflict-continues-cno-mcpon-say",
+    "date": "2026-08-26T21:36:38Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "NAVAL SUPPORT ACTIVITY HAMPTON ROADS, Va. — Families of sailors assigned to the Theodore Roosevelt Carrier Strike Group are already preparing for a deployment that will last more than seven months as the U.S. conflict with Iran continues. When USS Theodore Roosevelt (CVN-71), its escorts and the emb"
+  },
+  {
+    "id": "cf52221e15cc",
+    "title": "Navy Flight Demonstration Team Stand Down Ends, Growler Team Still Grounded",
+    "url": "https://news.usni.org/2026/08/26/navy-flight-demonstration-team-stand-down-ends-growler-team-still-grounded",
+    "date": "2026-08-26T18:35:25Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The Navy has allowed some of its tactical demonstration teams to resume participation in air shows, Naval Air Forces recently confirmed to USNI News. All TACDEMO teams – minus the Growler demo team – have been able to participate in air shows since June 10, Cmdr. Amelia Umayam, spokesperson for Comm"
+  },
+  {
+    "id": "e2272802169d",
+    "title": "U.S., Allies Kick Off Drills at Strategic Norwegian Island",
+    "url": "https://news.usni.org/2026/08/26/u-s-allies-kick-off-drills-at-strategic-norwegian-island",
+    "date": "2026-08-26T17:38:57Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "U.S., Norwegian and U.K. forces deployed Wednesday to Jan Mayen, a strategic island in the Norwegian Sea for a NATO Arctic Sentry enhanced Vigilance Activity. The trilateral operation is meant to strengthen NATO’s ability to operate jointly in challenging Arctic conditions and will integrate multina"
+  },
+  {
+    "id": "91f1b431e2cf",
+    "title": "Army Armaments Center Unveils New Ammo Packaging System",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4583508/army-armaments-center-unveils-new-ammo-packaging-system/",
+    "date": "2026-08-26T17:28:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "The U.S. Army Combat Capabilities Development Command Armaments Center's new SixPAC system blends lightweight polymers with a rugged steel shell, marking a leap in small-caliber ammunition packaging intended to reshape how soldiers use munitions."
+  },
+  {
+    "id": "361092bdf16d",
+    "title": "4 Dead in SOUTHCOM Strike on Go-fast Vessel",
+    "url": "https://news.usni.org/2026/08/26/4-dead-in-southcom-strike-on-go-fast-vessel",
+    "date": "2026-08-26T16:35:46Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Forces with Joint Task Force Western Hemisphere struck a go-fast vessel suspected of drug trafficking on Tuesday, according to U.S. Southern Command. The strike – the second in August – killed four people, bringing the total death toll to 227. There have been a total of 68 strikes since President Do"
+  },
+  {
+    "id": "7c747ce2e288",
+    "title": "Fiscal Year 2025 Annual Report on Sexual Assault in the Military",
+    "url": "https://news.usni.org/2026/08/26/fiscal-year-2025-annual-report-on-sexual-assault-in-the-military",
+    "date": "2026-08-26T15:01:14Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the Fiscal Year 2025 Annual Report on Sexual Assault in the Military, published Aug. 21, 2026. Report Fact Sheet Background Each year, the Department of War submits a report on sexual assault involving members of the United States Armed Forces to Congress, as mandated by section 163"
+  },
+  {
+    "id": "1bc51e161f82",
+    "title": "Review Panel Continues Its Mission as Pentagon Marks Fifth Anniversary of Abbey Gate Bombing",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4582866/review-panel-continues-its-mission-as-pentagon-marks-fifth-anniversary-of-abbey/",
+    "date": "2026-08-26T12:26:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "Senior Advisor to the Secretary of War Sean Parnell revealed in a social media post that an ongoing War Department investigation into the circumstances surrounding the 2021 terrorist airport bombing in Kabul, Afghanistan, has uncovered classified documents that had not been previously located."
+  },
+  {
+    "id": "e99d2f4460d6",
+    "title": "USS Abraham Lincoln Deployment on Track to be 2nd Longest Since Vietnam War",
+    "url": "https://news.usni.org/2026/08/25/uss-abraham-lincoln-deployment-on-track-to-be-2nd-longest-since-vietnam-war",
+    "date": "2026-08-25T20:55:45Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The crew of USS Abraham Lincoln (CVN-72) is weeks away from wrapping a deployment that could be the second longest since the end of the Cold War, according to the USNI News carrier database. As of Tuesday, Lincoln, its escorts and the embarked Carrier Air Wing 9 were sailing in the Indian Ocean on t"
+  },
+  {
+    "id": "5e59e39a627f",
+    "title": "U.S., Brunei Forces Build Readiness, Trust During Exercise Pahlawan Warrior",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4582389/us-brunei-forces-build-readiness-trust-during-exercise-pahlawan-warrior/",
+    "date": "2026-08-25T18:52:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "U.S. soldiers and Oklahoma National Guardsmen partnered with Royal Brunei Land Forces soldiers to sharpen their skills during Exercise Pahlawan Warrior 26 at Tutong Camp, Brunei, increasing readiness through shared tactics, jungle training and relationship-building."
+  },
+  {
+    "id": "683bed12a4f0",
+    "title": "Davis-Monthan Mission Movers Vol. 1",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4582602/davis-monthan-mission-movers-vol-1/",
+    "date": "2026-08-25T18:41:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "For Airman 1st Class Jonathan Carbajal, 55th Rescue Generation Squadron assistant dedicated crew chief (ADCC), every workday begins with roll call and ends with the satisfaction of knowing the HH-60W Jolly Green II helicopters he works on are ready to save lives.<br />\n<img alt=\"Department Level Exe"
+  },
+  {
+    "id": "0f6ddc2a7248",
+    "title": "Davis-Monthan, Tucson partners strengthen readiness through shared resources",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4582538/davis-monthan-tucson-partners-strengthen-readiness-through-shared-resources/",
+    "date": "2026-08-25T18:02:52Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "Davis-Monthan Air Force Base and local partners are finding new ways to share resources, programs, facilities and expertise, strengthening the community while building a more ready force.<br />\n<img alt=\"Dr. Matt Heinz, Pima County Board of Supervisors District 2 supervisor, engages with Executive S"
+  },
+  {
+    "id": "051e43ab86f0",
+    "title": "Marine Corps Lab Accepts Surface Craft Prototype",
+    "url": "https://news.usni.org/2026/08/25/marine-corps-lab-accepts-surface-craft-prototype",
+    "date": "2026-08-25T15:14:22Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Marine Corps Warfighting Laboratory recently accepted the first of two Ancillary Surface Craft prototypes, according to a news release published last week. Ancillary Surface Craft are designed to provide transportation of personnel and supplies to shallow-gradient, unimproved and unsurveyed shor"
+  },
+  {
+    "id": "e10c29d47064",
+    "title": "Report to Congress on the U.S. Army and the Golden Dome Program",
+    "url": "https://news.usni.org/2026/08/25/report-to-congress-on-the-u-s-army-and-the-golden-dome-program",
+    "date": "2026-08-25T13:31:53Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the Aug. 19, 2026, Congressional Research Service in focus report, The U.S. Army and the Golden Dome Program.  From the Report What Is Golden Dome? The Golden Dome for America (Golden Dome)—initially known as the Iron Dome for America—refers to an integrated homeland air and missile"
+  },
+  {
+    "id": "cc64a49687db",
+    "title": "Hegseth Greets Troops at Stratcom, Talks Arsenal of Freedom in Wisconsin",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4581463/hegseth-greets-troops-at-stratcom-talks-arsenal-of-freedom-in-wisconsin/",
+    "date": "2026-08-24T22:34:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Secretary of War Pete Hegseth told military personnel assigned to U.S. Strategic Command at Offutt Air Force Base, Neb., that they are the center of America's deterrent capability."
+  },
+  {
+    "id": "a7329128af33",
+    "title": "USS Gerald R. Ford Sortie Test Exceeded Nimitz-class Performance, Says CNO Caudle",
+    "url": "https://news.usni.org/2026/08/24/uss-gerald-r-ford-sortie-test-exceeded-nimitz-class-performance-says-cno-caudle",
+    "date": "2026-08-24T21:08:25Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "USS Gerald R. Ford (CVN-78) outperformed legacy Nimitz-class aircraft carriers in a test of the launch and recovery systems of the carrier, the Navy’s top officer said last week. A February stress test of the electromagnetic launch system, EMALS, and the advanced arresting gear installed aboard Ford"
+  },
+  {
+    "id": "82a8ce3f7321",
+    "title": "From Davis-Monthan to the Thunderbirds",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4581615/from-davis-monthan-to-the-thunderbirds/",
+    "date": "2026-08-24T18:16:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "general",
+    "summary": "U.S. Air Force Capt. Mckayla Russell, 355th Force Support Squadron sustainment flight commander at<br />"
+  },
+  {
+    "id": "70e3196e6dc5",
+    "title": "EOD Airmen Train on Full Spectrum of Explosive Threats",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4581480/eod-airmen-train-on-full-spectrum-of-explosive-threats/",
+    "date": "2026-08-24T17:55:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Airmen trained in high-pressure, simulated deployment scenarios during a weeklong exercise in Montana to sharpen their leadership and survival skills."
+  },
+  {
+    "id": "e306cf05f1a4",
+    "title": "Navy Unveils New Anti-Air Missile Malice with a Range of 250 Nautical Miles",
+    "url": "https://news.usni.org/2026/08/24/navy-unveils-new-anti-air-missile-malice-with-a-range-of-250-nautical-miles",
+    "date": "2026-08-24T17:54:47Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The U.S. Navy is developing a long-range missile that the service claims can down aerial targets up to 250 nautical miles away. Officially designated the AIM-242 long-range air-to-air missile, the sea service revealed the new Malice system over the weekend at the Tailhook Association Naval Aviation"
+  },
+  {
+    "id": "d5e7b6483c35",
+    "title": "SOUTHCOM Strikes First Suspected Drug Boat in Two Months",
+    "url": "https://news.usni.org/2026/08/24/southcom-strikes-first-suspected-drug-boat-in-two-months",
+    "date": "2026-08-24T17:37:35Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Forces with Joint Task Force Western Hemisphere – the new name for Joint Task Force Southern Spear – struck a low-profile vessel suspected of smuggling illicit narcotics on Sunday. The strike killed two people, according to a Monday announcement from U.S. Southern Command. In total, 223 people have"
+  },
+  {
+    "id": "a0b6dd46d5f1",
+    "title": "USNI News Fleet and Marine Tracker: Aug. 24, 2026",
+    "url": "https://news.usni.org/2026/08/24/usni-news-fleet-and-marine-tracker-aug-24-2026",
+    "date": "2026-08-24T15:20:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 24, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
+  },
+  {
+    "id": "4ef3e9b500b9",
+    "title": "USS Abraham Lincoln Leaves the Middle East After Almost 7 Months",
+    "url": "https://news.usni.org/2026/08/22/uss-abraham-lincoln-leaves-the-middle-east-after-almost-7-months",
+    "date": "2026-08-22T12:30:27Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "Aircraft carrier USS Abraham Lincoln (CVN-72) has left the Middle East after almost seven months and is now in U.S. 7th Fleet, USNI News has learned. As of Saturday, Lincoln, its escorts and the embarked Carrier Air Wing 9 were operating in the Indian Ocean in U.S. Indo-Pacific Command, a Navy offic"
+  },
+  {
+    "id": "7e984ee3be50",
+    "title": "2 Mariners Killed in Strait of Hormuz as Transits See Small Increase",
+    "url": "https://news.usni.org/2026/08/21/2-mariners-killed-in-strait-of-hormuz-as-transits-see-small-increase",
+    "date": "2026-08-22T01:13:56Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "Two mariners were killed in the past week and a half in the Strait of Hormuz by Iranian attacks. On Monday, an Iranian attack on MV Minoan Dignity in the strait left one seafarer dead. It is the second attack on a ship managed by Greek company Modion Maritime Management. On Aug. 3, MV Minoan Pioneer"
+  },
+  {
+    "id": "f12f7341b387",
+    "title": "48th Rescue Squadron, 68th RQS strengthen future Airmen's physical resiliency",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4580656/48th-rescue-squadron-68th-rqs-strengthen-future-airmens-physical-resiliency/",
+    "date": "2026-08-21T21:37:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "<br />\n<img alt=\"U.S. Air Force Delayed Entry Program recruits carry sandbags as part of a physical training session with the 48th Rescue Squadron and the 68th Rescue Squadron Aug. 20, 2026 at Silverlake Park in Tucson, Arizona. Airmen, recruits and leadership from the 362nd Recruiting Squadron show"
+  },
+  {
+    "id": "1a6d3b99a441",
+    "title": "Motors Assembled at Tobyhanna Army Depot Power Drone to World-Record Flight",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4580293/motors-assembled-at-tobyhanna-army-depot-power-drone-to-world-record-flight/",
+    "date": "2026-08-21T19:35:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "A battery-powered small unmanned aircraft system recently shattered a world endurance record, flying for more than eight hours in the desert heat — a milestone achieved using critical propulsion components assembled by the Army's organic industrial base."
+  },
+  {
+    "id": "b4b976cc78ea",
+    "title": "Navy Advances MH-60 Modernization, Identifies Industry Performers for Prototype Project",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4580264/navy-advances-mh-60-modernization-identifies-industry-performers-for-prototype/",
+    "date": "2026-08-21T19:07:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy's MH-60 Sea Hawk helicopter service life modernization program recently announced the industry performers identified to proceed to the first phase of a statement of work collaboration for the MH-60 tailorable architecture leveraging open systems prototype project."
+  },
+  {
+    "id": "3649222aa892",
+    "title": "How Taiwan’s Elite Military Police Plan to Defend Taipei",
+    "url": "https://news.usni.org/2026/08/21/how-taiwans-elite-military-police-plan-to-defend-taipei",
+    "date": "2026-08-21T18:19:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "TAIPEI, TAIWAN – Torrential rainfall soaked two platoons’ worth of Republic of China Military Police the moment they stormed out the gates of Taipei Nangang Exhibition Center metro station. Clad in a newly fielded grey camo scheme, these men and women moved into position with crew-served machine gun"
+  },
+  {
+    "id": "e668f374d879",
+    "title": "USNI News Western Pacific Pulse: Aug. 21, 2026",
+    "url": "https://news.usni.org/2026/08/21/usni-news-western-pacific-pulse-aug-21-2026",
+    "date": "2026-08-21T17:11:42Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Pyongyang, North Korea North Korea on Thursday at 5 p.m launched approximately 10 short-range ballistic missiles towards the Sea of Japan, according to South Korea’s Joint Chiefs of Staff ("
+  },
+  {
+    "id": "456520e6b5c9",
+    "title": "Arctic Exercise Northern Viking Kicks off with U.S., Iceland",
+    "url": "https://news.usni.org/2026/08/20/arctic-exercise-northern-viking-kicks-off-with-u-s-iceland",
+    "date": "2026-08-20T20:41:07Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "The United States, Iceland and NATO began the U.S-led biennial exercise Northern Viking 2026 (NV26) on Tuesday, which runs in Iceland and surrounding waters until Sept. 3. This year marks the 75th anniversary of the 1951 Bilateral Defense Agreement between Iceland and the United States. A U.S 6th Fl"
+  },
+  {
+    "id": "7f775179459f",
+    "title": "Corps of Engineers Modernizes Historic Fort Sill Barracks",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4578917/corps-of-engineers-modernizes-historic-fort-sill-barracks/",
+    "date": "2026-08-20T18:16:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "Behind the historic facade of Building 900 at U.S. Army Garrison, Fort Sill, Okla., the U.S. Army Corps of Engineers, Tulsa District, is executing a high-tech modernization project that will make it one of the most structurally reinforced buildings on the installation."
+  },
+  {
+    "id": "ee5ad174ce20",
+    "title": "USS George Washington Celebrates Historic Aircraft Milestone",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4578782/uss-george-washington-celebrates-historic-aircraft-milestone/",
+    "date": "2026-08-20T17:25:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "After 34 years of continuous service projecting American sea power, the aircraft carrier USS George Washington achieved a major aviation milestone by recovering its 200,000th fixed-wing aircraft while underway in the Indian Ocean."
+  },
+  {
+    "id": "03420a317d2e",
+    "title": "U.S. National Security Science & Technology Strategy",
+    "url": "https://news.usni.org/2026/08/20/u-s-national-security-science-technology-strategy",
+    "date": "2026-08-20T15:31:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the White House National Security Science and Technology Strategy released earlier this week. From the report This document establishes a National Security Science and Technology Strategy (NSSTS) to support and enable the 2025 National Security Strategy (NSS). It satisfies the Congr"
+  },
+  {
+    "id": "3c7a7feaf9ed",
+    "title": "Carrier USS George Washington Now in the Middle East",
+    "url": "https://news.usni.org/2026/08/20/carrier-uss-george-washington-now-in-the-middle-east",
+    "date": "2026-08-20T14:40:01Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "USS George Washington (CVN-73) arrived in the U.S. Central Command area of responsibility yesterday, the combatant command announced on social media. The aircraft carrier, which was accompanied by cruiser USS Robert Smalls (CG-62) and destroyer USS Shoup (DDG-86), transited the Arabian Sea on Thursd"
+  },
+  {
+    "id": "a918980932d7",
+    "title": "Marines are Training Fireteams to Deploy Combat Drones",
+    "url": "https://news.usni.org/2026/08/19/marines-training-fireteams-to-deploy-combat-drones",
+    "date": "2026-08-19T21:31:45Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The Marine Corps on Friday wrapped up the inaugural Marine Corps Attack Drone Competition at Marine Corps Base (MCB) Quantico, Va., capping a summer of drone firsts for the service. Drones also played a part in Marine Corps exercises in Korea and Australia and new counter-small unmanned aerial syste"
+  },
+  {
+    "id": "ca34d7d2c025",
+    "title": "Marines Training Fireteams to Deploy Combat Drones",
+    "url": "https://news.usni.org/2026/08/19/marines-training-fireteams-to-deploy-combat-drones",
+    "date": "2026-08-19T21:31:45Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "The Marine Corps on Friday wrapped up the inaugural Marine Corps Attack Drone Competition at Marine Corps Base (MCB) Quantico, Va., capping a summer of drone firsts for the service. Drones also played a part in Marine Corps exercises in Korea and Australia and new counter-small unmanned aerial syste"
+  },
+  {
+    "id": "832910cf7fc8",
+    "title": "Learning With Every Launch: Inside Exercise Cold Raptor",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4577888/learning-with-every-launch-inside-exercise-cold-raptor/",
+    "date": "2026-08-19T18:44:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "exercise",
+    "summary": "During Exercise Cold Raptor in Poland, soldiers launched micro-high-altitude balloons into the stratosphere to test emerging sensing and communication technologies."
+  },
+  {
+    "id": "8a7ebc072862",
+    "title": "Exercise Northern Viking Marks 75 Years of Defense Cooperation",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4577643/exercise-northern-viking-marks-75-years-of-defense-cooperation/",
+    "date": "2026-08-19T17:00:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.S. service members arrived in Keflavik, Iceland, joining forces with the Icelandic Coast Guard and other NATO allies for the U.S. 6th Fleet's Exercise Northern Viking 2026."
+  },
+  {
+    "id": "2a430a338273",
+    "title": "Sailor Charged with Murder in Death of Carrier John F. Kennedy Boatswain’s Mate",
+    "url": "https://news.usni.org/2026/08/19/sailor-charged-with-murder-in-death-of-carrier-john-f-kennedy-boatswains-mate",
+    "date": "2026-08-19T14:38:49Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "This post has been updated with additional information from the Navy. The Navy has charged a sailor with murder and involuntary manslaughter in the death of another sailor aboard aircraft carrier John F. Kennedy (CVN-79). Aviation Boatswain’s Mate &#8211; Aircraft Handling Airman Apprentice Jayjrion"
+  },
+  {
+    "id": "a0a0df9d723f",
+    "title": "Report to Congress on Russian Hybrid Warfare in Europe",
+    "url": "https://news.usni.org/2026/08/19/report-to-congress-on-russian-hybrid-warfare-in-europe",
+    "date": "2026-08-19T11:24:21Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The following is the Aug. 11, 2026, Congressional Research Service report: Russian Hybrid Warfare Activities in Europe: Considerations for Congress. From the report Following Russia’s invasion of Ukraine in 2022, U.S. and European officials have accused Russia of a sustained campaign of malign activ"
+  },
+  {
+    "id": "d4054011b209",
+    "title": "Advanced Ready Training-Core course strengthens Airmen for future deployments",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4576847/advanced-ready-training-core-course-strengthens-airmen-for-future-deployments/",
+    "date": "2026-08-19T04:52:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "Airmen assigned to the 355th Wing participated in the Advanced Ready Training-Core (ART-C) course at Davis-Monthan Air Force Base, Arizona, Aug. 3-7, 2026. The course provided hands-on training designed to strengthen deployment readiness and prepare Airmen for the challenges they may encounter in co"
+  },
+  {
+    "id": "98ca398ecaaa",
+    "title": "DM leaders build resilient force, stronger community",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4577048/dm-leaders-build-resilient-force-stronger-community/",
+    "date": "2026-08-18T21:56:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "naval",
+    "summary": "U.S. Air Force Col. Jose Cabrera, 355th Wing commander, and Chief Master Sgt. Kelvin Hatcher, 355th Wing command chief, met with leaders from units across DM to discuss the future of the installation and how to build DM Airmen’s resiliency and improve leadership strategies among the attendees.<br />"
+  },
+  {
+    "id": "b5e2b56c5a6a",
+    "title": "Taiwan’s Tanks",
+    "url": "https://news.usni.org/2026/08/18/taiwans-tanks",
+    "date": "2026-08-18T21:47:24Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "TAOYUAN, TAIWAN &#8211; Crews trained their 30mm cannons, machine guns and anti-tank missile launchers west toward Taiwan Taoyuan International Airport, the focal point of a defensive operation during Han Kuang 42. The collection of CM-34 Clouded Leopard wheeled armoured fighting vehicles provided s"
+  },
+  {
+    "id": "091ec1674c70",
+    "title": "USS Essex Hosts Tiger Cruise on Return to San Diego",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4576945/uss-essex-hosts-tiger-cruise-on-return-to-san-diego/",
+    "date": "2026-08-18T21:37:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The amphibious assault ship USS Essex hosted a historic Tiger Cruise for friends, family and community members near Marine Corps Base Camp Pendleton, Calif., before returning to its home port."
+  },
+  {
+    "id": "6f9a6ef0d1de",
+    "title": "E-2D Advanced Hawkeye Block II Passes Critical Design Review as Navy Plans to Expand Fleet",
+    "url": "https://news.usni.org/2026/08/18/e-2d-advanced-hawkeye-block-ii-passes-critical-design-review-as-navy-plans-to-expand-fleet",
+    "date": "2026-08-18T21:09:20Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "The Navy has signed off on a Northrop Grumman modification to the E-2D Hawkeye that will allow faster upgrades to the airborne command and control aircraft, the service said this week. The E-2D Advanced Hawkeye Block II upgrade passed its critical design review preparing the Portfolio Acquisition Ex"
+  },
+  {
+    "id": "b3fc82b6c3c7",
+    "title": "Army Develops Ultra-Light Vehicle for Changing Battlefields",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4576723/army-develops-ultra-light-vehicle-for-changing-battlefields/",
+    "date": "2026-08-18T20:13:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "ground",
+    "summary": "In fielding the Infantry Squad Vehicle, an ultra-light tactical vehicle that carries nine passengers and their equipment, the Army took a rapid acquisition approach, using commercial off-the-shelf solutions and minimal military modifications."
+  },
+  {
+    "id": "11bb07a92cf3",
+    "title": "Advanced Ready Training Core course enhances lethality at Davis-Monthan Air Force Base",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4576847/advanced-ready-training-core-course-enhances-lethality-at-davis-monthan-air-for/",
+    "date": "2026-08-18T19:52:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "U.S. Airmen participating in an Advanced Ready Training Core course move with weapons to rescue a simulated casualty at Davis-Monthan Air Force Base, Arizona, Aug. 6, 2026.<br />\n<img alt=\"U.S. Airmen participating in an Advanced Ready Training Core course move with weapons to rescue a simulated cas"
+  },
+  {
+    "id": "88ffeb6b5748",
+    "title": "United Nations Command Pays Tribute to Fallen Soldiers During 50th Commemoration of Attack",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4576426/united-nations-command-pays-tribute-to-fallen-soldiers-during-50th-commemoratio/",
+    "date": "2026-08-18T18:04:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "The United Nations Command commemorated the sacrifice of Army Capt. Arthur Bonifas and 1st Lt. Mark Barrett, who  were killed in an unprovoked attack 50 years ago in the Korean Demilitarized Zone, in the name of peace and stability."
+  },
+  {
+    "id": "7d80d10ef801",
+    "title": "U.S., Allies Hold Major Ballistic Missile Defense Drill; New Zealand Starts Pacific Patrol",
+    "url": "https://news.usni.org/2026/08/18/u-s-allies-hold-major-ballistic-missile-defense-drill-new-zealand-starts-pacific-patrol",
+    "date": "2026-08-18T15:38:18Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "U.S. 3rd Fleet, multinational partners and the Missile Defense Agency wrapped up ballistic missile defense exercise Pacific Dragon 2026 on Saturday around the Hawaiian Islands. Meanwhile, the Royal New Zealand Navy (RNZN) Task Group which had earlier participated in the Rim of the Pacific 2026 will"
+  },
+  {
+    "id": "dd78ac2d38e7",
+    "title": "Defense Innovation Unit Develops Program to Supercharge Defense Industrial Base",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4575421/defense-innovation-unit-develops-program-to-supercharge-defense-industrial-base/",
+    "date": "2026-08-18T14:21:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The Bridge Program, part of the War Department's innovation unit developed to drive systemic reform as it seeks to supercharge the U.S. defense industrial base, is executing a targeted strategy to eliminate critical bottlenecks."
+  },
+  {
+    "id": "982420e17867",
+    "title": "One War Department Unit Takes Next Step in Legacy of Innovation",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4575421/one-war-department-unit-takes-next-step-in-legacy-of-innovation/",
+    "date": "2026-08-18T14:21:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "The Bridge Program, part of the War Department's innovation unit developed to drive systemic reform as it seeks to supercharge the U.S. defense industrial base, is executing a targeted strategy to eliminate critical bottlenecks."
+  },
+  {
+    "id": "bead9d014ea8",
+    "title": "Report to Congress on Venezuela and U.S. Policy",
+    "url": "https://news.usni.org/2026/08/18/report-to-congress-on-venezuela-and-u-s-policy",
+    "date": "2026-08-18T11:18:23Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The following is the Aug. 18, 2026, Congressional Research Service report, Venezuela’s Post-Maduro Political Transition and U.S. Policy. From the report Some Members of Congress have closely followed the political and economic situation in Venezuela following the January 3, 2026, U.S. capture and ar"
+  },
+  {
+    "id": "175b88ad04fa",
+    "title": "Twin Icebreaker Projects Progressing at Bollinger’s Gulf Coast Yards",
+    "url": "https://news.usni.org/2026/08/17/twin-icebreaker-projects-progressing-at-bollingers-gulf-coast-yards",
+    "date": "2026-08-17T22:06:26Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "PASCAGOULA, MISS. — The rose-brown hull of the first heavy polar icebreaker for the Coast Guard is taking shape after years of delays on the Gulf Coast. The stern sections of the future USCGC Polar Sentinel (WMSP-21) are now standing almost four stories high in the middle of the Bollinger Mississipp"
+  },
+  {
+    "id": "2e9fa650a347",
+    "title": "Competitors Display Resilience, Teamwork at Fort Drum's Mountain Mudder",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4575433/competitors-display-resilience-teamwork-at-fort-drums-mountain-mudder/",
+    "date": "2026-08-17T20:04:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "posture",
+    "summary": "More than 1,000 Fort Drum, N.Y., community members answered the \"call to dirty,\" putting their laundry detergent to the test as they dove into the muck during the base's annual Mountain Mudder."
+  },
+  {
+    "id": "bc61e966b01d",
+    "title": "Fighter Wing Trains to Keep F-35s in the Fight",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4575190/fighter-wing-trains-to-keep-f-35s-in-the-fight/",
+    "date": "2026-08-17T16:56:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "Airmen assigned to the 187th Fighter Wing, known as the Red Tails, trained to generate and sustain F-35A Lightning II combat airpower under pressure during Operation Tuskegee Thunder at Dannelly Field, Ala."
+  },
+  {
+    "id": "4acdad470905",
+    "title": "USNI News Fleet and Marine Tracker: Aug. 17, 2026",
+    "url": "https://news.usni.org/2026/08/17/usni-news-fleet-and-marine-tracker-aug-17-2026",
+    "date": "2026-08-17T16:44:25Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 17, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the cap"
+  },
+  {
+    "id": "e4d31dc61ba3",
+    "title": "USS Benfold Leaves Japan After Returning from Power Failure Repairs",
+    "url": "https://news.usni.org/2026/08/17/uss-benfold-leaves-japan-after-returning-from-power-failure-repairs",
+    "date": "2026-08-17T15:41:52Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "USS Benfold (DDG-65) departed Yokosuka, Japan, on Monday, after stopping in the Japanese port for a scheduled visit, according to ship spotters. The Arleigh Burke-class guided-missile destroyer pulled into Yokosuka on Thursday, USNI News previously reported. About five days prior, Benfold left Subic"
+  },
+  {
+    "id": "e8dec182937d",
+    "title": "USS Benfold Was Stalled in the South China Sea for Four Days After Engineering Casualty",
+    "url": "https://news.usni.org/2026/08/14/uss-benfold-was-stalled-in-the-south-china-sea-for-four-days-after-engineering-casualty",
+    "date": "2026-08-15T02:16:44Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "alert",
+    "summary": "&#160; This story has been updated to include Benfold was towed to Subic Bay. Guided-missile destroyer USS Benfold (DDG-65) spent four days in the South China Sea without power after an engineering failure, USNI News has learned. Benfold suffered the engineering casualty resulting in a loss of power"
+  },
+  {
+    "id": "dffc18a36c96",
+    "title": "SNCO Professional Enhancement Seminar",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4574433/snco-professional-enhancement-seminar/",
+    "date": "2026-08-14T21:22:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "U.S. Air Force master sergeants and master sergeant selects participated in the Senior Noncommissioned Officer Professional Enhancement Seminar at Davis-Monthan Air Force Base, Arizona, Aug. 3-5, 2026.<br />\n<img alt=\"U.S. Air Force Chief Master Sgt. Vincent Lopez, 12th Air Force (Air Forces Souther"
+  },
+  {
+    "id": "e0b2e3093d38",
+    "title": "USNI News Western Pacific Pulse: Aug. 14, 2026",
+    "url": "https://news.usni.org/2026/08/14/usni-news-western-pacific-pulse-aug-14-2026",
+    "date": "2026-08-14T20:16:00Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "naval",
+    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In the Strait of Malacca The George Washington Carrier Strike Group transited the Malacca Strait to enter the Andaman Sea on Thursday, USNI News reported. The strike group includes aircraft"
+  },
+  {
+    "id": "2288cf45a0ab",
+    "title": "305 RQS HH-60W ACM Phase & Operational Return",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4574505/305-rqs-hh-60w-acm-phase-operational-return/",
+    "date": "2026-08-14T19:30:57Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "The 305th Rescue Squadron at Davis-Monthan AFB recently completed a demanding two-week Air Combat Maneuvering (ACM) block, culminating in four days of training with professional adversary air organizations, Aug. 5, 2026.<br />\n<img alt=\"305th RQS ACM Training\" src=\"https://media.defense.gov/2026/Aug"
+  },
+  {
+    "id": "d9eeb462686a",
+    "title": "U.S. Air Force Airmen conduct rapid rescue of Navy helicopter crew",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4574444/us-air-force-airmen-conduct-rapid-rescue-of-navy-helicopter-crew/",
+    "date": "2026-08-14T18:30:51Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "On Aug. 10, Airmen from the 355th Aircraft Maintenance Squadron, assigned to the 355th Wing but geographically located at Nellis Air Force Base, and the 88th Test and Evaluation Squadron rapidly generated and deployed two HH-60W Jolly Green II helicopters to rescue five U.S. Navy personnel following"
+  },
+  {
+    "id": "668d5ff207fe",
+    "title": "U.S. Focused on Quiet Collaboration with Pacific Allies, Not ‘Tub Thumping,’ Says Colby",
+    "url": "https://news.usni.org/2026/08/14/u-s-focused-on-quiet-collaboration-with-pacific-allies-not-tub-thumping-says-colby",
+    "date": "2026-08-14T16:25:34Z",
+    "source": "USNI News",
+    "cocom": "osint",
+    "tag": "general",
+    "summary": "The Trump administration is focused on delivering military capabilities to the Indo-Pacific to strengthen deterrence, Under Secretary of Defense for Policy Elbridge Colby said Thursday during his week-long tour of the region. “Everybody knows our position on those issues,” Colby said on Thursday to"
+  },
+  {
+    "id": "bb7dcb768cbd",
+    "title": "U.S. Forces Japan Airlifts Supplies to Region Recovering From Earthquake",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4574045/us-forces-japan-airlifts-supplies-to-region-recovering-from-earthquake/",
+    "date": "2026-08-14T16:08:00Z",
+    "source": "DoD News",
+    "cocom": "osint",
+    "tag": "air",
+    "summary": "U.S. Forces Japan rapidly delivered more than 100,000 pounds of humanitarian aid to Kumamoto Prefecture, Japan, following a devastating earthquake."
+  },
+  {
+    "id": "3881c072dbbe",
+    "title": "Air Force Delayed Entry Program recruits tour Davis-Monthan Air Force Base",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4573532/air-force-delayed-entry-program-recruits-tour-davis-monthan-air-force-base/",
+    "date": "2026-08-13T20:28:50Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "U.S. Airmen and Air Force Delayed Entry Program recruits pose for a group photo during a base tour at Davis-Monthan Air Force Base, Arizona, Aug. 7, 2026. Hosted by local recruiters, the event offered participants a firsthand look at the missions and people that support the 355th Wing. (U.S. Air For"
+  },
+  {
+    "id": "6822cc20d1d6",
+    "title": "55th Rescue Generation Squadron inactivation ceremony",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4569235/55th-rescue-generation-squadron-inactivation-ceremony/",
+    "date": "2026-08-11T21:44:14Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "<br />\n<img alt=\"U.S. Air Force honor guardsmen present the colors during the 55th Rescue Generation Squadron inactivation ceremony at Davis-Monthan Air Force Base, Arizona, Aug. 10, 2026. The 55th RGS generated and sustained safe, rescue-ready airpower to save lives and critical assets anywhere, an"
+  },
+  {
+    "id": "5f96c321d458",
+    "title": "First Term Enlisted Course 2.0",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4566705/first-term-enlisted-course-20/",
+    "date": "2026-08-07T21:58:10Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "general",
+    "summary": "The 355th Wing has expanded its First Term Enlisted Course into a three-week curriculum designed to better prepare new Airmen for the demands of military service while advancing the wing's priority of building combat-credible Airmen.<br />\n<img alt=\"First Term Enlisted Course 2.0\" src=\"https://media"
+  },
+  {
+    "id": "fb1e2c92ac80",
+    "title": "Airmen bolster deployment readiness through Air Expeditionary Wing Command and Control course",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4561423/airmen-bolster-deployment-readiness-through-air-expeditionary-wing-command-and/",
+    "date": "2026-07-31T20:51:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "U.S. Airmen sharpened their command and control capabilities during the Air Expeditionary Wing Command and Control Course at Davis-Monthan Air Force Base, Arizona, July 20-24, 2026.<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Wing work together during the Exercise Kingfish Ace portio"
+  },
+  {
+    "id": "f2718e260063",
+    "title": "Two missions, one milestone: Dual-military couple ends assignment at DM",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4561824/two-missions-one-milestone-dual-military-couple-ends-assignment-at-dm/",
+    "date": "2026-07-31T20:00:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "air",
+    "summary": "U.S. Air Force Maj. William \"Raz\" Berryhill, a pilot assigned to the 79th Rescue Squadron, and his wife, Maj. Coleen “Check” Berryhill, assigned to the 357th Fighter Squadron, reached a rare milestone July 28, 2026 as they flew their final flights, known as “fini-flights”, together, closing out thei"
+  },
+  {
+    "id": "e2cbc9f27b3f",
+    "title": "The A-10's Final Flight at Davis-Monthan",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4561890/the-a-10s-final-flight-at-davis-monthan/",
+    "date": "2026-07-31T20:00:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "air",
+    "summary": "The familiar growl of the A-10C Thunderbolt II echoed across Southern Arizona one final time July 29, 2026, as Airmen and local civic leaders gathered at Davis-Monthan Air Force Base to witness the aircraft's final flight, marking the end of nearly five decades of A-10 operations at the installation"
+  },
+  {
+    "id": "1d3c30846191",
+    "title": "Rescue Airmen train as one force in eight-day pre-deployment exercise Operation Iron Covenant",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4559374/rescue-airmen-train-as-one-force-in-eight-day-pre-deployment-exercise-operation/",
+    "date": "2026-07-29T23:48:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "U.S. Air Force Special Warfare Airmen participated in Operation Iron Covenant, a culminating exercise designed to strengthen personnel recovery capabilities and prepare rescue forces for deployment through realistic, scenario-based training. The exercise evaluated the readiness of rescue teams taske"
+  },
+  {
+    "id": "3cc27c9cc702",
+    "title": "DM Airmen Participate in Coyote Storm 26.1 to Reinforce AEW 2.0 Concepts",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4558005/dm-airmen-participate-in-coyote-storm-261-to-reinforce-aew-20-concepts/",
+    "date": "2026-07-28T20:56:47Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "U.S. Air Force Airmen from the 355th Wing strengthened their ability to operate in a contested environment during Coyote Storm 26.1, a training exercise focused on improving teamwork, flexibility and readiness through the Air Expeditionary Wing 2.0 concept at Tyndall Air Force Base, Florida, July 20"
+  },
+  {
+    "id": "12fb03155cc9",
+    "title": "Inside the EOC during Coyote Storm 26.1",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4556990/inside-the-eoc-during-coyote-storm-261/",
+    "date": "2026-07-27T23:33:20Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron manage the Emergency Operations Center during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July 22, 2026. CS 26.1 strengthened unit cohesion by integrating Airmen from multiple units into cross-fu"
+  },
+  {
+    "id": "374d307bd0b0",
+    "title": "Inside the DFAC during Coyote Storm 26.1",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4556974/inside-the-dfac-during-coyote-storm-261/",
+    "date": "2026-07-27T23:19:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Force Support Squadron, prepare dinner during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July 22, 2026. CS 26.1 strengthened unit cohesion by integrating Airmen from multiple units into cross-functional teams prepared t"
+  },
+  {
+    "id": "39c862347254",
+    "title": "Search and recovery training during Coyote Storm 26.1",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4556966/search-and-recovery-training-during-coyote-storm-261/",
+    "date": "2026-07-27T23:06:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Security Forces Squadron, explain vehicle search and recovery fundamentals during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July 20, 2026. CS 26.1 strengthened unit cohesion by integrating Airmen from multiple units in"
+  },
+  {
+    "id": "1c00ee79ca69",
+    "title": "Flightline training during Coyote Storm 26.1",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4556959/flightline-training-during-coyote-storm-261/",
+    "date": "2026-07-27T22:52:03Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "<br />\n<img alt=\"U.S. Air Force Airmen assigned to the 355th Combat Air Base Squadron learn about flightline repair during Exercise Coyote Storm 26.1 at Tyndall Air Force Base, Florida, July 20, 2026. CS 26.1 gave Airmen hands-on experience in expeditionary operations, from base construction to emer"
+  },
+  {
+    "id": "5d6b7670d351",
+    "title": "Col. Porter Immersion Tour",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4548359/col-porter-immersion-tour/",
+    "date": "2026-07-16T23:15:09Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "alert",
+    "summary": "<br />\n<img alt=\"U.S. Air Force Col. Kyle Porter, 355th Wing deputy commander, and aircrew assigned to the 492nd Special Operations Wing approach an OA-1K Skyraider II aircraft at Davis-Monthan Air Force Base, Arizona, July 14, 2026. The knowledge and experience\ngained during the familiarization fli"
+  },
+  {
+    "id": "c4883cbc4b69",
+    "title": "A New Blueprint for Return: ACC Rolls Out Phased 'Home Station' Reintegration Strategy",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4539397/a-new-blueprint-for-return-acc-rolls-out-phased-home-station-reintegration-stra/",
+    "date": "2026-07-09T15:10:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "Recognizing that the return from a deployment is just the beginning of a new mission, Air Combat Command is introducing a comprehensive framework to strengthen home station reintegration.<br />\n<img alt=\"The ACC Shield.\" src=\"https://media.defense.gov/2025/Apr/11/2003959494/150/150/0/250411-F-DP387-"
+  },
+  {
+    "id": "7dfd235ca354",
+    "title": "Operation Slice & Ice",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4532741/operation-slice-ice/",
+    "date": "2026-07-02T18:20:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "<br />\n<img alt=\"A DM50 member, hands shaved ice to an Airman at Davis-Monthan Air Force Base, Arizona, July 2, 2026. DM50, the Military Affairs Committee and base first sergeants aimed to boost morale and show appreciation for Airmen enduring high temperatures on the flight line and in other outdoo"
+  },
+  {
+    "id": "4f243f21e29b",
+    "title": "AFW2 helps Davis-Monthan chief redefine recovery through Warrior Games",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4529341/afw2-helps-davis-monthan-chief-redefine-recovery-through-warrior-games/",
+    "date": "2026-06-29T18:59:13Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "general",
+    "summary": "Chief Master Sgt. Danielle Spurlock competed in the Department of Defense Warrior Games after being diagnosed with a rare cancer. <br />\n<img alt=\"Chief Master Sgt. Danielle Spurlock rides a recumbent bike.\" src=\"https://media.defense.gov/2026/Jun/29/2003955520/150/150/0/260629-F-UE447-1007.JPG\" />"
+  },
+  {
+    "id": "2d38d2d3d4bd",
+    "title": "Davis-Monthan Hosts Final A-10 Range Day",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4528097/davis-monthan-hosts-final-a-10-range-day/",
+    "date": "2026-06-26T19:06:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "naval",
+    "summary": "The desert air carried something heavier than heat on the morning of June 25, 2026. As the A-10C Thunderbolt II made one of its final passes over the Barry M. Goldwater Range near Gila Bend, Arizona, Airmen assigned to the 355th Wing, community members, and civic leaders gathered to witness the fami"
+  },
+  {
+    "id": "01cabc1d7eac",
+    "title": "Monsoon Safety",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4521630/monsoon-safety/",
+    "date": "2026-06-18T18:35:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "Airmen at Davis-Monthan Air Force Base are encouraged to remain weather-aware and prepared as Arizona’s monsoon season brings rapidly changing and potentially hazardous conditions.<br />\n<img alt=\"U.S. Air Force graphic depicting Monsoon Safety kit essentials. Davis-Monthan Air Force base is remindi"
+  },
+  {
+    "id": "c36bd9afa0b8",
+    "title": "Davis-Monthan hosts PJ Immersion Day for Special Warfare candidates",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4521373/davis-monthan-hosts-pj-immersion-day-for-special-warfare-candidates/",
+    "date": "2026-06-18T16:10:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "Air Force Special Warfare recruiters partnered with the 306th Rescue Squadron to host a Pararescue Immersion Day  providing prospective candidates an opportunity to experience the demands and mission of the career field firsthand at Davis-Monthan Air Force Base, Arizona, June 15th, 2026.<br />\n<img"
+  },
+  {
+    "id": "0c0b4c0f10b5",
+    "title": "DM Airmen partner to safely relocate an Africanized bee colony",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4520713/dm-airmen-partner-to-safely-relocate-an-africanized-bee-colony/",
+    "date": "2026-06-17T17:00:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "general",
+    "summary": "Airmen from the 355th Wing Safety Office, 355th Civil Engineer Squadron Pest Management and a volunteer beekeeper partnered to safely remove and relocate an Africanized bee colony discovered beneath a toddler playground June 15, 2026.<br />\n<img alt=\"DM Airmen partner to safely relocate an Africaniz"
+  },
+  {
+    "id": "af7f8c911a31",
+    "title": "Nutrition and Hydration Critical to Airman Readiness in the Summer Heat",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4519032/nutrition-and-hydration-critical-to-airman-readiness-in-the-summer-heat/",
+    "date": "2026-06-16T22:00:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "As temperatures across the installation regularly exceed 100 degrees Fahrenheit during the summer months, health officials at Davis-Monthan are reinforcing a foundational aspect of Airman readiness: proper nutrition and hydration.<br />\n<img alt=\"U.S. Air Force 1st Lt. Kevin Liu, financial operation"
+  },
+  {
+    "id": "89be6dced38d",
+    "title": "Rescue mission highlights readiness of 34 WPS, 355 AMXS",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4523513/rescue-mission-highlights-readiness-of-34-wps-355-amxs/",
+    "date": "2026-06-16T19:03:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "air",
+    "summary": "In a remarkable display of rapid response and seamless coordination, Airmen from the 355th Aircraft Maintenance Squadron and the 34th Weapons Squadron teamed up to rescue an F-35 Lightning II pilot who ejected during a training mission near Creech Air Force Base, Nevada, March 31.<br />\n<img alt=\"A"
+  },
+  {
+    "id": "102eca3509b2",
+    "title": "Freedom Fest 2026",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4517943/freedom-fest-2026/",
+    "date": "2026-06-15T23:36:03Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "naval",
+    "summary": "Fireworks burst over Freedom Fest at Davis-Monthan Air Force Base, Arizona, June 12, 2026. Freedom<br />\n<img alt=\"Fireworks burst over Freedom Fest at Davis-Monthan Air Force Base, Arizona, June 12, 2026. Freedom Fest brought together members of Team Davis-Monthan for an evening dedicated to commun"
+  },
+  {
+    "id": "c07ba523bd0c",
+    "title": "Davis-Monthan fire personnel and lifeguards train for water emergencies",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4514090/davis-monthan-fire-personnel-and-lifeguards-train-for-water-emergencies/",
+    "date": "2026-06-10T22:30:27Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "Davis-Monthan Fire Department personnel and base lifeguards trained together at the base pool to strengthen water emergency response, improve coordination and encourage families to practice water safety before the summer swimming season.<br />\n<img alt=\"Emergency personnel at Davis-Monthan train in"
+  },
+  {
+    "id": "1a13a68a5a9d",
+    "title": "Pedro 66 memorial honors fallen rescue Airmen, preserves legacy of sacrifice",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4512158/pedro-66-memorial-honors-fallen-rescue-airmen-preserves-legacy-of-sacrifice/",
+    "date": "2026-06-09T15:58:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "More than 300 Airmen, veterans and members of the rescue community gathered at Davis-Monthan Air Force Base, June 5, 2026 to honor the legacy of Pedro 66, a crew of rescue Airmen whose sacrifice continues to shape generations of combat rescue professionals.<br />\n<img alt=\"Pedro 66 memorial honors f"
+  },
+  {
+    "id": "de95c4c3a577",
+    "title": "Explosive Ordnance Disposal conducts field training exercise",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4509257/explosive-ordnance-disposal-conducts-field-training-exercise/",
+    "date": "2026-06-04T21:33:13Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "Physically demanding scenarios helped EOD Airmen build the endurance, teamwork, and decision-making skills necessary to execute missions and recover personnel under challenging conditions.<br />\n<img alt=\"Explosive Ordnance Disposal field training exercise\" src=\"https://media.defense.gov/2026/Jun/04"
+  },
+  {
+    "id": "d63fb48ffaab",
+    "title": "A-10 engine build marks closing chapter at Davis-Monthan",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4502344/a-10-engine-build-marks-closing-chapter-at-davis-monthan/",
+    "date": "2026-05-27T23:10:49Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "air",
+    "summary": "Airmen at Davis-Monthan Air Force Base recently completed their final A-10 Thunderbolt II engine build, marking the end of a proud 50-year legacy of maintaining the iconic close-air-support aircraft as the base transitions to future missions.<br />\n<img alt=\"Airmen perform maintenance on a A-10 engi"
+  },
+  {
+    "id": "a2b92e197aae",
+    "title": "Police Week Final Guard Mount",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4502132/police-week-final-guard-mount/",
+    "date": "2026-05-27T19:55:58Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "U.S. Air Force Tech. Sgt. Marc Rouisse Quijano, 355th Security Forces Squadron flight sergeant,<br />\n<img alt=\"U.S. Air Force Tech. Sgt. Marc Rouisse Quijano, 355th Security Forces Squadron flight sergeant, reads the names of fallen defenders during the Final Guard Mount ceremony at Davis-Monthan A"
+  },
+  {
+    "id": "a48977378ce9",
+    "title": "Police Week Ruck",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4496946/police-week-ruck/",
+    "date": "2026-05-20T15:20:13Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "Every year, Airmen across Davis-Monthan Air Force Base observe Police Week, a weeklong observance that pays tribute to the sacrifice, strength and unwavering commitment of Security Forces members and law enforcement personnel. To kick off this year's event, Airmen from the 355th Security Forces Squa"
+  },
+  {
+    "id": "66c51f40bd16",
+    "title": "D-M team competes in first-ever FM innovation contest finals",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4496495/d-m-team-competes-in-first-ever-fm-innovation-contest-finals/",
+    "date": "2026-05-20T02:05:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "Two airmen from Davis-Monthan Air Force Base are finalists in the inaugural Financial Management Innovation Rodeo for their \"Lightning FM\" platform, a digital tool designed to streamline and standardize the Air Force's purchase request process.<br />\n<img alt=\"Chief Master Sgt. Leah Anderson, Financ"
+  },
+  {
+    "id": "4919934535c7",
+    "title": "CBRNE Training Bolsters Readiness at Davis-Monthan during Mosaic Lightning 26-2",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4496448/cbrne-training-bolsters-readiness-at-davis-monthan-during-mosaic-lightning-26-2/",
+    "date": "2026-05-19T22:06:15Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "U.S. Airmen across Davis-Monthan Air Force Base installation enhanced mission readiness through Chemical, Biological, Radiological, Nuclear, Explosives (CBRNE) response training during some of the most complex contingency scenarios featured in exercise Mosaic Lightning 26-2, May 7-15, 2026.<br />\n<i"
+  },
+  {
+    "id": "96f775b4269d",
+    "title": "Col. Redmond Fini Flight",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4487544/col-redmond-fini-flight/",
+    "date": "2026-05-14T21:01:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "U.S. Air Force Col. Charles Redmond, 355th Wing deputy commander, sits in a bath of green water at<br />\n<img alt=\"U.S. Air Force Col. Charles Redmond, 355th Wing deputy commander, sits in a bath of green water at Davis-Monthan Air Force Base, Arizona, May 12, 2026. Redmond was dunked in a bath of g"
+  },
+  {
+    "id": "c6ebe423a253",
+    "title": "Mosaic Lightning 26-2",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4485615/mosaic-lightning-26-2/",
+    "date": "2026-05-14T04:46:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "Airmen with the 355th Wing tested their ability to deploy as a cohesive, self-sustaining combat force under the Air Expeditionary Wing 2.0 model during the Mosaic Lightning 26-2 exercise at Davis-Monthan Air Force Base, Arizona, May 7-15.\n\n<br />\n<img alt=\"Mosaic Lightning 26-2 Concrete Pour\" src=\"h"
+  },
+  {
+    "id": "aa5fd8033a14",
+    "title": "355 SFS and 355 CES EOD flight respond to abandoned vehicle during ML 26-2",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4486215/355-sfs-and-355-ces-eod-flight-respond-to-abandoned-vehicle-during-ml-26-2/",
+    "date": "2026-05-13T23:19:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "Airmen assigned to the 355th Security Forces Squadron and 355 Civil Engineer Squadron explosive ordnance disposal flight respond to a reported abandoned vehicle during Mosaic Lightning 26-2 at Davis-Monthan Air Force Base, Arizona, May 8, 2026. <br />\n<img alt=\"A T7 robotic platform is utilized to r"
+  },
+  {
+    "id": "89dbd4ff1815",
+    "title": "355th Maintenance Group Change of Command Ceremony",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4485524/355th-maintenance-group-change-of-command-ceremony/",
+    "date": "2026-05-13T16:43:29Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "naval",
+    "summary": "355th Wing leadership attend the 355th Maintenance Group change of command ceremony at Davis-Monthan Air Force Base, Arizona, May 8, 2026. Change of command ceremonies symbolize the formal transfer of authority, responsibility and accountability from one commander to another. <br />\n<img alt=\"355th"
+  },
+  {
+    "id": "9fe79dbe1541",
+    "title": "Dragons in the Dirt: 357th Fighter Squadron Unleashes Expeditionary A-10 Lethality",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4483841/dragons-in-the-dirt-357th-fighter-squadron-unleashes-expeditionary-a-10-lethali/",
+    "date": "2026-05-11T21:02:56Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "air",
+    "summary": "From the high-desert heat of Twentynine Palms to the maritime environment of San Clemente Island, the “Dragons” of the 357th Fighter Squadron recently pushed the A-10C Thunderbolt II aircraft to its limits during a high-intensity, two-week temporary duty (TDY) assignment.<br />\n<img alt=\"357th Fight"
+  },
+  {
+    "id": "c00f4a3d8256",
+    "title": "CBRN sUAS exercise kicks off Mosaic Lightning 26-2",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4483994/cbrn-suas-exercise-kicks-off-mosaic-lightning-26-2/",
+    "date": "2026-05-11T17:00:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "air",
+    "summary": "355th Wing Drone Innovation Cell Airmen conducted a small unmanned aircraft system exercise that simulated a chemical, biological, radiological and nuclear (CBRN) attack on a military installation during Mosaic Lightning 26-2 at Davis-Monthan Air Force Base, May 8, 2026.<br />\n<img alt=\"CBRN sUAS ex"
+  },
+  {
+    "id": "666220536fba",
+    "title": "Back from the Boneyard: Tinker Brings B-1 Back to the Fight",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4479387/back-from-the-boneyard-tinker-brings-b-1-back-to-the-fight/",
+    "date": "2026-05-06T14:25:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "A U.S. Air Force B-1B Lancer once parked in the Arizona desert is back in the air after an intensive regeneration and depot maintenance effort led by the Oklahoma City Air Logistics Complex at Tinker Air Force Base.<br />\n<img alt=\"stripped b1 test flight\" src=\"https://media.defense.gov/2026/May/06/"
+  },
+  {
+    "id": "26e64ddb6745",
+    "title": "Davis-Monthan Air Force Base Airmen participate in base’s first Norwegian Foot March",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4477852/davis-monthan-air-force-base-airmen-participate-in-bases-first-norwegian-foot-m/",
+    "date": "2026-05-05T17:03:01Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "More than 100 U.S. Airmen and Soldiers participated in the 355th Wing’s first Norwegian Foot March at Davis-Monthan Air Force Base, Arizona, May 2, 2026.\n<br />\n<img alt=\"U.S. Air Force Airman 1st Class Riley Friede, left, and U.S. Air Force Staff Sgt. Nicholas McGinnis, right, both assigned to the"
+  },
+  {
+    "id": "a79c29ed7dab",
+    "title": "AFAS leadership visits Davis-Monthan community leaders",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4475105/afas-leadership-visits-davis-monthan-community-leaders/",
+    "date": "2026-04-30T23:31:28Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "naval",
+    "summary": "Packy Lyden, Air and Space Forces Aid Society chief development officer, left, and U.S. Air Force <br />\n<img alt=\"Packy Lyden, Air and Space Forces Aid Society chief development officer, left, and U.S. Air Force  Maj. Gen. Ed Thomas,  AFAS chief executive officer, center, speak with an Airman about"
+  },
+  {
+    "id": "108bb6bc9054",
+    "title": "DMAFB and AFAS leadership collaborate to help Airmen",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4475105/dmafb-and-afas-leadership-collaborate-to-help-airmen/",
+    "date": "2026-04-30T23:31:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "naval",
+    "summary": "Retired U.S. Air Force Maj. Gen. Ed Thomas, Air and Space Forces Aid Society chief executive officer, and Packy Lyden, AFAS chief development officer, met with Davis-Monthan Air Force Base installation leaders to discuss the organization’s impact April 29, 2026.<br />\n<img alt=\"Packy Lyden, Air and"
+  },
+  {
+    "id": "f2f1250488c0",
+    "title": "25th OWS Annual Nylander Day memorial ceremony 2026",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4474467/25th-ows-annual-nylander-day-memorial-ceremony-2026/",
+    "date": "2026-04-30T17:23:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "alert",
+    "summary": "U.S. Airmen assigned to the 25th Operational Weather Squadron gathered Friday, April 24, 2026 to honor U.S. Air Force Capt. Nathan J. Nylander, a weather officer who made the ultimate sacrifice April 27, 2011, during an enemy attack in Kabul, Afghanistan.<br />\n<img alt=\"U.S. Air Force Davis-Monthan"
+  },
+  {
+    "id": "15cff47390f6",
+    "title": "Three Davis-Monthan units recognized for unprecedented rescue efforts during final withdrawal of U.S. troops from Afghanistan",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4474256/three-davis-monthan-units-recognized-for-unprecedented-rescue-efforts-during-fi/",
+    "date": "2026-04-30T17:03:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "After distinguishing themselves during a deployment to Afghanistan that included the final withdrawal of U.S. troops from the country in 2021, two units, the 55th and 48th Rescue Squadrons, received the Presidential Unit Citation award at a ceremony at Davis-Monthan Air Force Base, Arizona, April 17"
+  },
+  {
+    "id": "0a0e7f4c772b",
+    "title": "New Human Performance Optimization facility to enhance readiness at DMAFB",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4472740/new-human-performance-optimization-facility-to-enhance-readiness-at-dmafb/",
+    "date": "2026-04-28T22:13:52Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "naval",
+    "summary": "Airmen and leadership gathered for a groundbreaking ceremony marking the start of construction on a new Human Performance Optimization facility. This facility is designed to support Air Force Special Warfare Airmen assigned to the 306th Rescue Squadron, an Air Force Reserve Command tenant unit assig"
+  },
+  {
+    "id": "f2119058c4f4",
+    "title": "Space Forces - Southern completes first Human Performance Assessment at DM",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4471288/space-forces-southern-completes-first-human-performance-assessment-at-dm/",
+    "date": "2026-04-27T17:00:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "exercise",
+    "summary": "Guardians assigned to Space Forces - Southern completed their first-ever Human Performance Assessment on April 23, 2026, marking a historic milestone as the unit conducted an evaluation for the first time since its activation and a historical first for first at Davis-Monthan Air Force Base.<br />\n<i"
+  },
+  {
+    "id": "8ebebdaa98cb",
+    "title": "Air Force Special Warfare employs Kinetic Interceptor in counter-UAS proof of concept",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4468576/air-force-special-warfare-employs-kinetic-interceptor-in-counter-uas-proof-of-c/",
+    "date": "2026-04-24T03:32:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "alert",
+    "summary": "Air Force Special Warfare Airmen from the 48th Rescue Squadron, 7th Air Support Operations Squadron, and 316th Civil Engineer Squadron Explosive Ordnance Disposal conducted a proof-of-concept event on April 7, 2026. The event integrated a commercial off-the-shelf kinetic interceptor with an expediti"
+  },
+  {
+    "id": "1ad370c5192e",
+    "title": "68th Rescue Squadron completes annual Combat Leader Course",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4466162/68th-rescue-squadron-completes-annual-combat-leader-course/",
+    "date": "2026-04-21T21:18:00Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "alert",
+    "summary": "U.S. Air Force Pararescuemen assigned to the 68th Rescue Squadron completed the Combat Leader Course at Davis-Monthan Air Force Base, Arizona, April 17, 2026, enhancing their operational readiness and leadership skills through a series of simulated mission objectives to test both their tactical prof"
+  },
+  {
+    "id": "8bb15ce9ce2d",
+    "title": "Combat Leader Course Triage",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4465721/combat-leader-course-triage/",
+    "date": "2026-04-21T17:09:30Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "alert",
+    "summary": "Two U.S. Air Force Pararescuemen assigned to the 68th Rescue Squadron carry a simulated casualty<br />\n<img alt=\"Two U.S. Air Force Pararescuemen assigned to the 68th Rescue Squadron carry a simulated casualty from an extraction point during the Combat Leader Course at Davis-Monthan Air Force Base,"
+  },
+  {
+    "id": "5534257125c7",
+    "title": "11th ATF Inactivation Ceremony",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4464990/11th-atf-inactivation-ceremony/",
+    "date": "2026-04-20T21:41:26Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "posture",
+    "summary": "The 11th Air Task Force was officially inactivated during a ceremony at Davis-Monthan Air Force Base, Arizona, April 17, 2026, marking the end of the unit’s mission after nearly two years of operations and a historic first deployment.<br />\n<img alt=\"11th ATF Inactivation Ceremony\" src=\"https://medi"
+  },
+  {
+    "id": "e4fe08d1ac03",
+    "title": "DM Command Team Takes the PT Test",
+    "url": "https://moguard.joint.afpims.mil/Contact-Us/Article/4462016/dm-command-team-takes-the-pt-test/",
+    "date": "2026-04-16T17:11:25Z",
+    "source": "CENTCOM",
+    "cocom": "centcom",
+    "tag": "naval",
+    "summary": "Airmen assigned to the 355th Wing participated in a diagnostic physical training test alongside wing leadership to evaluate recently updated fitness standards at Davis-Monthan Air Force Base, April 15, 2026.<br />\n<img alt=\"DM Command Team Takes the PT Test\" src=\"https://media.defense.gov/2026/Apr/1"
+  },
+  {
+    "id": "1b6d0d5bb081",
+    "title": "United States European Command",
+    "url": "https://www.eucom.mil/",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "c6005bbf5026",
+    "title": "About the Command",
+    "url": "https://www.eucom.mil/about-the-command",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "7327cf6c74e5",
+    "title": "Senior Leadership",
+    "url": "https://www.eucom.mil/about-the-command/senior-leadership",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "naval",
+    "summary": ""
+  },
+  {
+    "id": "26dec28c8740",
+    "title": "Deputy Commander",
+    "url": "https://www.eucom.mil/about-the-command/senior-leadership/deputy-commander",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "b16f77e21abb",
+    "title": "Senior Enlisted Leader",
+    "url": "https://www.eucom.mil/about-the-command/senior-leadership/senior-enlisted-leader",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "8613c4315d81",
+    "title": "Civilian Deputy and Foreign Policy Advisor",
+    "url": "https://www.eucom.mil/about-the-command/senior-leadership/civilian-deputy-and-foreign-policy-advisor",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "3410b847e2c4",
+    "title": "U.S. Army Europe and Africa",
+    "url": "https://www.europeafrica.army.mil/",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "ground",
+    "summary": ""
+  },
+  {
+    "id": "99b4dfab37e4",
+    "title": "U.S. Naval Forces Europe and Africa",
+    "url": "https://www.c6f.navy.mil/",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "41523f2b00ee",
+    "title": "U.S. Air Forces Europe and Air Forces Africa",
+    "url": "https://www.usafe.af.mil/",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "4d8ccfcc6a31",
+    "title": "U.S. Marine Corps Forces Europe and Africa",
+    "url": "https://www.marforeur.marines.mil/",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "ground",
+    "summary": ""
+  },
+  {
+    "id": "2dc3013289a5",
+    "title": "U.S. Special Operations Command Europe",
+    "url": "https://www.socom.mil/soceur/",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "e7195cae09e4",
+    "title": "U.S. Space Forces Europe and Africa",
+    "url": "https://www.usafe.af.mil/",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "0f0e07e9139b",
+    "title": "History of USEUCOM",
+    "url": "https://www.eucom.mil/about-the-command/history-of-useucom",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "86c66bd0567e",
+    "title": "A Job Well Done",
+    "url": "https://www.eucom.mil/about-the-command/history-of-useucom/a-job-well-done",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "2cf3277249d2",
+    "title": "History of Supreme Allied Commander Europe (SACEUR)",
+    "url": "https://www.eucom.mil/about-the-command/history-of-useucom/history-of-supreme-allied-commander-europe-saceur",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "4064919f67f7",
+    "title": "Operations & Exercises",
+    "url": "https://www.eucom.mil/operations-exercises",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "exercise",
+    "summary": ""
+  },
+  {
+    "id": "53daf6d9f976",
+    "title": "Department of War Spotlight: NATO",
+    "url": "https://www.defense.gov/Spotlights/Nato/",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "4c1689f0c823",
+    "title": "Spotlight: Large Scale Global Exercise 24",
+    "url": "https://www.eucom.mil/spotlight/large-scale-global-exercise-24",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "exercise",
+    "summary": ""
+  },
+  {
+    "id": "0e7f209b81ea",
+    "title": "Spotlight: US support to Ukraine",
+    "url": "https://www.defense.gov/Spotlights/Support-for-Ukraine/",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "adb9305becfb",
+    "title": "Staff Resources",
+    "url": "https://www.eucom.mil/staff-resources",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "341ae520266c",
+    "title": "Quarterly updates for personnel and dependents",
+    "url": "https://www.eucom.mil/staff-resources/quarterly-updates-for-personnel-and-dependents",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "02a87e271af5",
+    "title": "EUCOM Theatre Medical Clearance Information",
+    "url": "https://www.eucom.mil/staff-resources/eucom-theatre-medical-clearance-information",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "f2672b2b9496",
+    "title": "PCS-ing to the U.S. with Pets",
+    "url": "https://www.eucom.mil/staff-resources/pcs-ing-to-the-us-with-pets",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "5aed84980d29",
+    "title": "Volunteer Internship Program",
+    "url": "https://www.eucom.mil/staff-resources/volunteer-internship-program",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "naval",
+    "summary": ""
+  },
+  {
+    "id": "92ca552259f6",
+    "title": "Policies and Compliance",
+    "url": "https://www.eucom.mil/policies-and-compliance",
+    "date": "2026-04-09T07:09:53Z",
+    "source": "EUCOM",
+    "cocom": "eucom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "d12dbe5dfd13",
+    "title": "Innovate With Us",
+    "url": "https://www.africom.mil/about-the-command/directorates-and-staff/j8---resources-and-assessments/innovate-with-us",
+    "date": "2026-04-09T01:11:50Z",
+    "source": "AFRICOM",
+    "cocom": "africom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "9b9405abbd37",
+    "title": "Niger Investigation",
+    "url": "https://www.defense.gov/news/special-reports/niger",
+    "date": "2026-04-09T01:11:50Z",
+    "source": "AFRICOM",
+    "cocom": "africom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "af5c10159c23",
+    "title": "About the Command",
+    "url": "https://www.africom.mil/about-the-command",
+    "date": "2026-04-09T01:11:50Z",
+    "source": "AFRICOM",
+    "cocom": "africom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "6d07d41c6eb5",
+    "title": "Command Senior Enlisted Leader",
+    "url": "https://www.africom.mil/about-the-command/leadership/command-senior-enlisted-leader",
+    "date": "2026-04-09T01:11:50Z",
+    "source": "AFRICOM",
+    "cocom": "africom",
+    "tag": "general",
+    "summary": ""
+  },
+  {
+    "id": "225d444d0713",
+    "title": "Deputy Commander",
+    "url": "https://www.africom.mil/about-the-command/leadership/deputy-commander",
+    "date": "2026-04-09T01:11:50Z",
+    "source": "AFRICOM",
+    "cocom": "africom",
+    "tag": "general",
+    "summary": ""
+  }
 ]
